@@ -1,0 +1,11 @@
+{
+    "name": "boomburst",
+    "type": "normal",
+    "category": "special",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "inflicts regular damage.",
+    "description": "the user attacks everything around it with the destructive power of a terrible, explosive sound."
+}

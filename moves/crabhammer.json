@@ -1,0 +1,11 @@
+{
+    "name": "crabhammer",
+    "type": "water",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the target is hammered with a large pincer. critical hits land more easily."
+}

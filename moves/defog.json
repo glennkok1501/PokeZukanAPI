@@ -1,0 +1,11 @@
+{
+    "name": "defog",
+    "type": "flying",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "lowers the target's evasion by one stage.  removes field effects from the enemy field.",
+    "description": "a strong wind blows away the target\u2019s barriers such as reflect or light screen. this also lowers the target\u2019s evasiveness."
+}

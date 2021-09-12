@@ -1,0 +1,11 @@
+{
+    "name": "glare",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "tough",
+    "effect": "paralyzes the target.",
+    "description": "the user intimidates the target with the pattern on its belly to cause paralysis."
+}

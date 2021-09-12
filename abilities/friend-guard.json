@@ -1,0 +1,5 @@
+{
+    "name": "friend guard",
+    "effect": "all friendly pok\u00e9mon take 0.75\u00d7 as much direct damage from moves while this pok\u00e9mon is in battle.  this effect stacks if multiple allied pok\u00e9mon have it.",
+    "description": "reduces damage done to allies."
+}

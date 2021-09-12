@@ -1,0 +1,11 @@
+{
+    "name": "lovely kiss",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 75,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "puts the target to sleep.",
+    "description": "with a scary face, the user tries to force a kiss on the target. if it succeeds, the target falls asleep."
+}

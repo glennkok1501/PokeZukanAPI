@@ -1,0 +1,11 @@
+{
+    "name": "sucker punch",
+    "type": "dark",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "only works if the target is about to use a damaging move.",
+    "description": "this move enables the user to attack first. this move fails if the target is not readying an attack."
+}

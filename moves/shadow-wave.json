@@ -1,0 +1,11 @@
+{
+    "name": "shadow wave",
+    "type": "shadow",
+    "category": "special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": null,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": null
+}

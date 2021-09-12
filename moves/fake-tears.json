@@ -1,0 +1,11 @@
+{
+    "name": "fake tears",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "lowers the target's special defense by two stages.",
+    "description": "the user feigns crying to fluster the target, harshly lowering its sp. def stat."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "earth power",
+    "type": "ground",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "has a 10% chance to lower the target's special defense by one stage.",
+    "description": "the user makes the ground under the target erupt with power. this may also lower the target\u2019s  sp. def stat."
+}

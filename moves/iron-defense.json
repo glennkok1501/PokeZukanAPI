@@ -1,0 +1,11 @@
+{
+    "name": "iron defense",
+    "type": "steel",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "raises the user's defense by two stages.",
+    "description": "the user hardens its body\u2019s surface like iron, sharply raising its defense stat."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "dragon claw",
+    "type": "dragon",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user slashes the target with huge sharp claws."
+}

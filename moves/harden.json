@@ -1,0 +1,11 @@
+{
+    "name": "harden",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "tough",
+    "effect": "raises the user's defense by one stage.",
+    "description": "the user stiffens all the muscles in its body to raise its defense stat."
+}

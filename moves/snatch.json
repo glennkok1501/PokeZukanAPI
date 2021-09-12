@@ -1,0 +1,11 @@
+{
+    "name": "snatch",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "steals the target's move, if it's self-targeted.",
+    "description": "the user steals the effects of any attempts to use a healing or stat-changing move."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "gear grind",
+    "type": "steel",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": null,
+    "effect": "hits twice in one turn.",
+    "description": "the user attacks by throwing steel gears at its target twice."
+}

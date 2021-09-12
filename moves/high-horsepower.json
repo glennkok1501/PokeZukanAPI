@@ -1,0 +1,11 @@
+{
+    "name": "high horsepower",
+    "type": "ground",
+    "category": "physical",
+    "power": 95,
+    "accuracy": 95,
+    "pp": 10,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user fiercely attacks the target using its entire body."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "kings shield",
+    "type": "steel",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "blocks damaging attacks and lowers attacking pok\u00e9mon's attack by two stages on contact.  switches aegislash to shield forme.",
+    "description": "the user takes a defensive stance while it protects itself from damage. it also harshly lowers the attack stat of any attacker who makes direct contact."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "tailwind",
+    "type": "flying",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "for three turns, friendly pok\u00e9mon have doubled speed.",
+    "description": "the user whips up a turbulent whirlwind that ups the speed stat of the user and its allies for four turns."
+}

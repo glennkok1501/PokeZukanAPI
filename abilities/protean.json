@@ -1,0 +1,5 @@
+{
+    "name": "protean",
+    "effect": "changes the bearer's type to match each move it uses.  the type change takes place just before the move is used.",
+    "description": "changes the pok\u00e9mon\u2019s type to the type of the move it\u2019s about to use."
+}

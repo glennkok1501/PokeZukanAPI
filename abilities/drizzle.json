@@ -1,0 +1,5 @@
+{
+    "name": "drizzle",
+    "effect": "the weather changes to rain when this pok\u00e9mon enters battle and does not end unless replaced by another weather condition.  if multiple pok\u00e9mon with this ability, drought, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of speed, respecting trick room.  each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the pok\u00e9mon will stay.",
+    "description": "the pok\u00e9mon makes it rain when it enters a battle."
+}

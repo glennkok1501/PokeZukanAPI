@@ -1,0 +1,11 @@
+{
+    "name": "spirit shackle",
+    "type": "ghost",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "traps the target.",
+    "description": "the user attacks while simultaneously stitching the target\u2019s shadow to the ground to prevent the target from escaping."
+}

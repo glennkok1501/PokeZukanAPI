@@ -1,0 +1,11 @@
+{
+    "name": "mach punch",
+    "type": "fighting",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user throws a punch at blinding speed. this move always goes first."
+}

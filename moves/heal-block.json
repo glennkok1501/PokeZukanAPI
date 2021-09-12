@@ -1,0 +1,11 @@
+{
+    "name": "heal block",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "prevents target from restoring its hp for five turns.",
+    "description": "for five turns, the user prevents the opposing team from using any moves, abilities, or held items that recover hp."
+}

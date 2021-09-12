@@ -1,0 +1,11 @@
+{
+    "name": "floral healing",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "heals the target for \u00bd its max hp, or \u2154 on grassy terrain.",
+    "description": "the user restores the target\u2019s hp by up to half of its max hp. it restores more hp when the terrain is grass."
+}

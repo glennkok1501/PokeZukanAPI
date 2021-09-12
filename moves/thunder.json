@@ -1,0 +1,11 @@
+{
+    "name": "thunder",
+    "type": "electric",
+    "category": "special",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "has a 30% chance to paralyze the target.",
+    "description": "a wicked thunderbolt is dropped on the target to inflict damage. this may also leave the target with paralysis."
+}

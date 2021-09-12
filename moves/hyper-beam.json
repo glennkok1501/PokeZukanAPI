@@ -1,0 +1,11 @@
+{
+    "name": "hyper beam",
+    "type": "normal",
+    "category": "special",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "user foregoes its next turn to recharge.",
+    "description": "the target is attacked with a powerful beam. the user can\u2019t move on the next turn."
+}

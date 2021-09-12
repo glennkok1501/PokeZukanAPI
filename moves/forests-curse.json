@@ -1,0 +1,11 @@
+{
+    "name": "forests curse",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "adds grass to the target's types.",
+    "description": "the user puts a forest curse on the target. the target is now grass type as well."
+}

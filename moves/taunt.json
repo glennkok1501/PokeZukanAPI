@@ -1,0 +1,11 @@
+{
+    "name": "taunt",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "for the next few turns, the target can only use damaging moves.",
+    "description": "the target is taunted into a rage that allows it to use only attack moves for three turns."
+}

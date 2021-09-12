@@ -1,0 +1,11 @@
+{
+    "name": "shell trap",
+    "type": "fire",
+    "category": "special",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "only inflicts damage if the user was hit by a physical move this turn.",
+    "description": "the user sets a shell trap. if the user is hit by a physical move, the trap will explode and inflict damage on the opposing pok\u00e9mon."
+}

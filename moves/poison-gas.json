@@ -1,0 +1,11 @@
+{
+    "name": "poison gas",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": 90,
+    "pp": 40,
+    "contest": "smart",
+    "effect": "poisons the target.",
+    "description": "a cloud of poison gas is sprayed in the face of opposing pok\u00e9mon, poisoning those hit."
+}

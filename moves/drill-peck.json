@@ -1,0 +1,11 @@
+{
+    "name": "drill peck",
+    "type": "flying",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "a corkscrewing attack with a sharp beak acting as a drill."
+}

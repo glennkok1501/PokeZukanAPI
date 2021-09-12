@@ -1,0 +1,11 @@
+{
+    "name": "psycho cut",
+    "type": "psychic",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the user tears at the target with blades formed by psychic power. critical hits land more easily."
+}

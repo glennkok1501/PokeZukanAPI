@@ -1,0 +1,11 @@
+{
+    "name": "trick or treat",
+    "type": "ghost",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "adds ghost to the target's types.",
+    "description": "the user takes the target trick-or-treating. this adds ghost type to the target\u2019s type."
+}

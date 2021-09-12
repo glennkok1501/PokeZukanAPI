@@ -1,0 +1,11 @@
+{
+    "name": "work up",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": null,
+    "effect": "raises the user's attack and special attack by one stage each.",
+    "description": "the user is roused, and its attack and sp. atk stats increase."
+}

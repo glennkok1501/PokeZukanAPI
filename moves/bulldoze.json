@@ -1,0 +1,11 @@
+{
+    "name": "bulldoze",
+    "type": "ground",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "has a 100% chance to lower the target's speed by one stage.",
+    "description": "the user strikes everything around it by stomping down on the ground. this lowers the speed stat of those hit."
+}

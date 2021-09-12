@@ -1,0 +1,11 @@
+{
+    "name": "freezy frost",
+    "type": "ice",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "removes all of the target's stat modifiers.",
+    "description": null
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ice beam",
+    "type": "ice",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "has a 10% chance to freeze the target.",
+    "description": "the target is struck with an icy-cold beam of energy. this may also leave the target frozen."
+}

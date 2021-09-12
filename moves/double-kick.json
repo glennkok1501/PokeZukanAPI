@@ -1,0 +1,11 @@
+{
+    "name": "double kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "hits twice in one turn.",
+    "description": "the target is quickly kicked twice in succession using both feet."
+}

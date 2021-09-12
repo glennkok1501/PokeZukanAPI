@@ -1,0 +1,11 @@
+{
+    "name": "endeavor",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "lowers the target's hp to equal the user's.",
+    "description": "this attack move cuts down the target\u2019s hp to equal the user\u2019s hp."
+}

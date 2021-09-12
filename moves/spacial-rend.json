@@ -1,0 +1,11 @@
+{
+    "name": "spacial rend",
+    "type": "dragon",
+    "category": "special",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the user tears the target along with the space around it. critical hits land more easily."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "embargo",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "target cannot use held items.",
+    "description": "this move prevents the target from using its held item for five turns. its trainer is also prevented from using items on it."
+}

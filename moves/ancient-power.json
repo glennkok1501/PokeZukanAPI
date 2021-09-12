@@ -1,0 +1,11 @@
+{
+    "name": "ancient power",
+    "type": "rock",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "has a 10% chance to raise all of the user's stats by one stage.",
+    "description": "the user attacks with a prehistoric power. this may also raise all the user\u2019s stats at once."
+}

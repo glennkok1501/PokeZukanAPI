@@ -1,0 +1,11 @@
+{
+    "name": "tackle",
+    "type": "normal",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "contest": "tough",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "a physical attack in which the user charges and slams into the target with its whole body."
+}

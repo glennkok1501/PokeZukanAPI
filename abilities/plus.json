@@ -1,0 +1,5 @@
+{
+    "name": "plus",
+    "effect": "this pok\u00e9mon has 1.5\u00d7 its special attack if any friendly pok\u00e9mon has plus or minus.  this bonus does not count as a stat modifier.  if either ability is disabled by gastro acid, both lose their effect.",
+    "description": "boosts the sp. atk stat of the pok\u00e9mon if an ally with the plus or minus ability is also in battle."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "mist ball",
+    "type": "psychic",
+    "category": "special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "has a 50% chance to lower the target's special attack by one stage.",
+    "description": "a mist-like flurry of down envelops and damages the target. this may also lower the target\u2019s sp. atk stat."
+}

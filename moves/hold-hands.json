@@ -1,0 +1,11 @@
+{
+    "name": "hold hands",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": null,
+    "effect": "does nothing.",
+    "description": "the user and an ally hold hands. this makes them very happy."
+}

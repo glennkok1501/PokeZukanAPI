@@ -1,0 +1,11 @@
+{
+    "name": "payback",
+    "type": "dark",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "power is doubled if the target has already moved this turn.",
+    "description": "the user stores power, then attacks. if the user moves after the target, this attack\u2019s power will be doubled."
+}

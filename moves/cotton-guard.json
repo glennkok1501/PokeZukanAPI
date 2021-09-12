@@ -1,0 +1,11 @@
+{
+    "name": "cotton guard",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "raises the user's defense by three stages.",
+    "description": "the user protects itself by wrapping its body in soft cotton, which drastically raises the user\u2019s defense stat."
+}

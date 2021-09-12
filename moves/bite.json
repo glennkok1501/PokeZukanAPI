@@ -1,0 +1,11 @@
+{
+    "name": "bite",
+    "type": "dark",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "tough",
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "the target is bitten with viciously sharp fangs. this may also make the target flinch."
+}

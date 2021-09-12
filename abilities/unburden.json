@@ -1,0 +1,5 @@
+{
+    "name": "unburden",
+    "effect": "when this pok\u00e9mon uses or loses its held item, its speed is doubled.  if it gains another item or leaves battle, this bonus is lost.  this includes when the pok\u00e9mon drops its item because of knock off.  this bonus does not count as a stat modifier.  there is no notification when this ability takes effect.",
+    "description": "boosts the speed stat if the pok\u00e9mon\u2019s held item is  used or lost."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "sacred fire",
+    "type": "fire",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "has a 50% chance to burn the target.  lets frozen pok\u00e9mon thaw themselves.",
+    "description": "the target is razed with a mystical fire of great intensity. this may also leave the target with a burn."
+}

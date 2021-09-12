@@ -1,0 +1,5 @@
+{
+    "name": "dazzling",
+    "effect": "when an opposing pok\u00e9mon attempts to use a move that targets this pok\u00e9mon or an ally, and that move has priority, it will fail.",
+    "description": "surprises the opposing pok\u00e9mon, making it unable to attack using priority moves."
+}

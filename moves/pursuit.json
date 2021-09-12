@@ -1,0 +1,11 @@
+{
+    "name": "pursuit",
+    "type": "dark",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "has double power against, and can hit, pok\u00e9mon attempting to switch out.",
+    "description": "the power of this attack move is doubled if it\u2019s used on a target that\u2019s switching out of battle."
+}

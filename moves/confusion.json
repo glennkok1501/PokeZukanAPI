@@ -1,0 +1,11 @@
+{
+    "name": "confusion",
+    "type": "psychic",
+    "category": "special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "smart",
+    "effect": "has a 10% chance to confuse the target.",
+    "description": "the target is hit by a weak telekinetic force. this may also confuse the target."
+}

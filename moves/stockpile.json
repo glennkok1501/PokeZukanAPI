@@ -1,0 +1,11 @@
+{
+    "name": "stockpile",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "stores energy up to three times for use with spit up and swallow.",
+    "description": "the user charges up power and raises both its defense and sp. def stats. the move can be used three times."
+}

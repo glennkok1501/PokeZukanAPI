@@ -1,0 +1,11 @@
+{
+    "name": "smokescreen",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "lowers the target's accuracy by one stage.",
+    "description": "the user releases an obscuring cloud of smoke or ink. this lowers the target\u2019s accuracy."
+}

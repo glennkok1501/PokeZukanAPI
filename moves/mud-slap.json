@@ -1,0 +1,11 @@
+{
+    "name": "mud slap",
+    "type": "ground",
+    "category": "special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "has a 100% chance to lower the target's accuracy by one stage.",
+    "description": "the user hurls mud in the target\u2019s face to inflict damage and lower its accuracy."
+}

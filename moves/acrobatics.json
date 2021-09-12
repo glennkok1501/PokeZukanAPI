@@ -1,0 +1,11 @@
+{
+    "name": "acrobatics",
+    "type": "flying",
+    "category": "physical",
+    "power": 55,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "has double power if the user has no held item.",
+    "description": "the user nimbly strikes the target. if the user is not holding an item, this attack inflicts massive damage."
+}

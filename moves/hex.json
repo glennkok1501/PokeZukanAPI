@@ -1,0 +1,11 @@
+{
+    "name": "hex",
+    "type": "ghost",
+    "category": "special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "has double power if the target has a major status ailment.",
+    "description": "this relentless attack does massive damage to a target affected by status conditions."
+}

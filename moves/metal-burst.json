@@ -1,0 +1,11 @@
+{
+    "name": "metal burst",
+    "type": "steel",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "strikes back at the last pok\u00e9mon to hit the user this turn with 1.5\u00d7 the damage.",
+    "description": "the user retaliates with much greater force against the opponent that last inflicted damage on it."
+}

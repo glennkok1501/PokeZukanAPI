@@ -1,0 +1,11 @@
+{
+    "name": "wish",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "user will recover half its max hp at the end of the next turn.",
+    "description": "one turn after this move is used, the user\u2019s or its replacement\u2019s hp is restored by half the user\u2019s max hp."
+}

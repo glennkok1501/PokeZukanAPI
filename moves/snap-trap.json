@@ -1,0 +1,11 @@
+{
+    "name": "snap trap",
+    "type": "grass",
+    "category": "physical",
+    "power": 35,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

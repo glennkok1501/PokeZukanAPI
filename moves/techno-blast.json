@@ -1,0 +1,11 @@
+{
+    "name": "techno blast",
+    "type": "normal",
+    "category": "special",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "if the user is holding a appropriate plate or drive, the damage inflicted will match it.",
+    "description": "the user fires a beam of light at its target. the move\u2019s type changes depending on the drive the user holds."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "feather dance",
+    "type": "flying",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "lowers the target's attack by two stages.",
+    "description": "the user covers the target\u2019s body with a mass of down that harshly lowers its attack stat."
+}

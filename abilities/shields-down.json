@@ -1,0 +1,5 @@
+{
+    "name": "shields down",
+    "effect": "when this pok\u00e9mon enters battle and at the end of each turn, if its hp is 50% or above, it changes into meteor form; otherwise, it changes into core form.  in meteor form, it cannot be given a major status ailment (though existing ones are not cured), cannot become drowsy from yawn, and cannot use rest (which will simply fail).  this ability cannot be copied, replaced, or nullified.  this ability only takes effect for minior.",
+    "description": "when its hp becomes half or less, the pok\u00e9mon\u2019s shell breaks and it becomes aggressive."
+}

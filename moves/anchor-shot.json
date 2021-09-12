@@ -1,0 +1,11 @@
+{
+    "name": "anchor shot",
+    "type": "steel",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "traps the target.",
+    "description": "the user entangles the target with its anchor chain while attacking. the target becomes unable to flee."
+}

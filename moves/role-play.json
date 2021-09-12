@@ -1,0 +1,11 @@
+{
+    "name": "role play",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "copies the target's ability.",
+    "description": "the user mimics the target completely, copying the target\u2019s natural ability."
+}

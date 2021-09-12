@@ -1,0 +1,5 @@
+{
+    "name": "stakeout",
+    "effect": "this pok\u00e9mon's moves have double power against pok\u00e9mon that switched in this turn.",
+    "description": "doubles the damage dealt to the target\u2019s replacement if the target switches out."
+}

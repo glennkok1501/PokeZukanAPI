@@ -1,0 +1,11 @@
+{
+    "name": "poison tail",
+    "type": "poison",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "smart",
+    "effect": "has an increased chance for a critical hit and a 10% chance to poison the target.",
+    "description": "the user hits the target with its tail. this may also poison the target. critical hits land more easily."
+}

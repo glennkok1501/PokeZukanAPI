@@ -1,0 +1,11 @@
+{
+    "name": "miracle eye",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": "cute",
+    "effect": "forces the target to have no evasion, and allows it to be hit by psychic moves even if it's dark.",
+    "description": "enables a dark-type target to be hit by psychic-type attacks. this also enables an evasive target to be hit."
+}

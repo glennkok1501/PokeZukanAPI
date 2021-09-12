@@ -1,0 +1,11 @@
+{
+    "name": "burning jealousy",
+    "type": "fire",
+    "category": "special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

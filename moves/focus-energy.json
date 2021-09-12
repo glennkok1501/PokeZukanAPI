@@ -1,0 +1,11 @@
+{
+    "name": "focus energy",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "increases the user's chance to score a critical hit.",
+    "description": "the user takes a deep breath and focuses so that critical hits land more easily."
+}

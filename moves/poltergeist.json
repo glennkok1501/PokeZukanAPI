@@ -1,0 +1,11 @@
+{
+    "name": "poltergeist",
+    "type": "ghost",
+    "category": "physical",
+    "power": 110,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

@@ -1,0 +1,11 @@
+{
+    "name": "wrap",
+    "type": "normal",
+    "category": "physical",
+    "power": 15,
+    "accuracy": 90,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "prevents the target from fleeing and inflicts damage for 2-5 turns.",
+    "description": "a long body, vines, or the like are used to wrap and  squeeze the target for four to five turns."
+}

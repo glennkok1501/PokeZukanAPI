@@ -1,0 +1,11 @@
+{
+    "name": "rolling kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": "cool",
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "the user lashes out with a quick, spinning kick. this may also make the target flinch."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "thunder cage",
+    "type": "electric",
+    "category": "special",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

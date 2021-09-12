@@ -1,0 +1,11 @@
+{
+    "name": "stoked sparksurfer",
+    "type": "electric",
+    "category": "special",
+    "power": 175,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "has a 100% chance to paralyze the target.",
+    "description": "after obtaining z-power, the user, alolan raichu, attacks the target with full force. this move leaves the target with paralysis."
+}

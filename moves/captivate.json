@@ -1,0 +1,11 @@
+{
+    "name": "captivate",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "lowers the target's special attack by two stages if it's the opposite gender.",
+    "description": "if any opposing pok\u00e9mon is the opposite gender of the user, it is charmed, which harshly lowers its sp. atk stat."
+}

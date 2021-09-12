@@ -1,0 +1,11 @@
+{
+    "name": "psystrike",
+    "type": "psychic",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "inflicts damage based on the target's defense, not special defense.",
+    "description": "the user materializes an odd psychic wave to attack the target. this attack does physical damage."
+}

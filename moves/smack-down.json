@@ -1,0 +1,11 @@
+{
+    "name": "smack down",
+    "type": "rock",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "removes any immunity to ground damage.",
+    "description": "the user throws a stone or similar projectile to attack an opponent. a flying pok\u00e9mon will fall to the ground when it\u2019s hit."
+}

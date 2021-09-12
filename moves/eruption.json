@@ -1,0 +1,11 @@
+{
+    "name": "eruption",
+    "type": "fire",
+    "category": "special",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "inflicts more damage when the user has more hp remaining, with a maximum of 150 power.",
+    "description": "the user attacks opposing pok\u00e9mon with explosive fury. the lower the user\u2019s hp, the lower the move\u2019s power."
+}

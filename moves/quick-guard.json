@@ -1,0 +1,11 @@
+{
+    "name": "quick guard",
+    "type": "fighting",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "prevents any priority moves from hitting friendly pok\u00e9mon this turn.",
+    "description": "the user protects itself and its allies from priority moves."
+}

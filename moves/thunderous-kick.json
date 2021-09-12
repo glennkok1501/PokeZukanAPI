@@ -1,0 +1,11 @@
+{
+    "name": "thunderous kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

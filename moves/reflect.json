@@ -1,0 +1,11 @@
+{
+    "name": "reflect",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "reduces damage from physical attacks by half.",
+    "description": "a wondrous wall of light is put up to reduce damage from physical attacks for five turns."
+}

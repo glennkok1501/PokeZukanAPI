@@ -1,0 +1,11 @@
+{
+    "name": "after you",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "makes the target act next this turn.",
+    "description": "the user helps the target and makes it use its move right after the user."
+}

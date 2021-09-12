@@ -1,0 +1,11 @@
+{
+    "name": "electrify",
+    "type": "electric",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "changes the target's move's type to electric if it hasn't moved yet this turn.",
+    "description": "if the target is electrified before it uses a move during that turn, the target\u2019s move becomes electric type."
+}

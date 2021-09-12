@@ -1,0 +1,11 @@
+{
+    "name": "bullet seed",
+    "type": "grass",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the user forcefully shoots seeds at the target two to five times in a row."
+}

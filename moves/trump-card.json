@@ -1,0 +1,11 @@
+{
+    "name": "trump card",
+    "type": "normal",
+    "category": "special",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "power increases when this move has less pp, up to a maximum of 200.",
+    "description": "the fewer pp this move has, the greater its power."
+}

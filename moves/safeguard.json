@@ -1,0 +1,11 @@
+{
+    "name": "safeguard",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 25,
+    "contest": "beauty",
+    "effect": "protects the user's field from major status ailments and confusion for five turns.",
+    "description": "the user creates a protective field that prevents status conditions for five turns."
+}

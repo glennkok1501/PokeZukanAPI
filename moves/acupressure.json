@@ -1,0 +1,11 @@
+{
+    "name": "acupressure",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "raises one of a friendly pok\u00e9mon's stats at random by two stages.",
+    "description": "the user applies pressure to stress points, sharply boosting one of its or its allies\u2019 stats."
+}

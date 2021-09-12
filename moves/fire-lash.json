@@ -1,0 +1,11 @@
+{
+    "name": "fire lash",
+    "type": "fire",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "lowers the target's defense by one stage after inflicting damage.",
+    "description": "the user strikes the target with a burning lash. this also lowers the target\u2019s defense stat."
+}

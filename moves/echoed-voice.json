@@ -1,0 +1,11 @@
+{
+    "name": "echoed voice",
+    "type": "normal",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "power increases by 100% for each consecutive use by any friendly pok\u00e9mon, to a maximum of 200.",
+    "description": "the user attacks the target with an echoing voice. if this move is used every turn, its power is increased."
+}

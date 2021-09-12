@@ -1,0 +1,11 @@
+{
+    "name": "stone edge",
+    "type": "rock",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the user stabs the target from below with sharpened stones. critical hits land more easily."
+}

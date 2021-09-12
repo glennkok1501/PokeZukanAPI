@@ -1,0 +1,5 @@
+{
+    "name": "stall",
+    "effect": "this pok\u00e9mon moves last within its priority bracket.  multiple pok\u00e9mon with this ability move in order of speed amongst themselves.  the full incense and lagging tail take precedence over this ability; that is, pok\u00e9mon with these items move after pok\u00e9mon with this ability.  pok\u00e9mon with both this ability and one of these items are delayed as much as if they had only the item.  this ability works as usual during trick room: pok\u00e9mon with this ability will move in reverse order of speed after pok\u00e9mon without it.",
+    "description": "the pok\u00e9mon moves after all other pok\u00e9mon do."
+}

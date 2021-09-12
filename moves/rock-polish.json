@@ -1,0 +1,11 @@
+{
+    "name": "rock polish",
+    "type": "rock",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "raises the user's speed by two stages.",
+    "description": "the user polishes its body to reduce drag. this can sharply raise the speed stat."
+}

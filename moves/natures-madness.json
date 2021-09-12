@@ -1,0 +1,11 @@
+{
+    "name": "natures madness",
+    "type": "fairy",
+    "category": "special",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": "inflicts damage equal to half the target's hp.",
+    "description": "the user hits the target with the force of nature. it halves the target\u2019s hp."
+}

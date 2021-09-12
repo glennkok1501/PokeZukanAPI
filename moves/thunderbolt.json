@@ -1,0 +1,11 @@
+{
+    "name": "thunderbolt",
+    "type": "electric",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cool",
+    "effect": "has a 10% chance to paralyze the target.",
+    "description": "a strong electric blast crashes down on the target. this may also leave the target with paralysis."
+}

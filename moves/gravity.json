@@ -1,0 +1,11 @@
+{
+    "name": "gravity",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "disables moves and immunities that involve flying or levitating for five turns.",
+    "description": "enables flying-type pok\u00e9mon or pok\u00e9mon with the levitate ability to be hit by ground-type moves. flying moves can\u2019t be used."
+}

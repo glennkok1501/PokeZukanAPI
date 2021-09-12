@@ -1,0 +1,11 @@
+{
+    "name": "core enforcer",
+    "type": "dragon",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "nullifies the target's ability if it moves earlier.",
+    "description": "if the pok\u00e9mon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target\u2019s ability."
+}

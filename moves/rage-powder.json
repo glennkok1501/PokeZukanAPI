@@ -1,0 +1,11 @@
+{
+    "name": "rage powder",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "redirects the target's single-target effects to the user for this turn.",
+    "description": "the user scatters a cloud of irritating powder to draw attention to itself. opponents aim only at the user."
+}

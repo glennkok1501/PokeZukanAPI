@@ -1,0 +1,11 @@
+{
+    "name": "sleep powder",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": 75,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "puts the target to sleep.",
+    "description": "the user scatters a big cloud of sleep-inducing dust around the target."
+}

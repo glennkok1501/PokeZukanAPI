@@ -1,0 +1,11 @@
+{
+    "name": "growl",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 40,
+    "contest": "cute",
+    "effect": "lowers the target's attack by one stage.",
+    "description": "the user growls in an endearing way, making opposing pok\u00e9mon less wary. this lowers their attack stat."
+}

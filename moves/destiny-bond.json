@@ -1,0 +1,11 @@
+{
+    "name": "destiny bond",
+    "type": "ghost",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "if the user faints this turn, the target automatically will, too.",
+    "description": "after using this move, if the user faints, the pok\u00e9mon that landed the knockout hit also faints. its chance of failing rises if it is used in succession."
+}

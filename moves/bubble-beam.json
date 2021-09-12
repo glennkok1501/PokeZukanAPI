@@ -1,0 +1,11 @@
+{
+    "name": "bubble beam",
+    "type": "water",
+    "category": "special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "has a 10% chance to lower the target's speed by one stage.",
+    "description": "a spray of bubbles is forcefully ejected at the target. this may also lower its speed stat."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "bestow",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "gives the user's held item to the target.",
+    "description": "the user passes its held item to the target when the target isn\u2019t holding an item."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "flash cannon",
+    "type": "steel",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "has a 10% chance to lower the target's special defense by one stage.",
+    "description": "the user gathers all its light energy and releases it all at once. this may also lower the target\u2019s sp. def stat."
+}

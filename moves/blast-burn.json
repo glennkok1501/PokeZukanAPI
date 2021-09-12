@@ -1,0 +1,11 @@
+{
+    "name": "blast burn",
+    "type": "fire",
+    "category": "special",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "user foregoes its next turn to recharge.",
+    "description": "the target is razed by a fiery explosion. the user can\u2019t move on the next turn."
+}

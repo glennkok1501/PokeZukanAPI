@@ -1,0 +1,11 @@
+{
+    "name": "sing",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 55,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "puts the target to sleep.",
+    "description": "a soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+}

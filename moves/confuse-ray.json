@@ -1,0 +1,11 @@
+{
+    "name": "confuse ray",
+    "type": "ghost",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "confuses the target.",
+    "description": "the target is exposed to a sinister ray that triggers confusion."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "pin missile",
+    "type": "bug",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 95,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "sharp spikes are shot at the target in rapid succession. they hit two to five times in a row."
+}

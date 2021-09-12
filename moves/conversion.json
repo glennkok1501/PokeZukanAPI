@@ -1,0 +1,11 @@
+{
+    "name": "conversion",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "beauty",
+    "effect": "user's type changes to the type of one of its moves at random.",
+    "description": "the user changes its type to become the same type as the move at the top of the list of moves it knows."
+}

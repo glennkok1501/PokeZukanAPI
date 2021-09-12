@@ -1,0 +1,11 @@
+{
+    "name": "ion deluge",
+    "type": "electric",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 25,
+    "contest": null,
+    "effect": "changes all normal moves to electric moves for the rest of the turn.",
+    "description": "the user disperses electrically charged particles, which changes normal-type moves to electric-type moves."
+}

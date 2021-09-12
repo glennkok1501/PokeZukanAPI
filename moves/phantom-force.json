@@ -1,0 +1,11 @@
+{
+    "name": "phantom force",
+    "type": "ghost",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "user vanishes, dodging all attacks, and hits next turn.  hits through protect and detect.",
+    "description": "the user vanishes somewhere, then strikes the target on the next turn. this move hits even if the target protects itself."
+}

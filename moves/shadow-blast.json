@@ -1,0 +1,11 @@
+{
+    "name": "shadow blast",
+    "type": "shadow",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": null,
+    "contest": null,
+    "effect": "has an increased chance for a critical hit.",
+    "description": null
+}

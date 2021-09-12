@@ -1,0 +1,5 @@
+{
+    "name": "early bird",
+    "effect": "this pok\u00e9mon's remaining sleep turn count falls by 2 rather than 1.  if this pok\u00e9mon's sleep counter is at 1, it will fall to 0 and then the pok\u00e9mon will wake up.",
+    "description": "the pok\u00e9mon awakens twice as fast as other pok\u00e9mon from sleep."
+}

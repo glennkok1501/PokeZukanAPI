@@ -1,0 +1,11 @@
+{
+    "name": "hammer arm",
+    "type": "fighting",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "lowers user's speed by one stage.",
+    "description": "the user swings and hits with its strong, heavy fist. it lowers the user\u2019s speed, however."
+}

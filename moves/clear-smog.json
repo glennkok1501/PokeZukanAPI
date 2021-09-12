@@ -1,0 +1,11 @@
+{
+    "name": "clear smog",
+    "type": "poison",
+    "category": "special",
+    "power": 50,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "removes all of the target's stat modifiers.",
+    "description": "the user attacks by throwing a clump of special mud. all stat changes are returned to normal."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "frustration",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "power increases as happiness decreases, up to a maximum of 102.",
+    "description": "this full-power attack grows more powerful the less the user likes its trainer."
+}

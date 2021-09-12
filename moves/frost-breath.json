@@ -1,0 +1,11 @@
+{
+    "name": "frost breath",
+    "type": "ice",
+    "category": "special",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": "always scores a critical hit.",
+    "description": "the user blows its cold breath on the target. this attack always results in a critical hit."
+}

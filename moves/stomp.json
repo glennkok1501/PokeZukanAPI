@@ -1,0 +1,11 @@
+{
+    "name": "stomp",
+    "type": "normal",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "the target is stomped with a big foot. this may also make the target flinch."
+}

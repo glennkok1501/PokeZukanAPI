@@ -1,0 +1,11 @@
+{
+    "name": "flail",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "inflicts more damage when the user has less hp remaining, with a maximum of 200 power.",
+    "description": "the user flails about aimlessly to attack. the less hp the user has, the greater the move\u2019s power."
+}

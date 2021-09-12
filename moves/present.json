@@ -1,0 +1,11 @@
+{
+    "name": "present",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 90,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max hp.",
+    "description": "the user attacks by giving the target a gift with a hidden trap. it restores hp sometimes, however."
+}

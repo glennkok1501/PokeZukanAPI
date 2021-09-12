@@ -1,0 +1,11 @@
+{
+    "name": "explosion",
+    "type": "normal",
+    "category": "physical",
+    "power": 250,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "user faints.",
+    "description": "the user attacks everything around it by causing a tremendous explosion. the user faints upon using this move."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "zen headbutt",
+    "type": "psychic",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "has a 20% chance to make the target flinch.",
+    "description": "the user focuses its willpower to its head and attacks the target. this may also make the target flinch."
+}

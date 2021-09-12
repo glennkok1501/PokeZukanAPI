@@ -1,0 +1,11 @@
+{
+    "name": "dragon darts",
+    "type": "dragon",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

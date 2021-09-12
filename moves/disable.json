@@ -1,0 +1,11 @@
+{
+    "name": "disable",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "disables the target's last used move for 1-8 turns.",
+    "description": "for four turns, this move prevents the target from using the move it last used."
+}

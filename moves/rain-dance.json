@@ -1,0 +1,11 @@
+{
+    "name": "rain dance",
+    "type": "water",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "changes the weather to rain for five turns.",
+    "description": "the user summons a heavy rain that falls for five turns, powering up water-type moves. it lowers the power of fire-type moves."
+}

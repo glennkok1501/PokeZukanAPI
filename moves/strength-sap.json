@@ -1,0 +1,11 @@
+{
+    "name": "strength sap",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "heals the user by the target's current attack stat and lowers the target's attack by one stage.",
+    "description": "the user restores its hp by the same amount as the target\u2019s attack stat. it also lowers the target\u2019s attack stat."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "psych up",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "discards the user's stat changes and copies the target's.",
+    "description": "the user hypnotizes itself into copying any stat change made by the target."
+}

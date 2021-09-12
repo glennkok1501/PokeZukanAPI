@@ -1,0 +1,11 @@
+{
+    "name": "aromatic mist",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "raises a selected ally's special defense by one stage.",
+    "description": "the user raises the sp. def stat of an ally pok\u00e9mon by using a mysterious aroma."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "magic room",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "negates held items for five turns.",
+    "description": "the user creates a bizarre area in which pok\u00e9mon\u2019s held items lose their effects for five turns."
+}

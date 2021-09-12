@@ -1,0 +1,11 @@
+{
+    "name": "freezing glare",
+    "type": "psychic",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

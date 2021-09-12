@@ -1,0 +1,11 @@
+{
+    "name": "superpower",
+    "type": "fighting",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "lowers the user's attack and defense by one stage after inflicting damage.",
+    "description": "the user attacks the target with great power. however, this also lowers the user\u2019s attack and defense stats."
+}

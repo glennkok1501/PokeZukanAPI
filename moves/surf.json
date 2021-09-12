@@ -1,0 +1,11 @@
+{
+    "name": "surf",
+    "type": "water",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "inflicts regular damage and can hit dive users.",
+    "description": "the user attacks everything around it by swamping its surroundings with a giant wave."
+}

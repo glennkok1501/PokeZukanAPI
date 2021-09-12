@@ -1,0 +1,11 @@
+{
+    "name": "prismatic laser",
+    "type": "psychic",
+    "category": "special",
+    "power": 160,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "user foregoes its next turn to recharge.",
+    "description": "the user shoots powerful lasers using the power of a prism. the user can\u2019t move on the next turn."
+}

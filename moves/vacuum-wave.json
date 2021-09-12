@@ -1,0 +1,11 @@
+{
+    "name": "vacuum wave",
+    "type": "fighting",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "smart",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user whirls its fists to send a wave of pure vacuum at the target. this move always goes first."
+}

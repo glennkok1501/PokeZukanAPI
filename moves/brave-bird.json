@@ -1,0 +1,11 @@
+{
+    "name": "brave bird",
+    "type": "flying",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "user receives 1/3 the damage inflicted in recoil.",
+    "description": "the user tucks in its wings and charges from a low altitude. this also damages the user quite a lot."
+}

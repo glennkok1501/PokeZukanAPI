@@ -1,0 +1,11 @@
+{
+    "name": "moonblast",
+    "type": "fairy",
+    "category": "special",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "has a 30% chance to lower the target's special attack by one stage.",
+    "description": "borrowing the power of the moon, the user attacks the target. this may also lower the target\u2019s sp. atk stat."
+}

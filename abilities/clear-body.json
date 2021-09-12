@@ -1,0 +1,5 @@
+{
+    "name": "clear body",
+    "effect": "this pok\u00e9mon cannot have its stats lowered by other pok\u00e9mon.  this ability does not prevent any stat losses other than stat modifiers, such as the speed cut from paralysis.  this pok\u00e9mon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.  this ability functions identically to white smoke in battle.",
+    "description": "prevents other pok\u00e9mon\u2019s moves or abilities from lowering the pok\u00e9mon\u2019s stats."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "leaf tornado",
+    "type": "grass",
+    "category": "special",
+    "power": 65,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": "has a 50% chance to lower the target's accuracy by one stage.",
+    "description": "the user attacks its target by encircling it in sharp leaves. this attack may also lower the target\u2019s accuracy."
+}

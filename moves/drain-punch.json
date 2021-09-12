@@ -1,0 +1,11 @@
+{
+    "name": "drain punch",
+    "type": "fighting",
+    "category": "physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "drains half the damage inflicted to heal the user.",
+    "description": "an energy-draining punch. the user\u2019s hp is restored by half the damage taken by the target."
+}

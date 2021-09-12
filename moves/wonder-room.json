@@ -1,0 +1,11 @@
+{
+    "name": "wonder room",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "all pok\u00e9mon's defense and special defense are swapped for 5 turns.",
+    "description": "the user creates a bizarre area in which pok\u00e9mon\u2019s defense and sp. def stats are swapped for five turns."
+}

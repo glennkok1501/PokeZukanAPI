@@ -1,0 +1,11 @@
+{
+    "name": "searing shot",
+    "type": "fire",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "has a 30% chance to burn the target.",
+    "description": "the user torches everything around it in an inferno of scarlet flames. this may also leave those it hits with a burn."
+}

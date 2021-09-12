@@ -1,0 +1,11 @@
+{
+    "name": "heat wave",
+    "type": "fire",
+    "category": "special",
+    "power": 95,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "has a 10% chance to burn the target.",
+    "description": "the user attacks by exhaling hot breath on the opposing pok\u00e9mon. this may also leave those pok\u00e9mon with a burn."
+}

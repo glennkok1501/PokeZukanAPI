@@ -1,0 +1,11 @@
+{
+    "name": "sleep talk",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "randomly uses one of the user's other three moves.  only works if the user is sleeping.",
+    "description": "while it is asleep, the user randomly uses one of the moves it knows."
+}

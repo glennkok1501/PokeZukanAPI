@@ -1,0 +1,5 @@
+{
+    "name": "technician",
+    "effect": "this pok\u00e9mon's moves have 1.5\u00d7 their power if their base power is 60 or less.  this includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less.  helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.",
+    "description": "powers up the pok\u00e9mon\u2019s weaker moves."
+}

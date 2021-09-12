@@ -1,0 +1,11 @@
+{
+    "name": "revenge",
+    "type": "fighting",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "inflicts double damage if the user takes damage before attacking this turn.",
+    "description": "this attack move\u2019s power is doubled if the user has been hurt by the opponent in the same turn."
+}

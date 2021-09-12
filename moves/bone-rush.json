@@ -1,0 +1,11 @@
+{
+    "name": "bone rush",
+    "type": "ground",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the user strikes the target with a hard bone two to five times in a row."
+}

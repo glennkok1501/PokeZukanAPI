@@ -1,0 +1,11 @@
+{
+    "name": "shadow claw",
+    "type": "ghost",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the user slashes with a sharp claw made from shadows. critical hits land more easily."
+}

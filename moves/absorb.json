@@ -1,0 +1,11 @@
+{
+    "name": "absorb",
+    "type": "grass",
+    "category": "special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "smart",
+    "effect": "drains half the damage inflicted to heal the user.",
+    "description": "a nutrient-draining attack. the user\u2019s hp is restored by half the damage taken by the target."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "psywave",
+    "type": "psychic",
+    "category": "special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "inflicts damage between 50% and 150% of the user's level.",
+    "description": "the target is attacked with an odd psychic wave. the attack varies in intensity."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "fleur cannon",
+    "type": "fairy",
+    "category": "special",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": null,
+    "effect": "lowers the user's special attack by two stages after inflicting damage.",
+    "description": "the user unleashes a strong beam. the attack\u2019s recoil harshly lowers the user\u2019s sp. atk stat."
+}

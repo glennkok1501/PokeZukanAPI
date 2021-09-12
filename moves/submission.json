@@ -1,0 +1,11 @@
+{
+    "name": "submission",
+    "type": "fighting",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 80,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "user receives 1/4 the damage it inflicts in recoil.",
+    "description": "the user grabs the target and recklessly dives for the ground. this also damages the user a little."
+}

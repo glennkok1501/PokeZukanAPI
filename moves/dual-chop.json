@@ -1,0 +1,11 @@
+{
+    "name": "dual chop",
+    "type": "dragon",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 90,
+    "pp": 15,
+    "contest": null,
+    "effect": "hits twice in one turn.",
+    "description": "the user attacks its target by hitting it with brutal strikes. the target is hit twice in a row."
+}

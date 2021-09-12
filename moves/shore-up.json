@@ -1,0 +1,11 @@
+{
+    "name": "shore up",
+    "type": "ground",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "heals the user for \u00bd its max hp, or \u2154 during a sandstorm.",
+    "description": "the user regains up to half of its max hp. it restores more hp in a sandstorm."
+}

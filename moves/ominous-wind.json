@@ -1,0 +1,11 @@
+{
+    "name": "ominous wind",
+    "type": "ghost",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "has a 10% chance to raise all of the user's stats by one stage.",
+    "description": "the user blasts the target with a gust of repulsive wind. this may also raise all the user\u2019s stats at once."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "low kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "inflicts more damage to heavier targets, with a maximum of 120 power.",
+    "description": "a powerful low kick that makes the target fall over. the heavier the target, the greater the move\u2019s power."
+}

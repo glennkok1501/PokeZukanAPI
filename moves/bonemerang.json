@@ -1,0 +1,11 @@
+{
+    "name": "bonemerang",
+    "type": "ground",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "hits twice in one turn.",
+    "description": "the user throws the bone it holds. the bone loops around to hit the target twice\u2014coming and going."
+}

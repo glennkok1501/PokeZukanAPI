@@ -1,0 +1,11 @@
+{
+    "name": "mirror move",
+    "type": "flying",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "uses the target's last used move.",
+    "description": "the user counters the target by mimicking the target\u2019s last move."
+}

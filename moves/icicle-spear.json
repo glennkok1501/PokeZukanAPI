@@ -1,0 +1,11 @@
+{
+    "name": "icicle spear",
+    "type": "ice",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "beauty",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the user launches sharp icicles at the target two to five times in a row."
+}

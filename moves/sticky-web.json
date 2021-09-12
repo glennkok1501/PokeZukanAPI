@@ -1,0 +1,11 @@
+{
+    "name": "sticky web",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "covers the opposing field, lowering opponents' speed by one stage upon switching in.",
+    "description": "the user weaves a sticky net around the opposing team, which lowers their speed stat upon switching into battle."
+}

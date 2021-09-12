@@ -1,0 +1,11 @@
+{
+    "name": "jaw lock",
+    "type": "dark",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

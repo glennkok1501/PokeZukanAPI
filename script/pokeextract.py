@@ -3,6 +3,7 @@ from log import log
 import json
 import os
 from bs4 import BeautifulSoup
+from log import log
 
 url = "https://pokeapi.co/api/v2/"
 pokemondb = "https://pokemondb.net/pokedex/"
@@ -334,10 +335,10 @@ def getAll():
 
 
 	index = 0
+	checked = []
 	'''extraction'''
 	for i in names:
 		data = getPokemon(i)
-		values["count"] += len(data)
 
 		for j in data:
 			value = {
@@ -346,16 +347,20 @@ def getAll():
 				"sprite":"",
 				"link":""
 			}
-			value["id"] = j["id"]
-			value["name"] = j["name"].replace("-"," ")
-			value["sprite"] = f"images/pokemon/{j['name']}.png"
-			value["link"] = f"data/pokemon/{j['name']}.json"
-			values["pokemon"].append(value)
-
-			print(f"{value['name']} - {getPercent(index, 1035)}")
-			index += 1
+			if j["name"] not in checked:
+				value["id"] = j["id"]
+				value["name"] = j["name"].replace("-"," ")
+				value["sprite"] = f"images/pokemon/{j['name']}.png"
+				value["link"] = f"data/pokemon/{j['name']}.json"
+				values["pokemon"].append(value)
+				log(f"{j['name']}.json", "Success")
+				print(f"{value['name']} - {getPercent(index, 1035)}")
+				index += 1
+				values["count"] += 1
+				checked.append(j["name"])
 
 	writeJSON(values, "../data/pokemon/all.json")
+	log("all.json", "Success")
 
 
 getAll()

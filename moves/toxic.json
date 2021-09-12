@@ -1,0 +1,11 @@
+{
+    "name": "toxic",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "badly poisons the target, inflicting more damage every turn.",
+    "description": "a move that leaves the target badly poisoned. its poison damage worsens every turn."
+}

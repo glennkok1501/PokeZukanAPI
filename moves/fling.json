@@ -1,0 +1,11 @@
+{
+    "name": "fling",
+    "type": "dark",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "throws held item at the target; power depends on the item.",
+    "description": "the user flings its held item at the target to attack. this move\u2019s power and effects depend on the item."
+}

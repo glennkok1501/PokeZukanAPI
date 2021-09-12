@@ -1,0 +1,11 @@
+{
+    "name": "hypnosis",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": 60,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "puts the target to sleep.",
+    "description": "the user employs hypnotic suggestion to make the target fall into a deep sleep."
+}

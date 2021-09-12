@@ -1,0 +1,11 @@
+{
+    "name": "spit up",
+    "type": "normal",
+    "category": "special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "power is 100 times the amount of energy stockpiled.",
+    "description": "the power stored using the move stockpile is released at once in an attack. the more power is stored, the greater the move\u2019s power."
+}

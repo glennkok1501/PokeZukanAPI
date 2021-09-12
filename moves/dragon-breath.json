@@ -1,0 +1,11 @@
+{
+    "name": "dragon breath",
+    "type": "dragon",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "has a 30% chance to paralyze the target.",
+    "description": "the user exhales a mighty gust that inflicts damage. this may also leave the target with paralysis."
+}

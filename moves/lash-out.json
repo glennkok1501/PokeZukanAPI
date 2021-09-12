@@ -1,0 +1,11 @@
+{
+    "name": "lash out",
+    "type": "dark",
+    "category": "physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

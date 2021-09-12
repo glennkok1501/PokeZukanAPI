@@ -1,0 +1,11 @@
+{
+    "name": "smelling salts",
+    "type": "normal",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "if the target is paralyzed, inflicts double damage and cures the paralysis.",
+    "description": "this attack\u2019s power is doubled when used on a target with paralysis. this also cures the target\u2019s paralysis, however."
+}

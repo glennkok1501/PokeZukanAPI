@@ -1,0 +1,11 @@
+{
+    "name": "soft boiled",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "heals the user by half its max hp.",
+    "description": "the user restores its own hp by up to half of its max hp."
+}

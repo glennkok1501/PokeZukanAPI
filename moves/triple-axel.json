@@ -1,0 +1,11 @@
+{
+    "name": "triple axel",
+    "type": "ice",
+    "category": "physical",
+    "power": 20,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

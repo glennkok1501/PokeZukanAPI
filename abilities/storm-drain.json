@@ -1,0 +1,5 @@
+{
+    "name": "storm drain",
+    "effect": "all other pok\u00e9mon's single-target water-type moves are redirected to this pok\u00e9mon, if it is an eligible target.  other pok\u00e9mon's water moves raise this pok\u00e9mon's special attack one stage, negating any other effect on it, and cannot miss it.  if the move's intended target also has this ability, the move is not redirected.  when multiple pok\u00e9mon with this ability are possible targets for redirection, the move is redirected to the one with the highest speed stat, or, in the case of a tie, to a random tied pok\u00e9mon.  follow me takes precedence over this ability.",
+    "description": "draws in all water-type moves. instead of being hit  by water-type moves, it boosts its sp. atk."
+}

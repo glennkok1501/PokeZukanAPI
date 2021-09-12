@@ -1,0 +1,11 @@
+{
+    "name": "fusion flare",
+    "type": "fire",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "with fusion bolt, inflicts double damage.",
+    "description": "the user brings down a giant flame. this move\u2019s power is increased when influenced by an enormous lightning bolt."
+}

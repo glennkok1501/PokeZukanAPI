@@ -1,0 +1,11 @@
+{
+    "name": "multi attack",
+    "type": "normal",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "if the user is holding a appropriate plate or drive, the damage inflicted will match it.",
+    "description": "cloaking itself in high energy, the user slams into the target. the memory held determines the move\u2019s type."
+}

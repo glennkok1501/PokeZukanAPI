@@ -1,0 +1,11 @@
+{
+    "name": "aromatherapy",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "cures the entire party of major status effects.",
+    "description": "the user releases a soothing scent that heals all status conditions affecting the user\u2019s party."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "expanding force",
+    "type": "psychic",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

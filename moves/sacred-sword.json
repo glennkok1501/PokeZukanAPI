@@ -1,0 +1,11 @@
+{
+    "name": "sacred sword",
+    "type": "fighting",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "ignores the target's stat modifiers.",
+    "description": "the user attacks by slicing with a long horn. the target\u2019s stat changes don\u2019t affect this attack\u2019s damage."
+}

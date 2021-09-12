@@ -1,0 +1,11 @@
+{
+    "name": "heal order",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "heals the user by half its max hp.",
+    "description": "the user calls out its underlings to heal it. the user regains up to half of its max hp."
+}

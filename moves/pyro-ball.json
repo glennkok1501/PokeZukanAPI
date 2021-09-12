@@ -1,0 +1,11 @@
+{
+    "name": "pyro ball",
+    "type": "fire",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

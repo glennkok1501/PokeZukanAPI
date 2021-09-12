@@ -1,0 +1,5 @@
+{
+    "name": "flash fire",
+    "effect": "this pok\u00e9mon is immune to fire-type moves.  once this pok\u00e9mon has been hit by a fire move, its own fire moves will inflict 1.5\u00d7 as much damage until it leaves battle.  this ability has no effect while the pok\u00e9mon is frozen.  the fire damage bonus is retained even if the pok\u00e9mon is frozen and thawed or the ability is lost or disabled.  fire moves will ignore this pok\u00e9mon's substitute.  this ability takes effect even on non-damaging moves, i.e. will o wisp.",
+    "description": "powers up the pok\u00e9mon\u2019s fire-type moves if it\u2019s hit by one."
+}

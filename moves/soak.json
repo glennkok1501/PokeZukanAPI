@@ -1,0 +1,11 @@
+{
+    "name": "soak",
+    "type": "water",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "changes the target's type to water.",
+    "description": "the user shoots a torrent of water at the target and changes the target\u2019s type to water."
+}

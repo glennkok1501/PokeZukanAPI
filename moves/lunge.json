@@ -1,0 +1,11 @@
+{
+    "name": "lunge",
+    "type": "bug",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "lowers the target's attack by one stage after inflicting damage.",
+    "description": "the user makes a lunge at the target, attacking with full force. this also lowers the target\u2019s attack stat."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ember",
+    "type": "fire",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "beauty",
+    "effect": "has a 10% chance to burn the target.",
+    "description": "the target is attacked with small flames. this may also leave the target with a burn."
+}

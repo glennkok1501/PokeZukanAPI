@@ -1,0 +1,11 @@
+{
+    "name": "spiky shield",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "blocks damaging attacks and damages attacking pok\u00e9mon for 1/8 their max hp.",
+    "description": "in addition to protecting the user from attacks, this move also damages any attacker who makes direct contact."
+}

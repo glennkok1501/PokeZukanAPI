@@ -1,0 +1,11 @@
+{
+    "name": "tar shot",
+    "type": "rock",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

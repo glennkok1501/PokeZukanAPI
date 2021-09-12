@@ -1,0 +1,11 @@
+{
+    "name": "hidden power",
+    "type": "normal",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "power and type depend upon user's ivs.  power can range from 30 to 70.",
+    "description": "a unique attack that varies in type depending on the pok\u00e9mon using it."
+}

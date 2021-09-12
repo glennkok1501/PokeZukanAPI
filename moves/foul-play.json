@@ -1,0 +1,11 @@
+{
+    "name": "foul play",
+    "type": "dark",
+    "category": "physical",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "calculates damage with the target's attacking stat.",
+    "description": "the user turns the target\u2019s power against it. the higher the target\u2019s attack stat, the greater the move\u2019s power."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "grudge",
+    "type": "ghost",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "if the user faints this turn, the pp of the move that fainted it drops to 0.",
+    "description": "if the user faints, the user\u2019s grudge fully depletes the pp of the opponent\u2019s move that knocked it out."
+}

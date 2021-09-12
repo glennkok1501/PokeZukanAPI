@@ -1,0 +1,11 @@
+{
+    "name": "sonic boom",
+    "type": "normal",
+    "category": "special",
+    "power": null,
+    "accuracy": 90,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "inflicts 20 points of damage.",
+    "description": "the target is hit with a destructive shock wave that always inflicts 20 hp damage."
+}

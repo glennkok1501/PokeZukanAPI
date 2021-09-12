@@ -1,0 +1,11 @@
+{
+    "name": "blue flare",
+    "type": "fire",
+    "category": "special",
+    "power": 130,
+    "accuracy": 85,
+    "pp": 5,
+    "contest": null,
+    "effect": "has a 20% chance to burn the target.",
+    "description": "the user attacks by engulfing the target in an intense, yet beautiful, blue flame. this may also leave the target with a burn."
+}

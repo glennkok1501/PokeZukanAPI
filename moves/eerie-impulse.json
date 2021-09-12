@@ -1,0 +1,11 @@
+{
+    "name": "eerie impulse",
+    "type": "electric",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "lowers the target's special attack by two stages.",
+    "description": "the user\u2019s body generates an eerie impulse. exposing the target to it harshly lowers the target\u2019s sp. atk stat."
+}

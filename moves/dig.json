@@ -1,0 +1,11 @@
+{
+    "name": "dig",
+    "type": "ground",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "user digs underground, dodging all attacks, and hits next turn.",
+    "description": "the user burrows, then attacks on the next turn."
+}

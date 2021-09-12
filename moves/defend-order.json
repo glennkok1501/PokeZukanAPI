@@ -1,0 +1,11 @@
+{
+    "name": "defend order",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "raises the user's defense and special defense by one stage.",
+    "description": "the user calls out its underlings to shield its body, raising its defense and sp. def stats."
+}

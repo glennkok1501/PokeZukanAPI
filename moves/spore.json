@@ -1,0 +1,11 @@
+{
+    "name": "spore",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "puts the target to sleep.",
+    "description": "the user scatters bursts of spores that induce sleep."
+}

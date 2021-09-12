@@ -1,0 +1,11 @@
+{
+    "name": "water shuriken",
+    "type": "water",
+    "category": "special",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "hits 2\u20135 times.",
+    "description": "the user hits the target with throwing stars two to five times in a row. this move always goes first."
+}

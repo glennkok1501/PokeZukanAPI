@@ -1,0 +1,11 @@
+{
+    "name": "u turn",
+    "type": "bug",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "user must switch out after attacking.",
+    "description": "after making its attack, the user rushes back to switch places with a party pok\u00e9mon in waiting."
+}

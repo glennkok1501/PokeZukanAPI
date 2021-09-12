@@ -1,0 +1,11 @@
+{
+    "name": "razor wind",
+    "type": "normal",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "requires a turn to charge before attacking.",
+    "description": "in this two-turn attack, blades of wind hit opposing pok\u00e9mon on the second turn. critical hits land more easily."
+}

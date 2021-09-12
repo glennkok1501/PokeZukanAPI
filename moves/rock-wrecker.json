@@ -1,0 +1,11 @@
+{
+    "name": "rock wrecker",
+    "type": "rock",
+    "category": "physical",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "user foregoes its next turn to recharge.",
+    "description": "the user launches a huge boulder at the target to attack. the user can\u2019t move on the next turn."
+}

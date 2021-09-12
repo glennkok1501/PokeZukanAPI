@@ -1,0 +1,11 @@
+{
+    "name": "stomping tantrum",
+    "type": "ground",
+    "category": "physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "has double power if the user's last move failed.",
+    "description": "driven by frustration, the user attacks the target. if the user\u2019s previous move has failed, the power of this move doubles."
+}

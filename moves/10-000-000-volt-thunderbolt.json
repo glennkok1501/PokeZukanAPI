@@ -1,0 +1,11 @@
+{
+    "name": "10 000 000 volt thunderbolt",
+    "type": "electric",
+    "category": "special",
+    "power": 195,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user, pikachu wearing a cap, powers up a jolt of electricity using its z-power and unleashes it. critical hits land more easily."
+}

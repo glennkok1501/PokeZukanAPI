@@ -1,0 +1,11 @@
+{
+    "name": "thousand arrows",
+    "type": "ground",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "grounds the target, and hits even flying-type or levitating pok\u00e9mon.",
+    "description": "this move also hits opposing pok\u00e9mon that are in the air. those pok\u00e9mon are knocked down to the ground."
+}

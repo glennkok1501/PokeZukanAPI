@@ -1,0 +1,11 @@
+{
+    "name": "silver wind",
+    "type": "bug",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "has a 10% chance to raise all of the user's stats by one stage.",
+    "description": "the target is attacked with powdery scales blown by the wind. this may also raise all the user\u2019s stats."
+}

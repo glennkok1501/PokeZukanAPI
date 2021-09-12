@@ -1,0 +1,11 @@
+{
+    "name": "water spout",
+    "type": "water",
+    "category": "special",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "inflicts more damage when the user has more hp remaining, with a maximum of 150 power.",
+    "description": "the user spouts water to damage opposing pok\u00e9mon. the lower the user\u2019s hp, the lower the move\u2019s power."
+}

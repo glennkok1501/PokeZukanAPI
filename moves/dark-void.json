@@ -1,0 +1,11 @@
+{
+    "name": "dark void",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 50,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "puts the target to sleep.",
+    "description": "opposing pok\u00e9mon are dragged into a world of total darkness that makes them sleep."
+}

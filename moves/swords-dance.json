@@ -1,0 +1,11 @@
+{
+    "name": "swords dance",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "raises the user's attack by two stages.",
+    "description": "a frenetic dance to uplift the fighting spirit. this sharply raises the user\u2019s attack stat."
+}

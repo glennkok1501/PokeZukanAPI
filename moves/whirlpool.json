@@ -1,0 +1,11 @@
+{
+    "name": "whirlpool",
+    "type": "water",
+    "category": "special",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "prevents the target from leaving battle and inflicts 1/16 its max hp in damage for 2-5 turns.",
+    "description": "the user traps the target in a violent swirling whirlpool for four to five turns."
+}

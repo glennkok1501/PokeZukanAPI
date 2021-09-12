@@ -1,0 +1,11 @@
+{
+    "name": "mind reader",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "ensures that the user's next move will hit the target.",
+    "description": "the user senses the target\u2019s movements with its mind to ensure its next attack does not miss the target."
+}

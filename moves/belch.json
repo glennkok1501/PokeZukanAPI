@@ -1,0 +1,11 @@
+{
+    "name": "belch",
+    "type": "poison",
+    "category": "special",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": "can only be used after the user has eaten a berry.",
+    "description": "the user lets out a damaging belch at the target. the user must eat a held berry to use this move."
+}

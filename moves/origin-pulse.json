@@ -1,0 +1,11 @@
+{
+    "name": "origin pulse",
+    "type": "water",
+    "category": "special",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 10,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user attacks opposing pok\u00e9mon with countless beams of light that glow a deep and brilliant blue."
+}

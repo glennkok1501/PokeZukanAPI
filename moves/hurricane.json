@@ -1,0 +1,11 @@
+{
+    "name": "hurricane",
+    "type": "flying",
+    "category": "special",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "contest": null,
+    "effect": "has a 30% chance to confuse the target.",
+    "description": "the user attacks by wrapping its opponent in a fierce wind that flies up into the sky. this may also confuse the target."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "shadow chill",
+    "type": "shadow",
+    "category": "special",
+    "power": 75,
+    "accuracy": 100,
+    "pp": null,
+    "contest": null,
+    "effect": "has a 10% chance to freeze the target.",
+    "description": null
+}

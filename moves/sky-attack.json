@@ -1,0 +1,11 @@
+{
+    "name": "sky attack",
+    "type": "flying",
+    "category": "physical",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "user charges for one turn before attacking.  has a 30% chance to make the target flinch.",
+    "description": "a second-turn attack move where critical hits land more easily. this may also make the target flinch."
+}

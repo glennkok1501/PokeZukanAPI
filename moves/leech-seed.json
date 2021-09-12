@@ -1,0 +1,11 @@
+{
+    "name": "leech seed",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "seeds the target, stealing hp from it every turn.",
+    "description": "a seed is planted on the target. it steals some hp from the target every turn."
+}

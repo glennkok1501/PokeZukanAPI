@@ -1,0 +1,11 @@
+{
+    "name": "moonlight",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "heals the user by half its max hp.  affected by weather.",
+    "description": "the user restores its own hp. the amount of hp regained varies with the weather."
+}

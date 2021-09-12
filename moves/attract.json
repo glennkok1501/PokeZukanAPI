@@ -1,0 +1,11 @@
+{
+    "name": "attract",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.",
+    "description": "if it is the opposite gender of the user, the target becomes infatuated and less likely to attack."
+}

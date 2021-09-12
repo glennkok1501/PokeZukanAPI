@@ -1,0 +1,11 @@
+{
+    "name": "horn drill",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 30,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "causes a one-hit ko.",
+    "description": "the user stabs the target with a horn that rotates like a drill. the target faints instantly if this attack hits."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "revelation dance",
+    "type": "normal",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "has the same type as the user.",
+    "description": "the user attacks the target by dancing very hard. the user\u2019s type determines the type of this move."
+}

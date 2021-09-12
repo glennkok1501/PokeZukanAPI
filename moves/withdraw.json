@@ -1,0 +1,11 @@
+{
+    "name": "withdraw",
+    "type": "water",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": "cute",
+    "effect": "raises the user's defense by one stage.",
+    "description": "the user withdraws its body into its hard shell, raising its defense stat."
+}

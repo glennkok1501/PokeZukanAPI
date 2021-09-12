@@ -1,0 +1,11 @@
+{
+    "name": "perish song",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "user and target both faint after three turns.",
+    "description": "any pok\u00e9mon that hears this song faints in three turns, unless it switches out of battle."
+}

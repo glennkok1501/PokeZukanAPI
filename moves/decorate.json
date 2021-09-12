@@ -1,0 +1,11 @@
+{
+    "name": "decorate",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

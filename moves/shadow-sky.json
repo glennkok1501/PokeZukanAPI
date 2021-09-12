@@ -1,0 +1,11 @@
+{
+    "name": "shadow sky",
+    "type": "shadow",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": null,
+    "contest": null,
+    "effect": "changes the weather to shadow sky for five turns.",
+    "description": null
+}

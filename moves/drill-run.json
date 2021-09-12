@@ -1,0 +1,11 @@
+{
+    "name": "drill run",
+    "type": "ground",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 95,
+    "pp": 10,
+    "contest": null,
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the user crashes into its target while rotating its body like a drill. critical hits land more easily."
+}

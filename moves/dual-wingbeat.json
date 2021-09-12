@@ -1,0 +1,11 @@
+{
+    "name": "dual wingbeat",
+    "type": "flying",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

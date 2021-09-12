@@ -1,0 +1,11 @@
+{
+    "name": "knock off",
+    "type": "dark",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "target drops its held item.",
+    "description": "the user slaps down the target\u2019s held item, and that item can\u2019t be used in that battle. the move does more damage if the target has a held item."
+}

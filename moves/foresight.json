@@ -1,0 +1,11 @@
+{
+    "name": "foresight",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": "smart",
+    "effect": "forces the target to have no evade, and allows it to be hit by normal and fighting moves even if it's a ghost.",
+    "description": "enables a ghost-type target to be hit by normal- and fighting-type attacks. this also enables an evasive target to be hit."
+}

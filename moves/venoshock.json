@@ -1,0 +1,11 @@
+{
+    "name": "venoshock",
+    "type": "poison",
+    "category": "special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "inflicts double damage if the target is poisoned.",
+    "description": "the user drenches the target in a special poisonous liquid. this move\u2019s power is doubled if the target is poisoned."
+}

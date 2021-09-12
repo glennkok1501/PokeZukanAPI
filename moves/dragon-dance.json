@@ -1,0 +1,11 @@
+{
+    "name": "dragon dance",
+    "type": "dragon",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "raises the user's attack and speed by one stage.",
+    "description": "the user vigorously performs a mystic, powerful dance that raises its attack and speed stats."
+}

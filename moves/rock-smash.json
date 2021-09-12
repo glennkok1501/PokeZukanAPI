@@ -1,0 +1,11 @@
+{
+    "name": "rock smash",
+    "type": "fighting",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "has a 50% chance to lower the target's defense by one stage.",
+    "description": "the user attacks with a punch. this may also lower the target\u2019s defense stat."
+}

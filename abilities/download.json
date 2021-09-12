@@ -1,0 +1,5 @@
+{
+    "name": "download",
+    "effect": "when this pok\u00e9mon enters battle, its attack or special attack, whichever corresponds to its opponents' weaker total defensive stat, rises one stage.  in the event of a tie, special attack is raised.  this ability also takes effect when acquired during a battle.",
+    "description": "compares an opposing pok\u00e9mon\u2019s defense and sp. def stats before raising its own attack or sp. atk stat\u2014whichever will be more effective."
+}

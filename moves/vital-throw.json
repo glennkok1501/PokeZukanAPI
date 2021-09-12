@@ -1,0 +1,11 @@
+{
+    "name": "vital throw",
+    "type": "fighting",
+    "category": "physical",
+    "power": 70,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "never misses.",
+    "description": "the user attacks last. in return, this throw move never misses."
+}

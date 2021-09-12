@@ -1,0 +1,11 @@
+{
+    "name": "karate chop",
+    "type": "fighting",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "tough",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the target is attacked with a sharp chop. critical hits land more easily."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "scary face",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "lowers the target's speed by two stages.",
+    "description": "the user frightens the target with a scary face to harshly lower its speed stat."
+}

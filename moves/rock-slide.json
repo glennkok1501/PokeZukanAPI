@@ -1,0 +1,11 @@
+{
+    "name": "rock slide",
+    "type": "rock",
+    "category": "physical",
+    "power": 75,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "large boulders are hurled at the opposing pok\u00e9mon to inflict damage. this may also make the opposing pok\u00e9mon flinch."
+}

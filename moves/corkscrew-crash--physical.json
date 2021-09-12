@@ -1,0 +1,11 @@
+{
+    "name": "corkscrew crash  physical",
+    "type": "steel",
+    "category": "physical",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user spins very fast and rams into the target with the full force of its z-power. the power varies, depending on the original move."
+}

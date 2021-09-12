@@ -1,0 +1,5 @@
+{
+    "name": "color change",
+    "effect": "whenever this pok\u00e9mon takes damage from a move, the pok\u00e9mon's type changes to match the move.  if the pok\u00e9mon has two types, both are overridden.  the pok\u00e9mon must directly take damage; for example, moves blocked by a substitute will not trigger this ability, nor will moves that deal damage indirectly, such as spikes.  this ability takes effect on only the last hit of a multiple-hit attack.  in pok\u00e9mon colosseum and xd: gale of darkness, this ability does not take effect on shadow-type moves.",
+    "description": "the pok\u00e9mon\u2019s type becomes the type of the move used on it."
+}

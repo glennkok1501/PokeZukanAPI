@@ -1,0 +1,11 @@
+{
+    "name": "discharge",
+    "type": "electric",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cool",
+    "effect": "has a 30% chance to paralyze the target.",
+    "description": "the user strikes everything around it by letting loose a flare of electricity. this may also cause paralysis."
+}

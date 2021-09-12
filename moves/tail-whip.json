@@ -1,0 +1,11 @@
+{
+    "name": "tail whip",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "cute",
+    "effect": "lowers the target's defense by one stage.",
+    "description": "the user wags its tail cutely, making opposing pok\u00e9mon less wary and lowering their defense stat."
+}

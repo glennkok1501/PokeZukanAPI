@@ -1,0 +1,11 @@
+{
+    "name": "will o wisp",
+    "type": "fire",
+    "category": "status",
+    "power": null,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "burns the target.",
+    "description": "the user shoots a sinister, bluish-white flame at the target to inflict a burn."
+}

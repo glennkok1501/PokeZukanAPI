@@ -1,0 +1,11 @@
+{
+    "name": "slash",
+    "type": "normal",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the target is attacked with a slash of claws or blades. critical hits land more easily."
+}

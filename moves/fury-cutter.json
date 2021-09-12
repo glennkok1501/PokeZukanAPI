@@ -1,0 +1,11 @@
+{
+    "name": "fury cutter",
+    "type": "bug",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 95,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "power doubles every turn this move is used in succession after the first, maxing out after five turns.",
+    "description": "the target is slashed with scythes or claws. this attack becomes more powerful if it hits in succession."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "flatter",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "raises the target's special attack by one stage and confuses the target.",
+    "description": "flattery is used to confuse the target. however, this also raises the target\u2019s sp. atk stat."
+}

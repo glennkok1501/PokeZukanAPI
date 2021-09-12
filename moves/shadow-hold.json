@@ -1,0 +1,11 @@
+{
+    "name": "shadow hold",
+    "type": "shadow",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": null,
+    "contest": null,
+    "effect": "prevents the target from leaving battle.",
+    "description": null
+}

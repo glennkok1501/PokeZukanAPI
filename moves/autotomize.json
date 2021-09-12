@@ -1,0 +1,11 @@
+{
+    "name": "autotomize",
+    "type": "steel",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "raises the user's speed by two stages and halves the user's weight.",
+    "description": "the user sheds part of its body to make itself lighter and sharply raise its speed stat."
+}

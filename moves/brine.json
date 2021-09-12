@@ -1,0 +1,11 @@
+{
+    "name": "brine",
+    "type": "water",
+    "category": "special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "has double power against pok\u00e9mon that have less than half their max hp remaining.",
+    "description": "if the target\u2019s hp is half or less, this attack will hit with double the power."
+}

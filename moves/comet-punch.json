@@ -1,0 +1,11 @@
+{
+    "name": "comet punch",
+    "type": "normal",
+    "category": "physical",
+    "power": 18,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the target is hit with a flurry of punches that strike two to five times in a row."
+}

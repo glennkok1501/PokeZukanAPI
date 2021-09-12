@@ -1,0 +1,11 @@
+{
+    "name": "struggle bug",
+    "type": "bug",
+    "category": "special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "has a 100% chance to lower the target's special attack by one stage.",
+    "description": "while resisting, the user attacks the opposing pok\u00e9mon. this lowers the sp. atk stat of those hit."
+}

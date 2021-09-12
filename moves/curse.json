@@ -1,0 +1,11 @@
+{
+    "name": "curse",
+    "type": "ghost",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "ghosts pay half their max hp to hurt the target every turn.  others decrease speed but raise attack and defense.",
+    "description": "a move that works differently for the ghost type than for all other types."
+}

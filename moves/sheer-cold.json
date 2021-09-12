@@ -1,0 +1,11 @@
+{
+    "name": "sheer cold",
+    "type": "ice",
+    "category": "special",
+    "power": null,
+    "accuracy": 30,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "causes a one-hit ko.",
+    "description": "the target faints instantly. it\u2019s less likely to hit the target if it\u2019s used by pok\u00e9mon other than ice types."
+}

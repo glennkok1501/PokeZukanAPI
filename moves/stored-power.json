@@ -1,0 +1,11 @@
+{
+    "name": "stored power",
+    "type": "psychic",
+    "category": "special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "power is higher the more the user's stats have been raised, to a maximum of 31\u00d7.",
+    "description": "the user attacks the target with stored power. the more the user\u2019s stats are raised, the greater the move\u2019s power."
+}

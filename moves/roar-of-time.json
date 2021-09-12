@@ -1,0 +1,11 @@
+{
+    "name": "roar of time",
+    "type": "dragon",
+    "category": "special",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "user foregoes its next turn to recharge.",
+    "description": "the user blasts the target with power that distorts even time. the user can\u2019t move on the next turn."
+}

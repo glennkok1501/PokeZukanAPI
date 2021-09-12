@@ -1,0 +1,11 @@
+{
+    "name": "charm",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "lowers the target's attack by two stages.",
+    "description": "the user gazes at the target rather charmingly, making it less wary. this harshly lowers its attack stat."
+}

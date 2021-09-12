@@ -1,0 +1,11 @@
+{
+    "name": "clanging scales",
+    "type": "dragon",
+    "category": "special",
+    "power": 110,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "lowers the user's defense by one stage after inflicting damage.",
+    "description": "the user rubs the scales on its entire body and makes a huge noise to attack the opposing pok\u00e9mon. the user\u2019s defense stat goes down after the attack."
+}

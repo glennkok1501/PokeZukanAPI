@@ -1,0 +1,11 @@
+{
+    "name": "instruct",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "forces the target to repeat its last used move.",
+    "description": "the user instructs the target to use the target\u2019s last move again."
+}

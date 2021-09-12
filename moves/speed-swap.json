@@ -1,0 +1,11 @@
+{
+    "name": "speed swap",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "exchanges the user's speed with the target's.",
+    "description": "the user exchanges speed stats with the target."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "sludge bomb",
+    "type": "poison",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "has a 30% chance to poison the target.",
+    "description": "unsanitary sludge is hurled at the target. this may also poison the target."
+}

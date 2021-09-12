@@ -1,0 +1,11 @@
+{
+    "name": "powder",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "explodes if the target uses a fire move this turn, damaging it for 1/4 its max hp and preventing the move.",
+    "description": "the user covers the target in a combustible powder. if the target uses a fire-type move, the powder explodes and damages the target."
+}

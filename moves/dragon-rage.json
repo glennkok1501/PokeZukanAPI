@@ -1,0 +1,11 @@
+{
+    "name": "dragon rage",
+    "type": "dragon",
+    "category": "special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "inflicts 40 points of damage.",
+    "description": "this attack hits the target with a shock wave of pure rage. this attack always inflicts 40 hp damage."
+}

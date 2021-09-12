@@ -1,0 +1,11 @@
+{
+    "name": "bug bite",
+    "type": "bug",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "if target has a berry, inflicts double damage and uses the berry.",
+    "description": "the user bites the target. if the target is holding a berry, the user eats it and gains its effect."
+}

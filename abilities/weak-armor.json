@@ -1,0 +1,5 @@
+{
+    "name": "weak armor",
+    "effect": "whenever a physical move hits this pok\u00e9mon, its speed rises one stage and its defense falls one stage.  this ability triggers on every hit of a multiple-hit move.",
+    "description": "physical attacks to the pok\u00e9mon lower its defense stat but sharply raise its speed stat."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "baby doll eyes",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": null,
+    "effect": "lowers the target's attack by one stage.",
+    "description": "the user stares at the target with its baby-doll eyes, which lowers its attack stat. this move always goes first."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "reflect type",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "user becomes the target's type.",
+    "description": "the user reflects the target\u2019s type, making it the same type as the target."
+}

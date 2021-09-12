@@ -1,0 +1,11 @@
+{
+    "name": "mystical fire",
+    "type": "fire",
+    "category": "special",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "has a 100% chance to lower the target's special attack by one stage.",
+    "description": "the user attacks by breathing a special, hot fire. this also lowers the target\u2019s sp. atk stat."
+}

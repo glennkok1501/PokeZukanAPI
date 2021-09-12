@@ -1,0 +1,11 @@
+{
+    "name": "weather ball",
+    "type": "normal",
+    "category": "special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "if there be weather, this move has doubled power and the weather's type.",
+    "description": "this attack move varies in power and type depending on the weather."
+}

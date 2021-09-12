@@ -1,0 +1,5 @@
+{
+    "name": "liquid voice",
+    "effect": "when this pok\u00e9mon uses a move that is sound-based, that move's type is water.",
+    "description": "all sound-based moves become water-type moves."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "poison heal",
+    "effect": "if this pok\u00e9mon is poisoned, it will heal for 1/8 of its maximum hp after each turn rather than taking damage.  this includes bad poison.",
+    "description": "restores hp if the pok\u00e9mon is poisoned, instead of losing hp."
+}

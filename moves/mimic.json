@@ -1,0 +1,11 @@
+{
+    "name": "mimic",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "copies the target's last used move.",
+    "description": "the user copies the target\u2019s last move. the move can be used during battle until the pok\u00e9mon is switched out."
+}

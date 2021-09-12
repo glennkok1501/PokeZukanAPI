@@ -1,0 +1,11 @@
+{
+    "name": "aura sphere",
+    "type": "fighting",
+    "category": "special",
+    "power": 80,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "never misses.",
+    "description": "the user lets loose a blast of aura power from deep within its body at the target. this attack never misses."
+}

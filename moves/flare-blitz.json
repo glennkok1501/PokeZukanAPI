@@ -1,0 +1,11 @@
+{
+    "name": "flare blitz",
+    "type": "fire",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "user takes 1/3 the damage inflicted in recoil.  has a 10% chance to burn the target.",
+    "description": "the user cloaks itself in fire and charges the target. this also damages the user quite a lot. this attack may leave the target with a burn."
+}

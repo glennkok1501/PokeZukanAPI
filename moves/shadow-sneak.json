@@ -1,0 +1,11 @@
+{
+    "name": "shadow sneak",
+    "type": "ghost",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "smart",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user extends its shadow and attacks the target from behind. this move always goes first."
+}

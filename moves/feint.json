@@ -1,0 +1,11 @@
+{
+    "name": "feint",
+    "type": "normal",
+    "category": "physical",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "hits through protect and detect.",
+    "description": "this attack hits a target using a move such as protect or detect. this also lifts the effects of those moves."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "flower shield",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "raises the defense of all grass pok\u00e9mon in battle.",
+    "description": "the user raises the defense stat of all grass-type pok\u00e9mon in battle with a mysterious power."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "forewarn",
+    "effect": "when this pok\u00e9mon enters battle, it reveals the move with the highest base power known by any opposing pok\u00e9mon to all participating trainers.  in the event of a tie, one is chosen at random.  moves without a listed base power are assigned one as follows:  power | moves ----: | -----   160 | one-hit ko moves: fissure, guillotine, horn drill, and sheer cold   120 | counter moves: counter, metal burst, and mirror coat    80 | variable power or set damage: crush grip, dragon rage, electro ball, endeavor, final gambit, flail, frustration, grass knot, gyro ball, heat crash, heavy slam, hidden power, low kick, natural gift, night shade, psywave, return, reversal, seismic toss, sonic boom, trump card, and wring out     0 | any such move not listed ",
+    "description": "when it enters a battle, the pok\u00e9mon can tell one of the moves an opposing pok\u00e9mon has."
+}

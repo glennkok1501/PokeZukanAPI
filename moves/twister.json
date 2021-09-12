@@ -1,0 +1,11 @@
+{
+    "name": "twister",
+    "type": "dragon",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "has a 20% chance to make the target flinch.",
+    "description": "the user whips up a vicious tornado to tear at the opposing pok\u00e9mon. this may also make them flinch."
+}

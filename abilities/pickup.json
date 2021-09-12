@@ -1,0 +1,5 @@
+{
+    "name": "pickup",
+    "effect": "at the end of each turn, if another pok\u00e9mon consumed or flung a held item that turn, this pok\u00e9mon picks up the item if it is not already holding one.  after each battle, this pok\u00e9mon has a 10% chance of picking up an item if it is not already holding one.  the air balloon and eject button cannot be picked up.  the items that may be found vary by game, and, since pok\u00e9mon emerald, by the pok\u00e9mon's level.  this ability is checked after the battle ends, at which point any temporary ability changes have worn off.",
+    "description": "the pok\u00e9mon may pick up the item an opposing pok\u00e9mon used during a battle. it may pick up items outside of battle, too."
+}

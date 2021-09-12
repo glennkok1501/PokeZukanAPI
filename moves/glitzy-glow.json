@@ -1,0 +1,11 @@
+{
+    "name": "glitzy glow",
+    "type": "psychic",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "sets light screen on the user's side of the field after inflicting damage.",
+    "description": null
+}

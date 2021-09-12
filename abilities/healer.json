@@ -1,0 +1,5 @@
+{
+    "name": "healer",
+    "effect": "friendly pok\u00e9mon next to this pok\u00e9mon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.",
+    "description": "sometimes heals an ally\u2019s status condition."
+}

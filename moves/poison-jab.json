@@ -1,0 +1,11 @@
+{
+    "name": "poison jab",
+    "type": "poison",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "has a 30% chance to poison the target.",
+    "description": "the target is stabbed with a tentacle or arm steeped in poison. this may also poison the target."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "skill swap",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "user and target swap abilities.",
+    "description": "the user employs its psychic power to exchange abilities with the target."
+}

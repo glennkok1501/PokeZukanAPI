@@ -1,0 +1,11 @@
+{
+    "name": "grassy glide",
+    "type": "grass",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

@@ -1,0 +1,5 @@
+{
+    "name": "frisk",
+    "effect": "when this pok\u00e9mon enters battle, it reveals an opposing pok\u00e9mon's held item to all participating trainers.  in a double battle, if one opponent has an item, this pok\u00e9mon will frisk that pok\u00e9mon; if both have an item, it will frisk one at random.",
+    "description": "when it enters a battle, the pok\u00e9mon can check an opposing pok\u00e9mon\u2019s held item."
+}

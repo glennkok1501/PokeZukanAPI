@@ -1,0 +1,11 @@
+{
+    "name": "flame charge",
+    "type": "fire",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "inflicts regular damage.  raises the user's speed by one stage.",
+    "description": "cloaking itself in flame, the user attacks. then, building up more power, the user raises its speed stat."
+}

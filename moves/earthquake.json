@@ -1,0 +1,11 @@
+{
+    "name": "earthquake",
+    "type": "ground",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "inflicts regular damage and can hit dig users.",
+    "description": "the user sets off an earthquake that strikes every pok\u00e9mon around it."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "fury swipes",
+    "type": "normal",
+    "category": "physical",
+    "power": 18,
+    "accuracy": 80,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the target is raked with sharp claws or scythes quickly two to five times in a row."
+}

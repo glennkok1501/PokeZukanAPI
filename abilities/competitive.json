@@ -1,0 +1,5 @@
+{
+    "name": "competitive",
+    "effect": "raises special attack by two stages upon having any stat lowered.",
+    "description": "boosts the sp. atk stat sharply when a stat is lowered."
+}

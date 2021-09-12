@@ -1,0 +1,11 @@
+{
+    "name": "barrier",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "raises the user's defense by two stages.",
+    "description": "the user throws up a sturdy wall that sharply raises its defense stat."
+}

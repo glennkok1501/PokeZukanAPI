@@ -1,0 +1,11 @@
+{
+    "name": "guardian of alola",
+    "type": "fairy",
+    "category": "special",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "damages the target for 75% of its remaining hp.",
+    "description": "the user, the land spirit pok\u00e9mon, obtains alola\u2019s energy using its z-power and attacks the target with full force. this reduces the target\u2019s hp greatly."
+}

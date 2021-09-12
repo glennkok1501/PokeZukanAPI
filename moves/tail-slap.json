@@ -1,0 +1,11 @@
+{
+    "name": "tail slap",
+    "type": "normal",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 85,
+    "pp": 10,
+    "contest": null,
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the user attacks by striking the target with its hard tail. it hits the target two to five times in a row."
+}

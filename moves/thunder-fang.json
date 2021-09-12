@@ -1,0 +1,11 @@
+{
+    "name": "thunder fang",
+    "type": "electric",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "has a 10% chance to paralyze the target and a 10% chance to make the target flinch.",
+    "description": "the user bites with electrified fangs. this may also make the target flinch or leave it with paralysis."
+}

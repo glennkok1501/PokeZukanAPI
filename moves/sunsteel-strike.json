@@ -1,0 +1,11 @@
+{
+    "name": "sunsteel strike",
+    "type": "steel",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "cannot be disrupted by abilities.",
+    "description": "the user slams into the target with the force of a meteor. this move can be used on the target  regardless of its abilities."
+}

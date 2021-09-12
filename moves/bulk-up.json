@@ -1,0 +1,11 @@
+{
+    "name": "bulk up",
+    "type": "fighting",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "raises the user's attack and defense by one stage.",
+    "description": "the user tenses its muscles to bulk up its body, raising both its attack and defense stats."
+}

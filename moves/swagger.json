@@ -1,0 +1,11 @@
+{
+    "name": "swagger",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "raises the target's attack by two stages and confuses the target.",
+    "description": "the user enrages and confuses the target. however, this also sharply raises the target\u2019s attack stat."
+}

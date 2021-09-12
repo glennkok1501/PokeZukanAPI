@@ -1,0 +1,11 @@
+{
+    "name": "slam",
+    "type": "normal",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 75,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the target is slammed with a long tail, vines, or the like to inflict damage."
+}

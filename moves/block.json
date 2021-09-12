@@ -1,0 +1,11 @@
+{
+    "name": "block",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "cute",
+    "effect": "prevents the target from leaving battle.",
+    "description": "the user blocks the target\u2019s way with arms spread wide to prevent escape."
+}

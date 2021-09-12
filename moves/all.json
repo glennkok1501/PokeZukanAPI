@@ -1,0 +1,4225 @@
+{
+    "count": 844,
+    "moves": [
+        {
+            "name": "pound",
+            "type": "normal",
+            "link": "moves/pound.json"
+        },
+        {
+            "name": "karate chop",
+            "type": "fighting",
+            "link": "moves/karate-chop.json"
+        },
+        {
+            "name": "double slap",
+            "type": "normal",
+            "link": "moves/double-slap.json"
+        },
+        {
+            "name": "comet punch",
+            "type": "normal",
+            "link": "moves/comet-punch.json"
+        },
+        {
+            "name": "mega punch",
+            "type": "normal",
+            "link": "moves/mega-punch.json"
+        },
+        {
+            "name": "pay day",
+            "type": "normal",
+            "link": "moves/pay-day.json"
+        },
+        {
+            "name": "fire punch",
+            "type": "fire",
+            "link": "moves/fire-punch.json"
+        },
+        {
+            "name": "ice punch",
+            "type": "ice",
+            "link": "moves/ice-punch.json"
+        },
+        {
+            "name": "thunder punch",
+            "type": "electric",
+            "link": "moves/thunder-punch.json"
+        },
+        {
+            "name": "scratch",
+            "type": "normal",
+            "link": "moves/scratch.json"
+        },
+        {
+            "name": "vise grip",
+            "type": "normal",
+            "link": "moves/vise-grip.json"
+        },
+        {
+            "name": "guillotine",
+            "type": "normal",
+            "link": "moves/guillotine.json"
+        },
+        {
+            "name": "razor wind",
+            "type": "normal",
+            "link": "moves/razor-wind.json"
+        },
+        {
+            "name": "swords dance",
+            "type": "normal",
+            "link": "moves/swords-dance.json"
+        },
+        {
+            "name": "cut",
+            "type": "normal",
+            "link": "moves/cut.json"
+        },
+        {
+            "name": "gust",
+            "type": "flying",
+            "link": "moves/gust.json"
+        },
+        {
+            "name": "wing attack",
+            "type": "flying",
+            "link": "moves/wing-attack.json"
+        },
+        {
+            "name": "whirlwind",
+            "type": "normal",
+            "link": "moves/whirlwind.json"
+        },
+        {
+            "name": "fly",
+            "type": "flying",
+            "link": "moves/fly.json"
+        },
+        {
+            "name": "bind",
+            "type": "normal",
+            "link": "moves/bind.json"
+        },
+        {
+            "name": "slam",
+            "type": "normal",
+            "link": "moves/slam.json"
+        },
+        {
+            "name": "vine whip",
+            "type": "grass",
+            "link": "moves/vine-whip.json"
+        },
+        {
+            "name": "stomp",
+            "type": "normal",
+            "link": "moves/stomp.json"
+        },
+        {
+            "name": "double kick",
+            "type": "fighting",
+            "link": "moves/double-kick.json"
+        },
+        {
+            "name": "mega kick",
+            "type": "normal",
+            "link": "moves/mega-kick.json"
+        },
+        {
+            "name": "jump kick",
+            "type": "fighting",
+            "link": "moves/jump-kick.json"
+        },
+        {
+            "name": "rolling kick",
+            "type": "fighting",
+            "link": "moves/rolling-kick.json"
+        },
+        {
+            "name": "sand attack",
+            "type": "ground",
+            "link": "moves/sand-attack.json"
+        },
+        {
+            "name": "headbutt",
+            "type": "normal",
+            "link": "moves/headbutt.json"
+        },
+        {
+            "name": "horn attack",
+            "type": "normal",
+            "link": "moves/horn-attack.json"
+        },
+        {
+            "name": "fury attack",
+            "type": "normal",
+            "link": "moves/fury-attack.json"
+        },
+        {
+            "name": "horn drill",
+            "type": "normal",
+            "link": "moves/horn-drill.json"
+        },
+        {
+            "name": "tackle",
+            "type": "normal",
+            "link": "moves/tackle.json"
+        },
+        {
+            "name": "body slam",
+            "type": "normal",
+            "link": "moves/body-slam.json"
+        },
+        {
+            "name": "wrap",
+            "type": "normal",
+            "link": "moves/wrap.json"
+        },
+        {
+            "name": "take down",
+            "type": "normal",
+            "link": "moves/take-down.json"
+        },
+        {
+            "name": "thrash",
+            "type": "normal",
+            "link": "moves/thrash.json"
+        },
+        {
+            "name": "double edge",
+            "type": "normal",
+            "link": "moves/double-edge.json"
+        },
+        {
+            "name": "tail whip",
+            "type": "normal",
+            "link": "moves/tail-whip.json"
+        },
+        {
+            "name": "poison sting",
+            "type": "poison",
+            "link": "moves/poison-sting.json"
+        },
+        {
+            "name": "twineedle",
+            "type": "bug",
+            "link": "moves/twineedle.json"
+        },
+        {
+            "name": "pin missile",
+            "type": "bug",
+            "link": "moves/pin-missile.json"
+        },
+        {
+            "name": "leer",
+            "type": "normal",
+            "link": "moves/leer.json"
+        },
+        {
+            "name": "bite",
+            "type": "dark",
+            "link": "moves/bite.json"
+        },
+        {
+            "name": "growl",
+            "type": "normal",
+            "link": "moves/growl.json"
+        },
+        {
+            "name": "roar",
+            "type": "normal",
+            "link": "moves/roar.json"
+        },
+        {
+            "name": "sing",
+            "type": "normal",
+            "link": "moves/sing.json"
+        },
+        {
+            "name": "supersonic",
+            "type": "normal",
+            "link": "moves/supersonic.json"
+        },
+        {
+            "name": "sonic boom",
+            "type": "normal",
+            "link": "moves/sonic-boom.json"
+        },
+        {
+            "name": "disable",
+            "type": "normal",
+            "link": "moves/disable.json"
+        },
+        {
+            "name": "acid",
+            "type": "poison",
+            "link": "moves/acid.json"
+        },
+        {
+            "name": "ember",
+            "type": "fire",
+            "link": "moves/ember.json"
+        },
+        {
+            "name": "flamethrower",
+            "type": "fire",
+            "link": "moves/flamethrower.json"
+        },
+        {
+            "name": "mist",
+            "type": "ice",
+            "link": "moves/mist.json"
+        },
+        {
+            "name": "water gun",
+            "type": "water",
+            "link": "moves/water-gun.json"
+        },
+        {
+            "name": "hydro pump",
+            "type": "water",
+            "link": "moves/hydro-pump.json"
+        },
+        {
+            "name": "surf",
+            "type": "water",
+            "link": "moves/surf.json"
+        },
+        {
+            "name": "ice beam",
+            "type": "ice",
+            "link": "moves/ice-beam.json"
+        },
+        {
+            "name": "blizzard",
+            "type": "ice",
+            "link": "moves/blizzard.json"
+        },
+        {
+            "name": "psybeam",
+            "type": "psychic",
+            "link": "moves/psybeam.json"
+        },
+        {
+            "name": "bubble beam",
+            "type": "water",
+            "link": "moves/bubble-beam.json"
+        },
+        {
+            "name": "aurora beam",
+            "type": "ice",
+            "link": "moves/aurora-beam.json"
+        },
+        {
+            "name": "hyper beam",
+            "type": "normal",
+            "link": "moves/hyper-beam.json"
+        },
+        {
+            "name": "peck",
+            "type": "flying",
+            "link": "moves/peck.json"
+        },
+        {
+            "name": "drill peck",
+            "type": "flying",
+            "link": "moves/drill-peck.json"
+        },
+        {
+            "name": "submission",
+            "type": "fighting",
+            "link": "moves/submission.json"
+        },
+        {
+            "name": "low kick",
+            "type": "fighting",
+            "link": "moves/low-kick.json"
+        },
+        {
+            "name": "counter",
+            "type": "fighting",
+            "link": "moves/counter.json"
+        },
+        {
+            "name": "seismic toss",
+            "type": "fighting",
+            "link": "moves/seismic-toss.json"
+        },
+        {
+            "name": "strength",
+            "type": "normal",
+            "link": "moves/strength.json"
+        },
+        {
+            "name": "absorb",
+            "type": "grass",
+            "link": "moves/absorb.json"
+        },
+        {
+            "name": "mega drain",
+            "type": "grass",
+            "link": "moves/mega-drain.json"
+        },
+        {
+            "name": "leech seed",
+            "type": "grass",
+            "link": "moves/leech-seed.json"
+        },
+        {
+            "name": "growth",
+            "type": "normal",
+            "link": "moves/growth.json"
+        },
+        {
+            "name": "razor leaf",
+            "type": "grass",
+            "link": "moves/razor-leaf.json"
+        },
+        {
+            "name": "solar beam",
+            "type": "grass",
+            "link": "moves/solar-beam.json"
+        },
+        {
+            "name": "poison powder",
+            "type": "poison",
+            "link": "moves/poison-powder.json"
+        },
+        {
+            "name": "stun spore",
+            "type": "grass",
+            "link": "moves/stun-spore.json"
+        },
+        {
+            "name": "sleep powder",
+            "type": "grass",
+            "link": "moves/sleep-powder.json"
+        },
+        {
+            "name": "petal dance",
+            "type": "grass",
+            "link": "moves/petal-dance.json"
+        },
+        {
+            "name": "string shot",
+            "type": "bug",
+            "link": "moves/string-shot.json"
+        },
+        {
+            "name": "dragon rage",
+            "type": "dragon",
+            "link": "moves/dragon-rage.json"
+        },
+        {
+            "name": "fire spin",
+            "type": "fire",
+            "link": "moves/fire-spin.json"
+        },
+        {
+            "name": "thunder shock",
+            "type": "electric",
+            "link": "moves/thunder-shock.json"
+        },
+        {
+            "name": "thunderbolt",
+            "type": "electric",
+            "link": "moves/thunderbolt.json"
+        },
+        {
+            "name": "thunder wave",
+            "type": "electric",
+            "link": "moves/thunder-wave.json"
+        },
+        {
+            "name": "thunder",
+            "type": "electric",
+            "link": "moves/thunder.json"
+        },
+        {
+            "name": "rock throw",
+            "type": "rock",
+            "link": "moves/rock-throw.json"
+        },
+        {
+            "name": "earthquake",
+            "type": "ground",
+            "link": "moves/earthquake.json"
+        },
+        {
+            "name": "fissure",
+            "type": "ground",
+            "link": "moves/fissure.json"
+        },
+        {
+            "name": "dig",
+            "type": "ground",
+            "link": "moves/dig.json"
+        },
+        {
+            "name": "toxic",
+            "type": "poison",
+            "link": "moves/toxic.json"
+        },
+        {
+            "name": "confusion",
+            "type": "psychic",
+            "link": "moves/confusion.json"
+        },
+        {
+            "name": "psychic",
+            "type": "psychic",
+            "link": "moves/psychic.json"
+        },
+        {
+            "name": "hypnosis",
+            "type": "psychic",
+            "link": "moves/hypnosis.json"
+        },
+        {
+            "name": "meditate",
+            "type": "psychic",
+            "link": "moves/meditate.json"
+        },
+        {
+            "name": "agility",
+            "type": "psychic",
+            "link": "moves/agility.json"
+        },
+        {
+            "name": "quick attack",
+            "type": "normal",
+            "link": "moves/quick-attack.json"
+        },
+        {
+            "name": "rage",
+            "type": "normal",
+            "link": "moves/rage.json"
+        },
+        {
+            "name": "teleport",
+            "type": "psychic",
+            "link": "moves/teleport.json"
+        },
+        {
+            "name": "night shade",
+            "type": "ghost",
+            "link": "moves/night-shade.json"
+        },
+        {
+            "name": "mimic",
+            "type": "normal",
+            "link": "moves/mimic.json"
+        },
+        {
+            "name": "screech",
+            "type": "normal",
+            "link": "moves/screech.json"
+        },
+        {
+            "name": "double team",
+            "type": "normal",
+            "link": "moves/double-team.json"
+        },
+        {
+            "name": "recover",
+            "type": "normal",
+            "link": "moves/recover.json"
+        },
+        {
+            "name": "harden",
+            "type": "normal",
+            "link": "moves/harden.json"
+        },
+        {
+            "name": "minimize",
+            "type": "normal",
+            "link": "moves/minimize.json"
+        },
+        {
+            "name": "smokescreen",
+            "type": "normal",
+            "link": "moves/smokescreen.json"
+        },
+        {
+            "name": "confuse ray",
+            "type": "ghost",
+            "link": "moves/confuse-ray.json"
+        },
+        {
+            "name": "withdraw",
+            "type": "water",
+            "link": "moves/withdraw.json"
+        },
+        {
+            "name": "defense curl",
+            "type": "normal",
+            "link": "moves/defense-curl.json"
+        },
+        {
+            "name": "barrier",
+            "type": "psychic",
+            "link": "moves/barrier.json"
+        },
+        {
+            "name": "light screen",
+            "type": "psychic",
+            "link": "moves/light-screen.json"
+        },
+        {
+            "name": "haze",
+            "type": "ice",
+            "link": "moves/haze.json"
+        },
+        {
+            "name": "reflect",
+            "type": "psychic",
+            "link": "moves/reflect.json"
+        },
+        {
+            "name": "focus energy",
+            "type": "normal",
+            "link": "moves/focus-energy.json"
+        },
+        {
+            "name": "bide",
+            "type": "normal",
+            "link": "moves/bide.json"
+        },
+        {
+            "name": "metronome",
+            "type": "normal",
+            "link": "moves/metronome.json"
+        },
+        {
+            "name": "mirror move",
+            "type": "flying",
+            "link": "moves/mirror-move.json"
+        },
+        {
+            "name": "self destruct",
+            "type": "normal",
+            "link": "moves/self-destruct.json"
+        },
+        {
+            "name": "egg bomb",
+            "type": "normal",
+            "link": "moves/egg-bomb.json"
+        },
+        {
+            "name": "lick",
+            "type": "ghost",
+            "link": "moves/lick.json"
+        },
+        {
+            "name": "smog",
+            "type": "poison",
+            "link": "moves/smog.json"
+        },
+        {
+            "name": "sludge",
+            "type": "poison",
+            "link": "moves/sludge.json"
+        },
+        {
+            "name": "bone club",
+            "type": "ground",
+            "link": "moves/bone-club.json"
+        },
+        {
+            "name": "fire blast",
+            "type": "fire",
+            "link": "moves/fire-blast.json"
+        },
+        {
+            "name": "waterfall",
+            "type": "water",
+            "link": "moves/waterfall.json"
+        },
+        {
+            "name": "clamp",
+            "type": "water",
+            "link": "moves/clamp.json"
+        },
+        {
+            "name": "swift",
+            "type": "normal",
+            "link": "moves/swift.json"
+        },
+        {
+            "name": "skull bash",
+            "type": "normal",
+            "link": "moves/skull-bash.json"
+        },
+        {
+            "name": "spike cannon",
+            "type": "normal",
+            "link": "moves/spike-cannon.json"
+        },
+        {
+            "name": "constrict",
+            "type": "normal",
+            "link": "moves/constrict.json"
+        },
+        {
+            "name": "amnesia",
+            "type": "psychic",
+            "link": "moves/amnesia.json"
+        },
+        {
+            "name": "kinesis",
+            "type": "psychic",
+            "link": "moves/kinesis.json"
+        },
+        {
+            "name": "soft boiled",
+            "type": "normal",
+            "link": "moves/soft-boiled.json"
+        },
+        {
+            "name": "high jump kick",
+            "type": "fighting",
+            "link": "moves/high-jump-kick.json"
+        },
+        {
+            "name": "glare",
+            "type": "normal",
+            "link": "moves/glare.json"
+        },
+        {
+            "name": "dream eater",
+            "type": "psychic",
+            "link": "moves/dream-eater.json"
+        },
+        {
+            "name": "poison gas",
+            "type": "poison",
+            "link": "moves/poison-gas.json"
+        },
+        {
+            "name": "barrage",
+            "type": "normal",
+            "link": "moves/barrage.json"
+        },
+        {
+            "name": "leech life",
+            "type": "bug",
+            "link": "moves/leech-life.json"
+        },
+        {
+            "name": "lovely kiss",
+            "type": "normal",
+            "link": "moves/lovely-kiss.json"
+        },
+        {
+            "name": "sky attack",
+            "type": "flying",
+            "link": "moves/sky-attack.json"
+        },
+        {
+            "name": "transform",
+            "type": "normal",
+            "link": "moves/transform.json"
+        },
+        {
+            "name": "bubble",
+            "type": "water",
+            "link": "moves/bubble.json"
+        },
+        {
+            "name": "dizzy punch",
+            "type": "normal",
+            "link": "moves/dizzy-punch.json"
+        },
+        {
+            "name": "spore",
+            "type": "grass",
+            "link": "moves/spore.json"
+        },
+        {
+            "name": "flash",
+            "type": "normal",
+            "link": "moves/flash.json"
+        },
+        {
+            "name": "psywave",
+            "type": "psychic",
+            "link": "moves/psywave.json"
+        },
+        {
+            "name": "splash",
+            "type": "normal",
+            "link": "moves/splash.json"
+        },
+        {
+            "name": "acid armor",
+            "type": "poison",
+            "link": "moves/acid-armor.json"
+        },
+        {
+            "name": "crabhammer",
+            "type": "water",
+            "link": "moves/crabhammer.json"
+        },
+        {
+            "name": "explosion",
+            "type": "normal",
+            "link": "moves/explosion.json"
+        },
+        {
+            "name": "fury swipes",
+            "type": "normal",
+            "link": "moves/fury-swipes.json"
+        },
+        {
+            "name": "bonemerang",
+            "type": "ground",
+            "link": "moves/bonemerang.json"
+        },
+        {
+            "name": "rest",
+            "type": "psychic",
+            "link": "moves/rest.json"
+        },
+        {
+            "name": "rock slide",
+            "type": "rock",
+            "link": "moves/rock-slide.json"
+        },
+        {
+            "name": "hyper fang",
+            "type": "normal",
+            "link": "moves/hyper-fang.json"
+        },
+        {
+            "name": "sharpen",
+            "type": "normal",
+            "link": "moves/sharpen.json"
+        },
+        {
+            "name": "conversion",
+            "type": "normal",
+            "link": "moves/conversion.json"
+        },
+        {
+            "name": "tri attack",
+            "type": "normal",
+            "link": "moves/tri-attack.json"
+        },
+        {
+            "name": "super fang",
+            "type": "normal",
+            "link": "moves/super-fang.json"
+        },
+        {
+            "name": "slash",
+            "type": "normal",
+            "link": "moves/slash.json"
+        },
+        {
+            "name": "substitute",
+            "type": "normal",
+            "link": "moves/substitute.json"
+        },
+        {
+            "name": "struggle",
+            "type": "normal",
+            "link": "moves/struggle.json"
+        },
+        {
+            "name": "sketch",
+            "type": "normal",
+            "link": "moves/sketch.json"
+        },
+        {
+            "name": "triple kick",
+            "type": "fighting",
+            "link": "moves/triple-kick.json"
+        },
+        {
+            "name": "thief",
+            "type": "dark",
+            "link": "moves/thief.json"
+        },
+        {
+            "name": "spider web",
+            "type": "bug",
+            "link": "moves/spider-web.json"
+        },
+        {
+            "name": "mind reader",
+            "type": "normal",
+            "link": "moves/mind-reader.json"
+        },
+        {
+            "name": "nightmare",
+            "type": "ghost",
+            "link": "moves/nightmare.json"
+        },
+        {
+            "name": "flame wheel",
+            "type": "fire",
+            "link": "moves/flame-wheel.json"
+        },
+        {
+            "name": "snore",
+            "type": "normal",
+            "link": "moves/snore.json"
+        },
+        {
+            "name": "curse",
+            "type": "ghost",
+            "link": "moves/curse.json"
+        },
+        {
+            "name": "flail",
+            "type": "normal",
+            "link": "moves/flail.json"
+        },
+        {
+            "name": "conversion 2",
+            "type": "normal",
+            "link": "moves/conversion-2.json"
+        },
+        {
+            "name": "aeroblast",
+            "type": "flying",
+            "link": "moves/aeroblast.json"
+        },
+        {
+            "name": "cotton spore",
+            "type": "grass",
+            "link": "moves/cotton-spore.json"
+        },
+        {
+            "name": "reversal",
+            "type": "fighting",
+            "link": "moves/reversal.json"
+        },
+        {
+            "name": "spite",
+            "type": "ghost",
+            "link": "moves/spite.json"
+        },
+        {
+            "name": "powder snow",
+            "type": "ice",
+            "link": "moves/powder-snow.json"
+        },
+        {
+            "name": "protect",
+            "type": "normal",
+            "link": "moves/protect.json"
+        },
+        {
+            "name": "mach punch",
+            "type": "fighting",
+            "link": "moves/mach-punch.json"
+        },
+        {
+            "name": "scary face",
+            "type": "normal",
+            "link": "moves/scary-face.json"
+        },
+        {
+            "name": "feint attack",
+            "type": "dark",
+            "link": "moves/feint-attack.json"
+        },
+        {
+            "name": "sweet kiss",
+            "type": "fairy",
+            "link": "moves/sweet-kiss.json"
+        },
+        {
+            "name": "belly drum",
+            "type": "normal",
+            "link": "moves/belly-drum.json"
+        },
+        {
+            "name": "sludge bomb",
+            "type": "poison",
+            "link": "moves/sludge-bomb.json"
+        },
+        {
+            "name": "mud slap",
+            "type": "ground",
+            "link": "moves/mud-slap.json"
+        },
+        {
+            "name": "octazooka",
+            "type": "water",
+            "link": "moves/octazooka.json"
+        },
+        {
+            "name": "spikes",
+            "type": "ground",
+            "link": "moves/spikes.json"
+        },
+        {
+            "name": "zap cannon",
+            "type": "electric",
+            "link": "moves/zap-cannon.json"
+        },
+        {
+            "name": "foresight",
+            "type": "normal",
+            "link": "moves/foresight.json"
+        },
+        {
+            "name": "destiny bond",
+            "type": "ghost",
+            "link": "moves/destiny-bond.json"
+        },
+        {
+            "name": "perish song",
+            "type": "normal",
+            "link": "moves/perish-song.json"
+        },
+        {
+            "name": "icy wind",
+            "type": "ice",
+            "link": "moves/icy-wind.json"
+        },
+        {
+            "name": "detect",
+            "type": "fighting",
+            "link": "moves/detect.json"
+        },
+        {
+            "name": "bone rush",
+            "type": "ground",
+            "link": "moves/bone-rush.json"
+        },
+        {
+            "name": "lock on",
+            "type": "normal",
+            "link": "moves/lock-on.json"
+        },
+        {
+            "name": "outrage",
+            "type": "dragon",
+            "link": "moves/outrage.json"
+        },
+        {
+            "name": "sandstorm",
+            "type": "rock",
+            "link": "moves/sandstorm.json"
+        },
+        {
+            "name": "giga drain",
+            "type": "grass",
+            "link": "moves/giga-drain.json"
+        },
+        {
+            "name": "endure",
+            "type": "normal",
+            "link": "moves/endure.json"
+        },
+        {
+            "name": "charm",
+            "type": "fairy",
+            "link": "moves/charm.json"
+        },
+        {
+            "name": "rollout",
+            "type": "rock",
+            "link": "moves/rollout.json"
+        },
+        {
+            "name": "false swipe",
+            "type": "normal",
+            "link": "moves/false-swipe.json"
+        },
+        {
+            "name": "swagger",
+            "type": "normal",
+            "link": "moves/swagger.json"
+        },
+        {
+            "name": "milk drink",
+            "type": "normal",
+            "link": "moves/milk-drink.json"
+        },
+        {
+            "name": "spark",
+            "type": "electric",
+            "link": "moves/spark.json"
+        },
+        {
+            "name": "fury cutter",
+            "type": "bug",
+            "link": "moves/fury-cutter.json"
+        },
+        {
+            "name": "steel wing",
+            "type": "steel",
+            "link": "moves/steel-wing.json"
+        },
+        {
+            "name": "mean look",
+            "type": "normal",
+            "link": "moves/mean-look.json"
+        },
+        {
+            "name": "attract",
+            "type": "normal",
+            "link": "moves/attract.json"
+        },
+        {
+            "name": "sleep talk",
+            "type": "normal",
+            "link": "moves/sleep-talk.json"
+        },
+        {
+            "name": "heal bell",
+            "type": "normal",
+            "link": "moves/heal-bell.json"
+        },
+        {
+            "name": "return",
+            "type": "normal",
+            "link": "moves/return.json"
+        },
+        {
+            "name": "present",
+            "type": "normal",
+            "link": "moves/present.json"
+        },
+        {
+            "name": "frustration",
+            "type": "normal",
+            "link": "moves/frustration.json"
+        },
+        {
+            "name": "safeguard",
+            "type": "normal",
+            "link": "moves/safeguard.json"
+        },
+        {
+            "name": "pain split",
+            "type": "normal",
+            "link": "moves/pain-split.json"
+        },
+        {
+            "name": "sacred fire",
+            "type": "fire",
+            "link": "moves/sacred-fire.json"
+        },
+        {
+            "name": "magnitude",
+            "type": "ground",
+            "link": "moves/magnitude.json"
+        },
+        {
+            "name": "dynamic punch",
+            "type": "fighting",
+            "link": "moves/dynamic-punch.json"
+        },
+        {
+            "name": "megahorn",
+            "type": "bug",
+            "link": "moves/megahorn.json"
+        },
+        {
+            "name": "dragon breath",
+            "type": "dragon",
+            "link": "moves/dragon-breath.json"
+        },
+        {
+            "name": "baton pass",
+            "type": "normal",
+            "link": "moves/baton-pass.json"
+        },
+        {
+            "name": "encore",
+            "type": "normal",
+            "link": "moves/encore.json"
+        },
+        {
+            "name": "pursuit",
+            "type": "dark",
+            "link": "moves/pursuit.json"
+        },
+        {
+            "name": "rapid spin",
+            "type": "normal",
+            "link": "moves/rapid-spin.json"
+        },
+        {
+            "name": "sweet scent",
+            "type": "normal",
+            "link": "moves/sweet-scent.json"
+        },
+        {
+            "name": "iron tail",
+            "type": "steel",
+            "link": "moves/iron-tail.json"
+        },
+        {
+            "name": "metal claw",
+            "type": "steel",
+            "link": "moves/metal-claw.json"
+        },
+        {
+            "name": "vital throw",
+            "type": "fighting",
+            "link": "moves/vital-throw.json"
+        },
+        {
+            "name": "morning sun",
+            "type": "normal",
+            "link": "moves/morning-sun.json"
+        },
+        {
+            "name": "synthesis",
+            "type": "grass",
+            "link": "moves/synthesis.json"
+        },
+        {
+            "name": "moonlight",
+            "type": "fairy",
+            "link": "moves/moonlight.json"
+        },
+        {
+            "name": "hidden power",
+            "type": "normal",
+            "link": "moves/hidden-power.json"
+        },
+        {
+            "name": "cross chop",
+            "type": "fighting",
+            "link": "moves/cross-chop.json"
+        },
+        {
+            "name": "twister",
+            "type": "dragon",
+            "link": "moves/twister.json"
+        },
+        {
+            "name": "rain dance",
+            "type": "water",
+            "link": "moves/rain-dance.json"
+        },
+        {
+            "name": "sunny day",
+            "type": "fire",
+            "link": "moves/sunny-day.json"
+        },
+        {
+            "name": "crunch",
+            "type": "dark",
+            "link": "moves/crunch.json"
+        },
+        {
+            "name": "mirror coat",
+            "type": "psychic",
+            "link": "moves/mirror-coat.json"
+        },
+        {
+            "name": "psych up",
+            "type": "normal",
+            "link": "moves/psych-up.json"
+        },
+        {
+            "name": "extreme speed",
+            "type": "normal",
+            "link": "moves/extreme-speed.json"
+        },
+        {
+            "name": "ancient power",
+            "type": "rock",
+            "link": "moves/ancient-power.json"
+        },
+        {
+            "name": "shadow ball",
+            "type": "ghost",
+            "link": "moves/shadow-ball.json"
+        },
+        {
+            "name": "future sight",
+            "type": "psychic",
+            "link": "moves/future-sight.json"
+        },
+        {
+            "name": "rock smash",
+            "type": "fighting",
+            "link": "moves/rock-smash.json"
+        },
+        {
+            "name": "whirlpool",
+            "type": "water",
+            "link": "moves/whirlpool.json"
+        },
+        {
+            "name": "beat up",
+            "type": "dark",
+            "link": "moves/beat-up.json"
+        },
+        {
+            "name": "fake out",
+            "type": "normal",
+            "link": "moves/fake-out.json"
+        },
+        {
+            "name": "uproar",
+            "type": "normal",
+            "link": "moves/uproar.json"
+        },
+        {
+            "name": "stockpile",
+            "type": "normal",
+            "link": "moves/stockpile.json"
+        },
+        {
+            "name": "spit up",
+            "type": "normal",
+            "link": "moves/spit-up.json"
+        },
+        {
+            "name": "swallow",
+            "type": "normal",
+            "link": "moves/swallow.json"
+        },
+        {
+            "name": "heat wave",
+            "type": "fire",
+            "link": "moves/heat-wave.json"
+        },
+        {
+            "name": "hail",
+            "type": "ice",
+            "link": "moves/hail.json"
+        },
+        {
+            "name": "torment",
+            "type": "dark",
+            "link": "moves/torment.json"
+        },
+        {
+            "name": "flatter",
+            "type": "dark",
+            "link": "moves/flatter.json"
+        },
+        {
+            "name": "will o wisp",
+            "type": "fire",
+            "link": "moves/will-o-wisp.json"
+        },
+        {
+            "name": "memento",
+            "type": "dark",
+            "link": "moves/memento.json"
+        },
+        {
+            "name": "facade",
+            "type": "normal",
+            "link": "moves/facade.json"
+        },
+        {
+            "name": "focus punch",
+            "type": "fighting",
+            "link": "moves/focus-punch.json"
+        },
+        {
+            "name": "smelling salts",
+            "type": "normal",
+            "link": "moves/smelling-salts.json"
+        },
+        {
+            "name": "follow me",
+            "type": "normal",
+            "link": "moves/follow-me.json"
+        },
+        {
+            "name": "nature power",
+            "type": "normal",
+            "link": "moves/nature-power.json"
+        },
+        {
+            "name": "charge",
+            "type": "electric",
+            "link": "moves/charge.json"
+        },
+        {
+            "name": "taunt",
+            "type": "dark",
+            "link": "moves/taunt.json"
+        },
+        {
+            "name": "helping hand",
+            "type": "normal",
+            "link": "moves/helping-hand.json"
+        },
+        {
+            "name": "trick",
+            "type": "psychic",
+            "link": "moves/trick.json"
+        },
+        {
+            "name": "role play",
+            "type": "psychic",
+            "link": "moves/role-play.json"
+        },
+        {
+            "name": "wish",
+            "type": "normal",
+            "link": "moves/wish.json"
+        },
+        {
+            "name": "assist",
+            "type": "normal",
+            "link": "moves/assist.json"
+        },
+        {
+            "name": "ingrain",
+            "type": "grass",
+            "link": "moves/ingrain.json"
+        },
+        {
+            "name": "superpower",
+            "type": "fighting",
+            "link": "moves/superpower.json"
+        },
+        {
+            "name": "magic coat",
+            "type": "psychic",
+            "link": "moves/magic-coat.json"
+        },
+        {
+            "name": "recycle",
+            "type": "normal",
+            "link": "moves/recycle.json"
+        },
+        {
+            "name": "revenge",
+            "type": "fighting",
+            "link": "moves/revenge.json"
+        },
+        {
+            "name": "brick break",
+            "type": "fighting",
+            "link": "moves/brick-break.json"
+        },
+        {
+            "name": "yawn",
+            "type": "normal",
+            "link": "moves/yawn.json"
+        },
+        {
+            "name": "knock off",
+            "type": "dark",
+            "link": "moves/knock-off.json"
+        },
+        {
+            "name": "endeavor",
+            "type": "normal",
+            "link": "moves/endeavor.json"
+        },
+        {
+            "name": "eruption",
+            "type": "fire",
+            "link": "moves/eruption.json"
+        },
+        {
+            "name": "skill swap",
+            "type": "psychic",
+            "link": "moves/skill-swap.json"
+        },
+        {
+            "name": "imprison",
+            "type": "psychic",
+            "link": "moves/imprison.json"
+        },
+        {
+            "name": "refresh",
+            "type": "normal",
+            "link": "moves/refresh.json"
+        },
+        {
+            "name": "grudge",
+            "type": "ghost",
+            "link": "moves/grudge.json"
+        },
+        {
+            "name": "snatch",
+            "type": "dark",
+            "link": "moves/snatch.json"
+        },
+        {
+            "name": "secret power",
+            "type": "normal",
+            "link": "moves/secret-power.json"
+        },
+        {
+            "name": "dive",
+            "type": "water",
+            "link": "moves/dive.json"
+        },
+        {
+            "name": "arm thrust",
+            "type": "fighting",
+            "link": "moves/arm-thrust.json"
+        },
+        {
+            "name": "camouflage",
+            "type": "normal",
+            "link": "moves/camouflage.json"
+        },
+        {
+            "name": "tail glow",
+            "type": "bug",
+            "link": "moves/tail-glow.json"
+        },
+        {
+            "name": "luster purge",
+            "type": "psychic",
+            "link": "moves/luster-purge.json"
+        },
+        {
+            "name": "mist ball",
+            "type": "psychic",
+            "link": "moves/mist-ball.json"
+        },
+        {
+            "name": "feather dance",
+            "type": "flying",
+            "link": "moves/feather-dance.json"
+        },
+        {
+            "name": "teeter dance",
+            "type": "normal",
+            "link": "moves/teeter-dance.json"
+        },
+        {
+            "name": "blaze kick",
+            "type": "fire",
+            "link": "moves/blaze-kick.json"
+        },
+        {
+            "name": "mud sport",
+            "type": "ground",
+            "link": "moves/mud-sport.json"
+        },
+        {
+            "name": "ice ball",
+            "type": "ice",
+            "link": "moves/ice-ball.json"
+        },
+        {
+            "name": "needle arm",
+            "type": "grass",
+            "link": "moves/needle-arm.json"
+        },
+        {
+            "name": "slack off",
+            "type": "normal",
+            "link": "moves/slack-off.json"
+        },
+        {
+            "name": "hyper voice",
+            "type": "normal",
+            "link": "moves/hyper-voice.json"
+        },
+        {
+            "name": "poison fang",
+            "type": "poison",
+            "link": "moves/poison-fang.json"
+        },
+        {
+            "name": "crush claw",
+            "type": "normal",
+            "link": "moves/crush-claw.json"
+        },
+        {
+            "name": "blast burn",
+            "type": "fire",
+            "link": "moves/blast-burn.json"
+        },
+        {
+            "name": "hydro cannon",
+            "type": "water",
+            "link": "moves/hydro-cannon.json"
+        },
+        {
+            "name": "meteor mash",
+            "type": "steel",
+            "link": "moves/meteor-mash.json"
+        },
+        {
+            "name": "astonish",
+            "type": "ghost",
+            "link": "moves/astonish.json"
+        },
+        {
+            "name": "weather ball",
+            "type": "normal",
+            "link": "moves/weather-ball.json"
+        },
+        {
+            "name": "aromatherapy",
+            "type": "grass",
+            "link": "moves/aromatherapy.json"
+        },
+        {
+            "name": "fake tears",
+            "type": "dark",
+            "link": "moves/fake-tears.json"
+        },
+        {
+            "name": "air cutter",
+            "type": "flying",
+            "link": "moves/air-cutter.json"
+        },
+        {
+            "name": "overheat",
+            "type": "fire",
+            "link": "moves/overheat.json"
+        },
+        {
+            "name": "odor sleuth",
+            "type": "normal",
+            "link": "moves/odor-sleuth.json"
+        },
+        {
+            "name": "rock tomb",
+            "type": "rock",
+            "link": "moves/rock-tomb.json"
+        },
+        {
+            "name": "silver wind",
+            "type": "bug",
+            "link": "moves/silver-wind.json"
+        },
+        {
+            "name": "metal sound",
+            "type": "steel",
+            "link": "moves/metal-sound.json"
+        },
+        {
+            "name": "grass whistle",
+            "type": "grass",
+            "link": "moves/grass-whistle.json"
+        },
+        {
+            "name": "tickle",
+            "type": "normal",
+            "link": "moves/tickle.json"
+        },
+        {
+            "name": "cosmic power",
+            "type": "psychic",
+            "link": "moves/cosmic-power.json"
+        },
+        {
+            "name": "water spout",
+            "type": "water",
+            "link": "moves/water-spout.json"
+        },
+        {
+            "name": "signal beam",
+            "type": "bug",
+            "link": "moves/signal-beam.json"
+        },
+        {
+            "name": "shadow punch",
+            "type": "ghost",
+            "link": "moves/shadow-punch.json"
+        },
+        {
+            "name": "extrasensory",
+            "type": "psychic",
+            "link": "moves/extrasensory.json"
+        },
+        {
+            "name": "sky uppercut",
+            "type": "fighting",
+            "link": "moves/sky-uppercut.json"
+        },
+        {
+            "name": "sand tomb",
+            "type": "ground",
+            "link": "moves/sand-tomb.json"
+        },
+        {
+            "name": "sheer cold",
+            "type": "ice",
+            "link": "moves/sheer-cold.json"
+        },
+        {
+            "name": "muddy water",
+            "type": "water",
+            "link": "moves/muddy-water.json"
+        },
+        {
+            "name": "bullet seed",
+            "type": "grass",
+            "link": "moves/bullet-seed.json"
+        },
+        {
+            "name": "aerial ace",
+            "type": "flying",
+            "link": "moves/aerial-ace.json"
+        },
+        {
+            "name": "icicle spear",
+            "type": "ice",
+            "link": "moves/icicle-spear.json"
+        },
+        {
+            "name": "iron defense",
+            "type": "steel",
+            "link": "moves/iron-defense.json"
+        },
+        {
+            "name": "block",
+            "type": "normal",
+            "link": "moves/block.json"
+        },
+        {
+            "name": "howl",
+            "type": "normal",
+            "link": "moves/howl.json"
+        },
+        {
+            "name": "dragon claw",
+            "type": "dragon",
+            "link": "moves/dragon-claw.json"
+        },
+        {
+            "name": "frenzy plant",
+            "type": "grass",
+            "link": "moves/frenzy-plant.json"
+        },
+        {
+            "name": "bulk up",
+            "type": "fighting",
+            "link": "moves/bulk-up.json"
+        },
+        {
+            "name": "bounce",
+            "type": "flying",
+            "link": "moves/bounce.json"
+        },
+        {
+            "name": "mud shot",
+            "type": "ground",
+            "link": "moves/mud-shot.json"
+        },
+        {
+            "name": "poison tail",
+            "type": "poison",
+            "link": "moves/poison-tail.json"
+        },
+        {
+            "name": "covet",
+            "type": "normal",
+            "link": "moves/covet.json"
+        },
+        {
+            "name": "volt tackle",
+            "type": "electric",
+            "link": "moves/volt-tackle.json"
+        },
+        {
+            "name": "magical leaf",
+            "type": "grass",
+            "link": "moves/magical-leaf.json"
+        },
+        {
+            "name": "water sport",
+            "type": "water",
+            "link": "moves/water-sport.json"
+        },
+        {
+            "name": "calm mind",
+            "type": "psychic",
+            "link": "moves/calm-mind.json"
+        },
+        {
+            "name": "leaf blade",
+            "type": "grass",
+            "link": "moves/leaf-blade.json"
+        },
+        {
+            "name": "dragon dance",
+            "type": "dragon",
+            "link": "moves/dragon-dance.json"
+        },
+        {
+            "name": "rock blast",
+            "type": "rock",
+            "link": "moves/rock-blast.json"
+        },
+        {
+            "name": "shock wave",
+            "type": "electric",
+            "link": "moves/shock-wave.json"
+        },
+        {
+            "name": "water pulse",
+            "type": "water",
+            "link": "moves/water-pulse.json"
+        },
+        {
+            "name": "doom desire",
+            "type": "steel",
+            "link": "moves/doom-desire.json"
+        },
+        {
+            "name": "psycho boost",
+            "type": "psychic",
+            "link": "moves/psycho-boost.json"
+        },
+        {
+            "name": "roost",
+            "type": "flying",
+            "link": "moves/roost.json"
+        },
+        {
+            "name": "gravity",
+            "type": "psychic",
+            "link": "moves/gravity.json"
+        },
+        {
+            "name": "miracle eye",
+            "type": "psychic",
+            "link": "moves/miracle-eye.json"
+        },
+        {
+            "name": "wake up slap",
+            "type": "fighting",
+            "link": "moves/wake-up-slap.json"
+        },
+        {
+            "name": "hammer arm",
+            "type": "fighting",
+            "link": "moves/hammer-arm.json"
+        },
+        {
+            "name": "gyro ball",
+            "type": "steel",
+            "link": "moves/gyro-ball.json"
+        },
+        {
+            "name": "healing wish",
+            "type": "psychic",
+            "link": "moves/healing-wish.json"
+        },
+        {
+            "name": "brine",
+            "type": "water",
+            "link": "moves/brine.json"
+        },
+        {
+            "name": "natural gift",
+            "type": "normal",
+            "link": "moves/natural-gift.json"
+        },
+        {
+            "name": "feint",
+            "type": "normal",
+            "link": "moves/feint.json"
+        },
+        {
+            "name": "pluck",
+            "type": "flying",
+            "link": "moves/pluck.json"
+        },
+        {
+            "name": "tailwind",
+            "type": "flying",
+            "link": "moves/tailwind.json"
+        },
+        {
+            "name": "acupressure",
+            "type": "normal",
+            "link": "moves/acupressure.json"
+        },
+        {
+            "name": "metal burst",
+            "type": "steel",
+            "link": "moves/metal-burst.json"
+        },
+        {
+            "name": "u turn",
+            "type": "bug",
+            "link": "moves/u-turn.json"
+        },
+        {
+            "name": "close combat",
+            "type": "fighting",
+            "link": "moves/close-combat.json"
+        },
+        {
+            "name": "payback",
+            "type": "dark",
+            "link": "moves/payback.json"
+        },
+        {
+            "name": "assurance",
+            "type": "dark",
+            "link": "moves/assurance.json"
+        },
+        {
+            "name": "embargo",
+            "type": "dark",
+            "link": "moves/embargo.json"
+        },
+        {
+            "name": "fling",
+            "type": "dark",
+            "link": "moves/fling.json"
+        },
+        {
+            "name": "psycho shift",
+            "type": "psychic",
+            "link": "moves/psycho-shift.json"
+        },
+        {
+            "name": "trump card",
+            "type": "normal",
+            "link": "moves/trump-card.json"
+        },
+        {
+            "name": "heal block",
+            "type": "psychic",
+            "link": "moves/heal-block.json"
+        },
+        {
+            "name": "wring out",
+            "type": "normal",
+            "link": "moves/wring-out.json"
+        },
+        {
+            "name": "power trick",
+            "type": "psychic",
+            "link": "moves/power-trick.json"
+        },
+        {
+            "name": "gastro acid",
+            "type": "poison",
+            "link": "moves/gastro-acid.json"
+        },
+        {
+            "name": "lucky chant",
+            "type": "normal",
+            "link": "moves/lucky-chant.json"
+        },
+        {
+            "name": "me first",
+            "type": "normal",
+            "link": "moves/me-first.json"
+        },
+        {
+            "name": "copycat",
+            "type": "normal",
+            "link": "moves/copycat.json"
+        },
+        {
+            "name": "power swap",
+            "type": "psychic",
+            "link": "moves/power-swap.json"
+        },
+        {
+            "name": "guard swap",
+            "type": "psychic",
+            "link": "moves/guard-swap.json"
+        },
+        {
+            "name": "punishment",
+            "type": "dark",
+            "link": "moves/punishment.json"
+        },
+        {
+            "name": "last resort",
+            "type": "normal",
+            "link": "moves/last-resort.json"
+        },
+        {
+            "name": "worry seed",
+            "type": "grass",
+            "link": "moves/worry-seed.json"
+        },
+        {
+            "name": "sucker punch",
+            "type": "dark",
+            "link": "moves/sucker-punch.json"
+        },
+        {
+            "name": "toxic spikes",
+            "type": "poison",
+            "link": "moves/toxic-spikes.json"
+        },
+        {
+            "name": "heart swap",
+            "type": "psychic",
+            "link": "moves/heart-swap.json"
+        },
+        {
+            "name": "aqua ring",
+            "type": "water",
+            "link": "moves/aqua-ring.json"
+        },
+        {
+            "name": "magnet rise",
+            "type": "electric",
+            "link": "moves/magnet-rise.json"
+        },
+        {
+            "name": "flare blitz",
+            "type": "fire",
+            "link": "moves/flare-blitz.json"
+        },
+        {
+            "name": "force palm",
+            "type": "fighting",
+            "link": "moves/force-palm.json"
+        },
+        {
+            "name": "aura sphere",
+            "type": "fighting",
+            "link": "moves/aura-sphere.json"
+        },
+        {
+            "name": "rock polish",
+            "type": "rock",
+            "link": "moves/rock-polish.json"
+        },
+        {
+            "name": "poison jab",
+            "type": "poison",
+            "link": "moves/poison-jab.json"
+        },
+        {
+            "name": "dark pulse",
+            "type": "dark",
+            "link": "moves/dark-pulse.json"
+        },
+        {
+            "name": "night slash",
+            "type": "dark",
+            "link": "moves/night-slash.json"
+        },
+        {
+            "name": "aqua tail",
+            "type": "water",
+            "link": "moves/aqua-tail.json"
+        },
+        {
+            "name": "seed bomb",
+            "type": "grass",
+            "link": "moves/seed-bomb.json"
+        },
+        {
+            "name": "air slash",
+            "type": "flying",
+            "link": "moves/air-slash.json"
+        },
+        {
+            "name": "x scissor",
+            "type": "bug",
+            "link": "moves/x-scissor.json"
+        },
+        {
+            "name": "bug buzz",
+            "type": "bug",
+            "link": "moves/bug-buzz.json"
+        },
+        {
+            "name": "dragon pulse",
+            "type": "dragon",
+            "link": "moves/dragon-pulse.json"
+        },
+        {
+            "name": "dragon rush",
+            "type": "dragon",
+            "link": "moves/dragon-rush.json"
+        },
+        {
+            "name": "power gem",
+            "type": "rock",
+            "link": "moves/power-gem.json"
+        },
+        {
+            "name": "drain punch",
+            "type": "fighting",
+            "link": "moves/drain-punch.json"
+        },
+        {
+            "name": "vacuum wave",
+            "type": "fighting",
+            "link": "moves/vacuum-wave.json"
+        },
+        {
+            "name": "focus blast",
+            "type": "fighting",
+            "link": "moves/focus-blast.json"
+        },
+        {
+            "name": "energy ball",
+            "type": "grass",
+            "link": "moves/energy-ball.json"
+        },
+        {
+            "name": "brave bird",
+            "type": "flying",
+            "link": "moves/brave-bird.json"
+        },
+        {
+            "name": "earth power",
+            "type": "ground",
+            "link": "moves/earth-power.json"
+        },
+        {
+            "name": "switcheroo",
+            "type": "dark",
+            "link": "moves/switcheroo.json"
+        },
+        {
+            "name": "giga impact",
+            "type": "normal",
+            "link": "moves/giga-impact.json"
+        },
+        {
+            "name": "nasty plot",
+            "type": "dark",
+            "link": "moves/nasty-plot.json"
+        },
+        {
+            "name": "bullet punch",
+            "type": "steel",
+            "link": "moves/bullet-punch.json"
+        },
+        {
+            "name": "avalanche",
+            "type": "ice",
+            "link": "moves/avalanche.json"
+        },
+        {
+            "name": "ice shard",
+            "type": "ice",
+            "link": "moves/ice-shard.json"
+        },
+        {
+            "name": "shadow claw",
+            "type": "ghost",
+            "link": "moves/shadow-claw.json"
+        },
+        {
+            "name": "thunder fang",
+            "type": "electric",
+            "link": "moves/thunder-fang.json"
+        },
+        {
+            "name": "ice fang",
+            "type": "ice",
+            "link": "moves/ice-fang.json"
+        },
+        {
+            "name": "fire fang",
+            "type": "fire",
+            "link": "moves/fire-fang.json"
+        },
+        {
+            "name": "shadow sneak",
+            "type": "ghost",
+            "link": "moves/shadow-sneak.json"
+        },
+        {
+            "name": "mud bomb",
+            "type": "ground",
+            "link": "moves/mud-bomb.json"
+        },
+        {
+            "name": "psycho cut",
+            "type": "psychic",
+            "link": "moves/psycho-cut.json"
+        },
+        {
+            "name": "zen headbutt",
+            "type": "psychic",
+            "link": "moves/zen-headbutt.json"
+        },
+        {
+            "name": "mirror shot",
+            "type": "steel",
+            "link": "moves/mirror-shot.json"
+        },
+        {
+            "name": "flash cannon",
+            "type": "steel",
+            "link": "moves/flash-cannon.json"
+        },
+        {
+            "name": "rock climb",
+            "type": "normal",
+            "link": "moves/rock-climb.json"
+        },
+        {
+            "name": "defog",
+            "type": "flying",
+            "link": "moves/defog.json"
+        },
+        {
+            "name": "trick room",
+            "type": "psychic",
+            "link": "moves/trick-room.json"
+        },
+        {
+            "name": "draco meteor",
+            "type": "dragon",
+            "link": "moves/draco-meteor.json"
+        },
+        {
+            "name": "discharge",
+            "type": "electric",
+            "link": "moves/discharge.json"
+        },
+        {
+            "name": "lava plume",
+            "type": "fire",
+            "link": "moves/lava-plume.json"
+        },
+        {
+            "name": "leaf storm",
+            "type": "grass",
+            "link": "moves/leaf-storm.json"
+        },
+        {
+            "name": "power whip",
+            "type": "grass",
+            "link": "moves/power-whip.json"
+        },
+        {
+            "name": "rock wrecker",
+            "type": "rock",
+            "link": "moves/rock-wrecker.json"
+        },
+        {
+            "name": "cross poison",
+            "type": "poison",
+            "link": "moves/cross-poison.json"
+        },
+        {
+            "name": "gunk shot",
+            "type": "poison",
+            "link": "moves/gunk-shot.json"
+        },
+        {
+            "name": "iron head",
+            "type": "steel",
+            "link": "moves/iron-head.json"
+        },
+        {
+            "name": "magnet bomb",
+            "type": "steel",
+            "link": "moves/magnet-bomb.json"
+        },
+        {
+            "name": "stone edge",
+            "type": "rock",
+            "link": "moves/stone-edge.json"
+        },
+        {
+            "name": "captivate",
+            "type": "normal",
+            "link": "moves/captivate.json"
+        },
+        {
+            "name": "stealth rock",
+            "type": "rock",
+            "link": "moves/stealth-rock.json"
+        },
+        {
+            "name": "grass knot",
+            "type": "grass",
+            "link": "moves/grass-knot.json"
+        },
+        {
+            "name": "chatter",
+            "type": "flying",
+            "link": "moves/chatter.json"
+        },
+        {
+            "name": "judgment",
+            "type": "normal",
+            "link": "moves/judgment.json"
+        },
+        {
+            "name": "bug bite",
+            "type": "bug",
+            "link": "moves/bug-bite.json"
+        },
+        {
+            "name": "charge beam",
+            "type": "electric",
+            "link": "moves/charge-beam.json"
+        },
+        {
+            "name": "wood hammer",
+            "type": "grass",
+            "link": "moves/wood-hammer.json"
+        },
+        {
+            "name": "aqua jet",
+            "type": "water",
+            "link": "moves/aqua-jet.json"
+        },
+        {
+            "name": "attack order",
+            "type": "bug",
+            "link": "moves/attack-order.json"
+        },
+        {
+            "name": "defend order",
+            "type": "bug",
+            "link": "moves/defend-order.json"
+        },
+        {
+            "name": "heal order",
+            "type": "bug",
+            "link": "moves/heal-order.json"
+        },
+        {
+            "name": "head smash",
+            "type": "rock",
+            "link": "moves/head-smash.json"
+        },
+        {
+            "name": "double hit",
+            "type": "normal",
+            "link": "moves/double-hit.json"
+        },
+        {
+            "name": "roar of time",
+            "type": "dragon",
+            "link": "moves/roar-of-time.json"
+        },
+        {
+            "name": "spacial rend",
+            "type": "dragon",
+            "link": "moves/spacial-rend.json"
+        },
+        {
+            "name": "lunar dance",
+            "type": "psychic",
+            "link": "moves/lunar-dance.json"
+        },
+        {
+            "name": "crush grip",
+            "type": "normal",
+            "link": "moves/crush-grip.json"
+        },
+        {
+            "name": "magma storm",
+            "type": "fire",
+            "link": "moves/magma-storm.json"
+        },
+        {
+            "name": "dark void",
+            "type": "dark",
+            "link": "moves/dark-void.json"
+        },
+        {
+            "name": "seed flare",
+            "type": "grass",
+            "link": "moves/seed-flare.json"
+        },
+        {
+            "name": "ominous wind",
+            "type": "ghost",
+            "link": "moves/ominous-wind.json"
+        },
+        {
+            "name": "shadow force",
+            "type": "ghost",
+            "link": "moves/shadow-force.json"
+        },
+        {
+            "name": "hone claws",
+            "type": "dark",
+            "link": "moves/hone-claws.json"
+        },
+        {
+            "name": "wide guard",
+            "type": "rock",
+            "link": "moves/wide-guard.json"
+        },
+        {
+            "name": "guard split",
+            "type": "psychic",
+            "link": "moves/guard-split.json"
+        },
+        {
+            "name": "power split",
+            "type": "psychic",
+            "link": "moves/power-split.json"
+        },
+        {
+            "name": "wonder room",
+            "type": "psychic",
+            "link": "moves/wonder-room.json"
+        },
+        {
+            "name": "psyshock",
+            "type": "psychic",
+            "link": "moves/psyshock.json"
+        },
+        {
+            "name": "venoshock",
+            "type": "poison",
+            "link": "moves/venoshock.json"
+        },
+        {
+            "name": "autotomize",
+            "type": "steel",
+            "link": "moves/autotomize.json"
+        },
+        {
+            "name": "rage powder",
+            "type": "bug",
+            "link": "moves/rage-powder.json"
+        },
+        {
+            "name": "telekinesis",
+            "type": "psychic",
+            "link": "moves/telekinesis.json"
+        },
+        {
+            "name": "magic room",
+            "type": "psychic",
+            "link": "moves/magic-room.json"
+        },
+        {
+            "name": "smack down",
+            "type": "rock",
+            "link": "moves/smack-down.json"
+        },
+        {
+            "name": "storm throw",
+            "type": "fighting",
+            "link": "moves/storm-throw.json"
+        },
+        {
+            "name": "flame burst",
+            "type": "fire",
+            "link": "moves/flame-burst.json"
+        },
+        {
+            "name": "sludge wave",
+            "type": "poison",
+            "link": "moves/sludge-wave.json"
+        },
+        {
+            "name": "quiver dance",
+            "type": "bug",
+            "link": "moves/quiver-dance.json"
+        },
+        {
+            "name": "heavy slam",
+            "type": "steel",
+            "link": "moves/heavy-slam.json"
+        },
+        {
+            "name": "synchronoise",
+            "type": "psychic",
+            "link": "moves/synchronoise.json"
+        },
+        {
+            "name": "electro ball",
+            "type": "electric",
+            "link": "moves/electro-ball.json"
+        },
+        {
+            "name": "soak",
+            "type": "water",
+            "link": "moves/soak.json"
+        },
+        {
+            "name": "flame charge",
+            "type": "fire",
+            "link": "moves/flame-charge.json"
+        },
+        {
+            "name": "coil",
+            "type": "poison",
+            "link": "moves/coil.json"
+        },
+        {
+            "name": "low sweep",
+            "type": "fighting",
+            "link": "moves/low-sweep.json"
+        },
+        {
+            "name": "acid spray",
+            "type": "poison",
+            "link": "moves/acid-spray.json"
+        },
+        {
+            "name": "foul play",
+            "type": "dark",
+            "link": "moves/foul-play.json"
+        },
+        {
+            "name": "simple beam",
+            "type": "normal",
+            "link": "moves/simple-beam.json"
+        },
+        {
+            "name": "entrainment",
+            "type": "normal",
+            "link": "moves/entrainment.json"
+        },
+        {
+            "name": "after you",
+            "type": "normal",
+            "link": "moves/after-you.json"
+        },
+        {
+            "name": "round",
+            "type": "normal",
+            "link": "moves/round.json"
+        },
+        {
+            "name": "echoed voice",
+            "type": "normal",
+            "link": "moves/echoed-voice.json"
+        },
+        {
+            "name": "chip away",
+            "type": "normal",
+            "link": "moves/chip-away.json"
+        },
+        {
+            "name": "clear smog",
+            "type": "poison",
+            "link": "moves/clear-smog.json"
+        },
+        {
+            "name": "stored power",
+            "type": "psychic",
+            "link": "moves/stored-power.json"
+        },
+        {
+            "name": "quick guard",
+            "type": "fighting",
+            "link": "moves/quick-guard.json"
+        },
+        {
+            "name": "ally switch",
+            "type": "psychic",
+            "link": "moves/ally-switch.json"
+        },
+        {
+            "name": "scald",
+            "type": "water",
+            "link": "moves/scald.json"
+        },
+        {
+            "name": "shell smash",
+            "type": "normal",
+            "link": "moves/shell-smash.json"
+        },
+        {
+            "name": "heal pulse",
+            "type": "psychic",
+            "link": "moves/heal-pulse.json"
+        },
+        {
+            "name": "hex",
+            "type": "ghost",
+            "link": "moves/hex.json"
+        },
+        {
+            "name": "sky drop",
+            "type": "flying",
+            "link": "moves/sky-drop.json"
+        },
+        {
+            "name": "shift gear",
+            "type": "steel",
+            "link": "moves/shift-gear.json"
+        },
+        {
+            "name": "circle throw",
+            "type": "fighting",
+            "link": "moves/circle-throw.json"
+        },
+        {
+            "name": "incinerate",
+            "type": "fire",
+            "link": "moves/incinerate.json"
+        },
+        {
+            "name": "quash",
+            "type": "dark",
+            "link": "moves/quash.json"
+        },
+        {
+            "name": "acrobatics",
+            "type": "flying",
+            "link": "moves/acrobatics.json"
+        },
+        {
+            "name": "reflect type",
+            "type": "normal",
+            "link": "moves/reflect-type.json"
+        },
+        {
+            "name": "retaliate",
+            "type": "normal",
+            "link": "moves/retaliate.json"
+        },
+        {
+            "name": "final gambit",
+            "type": "fighting",
+            "link": "moves/final-gambit.json"
+        },
+        {
+            "name": "bestow",
+            "type": "normal",
+            "link": "moves/bestow.json"
+        },
+        {
+            "name": "inferno",
+            "type": "fire",
+            "link": "moves/inferno.json"
+        },
+        {
+            "name": "water pledge",
+            "type": "water",
+            "link": "moves/water-pledge.json"
+        },
+        {
+            "name": "fire pledge",
+            "type": "fire",
+            "link": "moves/fire-pledge.json"
+        },
+        {
+            "name": "grass pledge",
+            "type": "grass",
+            "link": "moves/grass-pledge.json"
+        },
+        {
+            "name": "volt switch",
+            "type": "electric",
+            "link": "moves/volt-switch.json"
+        },
+        {
+            "name": "struggle bug",
+            "type": "bug",
+            "link": "moves/struggle-bug.json"
+        },
+        {
+            "name": "bulldoze",
+            "type": "ground",
+            "link": "moves/bulldoze.json"
+        },
+        {
+            "name": "frost breath",
+            "type": "ice",
+            "link": "moves/frost-breath.json"
+        },
+        {
+            "name": "dragon tail",
+            "type": "dragon",
+            "link": "moves/dragon-tail.json"
+        },
+        {
+            "name": "work up",
+            "type": "normal",
+            "link": "moves/work-up.json"
+        },
+        {
+            "name": "electroweb",
+            "type": "electric",
+            "link": "moves/electroweb.json"
+        },
+        {
+            "name": "wild charge",
+            "type": "electric",
+            "link": "moves/wild-charge.json"
+        },
+        {
+            "name": "drill run",
+            "type": "ground",
+            "link": "moves/drill-run.json"
+        },
+        {
+            "name": "dual chop",
+            "type": "dragon",
+            "link": "moves/dual-chop.json"
+        },
+        {
+            "name": "heart stamp",
+            "type": "psychic",
+            "link": "moves/heart-stamp.json"
+        },
+        {
+            "name": "horn leech",
+            "type": "grass",
+            "link": "moves/horn-leech.json"
+        },
+        {
+            "name": "sacred sword",
+            "type": "fighting",
+            "link": "moves/sacred-sword.json"
+        },
+        {
+            "name": "razor shell",
+            "type": "water",
+            "link": "moves/razor-shell.json"
+        },
+        {
+            "name": "heat crash",
+            "type": "fire",
+            "link": "moves/heat-crash.json"
+        },
+        {
+            "name": "leaf tornado",
+            "type": "grass",
+            "link": "moves/leaf-tornado.json"
+        },
+        {
+            "name": "steamroller",
+            "type": "bug",
+            "link": "moves/steamroller.json"
+        },
+        {
+            "name": "cotton guard",
+            "type": "grass",
+            "link": "moves/cotton-guard.json"
+        },
+        {
+            "name": "night daze",
+            "type": "dark",
+            "link": "moves/night-daze.json"
+        },
+        {
+            "name": "psystrike",
+            "type": "psychic",
+            "link": "moves/psystrike.json"
+        },
+        {
+            "name": "tail slap",
+            "type": "normal",
+            "link": "moves/tail-slap.json"
+        },
+        {
+            "name": "hurricane",
+            "type": "flying",
+            "link": "moves/hurricane.json"
+        },
+        {
+            "name": "head charge",
+            "type": "normal",
+            "link": "moves/head-charge.json"
+        },
+        {
+            "name": "gear grind",
+            "type": "steel",
+            "link": "moves/gear-grind.json"
+        },
+        {
+            "name": "searing shot",
+            "type": "fire",
+            "link": "moves/searing-shot.json"
+        },
+        {
+            "name": "techno blast",
+            "type": "normal",
+            "link": "moves/techno-blast.json"
+        },
+        {
+            "name": "relic song",
+            "type": "normal",
+            "link": "moves/relic-song.json"
+        },
+        {
+            "name": "secret sword",
+            "type": "fighting",
+            "link": "moves/secret-sword.json"
+        },
+        {
+            "name": "glaciate",
+            "type": "ice",
+            "link": "moves/glaciate.json"
+        },
+        {
+            "name": "bolt strike",
+            "type": "electric",
+            "link": "moves/bolt-strike.json"
+        },
+        {
+            "name": "blue flare",
+            "type": "fire",
+            "link": "moves/blue-flare.json"
+        },
+        {
+            "name": "fiery dance",
+            "type": "fire",
+            "link": "moves/fiery-dance.json"
+        },
+        {
+            "name": "freeze shock",
+            "type": "ice",
+            "link": "moves/freeze-shock.json"
+        },
+        {
+            "name": "ice burn",
+            "type": "ice",
+            "link": "moves/ice-burn.json"
+        },
+        {
+            "name": "snarl",
+            "type": "dark",
+            "link": "moves/snarl.json"
+        },
+        {
+            "name": "icicle crash",
+            "type": "ice",
+            "link": "moves/icicle-crash.json"
+        },
+        {
+            "name": "v create",
+            "type": "fire",
+            "link": "moves/v-create.json"
+        },
+        {
+            "name": "fusion flare",
+            "type": "fire",
+            "link": "moves/fusion-flare.json"
+        },
+        {
+            "name": "fusion bolt",
+            "type": "electric",
+            "link": "moves/fusion-bolt.json"
+        },
+        {
+            "name": "flying press",
+            "type": "fighting",
+            "link": "moves/flying-press.json"
+        },
+        {
+            "name": "mat block",
+            "type": "fighting",
+            "link": "moves/mat-block.json"
+        },
+        {
+            "name": "belch",
+            "type": "poison",
+            "link": "moves/belch.json"
+        },
+        {
+            "name": "rototiller",
+            "type": "ground",
+            "link": "moves/rototiller.json"
+        },
+        {
+            "name": "sticky web",
+            "type": "bug",
+            "link": "moves/sticky-web.json"
+        },
+        {
+            "name": "fell stinger",
+            "type": "bug",
+            "link": "moves/fell-stinger.json"
+        },
+        {
+            "name": "phantom force",
+            "type": "ghost",
+            "link": "moves/phantom-force.json"
+        },
+        {
+            "name": "trick or treat",
+            "type": "ghost",
+            "link": "moves/trick-or-treat.json"
+        },
+        {
+            "name": "noble roar",
+            "type": "normal",
+            "link": "moves/noble-roar.json"
+        },
+        {
+            "name": "ion deluge",
+            "type": "electric",
+            "link": "moves/ion-deluge.json"
+        },
+        {
+            "name": "parabolic charge",
+            "type": "electric",
+            "link": "moves/parabolic-charge.json"
+        },
+        {
+            "name": "forests curse",
+            "type": "grass",
+            "link": "moves/forests-curse.json"
+        },
+        {
+            "name": "petal blizzard",
+            "type": "grass",
+            "link": "moves/petal-blizzard.json"
+        },
+        {
+            "name": "freeze dry",
+            "type": "ice",
+            "link": "moves/freeze-dry.json"
+        },
+        {
+            "name": "disarming voice",
+            "type": "fairy",
+            "link": "moves/disarming-voice.json"
+        },
+        {
+            "name": "parting shot",
+            "type": "dark",
+            "link": "moves/parting-shot.json"
+        },
+        {
+            "name": "topsy turvy",
+            "type": "dark",
+            "link": "moves/topsy-turvy.json"
+        },
+        {
+            "name": "draining kiss",
+            "type": "fairy",
+            "link": "moves/draining-kiss.json"
+        },
+        {
+            "name": "crafty shield",
+            "type": "fairy",
+            "link": "moves/crafty-shield.json"
+        },
+        {
+            "name": "flower shield",
+            "type": "fairy",
+            "link": "moves/flower-shield.json"
+        },
+        {
+            "name": "grassy terrain",
+            "type": "grass",
+            "link": "moves/grassy-terrain.json"
+        },
+        {
+            "name": "misty terrain",
+            "type": "fairy",
+            "link": "moves/misty-terrain.json"
+        },
+        {
+            "name": "electrify",
+            "type": "electric",
+            "link": "moves/electrify.json"
+        },
+        {
+            "name": "play rough",
+            "type": "fairy",
+            "link": "moves/play-rough.json"
+        },
+        {
+            "name": "fairy wind",
+            "type": "fairy",
+            "link": "moves/fairy-wind.json"
+        },
+        {
+            "name": "moonblast",
+            "type": "fairy",
+            "link": "moves/moonblast.json"
+        },
+        {
+            "name": "boomburst",
+            "type": "normal",
+            "link": "moves/boomburst.json"
+        },
+        {
+            "name": "fairy lock",
+            "type": "fairy",
+            "link": "moves/fairy-lock.json"
+        },
+        {
+            "name": "kings shield",
+            "type": "steel",
+            "link": "moves/kings-shield.json"
+        },
+        {
+            "name": "play nice",
+            "type": "normal",
+            "link": "moves/play-nice.json"
+        },
+        {
+            "name": "confide",
+            "type": "normal",
+            "link": "moves/confide.json"
+        },
+        {
+            "name": "diamond storm",
+            "type": "rock",
+            "link": "moves/diamond-storm.json"
+        },
+        {
+            "name": "steam eruption",
+            "type": "water",
+            "link": "moves/steam-eruption.json"
+        },
+        {
+            "name": "hyperspace hole",
+            "type": "psychic",
+            "link": "moves/hyperspace-hole.json"
+        },
+        {
+            "name": "water shuriken",
+            "type": "water",
+            "link": "moves/water-shuriken.json"
+        },
+        {
+            "name": "mystical fire",
+            "type": "fire",
+            "link": "moves/mystical-fire.json"
+        },
+        {
+            "name": "spiky shield",
+            "type": "grass",
+            "link": "moves/spiky-shield.json"
+        },
+        {
+            "name": "aromatic mist",
+            "type": "fairy",
+            "link": "moves/aromatic-mist.json"
+        },
+        {
+            "name": "eerie impulse",
+            "type": "electric",
+            "link": "moves/eerie-impulse.json"
+        },
+        {
+            "name": "venom drench",
+            "type": "poison",
+            "link": "moves/venom-drench.json"
+        },
+        {
+            "name": "powder",
+            "type": "bug",
+            "link": "moves/powder.json"
+        },
+        {
+            "name": "geomancy",
+            "type": "fairy",
+            "link": "moves/geomancy.json"
+        },
+        {
+            "name": "magnetic flux",
+            "type": "electric",
+            "link": "moves/magnetic-flux.json"
+        },
+        {
+            "name": "happy hour",
+            "type": "normal",
+            "link": "moves/happy-hour.json"
+        },
+        {
+            "name": "electric terrain",
+            "type": "electric",
+            "link": "moves/electric-terrain.json"
+        },
+        {
+            "name": "dazzling gleam",
+            "type": "fairy",
+            "link": "moves/dazzling-gleam.json"
+        },
+        {
+            "name": "celebrate",
+            "type": "normal",
+            "link": "moves/celebrate.json"
+        },
+        {
+            "name": "hold hands",
+            "type": "normal",
+            "link": "moves/hold-hands.json"
+        },
+        {
+            "name": "baby doll eyes",
+            "type": "fairy",
+            "link": "moves/baby-doll-eyes.json"
+        },
+        {
+            "name": "nuzzle",
+            "type": "electric",
+            "link": "moves/nuzzle.json"
+        },
+        {
+            "name": "hold back",
+            "type": "normal",
+            "link": "moves/hold-back.json"
+        },
+        {
+            "name": "infestation",
+            "type": "bug",
+            "link": "moves/infestation.json"
+        },
+        {
+            "name": "power up punch",
+            "type": "fighting",
+            "link": "moves/power-up-punch.json"
+        },
+        {
+            "name": "oblivion wing",
+            "type": "flying",
+            "link": "moves/oblivion-wing.json"
+        },
+        {
+            "name": "thousand arrows",
+            "type": "ground",
+            "link": "moves/thousand-arrows.json"
+        },
+        {
+            "name": "thousand waves",
+            "type": "ground",
+            "link": "moves/thousand-waves.json"
+        },
+        {
+            "name": "lands wrath",
+            "type": "ground",
+            "link": "moves/lands-wrath.json"
+        },
+        {
+            "name": "light of ruin",
+            "type": "fairy",
+            "link": "moves/light-of-ruin.json"
+        },
+        {
+            "name": "origin pulse",
+            "type": "water",
+            "link": "moves/origin-pulse.json"
+        },
+        {
+            "name": "precipice blades",
+            "type": "ground",
+            "link": "moves/precipice-blades.json"
+        },
+        {
+            "name": "dragon ascent",
+            "type": "flying",
+            "link": "moves/dragon-ascent.json"
+        },
+        {
+            "name": "hyperspace fury",
+            "type": "dark",
+            "link": "moves/hyperspace-fury.json"
+        },
+        {
+            "name": "breakneck blitz  physical",
+            "type": "normal",
+            "link": "moves/breakneck-blitz--physical.json"
+        },
+        {
+            "name": "breakneck blitz  special",
+            "type": "normal",
+            "link": "moves/breakneck-blitz--special.json"
+        },
+        {
+            "name": "all out pummeling  physical",
+            "type": "fighting",
+            "link": "moves/all-out-pummeling--physical.json"
+        },
+        {
+            "name": "all out pummeling  special",
+            "type": "fighting",
+            "link": "moves/all-out-pummeling--special.json"
+        },
+        {
+            "name": "supersonic skystrike  physical",
+            "type": "flying",
+            "link": "moves/supersonic-skystrike--physical.json"
+        },
+        {
+            "name": "supersonic skystrike  special",
+            "type": "flying",
+            "link": "moves/supersonic-skystrike--special.json"
+        },
+        {
+            "name": "acid downpour  physical",
+            "type": "poison",
+            "link": "moves/acid-downpour--physical.json"
+        },
+        {
+            "name": "acid downpour  special",
+            "type": "poison",
+            "link": "moves/acid-downpour--special.json"
+        },
+        {
+            "name": "tectonic rage  physical",
+            "type": "ground",
+            "link": "moves/tectonic-rage--physical.json"
+        },
+        {
+            "name": "tectonic rage  special",
+            "type": "ground",
+            "link": "moves/tectonic-rage--special.json"
+        },
+        {
+            "name": "continental crush  physical",
+            "type": "rock",
+            "link": "moves/continental-crush--physical.json"
+        },
+        {
+            "name": "continental crush  special",
+            "type": "rock",
+            "link": "moves/continental-crush--special.json"
+        },
+        {
+            "name": "savage spin out  physical",
+            "type": "bug",
+            "link": "moves/savage-spin-out--physical.json"
+        },
+        {
+            "name": "savage spin out  special",
+            "type": "bug",
+            "link": "moves/savage-spin-out--special.json"
+        },
+        {
+            "name": "never ending nightmare  physical",
+            "type": "ghost",
+            "link": "moves/never-ending-nightmare--physical.json"
+        },
+        {
+            "name": "never ending nightmare  special",
+            "type": "ghost",
+            "link": "moves/never-ending-nightmare--special.json"
+        },
+        {
+            "name": "corkscrew crash  physical",
+            "type": "steel",
+            "link": "moves/corkscrew-crash--physical.json"
+        },
+        {
+            "name": "corkscrew crash  special",
+            "type": "steel",
+            "link": "moves/corkscrew-crash--special.json"
+        },
+        {
+            "name": "inferno overdrive  physical",
+            "type": "fire",
+            "link": "moves/inferno-overdrive--physical.json"
+        },
+        {
+            "name": "inferno overdrive  special",
+            "type": "fire",
+            "link": "moves/inferno-overdrive--special.json"
+        },
+        {
+            "name": "hydro vortex  physical",
+            "type": "water",
+            "link": "moves/hydro-vortex--physical.json"
+        },
+        {
+            "name": "hydro vortex  special",
+            "type": "water",
+            "link": "moves/hydro-vortex--special.json"
+        },
+        {
+            "name": "bloom doom  physical",
+            "type": "grass",
+            "link": "moves/bloom-doom--physical.json"
+        },
+        {
+            "name": "bloom doom  special",
+            "type": "grass",
+            "link": "moves/bloom-doom--special.json"
+        },
+        {
+            "name": "gigavolt havoc  physical",
+            "type": "electric",
+            "link": "moves/gigavolt-havoc--physical.json"
+        },
+        {
+            "name": "gigavolt havoc  special",
+            "type": "electric",
+            "link": "moves/gigavolt-havoc--special.json"
+        },
+        {
+            "name": "shattered psyche  physical",
+            "type": "psychic",
+            "link": "moves/shattered-psyche--physical.json"
+        },
+        {
+            "name": "shattered psyche  special",
+            "type": "psychic",
+            "link": "moves/shattered-psyche--special.json"
+        },
+        {
+            "name": "subzero slammer  physical",
+            "type": "ice",
+            "link": "moves/subzero-slammer--physical.json"
+        },
+        {
+            "name": "subzero slammer  special",
+            "type": "ice",
+            "link": "moves/subzero-slammer--special.json"
+        },
+        {
+            "name": "devastating drake  physical",
+            "type": "dragon",
+            "link": "moves/devastating-drake--physical.json"
+        },
+        {
+            "name": "devastating drake  special",
+            "type": "dragon",
+            "link": "moves/devastating-drake--special.json"
+        },
+        {
+            "name": "black hole eclipse  physical",
+            "type": "dark",
+            "link": "moves/black-hole-eclipse--physical.json"
+        },
+        {
+            "name": "black hole eclipse  special",
+            "type": "dark",
+            "link": "moves/black-hole-eclipse--special.json"
+        },
+        {
+            "name": "twinkle tackle  physical",
+            "type": "fairy",
+            "link": "moves/twinkle-tackle--physical.json"
+        },
+        {
+            "name": "twinkle tackle  special",
+            "type": "fairy",
+            "link": "moves/twinkle-tackle--special.json"
+        },
+        {
+            "name": "catastropika",
+            "type": "electric",
+            "link": "moves/catastropika.json"
+        },
+        {
+            "name": "shore up",
+            "type": "ground",
+            "link": "moves/shore-up.json"
+        },
+        {
+            "name": "first impression",
+            "type": "bug",
+            "link": "moves/first-impression.json"
+        },
+        {
+            "name": "baneful bunker",
+            "type": "poison",
+            "link": "moves/baneful-bunker.json"
+        },
+        {
+            "name": "spirit shackle",
+            "type": "ghost",
+            "link": "moves/spirit-shackle.json"
+        },
+        {
+            "name": "darkest lariat",
+            "type": "dark",
+            "link": "moves/darkest-lariat.json"
+        },
+        {
+            "name": "sparkling aria",
+            "type": "water",
+            "link": "moves/sparkling-aria.json"
+        },
+        {
+            "name": "ice hammer",
+            "type": "ice",
+            "link": "moves/ice-hammer.json"
+        },
+        {
+            "name": "floral healing",
+            "type": "fairy",
+            "link": "moves/floral-healing.json"
+        },
+        {
+            "name": "high horsepower",
+            "type": "ground",
+            "link": "moves/high-horsepower.json"
+        },
+        {
+            "name": "strength sap",
+            "type": "grass",
+            "link": "moves/strength-sap.json"
+        },
+        {
+            "name": "solar blade",
+            "type": "grass",
+            "link": "moves/solar-blade.json"
+        },
+        {
+            "name": "leafage",
+            "type": "grass",
+            "link": "moves/leafage.json"
+        },
+        {
+            "name": "spotlight",
+            "type": "normal",
+            "link": "moves/spotlight.json"
+        },
+        {
+            "name": "toxic thread",
+            "type": "poison",
+            "link": "moves/toxic-thread.json"
+        },
+        {
+            "name": "laser focus",
+            "type": "normal",
+            "link": "moves/laser-focus.json"
+        },
+        {
+            "name": "gear up",
+            "type": "steel",
+            "link": "moves/gear-up.json"
+        },
+        {
+            "name": "throat chop",
+            "type": "dark",
+            "link": "moves/throat-chop.json"
+        },
+        {
+            "name": "pollen puff",
+            "type": "bug",
+            "link": "moves/pollen-puff.json"
+        },
+        {
+            "name": "anchor shot",
+            "type": "steel",
+            "link": "moves/anchor-shot.json"
+        },
+        {
+            "name": "psychic terrain",
+            "type": "psychic",
+            "link": "moves/psychic-terrain.json"
+        },
+        {
+            "name": "lunge",
+            "type": "bug",
+            "link": "moves/lunge.json"
+        },
+        {
+            "name": "fire lash",
+            "type": "fire",
+            "link": "moves/fire-lash.json"
+        },
+        {
+            "name": "power trip",
+            "type": "dark",
+            "link": "moves/power-trip.json"
+        },
+        {
+            "name": "burn up",
+            "type": "fire",
+            "link": "moves/burn-up.json"
+        },
+        {
+            "name": "speed swap",
+            "type": "psychic",
+            "link": "moves/speed-swap.json"
+        },
+        {
+            "name": "smart strike",
+            "type": "steel",
+            "link": "moves/smart-strike.json"
+        },
+        {
+            "name": "purify",
+            "type": "poison",
+            "link": "moves/purify.json"
+        },
+        {
+            "name": "revelation dance",
+            "type": "normal",
+            "link": "moves/revelation-dance.json"
+        },
+        {
+            "name": "core enforcer",
+            "type": "dragon",
+            "link": "moves/core-enforcer.json"
+        },
+        {
+            "name": "trop kick",
+            "type": "grass",
+            "link": "moves/trop-kick.json"
+        },
+        {
+            "name": "instruct",
+            "type": "psychic",
+            "link": "moves/instruct.json"
+        },
+        {
+            "name": "beak blast",
+            "type": "flying",
+            "link": "moves/beak-blast.json"
+        },
+        {
+            "name": "clanging scales",
+            "type": "dragon",
+            "link": "moves/clanging-scales.json"
+        },
+        {
+            "name": "dragon hammer",
+            "type": "dragon",
+            "link": "moves/dragon-hammer.json"
+        },
+        {
+            "name": "brutal swing",
+            "type": "dark",
+            "link": "moves/brutal-swing.json"
+        },
+        {
+            "name": "aurora veil",
+            "type": "ice",
+            "link": "moves/aurora-veil.json"
+        },
+        {
+            "name": "sinister arrow raid",
+            "type": "ghost",
+            "link": "moves/sinister-arrow-raid.json"
+        },
+        {
+            "name": "malicious moonsault",
+            "type": "dark",
+            "link": "moves/malicious-moonsault.json"
+        },
+        {
+            "name": "oceanic operetta",
+            "type": "water",
+            "link": "moves/oceanic-operetta.json"
+        },
+        {
+            "name": "guardian of alola",
+            "type": "fairy",
+            "link": "moves/guardian-of-alola.json"
+        },
+        {
+            "name": "soul stealing 7 star strike",
+            "type": "ghost",
+            "link": "moves/soul-stealing-7-star-strike.json"
+        },
+        {
+            "name": "stoked sparksurfer",
+            "type": "electric",
+            "link": "moves/stoked-sparksurfer.json"
+        },
+        {
+            "name": "pulverizing pancake",
+            "type": "normal",
+            "link": "moves/pulverizing-pancake.json"
+        },
+        {
+            "name": "extreme evoboost",
+            "type": "normal",
+            "link": "moves/extreme-evoboost.json"
+        },
+        {
+            "name": "genesis supernova",
+            "type": "psychic",
+            "link": "moves/genesis-supernova.json"
+        },
+        {
+            "name": "shell trap",
+            "type": "fire",
+            "link": "moves/shell-trap.json"
+        },
+        {
+            "name": "fleur cannon",
+            "type": "fairy",
+            "link": "moves/fleur-cannon.json"
+        },
+        {
+            "name": "psychic fangs",
+            "type": "psychic",
+            "link": "moves/psychic-fangs.json"
+        },
+        {
+            "name": "stomping tantrum",
+            "type": "ground",
+            "link": "moves/stomping-tantrum.json"
+        },
+        {
+            "name": "shadow bone",
+            "type": "ghost",
+            "link": "moves/shadow-bone.json"
+        },
+        {
+            "name": "accelerock",
+            "type": "rock",
+            "link": "moves/accelerock.json"
+        },
+        {
+            "name": "liquidation",
+            "type": "water",
+            "link": "moves/liquidation.json"
+        },
+        {
+            "name": "prismatic laser",
+            "type": "psychic",
+            "link": "moves/prismatic-laser.json"
+        },
+        {
+            "name": "spectral thief",
+            "type": "ghost",
+            "link": "moves/spectral-thief.json"
+        },
+        {
+            "name": "sunsteel strike",
+            "type": "steel",
+            "link": "moves/sunsteel-strike.json"
+        },
+        {
+            "name": "moongeist beam",
+            "type": "ghost",
+            "link": "moves/moongeist-beam.json"
+        },
+        {
+            "name": "tearful look",
+            "type": "normal",
+            "link": "moves/tearful-look.json"
+        },
+        {
+            "name": "zing zap",
+            "type": "electric",
+            "link": "moves/zing-zap.json"
+        },
+        {
+            "name": "natures madness",
+            "type": "fairy",
+            "link": "moves/natures-madness.json"
+        },
+        {
+            "name": "multi attack",
+            "type": "normal",
+            "link": "moves/multi-attack.json"
+        },
+        {
+            "name": "10 000 000 volt thunderbolt",
+            "type": "electric",
+            "link": "moves/10-000-000-volt-thunderbolt.json"
+        },
+        {
+            "name": "mind blown",
+            "type": "fire",
+            "link": "moves/mind-blown.json"
+        },
+        {
+            "name": "plasma fists",
+            "type": "electric",
+            "link": "moves/plasma-fists.json"
+        },
+        {
+            "name": "photon geyser",
+            "type": "psychic",
+            "link": "moves/photon-geyser.json"
+        },
+        {
+            "name": "light that burns the sky",
+            "type": "psychic",
+            "link": "moves/light-that-burns-the-sky.json"
+        },
+        {
+            "name": "searing sunraze smash",
+            "type": "steel",
+            "link": "moves/searing-sunraze-smash.json"
+        },
+        {
+            "name": "menacing moonraze maelstrom",
+            "type": "ghost",
+            "link": "moves/menacing-moonraze-maelstrom.json"
+        },
+        {
+            "name": "lets snuggle forever",
+            "type": "fairy",
+            "link": "moves/lets-snuggle-forever.json"
+        },
+        {
+            "name": "splintered stormshards",
+            "type": "rock",
+            "link": "moves/splintered-stormshards.json"
+        },
+        {
+            "name": "clangorous soulblaze",
+            "type": "dragon",
+            "link": "moves/clangorous-soulblaze.json"
+        },
+        {
+            "name": "zippy zap",
+            "type": "electric",
+            "link": "moves/zippy-zap.json"
+        },
+        {
+            "name": "splishy splash",
+            "type": "water",
+            "link": "moves/splishy-splash.json"
+        },
+        {
+            "name": "floaty fall",
+            "type": "flying",
+            "link": "moves/floaty-fall.json"
+        },
+        {
+            "name": "pika papow",
+            "type": "electric",
+            "link": "moves/pika-papow.json"
+        },
+        {
+            "name": "bouncy bubble",
+            "type": "water",
+            "link": "moves/bouncy-bubble.json"
+        },
+        {
+            "name": "buzzy buzz",
+            "type": "electric",
+            "link": "moves/buzzy-buzz.json"
+        },
+        {
+            "name": "sizzly slide",
+            "type": "fire",
+            "link": "moves/sizzly-slide.json"
+        },
+        {
+            "name": "glitzy glow",
+            "type": "psychic",
+            "link": "moves/glitzy-glow.json"
+        },
+        {
+            "name": "baddy bad",
+            "type": "dark",
+            "link": "moves/baddy-bad.json"
+        },
+        {
+            "name": "sappy seed",
+            "type": "grass",
+            "link": "moves/sappy-seed.json"
+        },
+        {
+            "name": "freezy frost",
+            "type": "ice",
+            "link": "moves/freezy-frost.json"
+        },
+        {
+            "name": "sparkly swirl",
+            "type": "fairy",
+            "link": "moves/sparkly-swirl.json"
+        },
+        {
+            "name": "veevee volley",
+            "type": "normal",
+            "link": "moves/veevee-volley.json"
+        },
+        {
+            "name": "double iron bash",
+            "type": "steel",
+            "link": "moves/double-iron-bash.json"
+        },
+        {
+            "name": "max guard",
+            "type": "normal",
+            "link": "moves/max-guard.json"
+        },
+        {
+            "name": "dynamax cannon",
+            "type": "dragon",
+            "link": "moves/dynamax-cannon.json"
+        },
+        {
+            "name": "snipe shot",
+            "type": "water",
+            "link": "moves/snipe-shot.json"
+        },
+        {
+            "name": "jaw lock",
+            "type": "dark",
+            "link": "moves/jaw-lock.json"
+        },
+        {
+            "name": "stuff cheeks",
+            "type": "normal",
+            "link": "moves/stuff-cheeks.json"
+        },
+        {
+            "name": "no retreat",
+            "type": "fighting",
+            "link": "moves/no-retreat.json"
+        },
+        {
+            "name": "tar shot",
+            "type": "rock",
+            "link": "moves/tar-shot.json"
+        },
+        {
+            "name": "magic powder",
+            "type": "psychic",
+            "link": "moves/magic-powder.json"
+        },
+        {
+            "name": "dragon darts",
+            "type": "dragon",
+            "link": "moves/dragon-darts.json"
+        },
+        {
+            "name": "teatime",
+            "type": "normal",
+            "link": "moves/teatime.json"
+        },
+        {
+            "name": "octolock",
+            "type": "fighting",
+            "link": "moves/octolock.json"
+        },
+        {
+            "name": "bolt beak",
+            "type": "electric",
+            "link": "moves/bolt-beak.json"
+        },
+        {
+            "name": "fishious rend",
+            "type": "water",
+            "link": "moves/fishious-rend.json"
+        },
+        {
+            "name": "court change",
+            "type": "normal",
+            "link": "moves/court-change.json"
+        },
+        {
+            "name": "max flare",
+            "type": "fire",
+            "link": "moves/max-flare.json"
+        },
+        {
+            "name": "max flutterby",
+            "type": "bug",
+            "link": "moves/max-flutterby.json"
+        },
+        {
+            "name": "max lightning",
+            "type": "electric",
+            "link": "moves/max-lightning.json"
+        },
+        {
+            "name": "max strike",
+            "type": "normal",
+            "link": "moves/max-strike.json"
+        },
+        {
+            "name": "max knuckle",
+            "type": "fighting",
+            "link": "moves/max-knuckle.json"
+        },
+        {
+            "name": "max phantasm",
+            "type": "ghost",
+            "link": "moves/max-phantasm.json"
+        },
+        {
+            "name": "max hailstorm",
+            "type": "ice",
+            "link": "moves/max-hailstorm.json"
+        },
+        {
+            "name": "max ooze",
+            "type": "poison",
+            "link": "moves/max-ooze.json"
+        },
+        {
+            "name": "max geyser",
+            "type": "water",
+            "link": "moves/max-geyser.json"
+        },
+        {
+            "name": "max airstream",
+            "type": "flying",
+            "link": "moves/max-airstream.json"
+        },
+        {
+            "name": "max starfall",
+            "type": "fairy",
+            "link": "moves/max-starfall.json"
+        },
+        {
+            "name": "max wyrmwind",
+            "type": "dragon",
+            "link": "moves/max-wyrmwind.json"
+        },
+        {
+            "name": "max mindstorm",
+            "type": "psychic",
+            "link": "moves/max-mindstorm.json"
+        },
+        {
+            "name": "max rockfall",
+            "type": "rock",
+            "link": "moves/max-rockfall.json"
+        },
+        {
+            "name": "max quake",
+            "type": "ground",
+            "link": "moves/max-quake.json"
+        },
+        {
+            "name": "max darkness",
+            "type": "dark",
+            "link": "moves/max-darkness.json"
+        },
+        {
+            "name": "max overgrowth",
+            "type": "grass",
+            "link": "moves/max-overgrowth.json"
+        },
+        {
+            "name": "max steelspike",
+            "type": "steel",
+            "link": "moves/max-steelspike.json"
+        },
+        {
+            "name": "clangorous soul",
+            "type": "dragon",
+            "link": "moves/clangorous-soul.json"
+        },
+        {
+            "name": "body press",
+            "type": "fighting",
+            "link": "moves/body-press.json"
+        },
+        {
+            "name": "decorate",
+            "type": "fairy",
+            "link": "moves/decorate.json"
+        },
+        {
+            "name": "drum beating",
+            "type": "grass",
+            "link": "moves/drum-beating.json"
+        },
+        {
+            "name": "snap trap",
+            "type": "grass",
+            "link": "moves/snap-trap.json"
+        },
+        {
+            "name": "pyro ball",
+            "type": "fire",
+            "link": "moves/pyro-ball.json"
+        },
+        {
+            "name": "behemoth blade",
+            "type": "steel",
+            "link": "moves/behemoth-blade.json"
+        },
+        {
+            "name": "behemoth bash",
+            "type": "steel",
+            "link": "moves/behemoth-bash.json"
+        },
+        {
+            "name": "aura wheel",
+            "type": "electric",
+            "link": "moves/aura-wheel.json"
+        },
+        {
+            "name": "breaking swipe",
+            "type": "dragon",
+            "link": "moves/breaking-swipe.json"
+        },
+        {
+            "name": "branch poke",
+            "type": "grass",
+            "link": "moves/branch-poke.json"
+        },
+        {
+            "name": "overdrive",
+            "type": "electric",
+            "link": "moves/overdrive.json"
+        },
+        {
+            "name": "apple acid",
+            "type": "grass",
+            "link": "moves/apple-acid.json"
+        },
+        {
+            "name": "grav apple",
+            "type": "grass",
+            "link": "moves/grav-apple.json"
+        },
+        {
+            "name": "spirit break",
+            "type": "fairy",
+            "link": "moves/spirit-break.json"
+        },
+        {
+            "name": "strange steam",
+            "type": "fairy",
+            "link": "moves/strange-steam.json"
+        },
+        {
+            "name": "life dew",
+            "type": "water",
+            "link": "moves/life-dew.json"
+        },
+        {
+            "name": "obstruct",
+            "type": "dark",
+            "link": "moves/obstruct.json"
+        },
+        {
+            "name": "false surrender",
+            "type": "dark",
+            "link": "moves/false-surrender.json"
+        },
+        {
+            "name": "meteor assault",
+            "type": "fighting",
+            "link": "moves/meteor-assault.json"
+        },
+        {
+            "name": "eternabeam",
+            "type": "dragon",
+            "link": "moves/eternabeam.json"
+        },
+        {
+            "name": "steel beam",
+            "type": "steel",
+            "link": "moves/steel-beam.json"
+        },
+        {
+            "name": "expanding force",
+            "type": "psychic",
+            "link": "moves/expanding-force.json"
+        },
+        {
+            "name": "steel roller",
+            "type": "steel",
+            "link": "moves/steel-roller.json"
+        },
+        {
+            "name": "scale shot",
+            "type": "dragon",
+            "link": "moves/scale-shot.json"
+        },
+        {
+            "name": "meteor beam",
+            "type": "rock",
+            "link": "moves/meteor-beam.json"
+        },
+        {
+            "name": "shell side arm",
+            "type": "poison",
+            "link": "moves/shell-side-arm.json"
+        },
+        {
+            "name": "misty explosion",
+            "type": "fairy",
+            "link": "moves/misty-explosion.json"
+        },
+        {
+            "name": "grassy glide",
+            "type": "grass",
+            "link": "moves/grassy-glide.json"
+        },
+        {
+            "name": "rising voltage",
+            "type": "electric",
+            "link": "moves/rising-voltage.json"
+        },
+        {
+            "name": "terrain pulse",
+            "type": "normal",
+            "link": "moves/terrain-pulse.json"
+        },
+        {
+            "name": "skitter smack",
+            "type": "bug",
+            "link": "moves/skitter-smack.json"
+        },
+        {
+            "name": "burning jealousy",
+            "type": "fire",
+            "link": "moves/burning-jealousy.json"
+        },
+        {
+            "name": "lash out",
+            "type": "dark",
+            "link": "moves/lash-out.json"
+        },
+        {
+            "name": "poltergeist",
+            "type": "ghost",
+            "link": "moves/poltergeist.json"
+        },
+        {
+            "name": "corrosive gas",
+            "type": "poison",
+            "link": "moves/corrosive-gas.json"
+        },
+        {
+            "name": "coaching",
+            "type": "fighting",
+            "link": "moves/coaching.json"
+        },
+        {
+            "name": "flip turn",
+            "type": "water",
+            "link": "moves/flip-turn.json"
+        },
+        {
+            "name": "triple axel",
+            "type": "ice",
+            "link": "moves/triple-axel.json"
+        },
+        {
+            "name": "dual wingbeat",
+            "type": "flying",
+            "link": "moves/dual-wingbeat.json"
+        },
+        {
+            "name": "scorching sands",
+            "type": "ground",
+            "link": "moves/scorching-sands.json"
+        },
+        {
+            "name": "jungle healing",
+            "type": "grass",
+            "link": "moves/jungle-healing.json"
+        },
+        {
+            "name": "wicked blow",
+            "type": "dark",
+            "link": "moves/wicked-blow.json"
+        },
+        {
+            "name": "surging strikes",
+            "type": "water",
+            "link": "moves/surging-strikes.json"
+        },
+        {
+            "name": "thunder cage",
+            "type": "electric",
+            "link": "moves/thunder-cage.json"
+        },
+        {
+            "name": "dragon energy",
+            "type": "dragon",
+            "link": "moves/dragon-energy.json"
+        },
+        {
+            "name": "freezing glare",
+            "type": "psychic",
+            "link": "moves/freezing-glare.json"
+        },
+        {
+            "name": "fiery wrath",
+            "type": "dark",
+            "link": "moves/fiery-wrath.json"
+        },
+        {
+            "name": "thunderous kick",
+            "type": "fighting",
+            "link": "moves/thunderous-kick.json"
+        },
+        {
+            "name": "glacial lance",
+            "type": "ice",
+            "link": "moves/glacial-lance.json"
+        },
+        {
+            "name": "astral barrage",
+            "type": "ghost",
+            "link": "moves/astral-barrage.json"
+        },
+        {
+            "name": "eerie spell",
+            "type": "psychic",
+            "link": "moves/eerie-spell.json"
+        },
+        {
+            "name": "shadow rush",
+            "type": "shadow",
+            "link": "moves/shadow-rush.json"
+        },
+        {
+            "name": "shadow blast",
+            "type": "shadow",
+            "link": "moves/shadow-blast.json"
+        },
+        {
+            "name": "shadow blitz",
+            "type": "shadow",
+            "link": "moves/shadow-blitz.json"
+        },
+        {
+            "name": "shadow bolt",
+            "type": "shadow",
+            "link": "moves/shadow-bolt.json"
+        },
+        {
+            "name": "shadow break",
+            "type": "shadow",
+            "link": "moves/shadow-break.json"
+        },
+        {
+            "name": "shadow chill",
+            "type": "shadow",
+            "link": "moves/shadow-chill.json"
+        },
+        {
+            "name": "shadow end",
+            "type": "shadow",
+            "link": "moves/shadow-end.json"
+        },
+        {
+            "name": "shadow fire",
+            "type": "shadow",
+            "link": "moves/shadow-fire.json"
+        },
+        {
+            "name": "shadow rave",
+            "type": "shadow",
+            "link": "moves/shadow-rave.json"
+        },
+        {
+            "name": "shadow storm",
+            "type": "shadow",
+            "link": "moves/shadow-storm.json"
+        },
+        {
+            "name": "shadow wave",
+            "type": "shadow",
+            "link": "moves/shadow-wave.json"
+        },
+        {
+            "name": "shadow down",
+            "type": "shadow",
+            "link": "moves/shadow-down.json"
+        },
+        {
+            "name": "shadow half",
+            "type": "shadow",
+            "link": "moves/shadow-half.json"
+        },
+        {
+            "name": "shadow hold",
+            "type": "shadow",
+            "link": "moves/shadow-hold.json"
+        },
+        {
+            "name": "shadow mist",
+            "type": "shadow",
+            "link": "moves/shadow-mist.json"
+        },
+        {
+            "name": "shadow panic",
+            "type": "shadow",
+            "link": "moves/shadow-panic.json"
+        },
+        {
+            "name": "shadow shed",
+            "type": "shadow",
+            "link": "moves/shadow-shed.json"
+        },
+        {
+            "name": "shadow sky",
+            "type": "shadow",
+            "link": "moves/shadow-sky.json"
+        }
+    ]
+}

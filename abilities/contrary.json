@@ -1,0 +1,5 @@
+{
+    "name": "contrary",
+    "effect": "whenever this pok\u00e9mon's stats would be raised, they are instead lowered by the same amount, and vice versa.",
+    "description": "makes stat changes have an opposite effect."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ingrain",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "prevents the user from leaving battle.  user regains 1/16 of its max hp every turn.",
+    "description": "the user lays roots that restore its hp on every turn. because it\u2019s rooted, it can\u2019t switch out."
+}

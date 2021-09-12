@@ -1,0 +1,11 @@
+{
+    "name": "steel beam",
+    "type": "steel",
+    "category": "special",
+    "power": 140,
+    "accuracy": 95,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

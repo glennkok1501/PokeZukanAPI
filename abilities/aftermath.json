@@ -1,0 +1,5 @@
+{
+    "name": "aftermath",
+    "effect": "when this pok\u00e9mon is knocked out by a move that makes contact, the move's user takes 1/4 its maximum hp in damage.",
+    "description": "damages the attacker if it contacts the pok\u00e9mon with a finishing hit."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "focus punch",
+    "type": "fighting",
+    "category": "physical",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "if the user takes damage before attacking, the attack is canceled.",
+    "description": "the user focuses its mind before launching a punch. this move fails if the user is hit before it is used."
+}

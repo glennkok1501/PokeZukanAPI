@@ -1,0 +1,11 @@
+{
+    "name": "doom desire",
+    "type": "steel",
+    "category": "special",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "hits the target two turns later.",
+    "description": "two turns after this move is used, a concentrated bundle of light blasts the target. "
+}

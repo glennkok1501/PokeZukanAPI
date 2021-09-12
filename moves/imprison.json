@@ -1,0 +1,11 @@
+{
+    "name": "imprison",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "prevents the target from using any moves that the user also knows.",
+    "description": "if opposing pok\u00e9mon know any move also known by the user, they are prevented from using it."
+}

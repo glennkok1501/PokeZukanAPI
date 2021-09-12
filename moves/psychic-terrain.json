@@ -1,0 +1,11 @@
+{
+    "name": "psychic terrain",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "protects pok\u00e9mon on the ground from priority moves and increases the power of their  psychic moves by 50%.",
+    "description": "this protects pok\u00e9mon on the ground from priority moves and powers up psychic-type moves for five turns."
+}

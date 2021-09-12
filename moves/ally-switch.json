@@ -1,0 +1,11 @@
+{
+    "name": "ally switch",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "user switches places with the friendly pok\u00e9mon opposite it.",
+    "description": "the user teleports using a strange power and switches places with one of its allies."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "head smash",
+    "type": "rock",
+    "category": "physical",
+    "power": 150,
+    "accuracy": 80,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "user receives 1/2 the damage inflicted in recoil.",
+    "description": "the user attacks the target with a hazardous, full-power headbutt. this also damages the user terribly."
+}

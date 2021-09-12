@@ -1,0 +1,11 @@
+{
+    "name": "zippy zap",
+    "type": "electric",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "always scores a critical hit.",
+    "description": null
+}

@@ -1,0 +1,11 @@
+{
+    "name": "hone claws",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "raises the user's attack and accuracy by one stage.",
+    "description": "the user sharpens its claws to boost its attack stat and accuracy."
+}

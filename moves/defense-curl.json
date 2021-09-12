@@ -1,0 +1,11 @@
+{
+    "name": "defense curl",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": "cute",
+    "effect": "raises user's defense by one stage.",
+    "description": "the user curls up to conceal weak spots and raise its defense stat."
+}

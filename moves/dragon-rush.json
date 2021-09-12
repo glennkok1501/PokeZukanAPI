@@ -1,0 +1,11 @@
+{
+    "name": "dragon rush",
+    "type": "dragon",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "has a 20% chance to make the target flinch.",
+    "description": "the user tackles the target while exhibiting overwhelming menace. this may also make the target flinch."
+}

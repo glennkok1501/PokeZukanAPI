@@ -1,0 +1,5 @@
+{
+    "name": "mummy",
+    "effect": "whenever a contact move hits this pok\u00e9mon, the attacking pok\u00e9mon's ability changes to mummy.  multitype is unaffected.  if a pok\u00e9mon with moxie knocks this pok\u00e9mon out, the former's ability will change without taking effect.",
+    "description": "contact with the pok\u00e9mon changes the attacker\u2019s ability to mummy."
+}

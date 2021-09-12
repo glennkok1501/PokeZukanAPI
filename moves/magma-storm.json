@@ -1,0 +1,11 @@
+{
+    "name": "magma storm",
+    "type": "fire",
+    "category": "special",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "prevents the target from fleeing and inflicts damage for 2-5 turns.",
+    "description": "the target becomes trapped within a maelstrom of fire that rages for four to five turns."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "wake up slap",
+    "type": "fighting",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "if the target is asleep, has double power and wakes it up.",
+    "description": "this attack inflicts big damage on a sleeping target. this also wakes the target up, however."
+}

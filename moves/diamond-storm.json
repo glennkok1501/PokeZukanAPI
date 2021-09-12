@@ -1,0 +1,11 @@
+{
+    "name": "diamond storm",
+    "type": "rock",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "contest": null,
+    "effect": "has a 50% chance to raise the user's defense by two stages for each target hit.",
+    "description": "the user whips up a storm of diamonds to damage opposing pok\u00e9mon. this may also sharply raise the user\u2019s defense stat."
+}

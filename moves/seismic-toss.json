@@ -1,0 +1,11 @@
+{
+    "name": "seismic toss",
+    "type": "fighting",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "inflicts damage equal to the user's level.",
+    "description": "the target is thrown using the power of gravity. it inflicts damage equal to the user\u2019s level."
+}

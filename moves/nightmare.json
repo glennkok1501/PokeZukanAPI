@@ -1,0 +1,11 @@
+{
+    "name": "nightmare",
+    "type": "ghost",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "target loses 1/4 its max hp every turn as long as it's asleep.",
+    "description": "a sleeping target sees a nightmare that inflicts some damage every turn."
+}

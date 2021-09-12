@@ -1,0 +1,11 @@
+{
+    "name": "jump kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "if the user misses, it takes half the damage it would have inflicted in recoil.",
+    "description": "the user jumps up high, then strikes with a kick. if the kick misses, the user hurts itself."
+}

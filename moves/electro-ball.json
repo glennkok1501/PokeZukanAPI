@@ -1,0 +1,11 @@
+{
+    "name": "electro ball",
+    "type": "electric",
+    "category": "special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "power is higher when the user has greater speed than the target, up to a maximum of 150.",
+    "description": "the user hurls an electric orb at the target. the faster the user is than the target, the greater the move\u2019s power."
+}

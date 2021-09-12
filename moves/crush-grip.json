@@ -1,0 +1,11 @@
+{
+    "name": "crush grip",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "power increases against targets with more hp remaining, up to a maximum of 121 power.",
+    "description": "the target is crushed with great force. the more hp the target has left, the greater this move\u2019s power."
+}

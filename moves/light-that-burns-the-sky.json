@@ -1,0 +1,11 @@
+{
+    "name": "light that burns the sky",
+    "type": "psychic",
+    "category": "special",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts damage using either attack or special attack stat, whichever is higher.",
+    "description": "this attack inflicts attack or sp. atk damage\u2014 whichever stat is higher for the user, necrozma.  this move ignores the target\u2019s ability."
+}

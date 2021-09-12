@@ -1,0 +1,11 @@
+{
+    "name": "confide",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "lowers the target's special attack by one stage.",
+    "description": "the user tells the target a secret, and the target loses its ability to concentrate. this lowers the target\u2019s sp. atk stat."
+}

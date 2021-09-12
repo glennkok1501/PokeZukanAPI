@@ -1,0 +1,11 @@
+{
+    "name": "flying press",
+    "type": "fighting",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 10,
+    "contest": null,
+    "effect": "deals both fighting and flying-type damage.",
+    "description": "the user dives down onto the target from the sky. this move is fighting and flying type simultaneously."
+}

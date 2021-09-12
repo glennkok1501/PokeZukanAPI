@@ -1,0 +1,11 @@
+{
+    "name": "mud shot",
+    "type": "ground",
+    "category": "special",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "has a 100% chance to lower the target's speed by one stage.",
+    "description": "the user attacks by hurling a blob of mud at the target. this also lowers the target\u2019s speed stat."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "harvest",
+    "effect": "after each turn, if the last item this pok\u00e9mon consumed was a berry and it is not currently holding an item, it has a 50% chance of regaining that berry, or a 100% chance during strong sunlight.",
+    "description": "may create another berry after one is used."
+}

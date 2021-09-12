@@ -1,0 +1,5 @@
+{
+    "name": "flame body",
+    "effect": "whenever a move makes contact with this pok\u00e9mon, the move's user has a 30% chance of being burned.  overworld: if any pok\u00e9mon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  this effect does not stack if multiple pok\u00e9mon have this ability or magma armor.",
+    "description": "contact with the pok\u00e9mon may burn the attacker."
+}

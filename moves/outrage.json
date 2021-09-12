@@ -1,0 +1,11 @@
+{
+    "name": "outrage",
+    "type": "dragon",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "hits every turn for 2-3 turns, then confuses the user.",
+    "description": "the user rampages and attacks for two to three turns. the user then becomes confused."
+}

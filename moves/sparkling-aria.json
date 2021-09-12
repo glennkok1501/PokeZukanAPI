@@ -1,0 +1,11 @@
+{
+    "name": "sparkling aria",
+    "type": "water",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "cures the target of burns.",
+    "description": "the user bursts into song, emitting many bubbles. any pok\u00e9mon suffering from a burn will be healed by the touch of these bubbles."
+}

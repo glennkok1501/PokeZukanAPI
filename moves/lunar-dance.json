@@ -1,0 +1,11 @@
+{
+    "name": "lunar dance",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "user faints, and its replacement is fully healed.",
+    "description": "the user faints. in return, the pok\u00e9mon taking its place will have its status and hp fully restored."
+}

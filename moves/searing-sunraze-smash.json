@@ -1,0 +1,11 @@
+{
+    "name": "searing sunraze smash",
+    "type": "steel",
+    "category": "physical",
+    "power": 200,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "cannot be disrupted by abilities.",
+    "description": "after obtaining z-power, the user, solgaleo, attacks the target with full force. this move can ignore the effect of the target\u2019s ability."
+}

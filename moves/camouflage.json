@@ -1,0 +1,11 @@
+{
+    "name": "camouflage",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "user's type changes to match the terrain.",
+    "description": "the user\u2019s type is changed depending on its environment, such as at water\u2019s edge, in grass, or in a cave."
+}

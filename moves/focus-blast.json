@@ -1,0 +1,11 @@
+{
+    "name": "focus blast",
+    "type": "fighting",
+    "category": "special",
+    "power": 120,
+    "accuracy": 70,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "has a 10% chance to lower the target's special defense by one stage.",
+    "description": "the user heightens its mental focus and unleashes its power. this may also lower the target\u2019s  sp. def stat."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "sand stream",
+    "effect": "the weather changes to a sandstorm when this pok\u00e9mon enters battle and does not end unless cancelled by another weather condition.  if multiple pok\u00e9mon with this ability, drizzle, drought, or snow warning are sent out at the same time, the abilities will activate in order of speed, respecting trick room.  each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the pok\u00e9mon will stay.  overworld: if the lead pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+    "description": "the pok\u00e9mon summons a sandstorm when it enters a battle."
+}

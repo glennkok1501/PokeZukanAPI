@@ -1,0 +1,11 @@
+{
+    "name": "poison sting",
+    "type": "poison",
+    "category": "physical",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 35,
+    "contest": "smart",
+    "effect": "has a 30% chance to poison the target.",
+    "description": "the user stabs the target with a poisonous stinger. this may also poison the target."
+}

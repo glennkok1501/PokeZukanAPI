@@ -1,0 +1,11 @@
+{
+    "name": "incinerate",
+    "type": "fire",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "destroys the target's held berry.",
+    "description": "the user attacks opposing pok\u00e9mon with fire. if a pok\u00e9mon is holding a certain item, such as a berry, the item becomes burned up and unusable."
+}

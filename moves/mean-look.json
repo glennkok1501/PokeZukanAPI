@@ -1,0 +1,11 @@
+{
+    "name": "mean look",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "prevents the target from leaving battle.",
+    "description": "the user pins the target with a dark, arresting look. the target becomes unable to flee."
+}

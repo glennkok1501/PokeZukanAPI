@@ -1,0 +1,11 @@
+{
+    "name": "razor leaf",
+    "type": "grass",
+    "category": "physical",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 25,
+    "contest": "cool",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "sharp-edged leaves are launched to slash at the opposing pok\u00e9mon. critical hits land more easily."
+}

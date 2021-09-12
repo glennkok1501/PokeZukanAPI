@@ -1,0 +1,11 @@
+{
+    "name": "arm thrust",
+    "type": "fighting",
+    "category": "physical",
+    "power": 15,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row."
+}

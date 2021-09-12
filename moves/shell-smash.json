@@ -1,0 +1,11 @@
+{
+    "name": "shell smash",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "raises user's attack, special attack, and speed by two stages.  lower user's defense and special defense by one stage.",
+    "description": "the user breaks its shell, which lowers defense and sp. def stats but sharply raises its attack, sp. atk, and speed stats."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "fire pledge",
+    "type": "fire",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "with water pledge, doubles the effect chance of friendly pok\u00e9mon's moves for four turns.",
+    "description": "a column of fire hits the target. when used with its grass equivalent, its power increases and a vast sea of fire appears."
+}

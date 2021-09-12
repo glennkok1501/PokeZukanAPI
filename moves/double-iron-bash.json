@@ -1,0 +1,11 @@
+{
+    "name": "double iron bash",
+    "type": "steel",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "hits twice in one turn",
+    "description": null
+}

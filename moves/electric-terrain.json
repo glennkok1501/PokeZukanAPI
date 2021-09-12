@@ -1,0 +1,11 @@
+{
+    "name": "electric terrain",
+    "type": "electric",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "for five turns, prevents all pok\u00e9mon on the ground from sleeping and strengthens their electric moves to 1.5\u00d7 their power.",
+    "description": "the user electrifies the ground for five turns, powering up electric-type moves. pok\u00e9mon on the ground no longer fall asleep."
+}

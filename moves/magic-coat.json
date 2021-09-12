@@ -1,0 +1,11 @@
+{
+    "name": "magic coat",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "reflects back the first effect move used on the user this turn.",
+    "description": "a barrier reflects back to the target moves like leech seed and moves that damage status."
+}

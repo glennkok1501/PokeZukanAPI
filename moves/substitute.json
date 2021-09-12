@@ -1,0 +1,11 @@
+{
+    "name": "substitute",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "transfers 1/4 of the user's max hp into a doll, protecting the user from further damage or status changes until it breaks.",
+    "description": "the user makes a copy of itself using some of its hp. the copy serves as the user\u2019s decoy."
+}

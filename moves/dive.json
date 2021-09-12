@@ -1,0 +1,11 @@
+{
+    "name": "dive",
+    "type": "water",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "user dives underwater, dodging all attacks, and hits next turn.",
+    "description": "diving on the first turn, the user floats up and attacks on the next turn."
+}

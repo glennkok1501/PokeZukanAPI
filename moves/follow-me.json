@@ -1,0 +1,11 @@
+{
+    "name": "follow me",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "redirects the target's single-target effects to the user for this turn.",
+    "description": "the user draws attention to itself, making all targets take aim only at the user."
+}

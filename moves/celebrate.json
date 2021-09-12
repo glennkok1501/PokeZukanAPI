@@ -1,0 +1,11 @@
+{
+    "name": "celebrate",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": null,
+    "effect": "does nothing.",
+    "description": "the pok\u00e9mon congratulates you on your special day!"
+}

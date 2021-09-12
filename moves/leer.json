@@ -1,0 +1,11 @@
+{
+    "name": "leer",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "lowers the target's defense by one stage.",
+    "description": "the user gives opposing pok\u00e9mon an intimidating leer that lowers the defense stat."
+}

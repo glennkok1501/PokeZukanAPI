@@ -1,0 +1,11 @@
+{
+    "name": "bounce",
+    "type": "flying",
+    "category": "physical",
+    "power": 85,
+    "accuracy": 85,
+    "pp": 5,
+    "contest": "cute",
+    "effect": "user bounces high into the air, dodging all attacks, and hits next turn.",
+    "description": "the user bounces up high, then drops on the target on the second turn. this may also leave the target with paralysis."
+}

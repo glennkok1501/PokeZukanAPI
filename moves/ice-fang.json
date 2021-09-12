@@ -1,0 +1,11 @@
+{
+    "name": "ice fang",
+    "type": "ice",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": "cool",
+    "effect": "has a 10% chance to freeze the target and a 10% chance to make the target flinch.",
+    "description": "the user bites with cold-infused fangs. this may also make the target flinch or leave it frozen."
+}

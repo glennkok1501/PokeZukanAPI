@@ -1,0 +1,11 @@
+{
+    "name": "play nice",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "lowers the target's attack by one stage.",
+    "description": "the user and the target become friends, and the target loses its will to fight. this lowers the target\u2019s attack stat."
+}

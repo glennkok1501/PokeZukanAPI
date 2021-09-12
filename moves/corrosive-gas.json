@@ -1,0 +1,11 @@
+{
+    "name": "corrosive gas",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 40,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

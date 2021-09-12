@@ -1,0 +1,11 @@
+{
+    "name": "sparkly swirl",
+    "type": "fairy",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "cures the entire party of major status effects after inflicting damage.",
+    "description": null
+}

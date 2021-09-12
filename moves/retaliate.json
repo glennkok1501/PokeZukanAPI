@@ -1,0 +1,11 @@
+{
+    "name": "retaliate",
+    "type": "normal",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "has double power if a friendly pok\u00e9mon fainted last turn.",
+    "description": "the user gets revenge for a fainted ally. if an ally fainted in the previous turn, this move\u2019s power is increased."
+}

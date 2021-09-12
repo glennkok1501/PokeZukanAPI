@@ -1,0 +1,11 @@
+{
+    "name": "genesis supernova",
+    "type": "psychic",
+    "category": "special",
+    "power": 185,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "changes the terrain to psychic terrain after inflicting damage.",
+    "description": "after obtaining z-power, the user, mew, attacks the target with full force. the terrain will be charged with psychic energy."
+}

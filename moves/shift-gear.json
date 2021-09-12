@@ -1,0 +1,11 @@
+{
+    "name": "shift gear",
+    "type": "steel",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "raises the user's attack by one stage and its speed by two stages.",
+    "description": "the user rotates its gears, raising its attack stat and sharply raising its speed stat."
+}

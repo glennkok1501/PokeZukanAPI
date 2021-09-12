@@ -1,0 +1,11 @@
+{
+    "name": "psybeam",
+    "type": "psychic",
+    "category": "special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "has a 10% chance to confuse the target.",
+    "description": "the target is attacked with a peculiar ray. this may also leave the target confused."
+}

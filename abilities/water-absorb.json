@@ -1,0 +1,5 @@
+{
+    "name": "water absorb",
+    "effect": "whenever a water-type move hits this pok\u00e9mon, it heals for 1/4 of its maximum hp, negating any other effect on it.  water moves will ignore this pok\u00e9mon's substitute.",
+    "description": "restores hp if hit by a water-type move, instead of taking damage."
+}

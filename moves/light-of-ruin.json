@@ -1,0 +1,11 @@
+{
+    "name": "light of ruin",
+    "type": "fairy",
+    "category": "special",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": null,
+    "effect": "user receives 1/2 the damage inflicted in recoil.",
+    "description": "drawing power from the eternal flower, the user fires a powerful beam of light. this also damages the user quite a lot."
+}

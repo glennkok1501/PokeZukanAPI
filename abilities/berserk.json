@@ -1,0 +1,5 @@
+{
+    "name": "berserk",
+    "effect": "whenever this pok\u00e9mon takes damage from a move that causes its hp to drop below 50%, its special attack rises by one stage.",
+    "description": "boosts the pok\u00e9mon\u2019s sp. atk stat when it takes a  hit that causes its hp to become half or less."
+}

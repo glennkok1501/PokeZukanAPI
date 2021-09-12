@@ -1,0 +1,5 @@
+{
+    "name": "anticipation",
+    "effect": "when this pok\u00e9mon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified.  the move itself is not revealed; only that there is such a move.  moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types.  counter, metal burst, mirror coat, and one-hit ko moves to which this pok\u00e9mon is immune do not trigger this ability.",
+    "description": "the pok\u00e9mon can sense an opposing pok\u00e9mon\u2019s dangerous moves."
+}

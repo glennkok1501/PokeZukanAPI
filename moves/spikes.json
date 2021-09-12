@@ -1,0 +1,11 @@
+{
+    "name": "spikes",
+    "type": "ground",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "scatters spikes, hurting opposing pok\u00e9mon that switch in.",
+    "description": "the user lays a trap of spikes at the opposing team\u2019s feet. the trap hurts pok\u00e9mon that switch into battle."
+}

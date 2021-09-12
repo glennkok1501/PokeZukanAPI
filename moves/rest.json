@@ -1,0 +1,11 @@
+{
+    "name": "rest",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "user sleeps for two turns, completely healing itself.",
+    "description": "the user goes to sleep for two turns. this fully restores the user\u2019s hp and heals any status conditions."
+}

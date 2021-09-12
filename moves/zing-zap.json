@@ -1,0 +1,11 @@
+{
+    "name": "zing zap",
+    "type": "electric",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "a strong electric blast crashes down on the target, giving it an electric shock. this may also make the target flinch."
+}

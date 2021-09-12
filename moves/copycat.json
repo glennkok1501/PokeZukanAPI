@@ -1,0 +1,11 @@
+{
+    "name": "copycat",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "uses the target's last used move.",
+    "description": "the user mimics the move used immediately before it. the move fails if no other move has been used yet."
+}

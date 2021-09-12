@@ -1,0 +1,5 @@
+{
+    "name": "keen eye",
+    "effect": "this pok\u00e9mon cannot have its accuracy lowered.  this ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other pok\u00e9mon's evasion from making this pok\u00e9mon's moves less accurate.  this pok\u00e9mon can still be passed negative accuracy modifiers through heart swap.  overworld: if the first pok\u00e9mon in the party has this ability, any random encounter with a pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+    "description": "keen eyes prevent other pok\u00e9mon from lowering this pok\u00e9mon\u2019s accuracy."
+}

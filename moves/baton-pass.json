@@ -1,0 +1,11 @@
+{
+    "name": "baton pass",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": "cute",
+    "effect": "allows the trainer to switch out the user and pass effects along to its replacement.",
+    "description": "the user switches places with a party pok\u00e9mon in waiting and passes along any stat changes."
+}

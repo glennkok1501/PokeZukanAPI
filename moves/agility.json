@@ -1,0 +1,11 @@
+{
+    "name": "agility",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "raises the user's speed by two stages.",
+    "description": "the user relaxes and lightens its body to move faster. this sharply raises the speed stat."
+}

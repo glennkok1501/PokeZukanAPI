@@ -1,0 +1,11 @@
+{
+    "name": "supersonic",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 55,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "confuses the target.",
+    "description": "the user generates odd sound waves from its body that confuse the target."
+}

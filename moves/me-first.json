@@ -1,0 +1,11 @@
+{
+    "name": "me first",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "uses the target's move against it before it attacks, with power increased by half.",
+    "description": "the user cuts ahead of the target to copy and use the target\u2019s intended move with greater power. this move fails if it isn\u2019t used first."
+}

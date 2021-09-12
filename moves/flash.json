@@ -1,0 +1,11 @@
+{
+    "name": "flash",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "lowers the target's accuracy by one stage.",
+    "description": "the user flashes a bright light that cuts the target\u2019s accuracy."
+}

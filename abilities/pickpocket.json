@@ -1,0 +1,5 @@
+{
+    "name": "pickpocket",
+    "effect": "whenever a move makes contact with this pok\u00e9mon, if it does not have a held item, it steals the attacker's held item.  this pok\u00e9mon cannot steal upon being knocked out.  it can steal if the attacker has a substitute, but cannot steal when its own substitute is hit.  if a move hits multiple times, only the last hit triggers this ability.  if this pok\u00e9mon is wild, it cannot steal from a trained pok\u00e9mon.",
+    "description": "steals an item from an attacker that made direct contact."
+}

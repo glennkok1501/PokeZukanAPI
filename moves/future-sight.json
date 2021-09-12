@@ -1,0 +1,11 @@
+{
+    "name": "future sight",
+    "type": "psychic",
+    "category": "special",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "hits the target two turns later.",
+    "description": "two turns after this move is used, a hunk of psychic energy attacks the target."
+}

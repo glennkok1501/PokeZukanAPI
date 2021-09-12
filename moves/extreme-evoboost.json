@@ -1,0 +1,11 @@
+{
+    "name": "extreme evoboost",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "raises all of the user's stats by two stages.",
+    "description": "after obtaining z-power, the user, eevee, gets energy from its evolved friends and boosts its stats sharply."
+}

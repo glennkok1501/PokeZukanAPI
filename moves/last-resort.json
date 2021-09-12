@@ -1,0 +1,11 @@
+{
+    "name": "last resort",
+    "type": "normal",
+    "category": "physical",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "cute",
+    "effect": "can only be used after all of the user's other moves have been used.",
+    "description": "this move can be used only after the user has used all the other moves it knows in the battle."
+}

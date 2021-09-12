@@ -1,0 +1,11 @@
+{
+    "name": "growth",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "raises the user's attack and special attack by one stage.",
+    "description": "the user\u2019s body grows all at once, raising the attack and sp. atk stats."
+}

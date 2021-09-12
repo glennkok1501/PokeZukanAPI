@@ -1,0 +1,11 @@
+{
+    "name": "mat block",
+    "type": "fighting",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "protects all friendly pok\u00e9mon from damaging moves.  only works on the first turn after the user is sent out.",
+    "description": "using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. this does not stop status moves."
+}

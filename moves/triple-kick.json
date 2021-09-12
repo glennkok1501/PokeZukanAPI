@@ -1,0 +1,11 @@
+{
+    "name": "triple kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 10,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "hits three times, increasing power by 100% with each successful hit.",
+    "description": "a consecutive three-kick attack that becomes more powerful with each successful hit."
+}

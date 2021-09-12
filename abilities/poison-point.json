@@ -1,0 +1,5 @@
+{
+    "name": "poison point",
+    "effect": "whenever a move makes contact with this pok\u00e9mon, the move's user has a 30% chance of being poisoned.",
+    "description": "contact with the pok\u00e9mon may poison the attacker."
+}

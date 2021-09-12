@@ -1,0 +1,11 @@
+{
+    "name": "telekinesis",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "moves have 100% accuracy against the target for three turns.",
+    "description": "the user makes the target float with its psychic power. the target is easier to hit for three turns."
+}

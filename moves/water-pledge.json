@@ -1,0 +1,11 @@
+{
+    "name": "water pledge",
+    "type": "water",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "with grass pledge, halves opposing pok\u00e9mon's speed for four turns.",
+    "description": "a column of water strikes the target. when combined with its fire equivalent, its power increases and a rainbow appears."
+}

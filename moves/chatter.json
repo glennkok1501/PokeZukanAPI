@@ -1,0 +1,11 @@
+{
+    "name": "chatter",
+    "type": "flying",
+    "category": "special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "has a higher chance to confuse the target when the recorded sound is louder.",
+    "description": "the user attacks the target with sound waves of deafening chatter. this confuses the target."
+}

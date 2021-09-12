@@ -1,0 +1,11 @@
+{
+    "name": "rototiller",
+    "type": "ground",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "raises the attack and special attack of all grass pok\u00e9mon in battle.",
+    "description": "tilling the soil, the user makes it easier for plants to grow. this raises the attack and sp. atk stats of grass-type pok\u00e9mon."
+}

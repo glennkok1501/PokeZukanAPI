@@ -1,0 +1,5 @@
+{
+    "name": "schooling",
+    "effect": "if this pok\u00e9mon is a wishiwashi and level 20 or above, then when it enters battle and at the start of each turn, it becomes schooling form if its hp is 25% or higher and solo form otherwise.  this ability cannot be replaced, copied, or nullified.",
+    "description": "when it has a lot of hp, the pok\u00e9mon forms a powerful school. it stops schooling when its hp is low."
+}

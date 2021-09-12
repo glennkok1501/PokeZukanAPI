@@ -1,0 +1,11 @@
+{
+    "name": "mind blown",
+    "type": "fire",
+    "category": "special",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "inflicts damage, and the user takes damage equal to half of its max hp, rounded up.",
+    "description": "the user attacks everything around it by causing its own head to explode. this also damages the user."
+}

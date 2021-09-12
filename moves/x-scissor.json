@@ -1,0 +1,11 @@
+{
+    "name": "x scissor",
+    "type": "bug",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+}

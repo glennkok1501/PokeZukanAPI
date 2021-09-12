@@ -1,0 +1,11 @@
+{
+    "name": "heal pulse",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "heals the target for half its max hp.",
+    "description": "the user emits a healing pulse that restores the target\u2019s hp by up to half of its max hp."
+}

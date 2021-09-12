@@ -1,0 +1,11 @@
+{
+    "name": "rapid spin",
+    "type": "normal",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 40,
+    "contest": "cool",
+    "effect": "frees the user from binding moves, removes leech seed, and blows away spikes.",
+    "description": "a spin attack that can also eliminate such moves as bind, wrap, leech seed, and spikes."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "parting shot",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "lowers all targets' attack and special attack by one stage.  makes the user switch out.",
+    "description": "with a parting threat, the user lowers the target\u2019s attack and sp. atk stats. then it switches with a party pok\u00e9mon."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "snarl",
+    "type": "dark",
+    "category": "special",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": null,
+    "effect": "has a 100% chance to lower the target's special attack by one stage.",
+    "description": "the user yells as if it\u2019s ranting about something, which lowers the sp. atk stat of opposing pok\u00e9mon."
+}

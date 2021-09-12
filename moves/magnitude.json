@@ -1,0 +1,11 @@
+{
+    "name": "magnitude",
+    "type": "ground",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "tough",
+    "effect": "power varies randomly from 10 to 150.",
+    "description": "the user attacks everything around it with a ground-shaking quake. its power varies."
+}

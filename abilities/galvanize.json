@@ -1,0 +1,5 @@
+{
+    "name": "galvanize",
+    "effect": "when this pok\u00e9mon uses a normal moves, that move is electric its power is 1.2\u00d7.",
+    "description": "normal-type moves become electric-type moves. the power of those moves is boosted a little."
+}

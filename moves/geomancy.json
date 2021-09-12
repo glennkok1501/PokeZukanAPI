@@ -1,0 +1,11 @@
+{
+    "name": "geomancy",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "takes one turn to charge, then raises the user's special attack, special defense, and speed by two stages.",
+    "description": "the user absorbs energy and sharply raises its sp. atk, sp. def, and speed stats on the next turn."
+}

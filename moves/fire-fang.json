@@ -1,0 +1,11 @@
+{
+    "name": "fire fang",
+    "type": "fire",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "has a 10% chance to burn the target and a 10% chance to make the target flinch.",
+    "description": "the user bites with flame-cloaked fangs. this may also make the target flinch or leave it with a burn."
+}

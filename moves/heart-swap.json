@@ -1,0 +1,11 @@
+{
+    "name": "heart swap",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "user and target swap stat changes.",
+    "description": "the user employs its psychic power to switch stat changes with the target."
+}

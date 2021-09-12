@@ -1,0 +1,11 @@
+{
+    "name": "cross chop",
+    "type": "fighting",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the user delivers a double chop with its forearms crossed. critical hits land more easily."
+}

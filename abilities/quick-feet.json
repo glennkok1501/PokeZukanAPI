@@ -1,0 +1,5 @@
+{
+    "name": "quick feet",
+    "effect": "whenever this pok\u00e9mon has a major status ailment, it has 1.5\u00d7 its speed.  this pok\u00e9mon is not affected by the usual speed cut from paralysis.  overworld: if the lead pok\u00e9mon has this ability, the wild encounter rate is halved.",
+    "description": "boosts the speed stat if the pok\u00e9mon has a status condition."
+}

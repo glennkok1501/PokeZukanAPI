@@ -1,0 +1,11 @@
+{
+    "name": "dazzling gleam",
+    "type": "fairy",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user damages opposing pok\u00e9mon by emitting a powerful flash."
+}

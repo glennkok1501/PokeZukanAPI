@@ -1,0 +1,11 @@
+{
+    "name": "yawn",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "target sleeps at the end of the next turn.",
+    "description": "the user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+}

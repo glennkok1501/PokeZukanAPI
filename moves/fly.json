@@ -1,0 +1,11 @@
+{
+    "name": "fly",
+    "type": "flying",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "user flies high into the air, dodging all attacks, and hits next turn.",
+    "description": "the user soars and then strikes its target on the next turn."
+}

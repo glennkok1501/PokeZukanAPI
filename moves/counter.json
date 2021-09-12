@@ -1,0 +1,11 @@
+{
+    "name": "counter",
+    "type": "fighting",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "inflicts twice the damage the user received from the last physical hit it took.",
+    "description": "a retaliation move that counters any physical attack, inflicting double the damage taken."
+}

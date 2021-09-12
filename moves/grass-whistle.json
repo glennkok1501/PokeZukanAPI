@@ -1,0 +1,11 @@
+{
+    "name": "grass whistle",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": 55,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "puts the target to sleep.",
+    "description": "the user plays a pleasant melody that lulls the target into a deep sleep."
+}

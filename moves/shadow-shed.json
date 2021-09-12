@@ -1,0 +1,11 @@
+{
+    "name": "shadow shed",
+    "type": "shadow",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": null,
+    "contest": null,
+    "effect": "removes light screen, reflect, and safeguard.",
+    "description": null
+}

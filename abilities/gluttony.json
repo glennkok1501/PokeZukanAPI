@@ -1,0 +1,5 @@
+{
+    "name": "gluttony",
+    "effect": "this pok\u00e9mon eats any held berry triggered by low hp when it falls below 50% of its hp, regardless of the berry's usual threshold.",
+    "description": "makes the pok\u00e9mon eat a held berry when its hp drops to half or less, which is sooner than usual."
+}

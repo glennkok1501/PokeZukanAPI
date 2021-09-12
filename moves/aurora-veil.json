@@ -1,0 +1,11 @@
+{
+    "name": "aurora veil",
+    "type": "ice",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "reduces damage five turns, but must be used during hail.",
+    "description": "this move reduces damage from physical and special moves for five turns. this can be used only in a hailstorm."
+}

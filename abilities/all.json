@@ -1,0 +1,1313 @@
+{
+    "count": 327,
+    "abilities": [
+        {
+            "name": "stench",
+            "link": "abilities/stench.json"
+        },
+        {
+            "name": "drizzle",
+            "link": "abilities/drizzle.json"
+        },
+        {
+            "name": "speed boost",
+            "link": "abilities/speed-boost.json"
+        },
+        {
+            "name": "battle armor",
+            "link": "abilities/battle-armor.json"
+        },
+        {
+            "name": "sturdy",
+            "link": "abilities/sturdy.json"
+        },
+        {
+            "name": "damp",
+            "link": "abilities/damp.json"
+        },
+        {
+            "name": "limber",
+            "link": "abilities/limber.json"
+        },
+        {
+            "name": "sand veil",
+            "link": "abilities/sand-veil.json"
+        },
+        {
+            "name": "static",
+            "link": "abilities/static.json"
+        },
+        {
+            "name": "volt absorb",
+            "link": "abilities/volt-absorb.json"
+        },
+        {
+            "name": "water absorb",
+            "link": "abilities/water-absorb.json"
+        },
+        {
+            "name": "oblivious",
+            "link": "abilities/oblivious.json"
+        },
+        {
+            "name": "cloud nine",
+            "link": "abilities/cloud-nine.json"
+        },
+        {
+            "name": "compound eyes",
+            "link": "abilities/compound-eyes.json"
+        },
+        {
+            "name": "insomnia",
+            "link": "abilities/insomnia.json"
+        },
+        {
+            "name": "color change",
+            "link": "abilities/color-change.json"
+        },
+        {
+            "name": "immunity",
+            "link": "abilities/immunity.json"
+        },
+        {
+            "name": "flash fire",
+            "link": "abilities/flash-fire.json"
+        },
+        {
+            "name": "shield dust",
+            "link": "abilities/shield-dust.json"
+        },
+        {
+            "name": "own tempo",
+            "link": "abilities/own-tempo.json"
+        },
+        {
+            "name": "suction cups",
+            "link": "abilities/suction-cups.json"
+        },
+        {
+            "name": "intimidate",
+            "link": "abilities/intimidate.json"
+        },
+        {
+            "name": "shadow tag",
+            "link": "abilities/shadow-tag.json"
+        },
+        {
+            "name": "rough skin",
+            "link": "abilities/rough-skin.json"
+        },
+        {
+            "name": "wonder guard",
+            "link": "abilities/wonder-guard.json"
+        },
+        {
+            "name": "levitate",
+            "link": "abilities/levitate.json"
+        },
+        {
+            "name": "effect spore",
+            "link": "abilities/effect-spore.json"
+        },
+        {
+            "name": "synchronize",
+            "link": "abilities/synchronize.json"
+        },
+        {
+            "name": "clear body",
+            "link": "abilities/clear-body.json"
+        },
+        {
+            "name": "natural cure",
+            "link": "abilities/natural-cure.json"
+        },
+        {
+            "name": "lightning rod",
+            "link": "abilities/lightning-rod.json"
+        },
+        {
+            "name": "serene grace",
+            "link": "abilities/serene-grace.json"
+        },
+        {
+            "name": "swift swim",
+            "link": "abilities/swift-swim.json"
+        },
+        {
+            "name": "chlorophyll",
+            "link": "abilities/chlorophyll.json"
+        },
+        {
+            "name": "illuminate",
+            "link": "abilities/illuminate.json"
+        },
+        {
+            "name": "trace",
+            "link": "abilities/trace.json"
+        },
+        {
+            "name": "huge power",
+            "link": "abilities/huge-power.json"
+        },
+        {
+            "name": "poison point",
+            "link": "abilities/poison-point.json"
+        },
+        {
+            "name": "inner focus",
+            "link": "abilities/inner-focus.json"
+        },
+        {
+            "name": "magma armor",
+            "link": "abilities/magma-armor.json"
+        },
+        {
+            "name": "water veil",
+            "link": "abilities/water-veil.json"
+        },
+        {
+            "name": "magnet pull",
+            "link": "abilities/magnet-pull.json"
+        },
+        {
+            "name": "soundproof",
+            "link": "abilities/soundproof.json"
+        },
+        {
+            "name": "rain dish",
+            "link": "abilities/rain-dish.json"
+        },
+        {
+            "name": "sand stream",
+            "link": "abilities/sand-stream.json"
+        },
+        {
+            "name": "pressure",
+            "link": "abilities/pressure.json"
+        },
+        {
+            "name": "thick fat",
+            "link": "abilities/thick-fat.json"
+        },
+        {
+            "name": "early bird",
+            "link": "abilities/early-bird.json"
+        },
+        {
+            "name": "flame body",
+            "link": "abilities/flame-body.json"
+        },
+        {
+            "name": "run away",
+            "link": "abilities/run-away.json"
+        },
+        {
+            "name": "keen eye",
+            "link": "abilities/keen-eye.json"
+        },
+        {
+            "name": "hyper cutter",
+            "link": "abilities/hyper-cutter.json"
+        },
+        {
+            "name": "pickup",
+            "link": "abilities/pickup.json"
+        },
+        {
+            "name": "truant",
+            "link": "abilities/truant.json"
+        },
+        {
+            "name": "hustle",
+            "link": "abilities/hustle.json"
+        },
+        {
+            "name": "cute charm",
+            "link": "abilities/cute-charm.json"
+        },
+        {
+            "name": "plus",
+            "link": "abilities/plus.json"
+        },
+        {
+            "name": "minus",
+            "link": "abilities/minus.json"
+        },
+        {
+            "name": "forecast",
+            "link": "abilities/forecast.json"
+        },
+        {
+            "name": "sticky hold",
+            "link": "abilities/sticky-hold.json"
+        },
+        {
+            "name": "shed skin",
+            "link": "abilities/shed-skin.json"
+        },
+        {
+            "name": "guts",
+            "link": "abilities/guts.json"
+        },
+        {
+            "name": "marvel scale",
+            "link": "abilities/marvel-scale.json"
+        },
+        {
+            "name": "liquid ooze",
+            "link": "abilities/liquid-ooze.json"
+        },
+        {
+            "name": "overgrow",
+            "link": "abilities/overgrow.json"
+        },
+        {
+            "name": "blaze",
+            "link": "abilities/blaze.json"
+        },
+        {
+            "name": "torrent",
+            "link": "abilities/torrent.json"
+        },
+        {
+            "name": "swarm",
+            "link": "abilities/swarm.json"
+        },
+        {
+            "name": "rock head",
+            "link": "abilities/rock-head.json"
+        },
+        {
+            "name": "drought",
+            "link": "abilities/drought.json"
+        },
+        {
+            "name": "arena trap",
+            "link": "abilities/arena-trap.json"
+        },
+        {
+            "name": "vital spirit",
+            "link": "abilities/vital-spirit.json"
+        },
+        {
+            "name": "white smoke",
+            "link": "abilities/white-smoke.json"
+        },
+        {
+            "name": "pure power",
+            "link": "abilities/pure-power.json"
+        },
+        {
+            "name": "shell armor",
+            "link": "abilities/shell-armor.json"
+        },
+        {
+            "name": "air lock",
+            "link": "abilities/air-lock.json"
+        },
+        {
+            "name": "tangled feet",
+            "link": "abilities/tangled-feet.json"
+        },
+        {
+            "name": "motor drive",
+            "link": "abilities/motor-drive.json"
+        },
+        {
+            "name": "rivalry",
+            "link": "abilities/rivalry.json"
+        },
+        {
+            "name": "steadfast",
+            "link": "abilities/steadfast.json"
+        },
+        {
+            "name": "snow cloak",
+            "link": "abilities/snow-cloak.json"
+        },
+        {
+            "name": "gluttony",
+            "link": "abilities/gluttony.json"
+        },
+        {
+            "name": "anger point",
+            "link": "abilities/anger-point.json"
+        },
+        {
+            "name": "unburden",
+            "link": "abilities/unburden.json"
+        },
+        {
+            "name": "heatproof",
+            "link": "abilities/heatproof.json"
+        },
+        {
+            "name": "simple",
+            "link": "abilities/simple.json"
+        },
+        {
+            "name": "dry skin",
+            "link": "abilities/dry-skin.json"
+        },
+        {
+            "name": "download",
+            "link": "abilities/download.json"
+        },
+        {
+            "name": "iron fist",
+            "link": "abilities/iron-fist.json"
+        },
+        {
+            "name": "poison heal",
+            "link": "abilities/poison-heal.json"
+        },
+        {
+            "name": "adaptability",
+            "link": "abilities/adaptability.json"
+        },
+        {
+            "name": "skill link",
+            "link": "abilities/skill-link.json"
+        },
+        {
+            "name": "hydration",
+            "link": "abilities/hydration.json"
+        },
+        {
+            "name": "solar power",
+            "link": "abilities/solar-power.json"
+        },
+        {
+            "name": "quick feet",
+            "link": "abilities/quick-feet.json"
+        },
+        {
+            "name": "normalize",
+            "link": "abilities/normalize.json"
+        },
+        {
+            "name": "sniper",
+            "link": "abilities/sniper.json"
+        },
+        {
+            "name": "magic guard",
+            "link": "abilities/magic-guard.json"
+        },
+        {
+            "name": "no guard",
+            "link": "abilities/no-guard.json"
+        },
+        {
+            "name": "stall",
+            "link": "abilities/stall.json"
+        },
+        {
+            "name": "technician",
+            "link": "abilities/technician.json"
+        },
+        {
+            "name": "leaf guard",
+            "link": "abilities/leaf-guard.json"
+        },
+        {
+            "name": "klutz",
+            "link": "abilities/klutz.json"
+        },
+        {
+            "name": "mold breaker",
+            "link": "abilities/mold-breaker.json"
+        },
+        {
+            "name": "super luck",
+            "link": "abilities/super-luck.json"
+        },
+        {
+            "name": "aftermath",
+            "link": "abilities/aftermath.json"
+        },
+        {
+            "name": "anticipation",
+            "link": "abilities/anticipation.json"
+        },
+        {
+            "name": "forewarn",
+            "link": "abilities/forewarn.json"
+        },
+        {
+            "name": "unaware",
+            "link": "abilities/unaware.json"
+        },
+        {
+            "name": "tinted lens",
+            "link": "abilities/tinted-lens.json"
+        },
+        {
+            "name": "filter",
+            "link": "abilities/filter.json"
+        },
+        {
+            "name": "slow start",
+            "link": "abilities/slow-start.json"
+        },
+        {
+            "name": "scrappy",
+            "link": "abilities/scrappy.json"
+        },
+        {
+            "name": "storm drain",
+            "link": "abilities/storm-drain.json"
+        },
+        {
+            "name": "ice body",
+            "link": "abilities/ice-body.json"
+        },
+        {
+            "name": "solid rock",
+            "link": "abilities/solid-rock.json"
+        },
+        {
+            "name": "snow warning",
+            "link": "abilities/snow-warning.json"
+        },
+        {
+            "name": "honey gather",
+            "link": "abilities/honey-gather.json"
+        },
+        {
+            "name": "frisk",
+            "link": "abilities/frisk.json"
+        },
+        {
+            "name": "reckless",
+            "link": "abilities/reckless.json"
+        },
+        {
+            "name": "multitype",
+            "link": "abilities/multitype.json"
+        },
+        {
+            "name": "flower gift",
+            "link": "abilities/flower-gift.json"
+        },
+        {
+            "name": "bad dreams",
+            "link": "abilities/bad-dreams.json"
+        },
+        {
+            "name": "pickpocket",
+            "link": "abilities/pickpocket.json"
+        },
+        {
+            "name": "sheer force",
+            "link": "abilities/sheer-force.json"
+        },
+        {
+            "name": "contrary",
+            "link": "abilities/contrary.json"
+        },
+        {
+            "name": "unnerve",
+            "link": "abilities/unnerve.json"
+        },
+        {
+            "name": "defiant",
+            "link": "abilities/defiant.json"
+        },
+        {
+            "name": "defeatist",
+            "link": "abilities/defeatist.json"
+        },
+        {
+            "name": "cursed body",
+            "link": "abilities/cursed-body.json"
+        },
+        {
+            "name": "healer",
+            "link": "abilities/healer.json"
+        },
+        {
+            "name": "friend guard",
+            "link": "abilities/friend-guard.json"
+        },
+        {
+            "name": "weak armor",
+            "link": "abilities/weak-armor.json"
+        },
+        {
+            "name": "heavy metal",
+            "link": "abilities/heavy-metal.json"
+        },
+        {
+            "name": "light metal",
+            "link": "abilities/light-metal.json"
+        },
+        {
+            "name": "multiscale",
+            "link": "abilities/multiscale.json"
+        },
+        {
+            "name": "toxic boost",
+            "link": "abilities/toxic-boost.json"
+        },
+        {
+            "name": "flare boost",
+            "link": "abilities/flare-boost.json"
+        },
+        {
+            "name": "harvest",
+            "link": "abilities/harvest.json"
+        },
+        {
+            "name": "telepathy",
+            "link": "abilities/telepathy.json"
+        },
+        {
+            "name": "moody",
+            "link": "abilities/moody.json"
+        },
+        {
+            "name": "overcoat",
+            "link": "abilities/overcoat.json"
+        },
+        {
+            "name": "poison touch",
+            "link": "abilities/poison-touch.json"
+        },
+        {
+            "name": "regenerator",
+            "link": "abilities/regenerator.json"
+        },
+        {
+            "name": "big pecks",
+            "link": "abilities/big-pecks.json"
+        },
+        {
+            "name": "sand rush",
+            "link": "abilities/sand-rush.json"
+        },
+        {
+            "name": "wonder skin",
+            "link": "abilities/wonder-skin.json"
+        },
+        {
+            "name": "analytic",
+            "link": "abilities/analytic.json"
+        },
+        {
+            "name": "illusion",
+            "link": "abilities/illusion.json"
+        },
+        {
+            "name": "imposter",
+            "link": "abilities/imposter.json"
+        },
+        {
+            "name": "infiltrator",
+            "link": "abilities/infiltrator.json"
+        },
+        {
+            "name": "mummy",
+            "link": "abilities/mummy.json"
+        },
+        {
+            "name": "moxie",
+            "link": "abilities/moxie.json"
+        },
+        {
+            "name": "justified",
+            "link": "abilities/justified.json"
+        },
+        {
+            "name": "rattled",
+            "link": "abilities/rattled.json"
+        },
+        {
+            "name": "magic bounce",
+            "link": "abilities/magic-bounce.json"
+        },
+        {
+            "name": "sap sipper",
+            "link": "abilities/sap-sipper.json"
+        },
+        {
+            "name": "prankster",
+            "link": "abilities/prankster.json"
+        },
+        {
+            "name": "sand force",
+            "link": "abilities/sand-force.json"
+        },
+        {
+            "name": "iron barbs",
+            "link": "abilities/iron-barbs.json"
+        },
+        {
+            "name": "zen mode",
+            "link": "abilities/zen-mode.json"
+        },
+        {
+            "name": "victory star",
+            "link": "abilities/victory-star.json"
+        },
+        {
+            "name": "turboblaze",
+            "link": "abilities/turboblaze.json"
+        },
+        {
+            "name": "teravolt",
+            "link": "abilities/teravolt.json"
+        },
+        {
+            "name": "aroma veil",
+            "link": "abilities/aroma-veil.json"
+        },
+        {
+            "name": "flower veil",
+            "link": "abilities/flower-veil.json"
+        },
+        {
+            "name": "cheek pouch",
+            "link": "abilities/cheek-pouch.json"
+        },
+        {
+            "name": "protean",
+            "link": "abilities/protean.json"
+        },
+        {
+            "name": "fur coat",
+            "link": "abilities/fur-coat.json"
+        },
+        {
+            "name": "magician",
+            "link": "abilities/magician.json"
+        },
+        {
+            "name": "bulletproof",
+            "link": "abilities/bulletproof.json"
+        },
+        {
+            "name": "competitive",
+            "link": "abilities/competitive.json"
+        },
+        {
+            "name": "strong jaw",
+            "link": "abilities/strong-jaw.json"
+        },
+        {
+            "name": "refrigerate",
+            "link": "abilities/refrigerate.json"
+        },
+        {
+            "name": "sweet veil",
+            "link": "abilities/sweet-veil.json"
+        },
+        {
+            "name": "stance change",
+            "link": "abilities/stance-change.json"
+        },
+        {
+            "name": "gale wings",
+            "link": "abilities/gale-wings.json"
+        },
+        {
+            "name": "mega launcher",
+            "link": "abilities/mega-launcher.json"
+        },
+        {
+            "name": "grass pelt",
+            "link": "abilities/grass-pelt.json"
+        },
+        {
+            "name": "symbiosis",
+            "link": "abilities/symbiosis.json"
+        },
+        {
+            "name": "tough claws",
+            "link": "abilities/tough-claws.json"
+        },
+        {
+            "name": "pixilate",
+            "link": "abilities/pixilate.json"
+        },
+        {
+            "name": "gooey",
+            "link": "abilities/gooey.json"
+        },
+        {
+            "name": "aerilate",
+            "link": "abilities/aerilate.json"
+        },
+        {
+            "name": "parental bond",
+            "link": "abilities/parental-bond.json"
+        },
+        {
+            "name": "dark aura",
+            "link": "abilities/dark-aura.json"
+        },
+        {
+            "name": "fairy aura",
+            "link": "abilities/fairy-aura.json"
+        },
+        {
+            "name": "aura break",
+            "link": "abilities/aura-break.json"
+        },
+        {
+            "name": "primordial sea",
+            "link": "abilities/primordial-sea.json"
+        },
+        {
+            "name": "desolate land",
+            "link": "abilities/desolate-land.json"
+        },
+        {
+            "name": "delta stream",
+            "link": "abilities/delta-stream.json"
+        },
+        {
+            "name": "stamina",
+            "link": "abilities/stamina.json"
+        },
+        {
+            "name": "wimp out",
+            "link": "abilities/wimp-out.json"
+        },
+        {
+            "name": "emergency exit",
+            "link": "abilities/emergency-exit.json"
+        },
+        {
+            "name": "water compaction",
+            "link": "abilities/water-compaction.json"
+        },
+        {
+            "name": "merciless",
+            "link": "abilities/merciless.json"
+        },
+        {
+            "name": "shields down",
+            "link": "abilities/shields-down.json"
+        },
+        {
+            "name": "stakeout",
+            "link": "abilities/stakeout.json"
+        },
+        {
+            "name": "water bubble",
+            "link": "abilities/water-bubble.json"
+        },
+        {
+            "name": "steelworker",
+            "link": "abilities/steelworker.json"
+        },
+        {
+            "name": "berserk",
+            "link": "abilities/berserk.json"
+        },
+        {
+            "name": "slush rush",
+            "link": "abilities/slush-rush.json"
+        },
+        {
+            "name": "long reach",
+            "link": "abilities/long-reach.json"
+        },
+        {
+            "name": "liquid voice",
+            "link": "abilities/liquid-voice.json"
+        },
+        {
+            "name": "triage",
+            "link": "abilities/triage.json"
+        },
+        {
+            "name": "galvanize",
+            "link": "abilities/galvanize.json"
+        },
+        {
+            "name": "surge surfer",
+            "link": "abilities/surge-surfer.json"
+        },
+        {
+            "name": "schooling",
+            "link": "abilities/schooling.json"
+        },
+        {
+            "name": "disguise",
+            "link": "abilities/disguise.json"
+        },
+        {
+            "name": "battle bond",
+            "link": "abilities/battle-bond.json"
+        },
+        {
+            "name": "power construct",
+            "link": "abilities/power-construct.json"
+        },
+        {
+            "name": "corrosion",
+            "link": "abilities/corrosion.json"
+        },
+        {
+            "name": "comatose",
+            "link": "abilities/comatose.json"
+        },
+        {
+            "name": "queenly majesty",
+            "link": "abilities/queenly-majesty.json"
+        },
+        {
+            "name": "innards out",
+            "link": "abilities/innards-out.json"
+        },
+        {
+            "name": "dancer",
+            "link": "abilities/dancer.json"
+        },
+        {
+            "name": "battery",
+            "link": "abilities/battery.json"
+        },
+        {
+            "name": "fluffy",
+            "link": "abilities/fluffy.json"
+        },
+        {
+            "name": "dazzling",
+            "link": "abilities/dazzling.json"
+        },
+        {
+            "name": "soul heart",
+            "link": "abilities/soul-heart.json"
+        },
+        {
+            "name": "tangling hair",
+            "link": "abilities/tangling-hair.json"
+        },
+        {
+            "name": "receiver",
+            "link": "abilities/receiver.json"
+        },
+        {
+            "name": "power of alchemy",
+            "link": "abilities/power-of-alchemy.json"
+        },
+        {
+            "name": "beast boost",
+            "link": "abilities/beast-boost.json"
+        },
+        {
+            "name": "rks system",
+            "link": "abilities/rks-system.json"
+        },
+        {
+            "name": "electric surge",
+            "link": "abilities/electric-surge.json"
+        },
+        {
+            "name": "psychic surge",
+            "link": "abilities/psychic-surge.json"
+        },
+        {
+            "name": "misty surge",
+            "link": "abilities/misty-surge.json"
+        },
+        {
+            "name": "grassy surge",
+            "link": "abilities/grassy-surge.json"
+        },
+        {
+            "name": "full metal body",
+            "link": "abilities/full-metal-body.json"
+        },
+        {
+            "name": "shadow shield",
+            "link": "abilities/shadow-shield.json"
+        },
+        {
+            "name": "prism armor",
+            "link": "abilities/prism-armor.json"
+        },
+        {
+            "name": "neuroforce",
+            "link": "abilities/neuroforce.json"
+        },
+        {
+            "name": "intrepid sword",
+            "link": "abilities/intrepid-sword.json"
+        },
+        {
+            "name": "dauntless shield",
+            "link": "abilities/dauntless-shield.json"
+        },
+        {
+            "name": "libero",
+            "link": "abilities/libero.json"
+        },
+        {
+            "name": "ball fetch",
+            "link": "abilities/ball-fetch.json"
+        },
+        {
+            "name": "cotton down",
+            "link": "abilities/cotton-down.json"
+        },
+        {
+            "name": "propeller tail",
+            "link": "abilities/propeller-tail.json"
+        },
+        {
+            "name": "mirror armor",
+            "link": "abilities/mirror-armor.json"
+        },
+        {
+            "name": "gulp missile",
+            "link": "abilities/gulp-missile.json"
+        },
+        {
+            "name": "stalwart",
+            "link": "abilities/stalwart.json"
+        },
+        {
+            "name": "steam engine",
+            "link": "abilities/steam-engine.json"
+        },
+        {
+            "name": "punk rock",
+            "link": "abilities/punk-rock.json"
+        },
+        {
+            "name": "sand spit",
+            "link": "abilities/sand-spit.json"
+        },
+        {
+            "name": "ice scales",
+            "link": "abilities/ice-scales.json"
+        },
+        {
+            "name": "ripen",
+            "link": "abilities/ripen.json"
+        },
+        {
+            "name": "ice face",
+            "link": "abilities/ice-face.json"
+        },
+        {
+            "name": "power spot",
+            "link": "abilities/power-spot.json"
+        },
+        {
+            "name": "mimicry",
+            "link": "abilities/mimicry.json"
+        },
+        {
+            "name": "screen cleaner",
+            "link": "abilities/screen-cleaner.json"
+        },
+        {
+            "name": "steely spirit",
+            "link": "abilities/steely-spirit.json"
+        },
+        {
+            "name": "perish body",
+            "link": "abilities/perish-body.json"
+        },
+        {
+            "name": "wandering spirit",
+            "link": "abilities/wandering-spirit.json"
+        },
+        {
+            "name": "gorilla tactics",
+            "link": "abilities/gorilla-tactics.json"
+        },
+        {
+            "name": "neutralizing gas",
+            "link": "abilities/neutralizing-gas.json"
+        },
+        {
+            "name": "pastel veil",
+            "link": "abilities/pastel-veil.json"
+        },
+        {
+            "name": "hunger switch",
+            "link": "abilities/hunger-switch.json"
+        },
+        {
+            "name": "quick draw",
+            "link": "abilities/quick-draw.json"
+        },
+        {
+            "name": "unseen fist",
+            "link": "abilities/unseen-fist.json"
+        },
+        {
+            "name": "curious medicine",
+            "link": "abilities/curious-medicine.json"
+        },
+        {
+            "name": "transistor",
+            "link": "abilities/transistor.json"
+        },
+        {
+            "name": "dragons maw",
+            "link": "abilities/dragons-maw.json"
+        },
+        {
+            "name": "chilling neigh",
+            "link": "abilities/chilling-neigh.json"
+        },
+        {
+            "name": "grim neigh",
+            "link": "abilities/grim-neigh.json"
+        },
+        {
+            "name": "as one",
+            "link": "abilities/as-one.json"
+        },
+        {
+            "name": "as one",
+            "link": "abilities/as-one.json"
+        },
+        {
+            "name": "mountaineer",
+            "link": "abilities/mountaineer.json"
+        },
+        {
+            "name": "wave rider",
+            "link": "abilities/wave-rider.json"
+        },
+        {
+            "name": "skater",
+            "link": "abilities/skater.json"
+        },
+        {
+            "name": "thrust",
+            "link": "abilities/thrust.json"
+        },
+        {
+            "name": "perception",
+            "link": "abilities/perception.json"
+        },
+        {
+            "name": "parry",
+            "link": "abilities/parry.json"
+        },
+        {
+            "name": "instinct",
+            "link": "abilities/instinct.json"
+        },
+        {
+            "name": "dodge",
+            "link": "abilities/dodge.json"
+        },
+        {
+            "name": "jagged edge",
+            "link": "abilities/jagged-edge.json"
+        },
+        {
+            "name": "frostbite",
+            "link": "abilities/frostbite.json"
+        },
+        {
+            "name": "tenacity",
+            "link": "abilities/tenacity.json"
+        },
+        {
+            "name": "pride",
+            "link": "abilities/pride.json"
+        },
+        {
+            "name": "deep sleep",
+            "link": "abilities/deep-sleep.json"
+        },
+        {
+            "name": "power nap",
+            "link": "abilities/power-nap.json"
+        },
+        {
+            "name": "spirit",
+            "link": "abilities/spirit.json"
+        },
+        {
+            "name": "warm blanket",
+            "link": "abilities/warm-blanket.json"
+        },
+        {
+            "name": "gulp",
+            "link": "abilities/gulp.json"
+        },
+        {
+            "name": "herbivore",
+            "link": "abilities/herbivore.json"
+        },
+        {
+            "name": "sandpit",
+            "link": "abilities/sandpit.json"
+        },
+        {
+            "name": "hot blooded",
+            "link": "abilities/hot-blooded.json"
+        },
+        {
+            "name": "medic",
+            "link": "abilities/medic.json"
+        },
+        {
+            "name": "life force",
+            "link": "abilities/life-force.json"
+        },
+        {
+            "name": "lunchbox",
+            "link": "abilities/lunchbox.json"
+        },
+        {
+            "name": "nurse",
+            "link": "abilities/nurse.json"
+        },
+        {
+            "name": "melee",
+            "link": "abilities/melee.json"
+        },
+        {
+            "name": "sponge",
+            "link": "abilities/sponge.json"
+        },
+        {
+            "name": "bodyguard",
+            "link": "abilities/bodyguard.json"
+        },
+        {
+            "name": "hero",
+            "link": "abilities/hero.json"
+        },
+        {
+            "name": "last bastion",
+            "link": "abilities/last-bastion.json"
+        },
+        {
+            "name": "stealth",
+            "link": "abilities/stealth.json"
+        },
+        {
+            "name": "vanguard",
+            "link": "abilities/vanguard.json"
+        },
+        {
+            "name": "nomad",
+            "link": "abilities/nomad.json"
+        },
+        {
+            "name": "sequence",
+            "link": "abilities/sequence.json"
+        },
+        {
+            "name": "grass cloak",
+            "link": "abilities/grass-cloak.json"
+        },
+        {
+            "name": "celebrate",
+            "link": "abilities/celebrate.json"
+        },
+        {
+            "name": "lullaby",
+            "link": "abilities/lullaby.json"
+        },
+        {
+            "name": "calming",
+            "link": "abilities/calming.json"
+        },
+        {
+            "name": "daze",
+            "link": "abilities/daze.json"
+        },
+        {
+            "name": "frighten",
+            "link": "abilities/frighten.json"
+        },
+        {
+            "name": "interference",
+            "link": "abilities/interference.json"
+        },
+        {
+            "name": "mood maker",
+            "link": "abilities/mood-maker.json"
+        },
+        {
+            "name": "confidence",
+            "link": "abilities/confidence.json"
+        },
+        {
+            "name": "fortune",
+            "link": "abilities/fortune.json"
+        },
+        {
+            "name": "bonanza",
+            "link": "abilities/bonanza.json"
+        },
+        {
+            "name": "explode",
+            "link": "abilities/explode.json"
+        },
+        {
+            "name": "omnipotent",
+            "link": "abilities/omnipotent.json"
+        },
+        {
+            "name": "share",
+            "link": "abilities/share.json"
+        },
+        {
+            "name": "black hole",
+            "link": "abilities/black-hole.json"
+        },
+        {
+            "name": "shadow dash",
+            "link": "abilities/shadow-dash.json"
+        },
+        {
+            "name": "sprint",
+            "link": "abilities/sprint.json"
+        },
+        {
+            "name": "disgust",
+            "link": "abilities/disgust.json"
+        },
+        {
+            "name": "high rise",
+            "link": "abilities/high-rise.json"
+        },
+        {
+            "name": "climber",
+            "link": "abilities/climber.json"
+        },
+        {
+            "name": "flame boost",
+            "link": "abilities/flame-boost.json"
+        },
+        {
+            "name": "aqua boost",
+            "link": "abilities/aqua-boost.json"
+        },
+        {
+            "name": "run up",
+            "link": "abilities/run-up.json"
+        },
+        {
+            "name": "conqueror",
+            "link": "abilities/conqueror.json"
+        },
+        {
+            "name": "shackle",
+            "link": "abilities/shackle.json"
+        },
+        {
+            "name": "decoy",
+            "link": "abilities/decoy.json"
+        },
+        {
+            "name": "shield",
+            "link": "abilities/shield.json"
+        }
+    ]
+}

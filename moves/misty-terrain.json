@@ -1,0 +1,11 @@
+{
+    "name": "misty terrain",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "for five turns, protects all pok\u00e9mon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves.",
+    "description": "this protects pok\u00e9mon on the ground from status conditions and halves damage from dragon-type moves for five turns."
+}

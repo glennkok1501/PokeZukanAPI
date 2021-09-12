@@ -1,0 +1,11 @@
+{
+    "name": "power trick",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "user swaps attack and defense.",
+    "description": "the user employs its psychic power to switch its attack stat with its defense stat."
+}

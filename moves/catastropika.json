@@ -1,0 +1,11 @@
+{
+    "name": "catastropika",
+    "type": "electric",
+    "category": "physical",
+    "power": 210,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user, pikachu, surrounds itself with the maximum amount of electricity using its z-power and pounces on its target with full force."
+}

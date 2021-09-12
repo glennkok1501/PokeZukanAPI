@@ -1,0 +1,11 @@
+{
+    "name": "magnet rise",
+    "type": "electric",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "user is immune to ground moves and effects for five turns.",
+    "description": "the user levitates using electrically generated magnetism for five turns."
+}

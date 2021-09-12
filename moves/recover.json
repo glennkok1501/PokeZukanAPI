@@ -1,0 +1,11 @@
+{
+    "name": "recover",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "heals the user by half its max hp.",
+    "description": "restoring its own cells, the user restores its own hp by half of its max hp."
+}

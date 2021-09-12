@@ -1,0 +1,11 @@
+{
+    "name": "barrage",
+    "type": "normal",
+    "category": "physical",
+    "power": 15,
+    "accuracy": 85,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "round objects are hurled at the target to strike two to five times in a row."
+}

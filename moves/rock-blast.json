@@ -1,0 +1,11 @@
+{
+    "name": "rock blast",
+    "type": "rock",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the user hurls hard rocks at the target. two to five rocks are launched in a row."
+}

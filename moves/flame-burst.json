@@ -1,0 +1,11 @@
+{
+    "name": "flame burst",
+    "type": "fire",
+    "category": "special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "deals splash damage to pok\u00e9mon next to the target.",
+    "description": "the user attacks the target with a bursting flame. the bursting flame damages pok\u00e9mon next to the target as well."
+}

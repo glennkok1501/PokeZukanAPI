@@ -1,0 +1,11 @@
+{
+    "name": "shock wave",
+    "type": "electric",
+    "category": "special",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "never misses.",
+    "description": "the user strikes the target with a quick jolt of electricity. this attack never misses."
+}

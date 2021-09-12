@@ -1,0 +1,11 @@
+{
+    "name": "facade",
+    "type": "normal",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "power doubles if user is burned, paralyzed, or poisoned.",
+    "description": "this attack move doubles its power if the user is poisoned, burned, or paralyzed."
+}

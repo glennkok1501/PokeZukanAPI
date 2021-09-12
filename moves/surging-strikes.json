@@ -1,0 +1,11 @@
+{
+    "name": "surging strikes",
+    "type": "water",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

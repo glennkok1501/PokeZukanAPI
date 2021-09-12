@@ -1,0 +1,11 @@
+{
+    "name": "bullet punch",
+    "type": "steel",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "smart",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user strikes the target with tough punches as fast as bullets. this move always goes first."
+}

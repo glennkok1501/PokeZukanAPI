@@ -1,0 +1,11 @@
+{
+    "name": "sandstorm",
+    "type": "rock",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "changes the weather to a sandstorm for five turns.",
+    "description": "a five-turn sandstorm is summoned to hurt all combatants except the rock, ground, and steel types. it raises the sp. def stat of rock types."
+}

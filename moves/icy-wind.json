@@ -1,0 +1,11 @@
+{
+    "name": "icy wind",
+    "type": "ice",
+    "category": "special",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": "beauty",
+    "effect": "has a 100% chance to lower the target's speed by one stage.",
+    "description": "the user attacks with a gust of chilled air. this also lowers the opposing pok\u00e9mon\u2019s speed stats."
+}

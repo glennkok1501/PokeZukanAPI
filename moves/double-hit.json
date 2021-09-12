@@ -1,0 +1,11 @@
+{
+    "name": "double hit",
+    "type": "normal",
+    "category": "physical",
+    "power": 35,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "hits twice in one turn.",
+    "description": "the user slams the target with a long tail, vines, or a tentacle. the target is hit twice in a row."
+}

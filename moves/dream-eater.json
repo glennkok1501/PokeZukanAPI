@@ -1,0 +1,11 @@
+{
+    "name": "dream eater",
+    "type": "psychic",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "only works on sleeping pok\u00e9mon.  drains half the damage inflicted to heal the user.",
+    "description": "the user eats the dreams of a sleeping target. it absorbs half the damage caused to heal its own hp."
+}

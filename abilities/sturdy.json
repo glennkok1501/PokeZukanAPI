@@ -1,0 +1,5 @@
+{
+    "name": "sturdy",
+    "effect": "when this pok\u00e9mon is at full hp, any hit that would knock it out will instead leave it with 1 hp.  regardless of its current hp, it is also immune to the one-hit ko moves: fissure, guillotine, horn drill, and sheer cold.  if this pok\u00e9mon is holding a focus sash, this ability takes precedence and the item will not be consumed.",
+    "description": "it cannot be knocked out with one hit. one-hit ko moves cannot knock it out, either."
+}

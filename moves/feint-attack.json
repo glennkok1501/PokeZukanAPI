@@ -1,0 +1,11 @@
+{
+    "name": "feint attack",
+    "type": "dark",
+    "category": "physical",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "never misses.",
+    "description": "the user approaches the target disarmingly, then throws a sucker punch. this attack never misses."
+}

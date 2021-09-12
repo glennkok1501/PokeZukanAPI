@@ -1,0 +1,11 @@
+{
+    "name": "magnet bomb",
+    "type": "steel",
+    "category": "physical",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "never misses.",
+    "description": "the user launches steel bombs that stick to the target. this attack never misses."
+}

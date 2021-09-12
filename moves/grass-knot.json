@@ -1,0 +1,11 @@
+{
+    "name": "grass knot",
+    "type": "grass",
+    "category": "special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "inflicts more damage to heavier targets, with a maximum of 120 power.",
+    "description": "the user snares the target with grass and trips it. the heavier the target, the greater the move\u2019s power."
+}

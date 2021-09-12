@@ -1,0 +1,5 @@
+{
+    "name": "ball fetch",
+    "effect": null,
+    "description": "if the pok\u00e9mon is not holding an item, it will fetch the pok\u00e9 ball from the first failed throw of the battle."
+}

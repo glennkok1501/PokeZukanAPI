@@ -1,0 +1,11 @@
+{
+    "name": "iron tail",
+    "type": "steel",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 15,
+    "contest": "cool",
+    "effect": "has a 30% chance to lower the target's defense by one stage.",
+    "description": "the target is slammed with a steel-hard tail. this may also lower the target\u2019s defense stat."
+}

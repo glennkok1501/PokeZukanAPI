@@ -1,0 +1,11 @@
+{
+    "name": "air cutter",
+    "type": "flying",
+    "category": "special",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 25,
+    "contest": "cool",
+    "effect": "has an increased chance for a critical hit.",
+    "description": "the user launches razor-like wind to slash the opposing pok\u00e9mon. critical hits land more easily."
+}

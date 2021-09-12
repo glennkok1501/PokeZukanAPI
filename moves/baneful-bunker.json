@@ -1,0 +1,11 @@
+{
+    "name": "baneful bunker",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "grants the user protection for the rest of the turn and poisons any pok\u00e9mon that tries to use a contact move on it.",
+    "description": "in addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact."
+}

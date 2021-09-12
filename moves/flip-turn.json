@@ -1,0 +1,11 @@
+{
+    "name": "flip turn",
+    "type": "water",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

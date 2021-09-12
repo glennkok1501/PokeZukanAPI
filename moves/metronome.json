@@ -1,0 +1,11 @@
+{
+    "name": "metronome",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "randomly selects and uses any move in the game.",
+    "description": "the user waggles a finger and stimulates its brain into randomly using nearly any move."
+}

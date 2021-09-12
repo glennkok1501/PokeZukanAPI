@@ -1,0 +1,5 @@
+{
+    "name": "synchronize",
+    "effect": "whenever this pok\u00e9mon is burned, paralyzed, or poisoned, the pok\u00e9mon who gave this pok\u00e9mon that ailment is also given the ailment.  this ability passes back bad poison when this pok\u00e9mon is badly poisoned.  this ability cannot pass on a status ailment that the pok\u00e9mon did not directly receive from another pok\u00e9mon, such as the poison from toxic spikes or the burn from a flame orb.  overworld: if the lead pok\u00e9mon has this ability, wild pok\u00e9mon have a 50% chance of having the lead pok\u00e9mon's nature, and a 50% chance of being given a random nature as usual, including the lead pok\u00e9mon's nature.  this does not work on pok\u00e9mon received outside of battle or roaming legendaries.",
+    "description": "the attacker will receive the same status condition if it inflicts a burn, poison, or paralysis to the pok\u00e9mon."
+}

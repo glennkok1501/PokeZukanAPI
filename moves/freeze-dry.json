@@ -1,0 +1,11 @@
+{
+    "name": "freeze dry",
+    "type": "ice",
+    "category": "special",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "super-effective against water.",
+    "description": "the user rapidly cools the target. this may also leave the target frozen. this move is super effective on water types."
+}

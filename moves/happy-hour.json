@@ -1,0 +1,11 @@
+{
+    "name": "happy hour",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": null,
+    "effect": "doubles prize money.",
+    "description": "using happy hour doubles the amount of prize money received after battle."
+}

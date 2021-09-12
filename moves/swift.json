@@ -1,0 +1,11 @@
+{
+    "name": "swift",
+    "type": "normal",
+    "category": "special",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "never misses.",
+    "description": "star-shaped rays are shot at the opposing pok\u00e9mon. this attack never misses."
+}

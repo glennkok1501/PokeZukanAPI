@@ -1,0 +1,11 @@
+{
+    "name": "constrict",
+    "type": "normal",
+    "category": "physical",
+    "power": 10,
+    "accuracy": 100,
+    "pp": 35,
+    "contest": "tough",
+    "effect": "has a 10% chance to lower the target's speed by one stage.",
+    "description": "the target is attacked with long, creeping tentacles, vines, or the like. this may also lower the target\u2019s  speed stat."
+}

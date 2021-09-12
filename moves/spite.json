@@ -1,0 +1,11 @@
+{
+    "name": "spite",
+    "type": "ghost",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "lowers the pp of the target's last used move by 4.",
+    "description": "the user unleashes its grudge on the move last used by the target by cutting 4 pp from it."
+}

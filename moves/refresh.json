@@ -1,0 +1,11 @@
+{
+    "name": "refresh",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "cleanses the user of a burn, paralysis, or poison.",
+    "description": "the user rests to cure itself of poisoning, a burn, or paralysis."
+}

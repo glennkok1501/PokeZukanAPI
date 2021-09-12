@@ -1,0 +1,11 @@
+{
+    "name": "beak blast",
+    "type": "flying",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "inflicts a burn on any pok\u00e9mon that makes contact before the attack.",
+    "description": "the user first heats up its beak, and then it attacks the target. making direct contact with the pok\u00e9mon while it\u2019s heating up its beak results in a burn."
+}

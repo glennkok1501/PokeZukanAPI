@@ -1,0 +1,11 @@
+{
+    "name": "astonish",
+    "type": "ghost",
+    "category": "physical",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "the user attacks the target while shouting in a startling fashion. this may also make the target flinch."
+}

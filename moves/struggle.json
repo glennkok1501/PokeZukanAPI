@@ -1,0 +1,11 @@
+{
+    "name": "struggle",
+    "type": "normal",
+    "category": "physical",
+    "power": 50,
+    "accuracy": null,
+    "pp": 1,
+    "contest": "cool",
+    "effect": "user takes 1/4 its max hp in recoil.",
+    "description": "this attack is used in desperation only if the user has no pp. it also damages the user a little."
+}

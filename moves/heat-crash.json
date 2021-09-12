@@ -1,0 +1,11 @@
+{
+    "name": "heat crash",
+    "type": "fire",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "power is higher when the user weighs more than the target, up to a maximum of 120.",
+    "description": "the user slams its target with its flame-covered body. the more the user outweighs the target, the greater the move\u2019s power."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "bug buzz",
+    "type": "bug",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "has a 10% chance to lower the target's special defense by one stage.",
+    "description": "the user generates a damaging sound wave by vibration. this may also lower the target\u2019s sp. def stat."
+}

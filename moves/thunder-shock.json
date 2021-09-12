@@ -1,0 +1,11 @@
+{
+    "name": "thunder shock",
+    "type": "electric",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "cool",
+    "effect": "has a 10% chance to paralyze the target.",
+    "description": "a jolt of electricity crashes down on the target to inflict damage. this may also leave the target with paralysis."
+}

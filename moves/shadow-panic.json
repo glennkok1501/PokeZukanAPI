@@ -1,0 +1,11 @@
+{
+    "name": "shadow panic",
+    "type": "shadow",
+    "category": "status",
+    "power": null,
+    "accuracy": 90,
+    "pp": null,
+    "contest": null,
+    "effect": "confuses the target.",
+    "description": null
+}

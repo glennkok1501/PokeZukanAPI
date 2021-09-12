@@ -1,0 +1,11 @@
+{
+    "name": "muddy water",
+    "type": "water",
+    "category": "special",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "has a 30% chance to lower the target's accuracy by one stage.",
+    "description": "the user attacks by shooting muddy water at the opposing pok\u00e9mon. this may also lower their accuracy."
+}

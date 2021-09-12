@@ -1,0 +1,11 @@
+{
+    "name": "sketch",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "contest": "smart",
+    "effect": "permanently becomes the target's last used move.",
+    "description": "it enables the user to permanently learn the move last used by the target. once used, sketch disappears."
+}

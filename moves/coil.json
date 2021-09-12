@@ -1,0 +1,11 @@
+{
+    "name": "coil",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "raises the user's attack, defense, and accuracy by one stage each.",
+    "description": "the user coils up and concentrates. this raises its attack and defense stats as well as its accuracy."
+}

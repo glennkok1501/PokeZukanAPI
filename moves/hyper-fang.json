@@ -1,0 +1,11 @@
+{
+    "name": "hyper fang",
+    "type": "normal",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "contest": "cool",
+    "effect": "has a 10% chance to make the target flinch.",
+    "description": "the user bites hard on the target with its sharp front fangs. this may also make the target flinch."
+}

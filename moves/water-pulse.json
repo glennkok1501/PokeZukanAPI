@@ -1,0 +1,11 @@
+{
+    "name": "water pulse",
+    "type": "water",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "has a 20% chance to confuse the target.",
+    "description": "the user attacks the target with a pulsing blast of water. this may also confuse the target."
+}

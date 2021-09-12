@@ -1,0 +1,11 @@
+{
+    "name": "gyro ball",
+    "type": "steel",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "power raises when the user has lower speed, up to a maximum of 150.",
+    "description": "the user tackles the target with a high-speed spin. the slower the user compared to the target, the greater the move\u2019s power."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "shadow down",
+    "type": "shadow",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": null,
+    "contest": null,
+    "effect": "lowers the target's defense by two stages.",
+    "description": null
+}

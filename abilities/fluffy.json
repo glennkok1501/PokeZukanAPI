@@ -1,0 +1,5 @@
+{
+    "name": "fluffy",
+    "effect": "damage from contact moves is halved.  damage from fire moves is doubled.",
+    "description": "halves the damage taken from moves that make direct contact, but doubles that of fire-type moves."
+}

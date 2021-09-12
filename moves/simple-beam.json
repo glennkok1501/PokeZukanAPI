@@ -1,0 +1,11 @@
+{
+    "name": "simple beam",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "changes the target's ability to simple.",
+    "description": "the user\u2019s mysterious psychic wave changes the target\u2019s ability to simple."
+}

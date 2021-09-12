@@ -1,0 +1,11 @@
+{
+    "name": "fiery dance",
+    "type": "fire",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "has a 50% chance to raise the user's special attack by one stage.",
+    "description": "cloaked in flames, the user dances and flaps its wings. this may also raise the user\u2019s sp. atk stat."
+}

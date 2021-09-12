@@ -1,0 +1,11 @@
+{
+    "name": "kinesis",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": 80,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "lowers the target's accuracy by one stage.",
+    "description": "the user distracts the target by bending a spoon. this lowers the target\u2019s accuracy."
+}

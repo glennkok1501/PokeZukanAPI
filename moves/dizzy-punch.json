@@ -1,0 +1,11 @@
+{
+    "name": "dizzy punch",
+    "type": "normal",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "has a 20% chance to confuse the target.",
+    "description": "the target is hit with rhythmically launched punches. this may also leave the target confused."
+}

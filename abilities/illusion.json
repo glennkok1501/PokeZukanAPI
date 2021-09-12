@@ -1,0 +1,5 @@
+{
+    "name": "illusion",
+    "effect": "this pok\u00e9mon, upon being sent out, appears to have the species, nickname, and pok\u00e9 ball of the last pok\u00e9mon in the party that is able to battle.  this illusion breaks upon being hit by a damaging move.  other damage, e.g. from weather or spikes, does not break the illusion, nor does damage done to a substitute.  if the party order becomes temporarily shuffled around as pok\u00e9mon are switched out in battle, this ability chooses the last pok\u00e9mon according to that shuffled order.",
+    "description": "comes out disguised as the pok\u00e9mon in the party\u2019s last spot."
+}

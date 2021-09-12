@@ -1,0 +1,11 @@
+{
+    "name": "draco meteor",
+    "type": "dragon",
+    "category": "special",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "lowers the user's special attack by two stages after inflicting damage.",
+    "description": "comets are summoned down from the sky onto the target. the attack\u2019s recoil harshly lowers the user\u2019s sp. atk stat."
+}

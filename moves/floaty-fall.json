@@ -1,0 +1,11 @@
+{
+    "name": "floaty fall",
+    "type": "flying",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": null,
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": null
+}

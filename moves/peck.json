@@ -1,0 +1,11 @@
+{
+    "name": "peck",
+    "type": "flying",
+    "category": "physical",
+    "power": 35,
+    "accuracy": 100,
+    "pp": 35,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the target is jabbed with a sharply pointed beak or horn."
+}

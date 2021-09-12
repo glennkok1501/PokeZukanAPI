@@ -1,0 +1,11 @@
+{
+    "name": "wring out",
+    "type": "normal",
+    "category": "special",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "power increases against targets with more hp remaining, up to a maximum of 121 power.",
+    "description": "the user powerfully wrings the target. the more hp the target has, the greater the move\u2019s power."
+}

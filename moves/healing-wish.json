@@ -1,0 +1,11 @@
+{
+    "name": "healing wish",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "user faints.  its replacement has its hp fully restored and any major status effect removed.",
+    "description": "the user faints. in return, the pok\u00e9mon taking its place will have its hp restored and status conditions cured."
+}

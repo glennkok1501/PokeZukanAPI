@@ -1,0 +1,11 @@
+{
+    "name": "conversion 2",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "beauty",
+    "effect": "changes the user's type to a random type either resistant or immune to the last move used against it.",
+    "description": "the user changes its type to make itself resistant to the type of the attack the opponent used last."
+}

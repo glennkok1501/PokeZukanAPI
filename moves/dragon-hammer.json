@@ -1,0 +1,11 @@
+{
+    "name": "dragon hammer",
+    "type": "dragon",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user uses its body like a hammer to attack the target and inflict damage."
+}

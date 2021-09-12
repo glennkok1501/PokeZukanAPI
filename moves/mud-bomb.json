@@ -1,0 +1,11 @@
+{
+    "name": "mud bomb",
+    "type": "ground",
+    "category": "special",
+    "power": 65,
+    "accuracy": 85,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "has a 30% chance to lower the target's accuracy by one stage.",
+    "description": "the user launches a hard-packed mud ball to attack. this may also lower the target\u2019s accuracy."
+}

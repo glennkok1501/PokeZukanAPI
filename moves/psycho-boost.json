@@ -1,0 +1,11 @@
+{
+    "name": "psycho boost",
+    "type": "psychic",
+    "category": "special",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "lowers the user's special attack by two stages after inflicting damage.",
+    "description": "the user attacks the target at full power. the attack\u2019s recoil harshly lowers the user\u2019s sp. atk stat."
+}

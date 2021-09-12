@@ -1,0 +1,11 @@
+{
+    "name": "roost",
+    "type": "flying",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "heals the user by half its max hp.",
+    "description": "the user lands and rests its body. it restores the user\u2019s hp by up to half of its max hp."
+}

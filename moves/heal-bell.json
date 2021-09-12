@@ -1,0 +1,11 @@
+{
+    "name": "heal bell",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "cures the entire party of major status effects.",
+    "description": "the user makes a soothing bell chime to heal the status conditions of all the party pok\u00e9mon."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "toxic thread",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "poisons the target and lowers its speed by one stage.",
+    "description": "the user shoots poisonous threads to poison the target and lower the target\u2019s speed stat."
+}

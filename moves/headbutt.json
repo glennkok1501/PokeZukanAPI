@@ -1,0 +1,11 @@
+{
+    "name": "headbutt",
+    "type": "normal",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "the user sticks out its head and attacks by charging straight into the target. this may also make the target flinch."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "play rough",
+    "type": "fairy",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": "has a 10% chance to lower the target's attack by one stage.",
+    "description": "the user plays rough with the target and attacks it. this may also lower the target\u2019s attack stat."
+}

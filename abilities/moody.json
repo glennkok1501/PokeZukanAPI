@@ -1,0 +1,5 @@
+{
+    "name": "moody",
+    "effect": "after each turn, one of this pok\u00e9mon's stats at random rises two stages, and another falls one stage.  if a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.",
+    "description": "raises one stat sharply and lowers another every turn."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "innards out",
+    "effect": "when this pok\u00e9mon faints from an opponent's move, that opponent takes damage equal to the hp this pok\u00e9mon had remaining.",
+    "description": "damages the attacker landing the finishing hit by the amount equal to its last hp."
+}

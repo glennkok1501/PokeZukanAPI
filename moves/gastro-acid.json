@@ -1,0 +1,11 @@
+{
+    "name": "gastro acid",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "nullifies target's ability until it leaves battle.",
+    "description": "the user hurls up its stomach acids on the target. the fluid eliminates the effect of the target\u2019s ability."
+}

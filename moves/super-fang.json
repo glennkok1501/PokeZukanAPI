@@ -1,0 +1,11 @@
+{
+    "name": "super fang",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "inflicts damage equal to half the target's hp.",
+    "description": "the user chomps hard on the target with its sharp front fangs. this cuts the target\u2019s hp in half."
+}

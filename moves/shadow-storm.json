@@ -1,0 +1,11 @@
+{
+    "name": "shadow storm",
+    "type": "shadow",
+    "category": "special",
+    "power": 95,
+    "accuracy": 100,
+    "pp": null,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": null
+}

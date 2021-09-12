@@ -1,0 +1,11 @@
+{
+    "name": "smog",
+    "type": "poison",
+    "category": "special",
+    "power": 30,
+    "accuracy": 70,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "has a 40% chance to poison the target.",
+    "description": "the target is attacked with a discharge of filthy gases. this may also poison the target."
+}

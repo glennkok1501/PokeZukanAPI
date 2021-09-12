@@ -1,0 +1,11 @@
+{
+    "name": "no retreat",
+    "type": "fighting",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

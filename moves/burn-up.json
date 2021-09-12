@@ -1,0 +1,11 @@
+{
+    "name": "burn up",
+    "type": "fire",
+    "category": "special",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "removes the user's fire type after inflicting damage.",
+    "description": "to inflict massive damage, the user burns itself out. after using this move, the user will no longer be fire type."
+}

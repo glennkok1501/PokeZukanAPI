@@ -1,0 +1,11 @@
+{
+    "name": "never ending nightmare  physical",
+    "type": "ghost",
+    "category": "physical",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "deep-seated grudges summoned by the user\u2019s z-power trap the target. the power varies, depending on the original move."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "swallow",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "recovers 1/4 hp after one stockpile, 1/2 hp after two stockpiles, or full hp after three stockpiles.",
+    "description": "the power stored using the move stockpile is absorbed by the user to heal its hp. storing more power heals more hp."
+}

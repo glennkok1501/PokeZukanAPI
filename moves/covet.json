@@ -1,0 +1,11 @@
+{
+    "name": "covet",
+    "type": "normal",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "cute",
+    "effect": "takes the target's item.",
+    "description": "the user endearingly approaches the target, then steals the target\u2019s held item."
+}

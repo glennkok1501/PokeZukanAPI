@@ -1,0 +1,11 @@
+{
+    "name": "memento",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "lowers the target's attack and special attack by two stages.  user faints.",
+    "description": "the user faints when using this move. in return, this harshly lowers the target\u2019s attack and sp. atk stats."
+}

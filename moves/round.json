@@ -1,0 +1,11 @@
+{
+    "name": "round",
+    "type": "normal",
+    "category": "special",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "has double power if it's used more than once per turn.",
+    "description": "the user attacks the target with a song. others can join in the round to increase the power of the attack."
+}

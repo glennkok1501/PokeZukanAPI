@@ -1,0 +1,11 @@
+{
+    "name": "stealth rock",
+    "type": "rock",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "causes damage when opposing pok\u00e9mon switch in.",
+    "description": "the user lays a trap of levitating stones around the opposing team. the trap hurts opposing pok\u00e9mon that switch into battle."
+}

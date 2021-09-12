@@ -1,0 +1,11 @@
+{
+    "name": "pay day",
+    "type": "normal",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "scatters money on the ground worth five times the user's level.",
+    "description": "numerous coins are hurled at the target to inflict damage. money is earned after the battle."
+}

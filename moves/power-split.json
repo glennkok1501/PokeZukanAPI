@@ -1,0 +1,11 @@
+{
+    "name": "power split",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "averages attack and special attack with the target.",
+    "description": "the user employs its psychic power to average its attack and sp. atk stats with those of the target."
+}

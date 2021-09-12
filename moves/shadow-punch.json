@@ -1,0 +1,11 @@
+{
+    "name": "shadow punch",
+    "type": "ghost",
+    "category": "physical",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "never misses.",
+    "description": "the user throws a punch from the shadows. this attack never misses."
+}

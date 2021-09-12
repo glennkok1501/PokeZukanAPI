@@ -1,0 +1,11 @@
+{
+    "name": "plasma fists",
+    "type": "electric",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "after inflicting damage, causes all normal-type moves to become electric-type for the remainder of the turn.",
+    "description": "the user attacks with electrically charged fists. this move changes normal-type moves to electric-type moves."
+}

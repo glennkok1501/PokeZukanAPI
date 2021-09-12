@@ -1,0 +1,11 @@
+{
+    "name": "crafty shield",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "protects all friendly pok\u00e9mon from non-damaging moves.",
+    "description": "the user protects itself and its allies from status moves with a mysterious power. this does not stop moves that do damage."
+}

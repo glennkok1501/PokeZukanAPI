@@ -1,0 +1,11 @@
+{
+    "name": "horn leech",
+    "type": "grass",
+    "category": "physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "drains half the damage inflicted to heal the user.",
+    "description": "the user drains the target\u2019s energy with its horns. the user\u2019s hp is restored by half the damage taken by the target."
+}

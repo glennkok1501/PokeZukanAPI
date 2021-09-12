@@ -1,0 +1,11 @@
+{
+    "name": "malicious moonsault",
+    "type": "dark",
+    "category": "physical",
+    "power": 180,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user, incineroar, strengthens its body using its z-power and crashes into the target with full force."
+}

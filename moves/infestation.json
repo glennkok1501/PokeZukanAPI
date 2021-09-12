@@ -1,0 +1,11 @@
+{
+    "name": "infestation",
+    "type": "bug",
+    "category": "special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "prevents the target from fleeing and inflicts damage for 2-5 turns.",
+    "description": "the target is infested and attacked for four to five turns. the target can\u2019t flee during this time."
+}

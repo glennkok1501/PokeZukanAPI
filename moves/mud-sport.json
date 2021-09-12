@@ -1,0 +1,11 @@
+{
+    "name": "mud sport",
+    "type": "ground",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "halves all electric-type damage.",
+    "description": "the user kicks up mud on the battlefield. this weakens electric-type moves for five turns."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "moongeist beam",
+    "type": "ghost",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "cannot be disrupted by abilities.",
+    "description": "the user emits a sinister ray to attack the target. this move can be used on the target regardless of  its abilities."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "mist",
+    "type": "ice",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "beauty",
+    "effect": "protects the user's stats from being changed by enemy moves.",
+    "description": "the user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns."
+}

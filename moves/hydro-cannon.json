@@ -1,0 +1,11 @@
+{
+    "name": "hydro cannon",
+    "type": "water",
+    "category": "special",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "user foregoes its next turn to recharge.",
+    "description": "the target is hit with a watery blast. the user can\u2019t move on the next turn."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "sweet kiss",
+    "type": "fairy",
+    "category": "status",
+    "power": null,
+    "accuracy": 75,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "confuses the target.",
+    "description": "the user kisses the target with a sweet, angelic cuteness that causes confusion."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "intimidate",
+    "effect": "when this pok\u00e9mon enters battle, the opponent's attack is lowered by one stage.  in a double battle, both opponents are affected.  this ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle.  this ability has no effect on an opponent that has a substitute.  overworld: if the first pok\u00e9mon in the party has this ability, any random encounter with a pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+    "description": "the pok\u00e9mon intimidates opposing pok\u00e9mon upon entering battle, lowering their attack stat."
+}

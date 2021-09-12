@@ -1,0 +1,11 @@
+{
+    "name": "meteor mash",
+    "type": "steel",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "has a 20% chance to raise the user's attack by one stage.",
+    "description": "the target is hit with a hard punch fired like a meteor. this may also raise the user\u2019s attack stat."
+}

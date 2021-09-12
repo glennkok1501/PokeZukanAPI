@@ -1,0 +1,5 @@
+{
+    "name": "motor drive",
+    "effect": "whenever an electric-type move hits this pok\u00e9mon, its speed rises one stage, negating any other effect on it.  this ability will not take effect if this pok\u00e9mon is immune to electric moves.  electric moves will ignore this pok\u00e9mon's substitute.  this effect includes non-damaging moves, i.e. thunder wave.",
+    "description": "boosts its speed stat if hit by an electric-type move, instead of taking damage."
+}

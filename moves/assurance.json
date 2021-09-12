@@ -1,0 +1,11 @@
+{
+    "name": "assurance",
+    "type": "dark",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "power is doubled if the target has already received damage this turn.",
+    "description": "if the target has already taken some damage in the same turn, this attack\u2019s power is doubled."
+}

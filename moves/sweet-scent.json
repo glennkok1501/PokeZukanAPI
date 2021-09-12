@@ -1,0 +1,11 @@
+{
+    "name": "sweet scent",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "lowers the target's evasion by one stage.",
+    "description": "a sweet scent that harshly lowers opposing pok\u00e9mon\u2019s evasiveness."
+}

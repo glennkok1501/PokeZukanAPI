@@ -1,0 +1,11 @@
+{
+    "name": "heart stamp",
+    "type": "psychic",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": null,
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "the user unleashes a vicious blow after its cute act makes the target less wary. this may also make the target flinch."
+}

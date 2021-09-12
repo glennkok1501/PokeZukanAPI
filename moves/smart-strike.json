@@ -1,0 +1,11 @@
+{
+    "name": "smart strike",
+    "type": "steel",
+    "category": "physical",
+    "power": 70,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "never misses.",
+    "description": "the user stabs the target with a sharp horn. this attack never misses."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "high jump kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "if the user misses, it takes half the damage it would have inflicted in recoil.",
+    "description": "the target is attacked with a knee kick from a jump. if it misses, the user is hurt instead."
+}

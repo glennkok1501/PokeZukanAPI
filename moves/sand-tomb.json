@@ -1,0 +1,11 @@
+{
+    "name": "sand tomb",
+    "type": "ground",
+    "category": "physical",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "prevents the target from fleeing and inflicts damage for 2-5 turns.",
+    "description": "the user traps the target inside a harshly raging sandstorm for four to five turns."
+}

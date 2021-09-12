@@ -1,0 +1,11 @@
+{
+    "name": "steel wing",
+    "type": "steel",
+    "category": "physical",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 25,
+    "contest": "cool",
+    "effect": "has a 10% chance to raise the user's defense by one stage.",
+    "description": "the target is hit with wings of steel. this may also raise the user\u2019s defense stat."
+}

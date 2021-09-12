@@ -1,0 +1,11 @@
+{
+    "name": "nature power",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "uses a move which depends upon the terrain.",
+    "description": "this attack makes use of nature\u2019s power. its effects vary depending on the user\u2019s environment."
+}

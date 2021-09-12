@@ -1,0 +1,11 @@
+{
+    "name": "thief",
+    "type": "dark",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "tough",
+    "effect": "takes the target's item.",
+    "description": "the user attacks and steals the target\u2019s held item simultaneously. the user can\u2019t steal anything if it already holds an item."
+}

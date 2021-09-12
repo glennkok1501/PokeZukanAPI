@@ -1,0 +1,11 @@
+{
+    "name": "glaciate",
+    "type": "ice",
+    "category": "special",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 10,
+    "contest": null,
+    "effect": "lowers the target's speed by one stage.",
+    "description": "the user attacks by blowing freezing cold air at opposing pok\u00e9mon. this lowers their speed stat."
+}

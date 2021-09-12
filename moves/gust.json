@@ -1,0 +1,11 @@
+{
+    "name": "gust",
+    "type": "flying",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "contest": "smart",
+    "effect": "inflicts regular damage and can hit pok\u00e9mon in the air.",
+    "description": "a gust of wind is whipped up by wings and launched at the target to inflict damage."
+}

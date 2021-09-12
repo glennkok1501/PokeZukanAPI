@@ -1,0 +1,11 @@
+{
+    "name": "body slam",
+    "type": "normal",
+    "category": "physical",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "has a 30% chance to paralyze the target.",
+    "description": "the user drops onto the target with its full body weight. this may also leave the target with paralysis."
+}

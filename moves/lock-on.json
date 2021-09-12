@@ -1,0 +1,11 @@
+{
+    "name": "lock on",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "ensures that the user's next move will hit the target.",
+    "description": "the user takes sure aim at the target. this ensures the next attack does not miss the target."
+}

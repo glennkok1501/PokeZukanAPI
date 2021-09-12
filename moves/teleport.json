@@ -1,0 +1,11 @@
+{
+    "name": "teleport",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "immediately ends wild battles.  no effect otherwise.",
+    "description": "use it to flee from any wild pok\u00e9mon."
+}

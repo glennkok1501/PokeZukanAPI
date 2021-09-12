@@ -1,0 +1,11 @@
+{
+    "name": "splishy splash",
+    "type": "water",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "has a 30% chance to paralyze the target.",
+    "description": null
+}

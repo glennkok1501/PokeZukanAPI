@@ -1,0 +1,11 @@
+{
+    "name": "giga impact",
+    "type": "normal",
+    "category": "physical",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "user foregoes its next turn to recharge.",
+    "description": "the user charges at the target using every bit of its power. the user can\u2019t move on the next turn."
+}

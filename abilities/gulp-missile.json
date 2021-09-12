@@ -1,0 +1,5 @@
+{
+    "name": "gulp missile",
+    "effect": null,
+    "description": "when the pok\u00e9mon uses surf or dive, it will come back with prey. when it takes damage, it will spit out the prey to attack."
+}

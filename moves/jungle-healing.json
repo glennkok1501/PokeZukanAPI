@@ -1,0 +1,11 @@
+{
+    "name": "jungle healing",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

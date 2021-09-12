@@ -1,0 +1,11 @@
+{
+    "name": "fissure",
+    "type": "ground",
+    "category": "physical",
+    "power": null,
+    "accuracy": 30,
+    "pp": 5,
+    "contest": "tough",
+    "effect": "causes a one-hit ko.",
+    "description": "the user opens up a fissure in the ground and drops the target in. the target faints instantly if this attack hits."
+}

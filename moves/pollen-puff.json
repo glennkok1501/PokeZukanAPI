@@ -1,0 +1,11 @@
+{
+    "name": "pollen puff",
+    "type": "bug",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "damages opponents, but heals allies for 50% of their max hp.",
+    "description": "the user attacks the enemy with a pollen puff that explodes. if the target is an ally, it gives the ally a pollen puff that restores its hp instead."
+}

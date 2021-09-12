@@ -1,0 +1,11 @@
+{
+    "name": "darkest lariat",
+    "type": "dark",
+    "category": "physical",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "ignores the target's stat modifiers.",
+    "description": "the user swings both arms and hits the target. the target\u2019s stat changes don\u2019t affect this attack\u2019s damage."
+}

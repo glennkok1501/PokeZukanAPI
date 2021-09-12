@@ -1,0 +1,11 @@
+{
+    "name": "water sport",
+    "type": "water",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "halves all fire-type damage.",
+    "description": "the user soaks the battlefield with water. this weakens fire-type moves for five turns."
+}

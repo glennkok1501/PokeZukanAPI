@@ -1,0 +1,5 @@
+{
+    "name": "volt absorb",
+    "effect": "whenever an electric-type move hits this pok\u00e9mon, it heals for 1/4 of its maximum hp, negating any other effect on it.  this ability will not take effect if this pok\u00e9mon is ground-type and thus immune to electric moves.  electric moves will ignore this pok\u00e9mon's substitute.  this effect includes non-damaging moves, i.e. thunder wave.",
+    "description": "restores hp if hit by an electric-type move, instead of taking damage."
+}

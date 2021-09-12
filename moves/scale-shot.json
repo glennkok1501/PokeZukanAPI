@@ -1,0 +1,11 @@
+{
+    "name": "scale shot",
+    "type": "dragon",
+    "category": "physical",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 20,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

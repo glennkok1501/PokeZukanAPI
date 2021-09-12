@@ -1,0 +1,11 @@
+{
+    "name": "spotlight",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "forces the target's opponents to aim at the target for the rest of the turn.",
+    "description": "the user shines a spotlight on the target so that only the target will be attacked during the turn."
+}

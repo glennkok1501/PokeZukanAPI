@@ -1,0 +1,11 @@
+{
+    "name": "bubble",
+    "type": "water",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "cute",
+    "effect": "has a 10% chance to lower the target's speed by one stage.",
+    "description": "a spray of countless bubbles is jetted at the opposing pok\u00e9mon. this may also lower their speed stat."
+}

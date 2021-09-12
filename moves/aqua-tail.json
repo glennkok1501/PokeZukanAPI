@@ -1,0 +1,11 @@
+{
+    "name": "aqua tail",
+    "type": "water",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+}

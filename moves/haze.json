@@ -1,0 +1,11 @@
+{
+    "name": "haze",
+    "type": "ice",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "beauty",
+    "effect": "resets all pok\u00e9mon's stats, accuracy, and evasion.",
+    "description": "the user creates a haze that eliminates every stat change among all the pok\u00e9mon engaged in battle."
+}

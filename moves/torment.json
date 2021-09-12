@@ -1,0 +1,11 @@
+{
+    "name": "torment",
+    "type": "dark",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "prevents the target from using the same move twice in a row.",
+    "description": "the user torments and enrages the target, making it incapable of using the same move twice in a row."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "wide guard",
+    "type": "rock",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "prevents any multi-target moves from hitting friendly pok\u00e9mon this turn.",
+    "description": "the user and its allies are protected from wide-ranging attacks for one turn."
+}

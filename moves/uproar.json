@@ -1,0 +1,11 @@
+{
+    "name": "uproar",
+    "type": "normal",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "forced to use this move for several turns.  pok\u00e9mon cannot fall asleep in that time.",
+    "description": "the user attacks in an uproar for three turns. during that time, no pok\u00e9mon can fall asleep."
+}

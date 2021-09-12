@@ -1,0 +1,11 @@
+{
+    "name": "transform",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "user becomes a copy of the target until it leaves battle.",
+    "description": "the user transforms into a copy of the target right down to having the same move set."
+}

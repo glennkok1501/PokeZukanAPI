@@ -1,0 +1,11 @@
+{
+    "name": "avalanche",
+    "type": "ice",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "inflicts double damage if the user takes damage before attacking this turn.",
+    "description": "the power of this attack move is doubled if the user has been hurt by the target in the same turn."
+}

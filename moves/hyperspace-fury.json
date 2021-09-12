@@ -1,0 +1,11 @@
+{
+    "name": "hyperspace fury",
+    "type": "dark",
+    "category": "physical",
+    "power": 100,
+    "accuracy": null,
+    "pp": 5,
+    "contest": null,
+    "effect": "ignores and destroys protection effects.",
+    "description": "using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like protect and detect. but the user\u2019s defense stat falls."
+}

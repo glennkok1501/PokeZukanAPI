@@ -1,0 +1,11 @@
+{
+    "name": "detect",
+    "type": "fighting",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "prevents any moves from hitting the user this turn.",
+    "description": "enables the user to evade all attacks. its chance of failing rises if it is used in succession."
+}

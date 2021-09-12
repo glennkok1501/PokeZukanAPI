@@ -1,0 +1,11 @@
+{
+    "name": "disarming voice",
+    "type": "fairy",
+    "category": "special",
+    "power": 40,
+    "accuracy": null,
+    "pp": 15,
+    "contest": null,
+    "effect": "never misses.",
+    "description": "letting out a charming cry, the user does emotional damage to opposing pok\u00e9mon. this attack never misses."
+}

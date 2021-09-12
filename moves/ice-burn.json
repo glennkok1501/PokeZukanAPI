@@ -1,0 +1,11 @@
+{
+    "name": "ice burn",
+    "type": "ice",
+    "category": "special",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "contest": null,
+    "effect": "requires a turn to charge before attacking.  has a 30% chance to burn the target.",
+    "description": "on the second turn, an ultracold, freezing wind surrounds the target. this may leave the target with a burn."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "night daze",
+    "type": "dark",
+    "category": "special",
+    "power": 85,
+    "accuracy": 95,
+    "pp": 10,
+    "contest": null,
+    "effect": "has a 40% chance to lower the target's accuracy by one stage.",
+    "description": "the user lets loose a pitch-black shock wave at its target. this may also lower the target\u2019s accuracy."
+}

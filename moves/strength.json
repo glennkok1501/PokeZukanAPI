@@ -1,0 +1,11 @@
+{
+    "name": "strength",
+    "type": "normal",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the target is slugged with a punch thrown at maximum power."
+}

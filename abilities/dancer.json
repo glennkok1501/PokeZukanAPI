@@ -1,0 +1,5 @@
+{
+    "name": "dancer",
+    "effect": "whenever another pok\u00e9mon uses a dance move, this pok\u00e9mon will use the same move immediately afterwards.",
+    "description": "when another pok\u00e9mon uses a dance move, it can use a dance move following it regardless of its speed."
+}

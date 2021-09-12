@@ -1,0 +1,11 @@
+{
+    "name": "steam eruption",
+    "type": "water",
+    "category": "special",
+    "power": 110,
+    "accuracy": 95,
+    "pp": 5,
+    "contest": null,
+    "effect": "has a 30% chance to burn the target.",
+    "description": "the user immerses the target in superheated steam. this may also leave the target with a burn."
+}

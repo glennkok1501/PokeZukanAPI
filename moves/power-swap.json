@@ -1,0 +1,11 @@
+{
+    "name": "power swap",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "user swaps attack and special attack changes with the target.",
+    "description": "the user employs its psychic power to switch changes to its attack and sp. atk stats with the target."
+}

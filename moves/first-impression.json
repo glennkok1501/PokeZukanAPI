@@ -1,0 +1,11 @@
+{
+    "name": "first impression",
+    "type": "bug",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "can only be used as the first move after the user enters battle.",
+    "description": "although this move has great power, it only works the first turn the user is in battle."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "extrasensory",
+    "type": "psychic",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "has a 10% chance to make the target flinch.",
+    "description": "the user attacks with an odd, unseeable power. this may also make the target flinch."
+}

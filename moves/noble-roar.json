@@ -1,0 +1,11 @@
+{
+    "name": "noble roar",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": null,
+    "effect": "lowers the target's attack and special attack by one stage.",
+    "description": "letting out a noble roar, the user intimidates the target and lowers its attack and sp. atk stats."
+}

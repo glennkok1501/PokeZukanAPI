@@ -1,0 +1,11 @@
+{
+    "name": "tectonic rage  physical",
+    "type": "ground",
+    "category": "physical",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user burrows deep into the ground and slams into the target with the full force of its z-power. the power varies, depending on the original move."
+}

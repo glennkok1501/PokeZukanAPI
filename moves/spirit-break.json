@@ -1,0 +1,11 @@
+{
+    "name": "spirit break",
+    "type": "fairy",
+    "category": "physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

@@ -1,0 +1,11 @@
+{
+    "name": "string shot",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": 95,
+    "pp": 40,
+    "contest": "smart",
+    "effect": "lowers the target's speed by two stages.",
+    "description": "the opposing pok\u00e9mon are bound with silk blown from the user\u2019s mouth that harshly lowers the speed stat."
+}

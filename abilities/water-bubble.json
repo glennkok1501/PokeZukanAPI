@@ -1,0 +1,5 @@
+{
+    "name": "water bubble",
+    "effect": "when this pok\u00e9mon is hit by a fire move, the damage is halved.  when this pok\u00e9mon uses a water move, the power is doubled. this pok\u00e9mon cannot be burned, and if it becomes burned, the burn is immediately cured.",
+    "description": "lowers the power of fire-type moves done to the pok\u00e9mon and prevents the pok\u00e9mon from getting a burn."
+}

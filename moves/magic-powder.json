@@ -1,0 +1,11 @@
+{
+    "name": "magic powder",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

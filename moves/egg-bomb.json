@@ -1,0 +1,11 @@
+{
+    "name": "egg bomb",
+    "type": "normal",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 75,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "a large egg is hurled at the target with maximum force to inflict damage."
+}

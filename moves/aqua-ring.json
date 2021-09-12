@@ -1,0 +1,11 @@
+{
+    "name": "aqua ring",
+    "type": "water",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "restores 1/16 of the user's max hp each turn.",
+    "description": "the user envelops itself in a veil made of water. it regains some hp every turn."
+}

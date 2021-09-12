@@ -1,0 +1,11 @@
+{
+    "name": "megahorn",
+    "type": "bug",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "using its tough and impressive horn, the user rams into the target with no letup."
+}

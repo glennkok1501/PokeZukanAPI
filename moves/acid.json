@@ -1,0 +1,11 @@
+{
+    "name": "acid",
+    "type": "poison",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "contest": "smart",
+    "effect": "has a 10% chance to lower the target's special defense by one stage.",
+    "description": "the opposing pok\u00e9mon are attacked with a spray of harsh acid. this may also lower their sp. def stat."
+}

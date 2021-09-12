@@ -1,0 +1,11 @@
+{
+    "name": "trick room",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "cute",
+    "effect": "for five turns, slower pok\u00e9mon will act before faster pok\u00e9mon.",
+    "description": "the user creates a bizarre area in which slower pok\u00e9mon get to move first for five turns."
+}

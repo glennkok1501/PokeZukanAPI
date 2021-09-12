@@ -1,0 +1,5 @@
+{
+    "name": "slow start",
+    "effect": "this pok\u00e9mon's attack and speed are halved for five turns upon entering battle.  this ability also takes effect when acquired during battle.  if this pok\u00e9mon loses its ability before the five turns are up, its attack and speed return to normal; if it then regains this ability without leaving battle, its attack and speed are halved again, but the counter keeps counting from where it was.",
+    "description": "for five turns, the pok\u00e9mon\u2019s attack and speed stats are halved."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "guillotine",
+    "type": "normal",
+    "category": "physical",
+    "power": null,
+    "accuracy": 30,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "causes a one-hit ko.",
+    "description": "a vicious, tearing attack with big pincers. the target faints instantly if this attack hits."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "mega kick",
+    "type": "normal",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 75,
+    "pp": 5,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the target is attacked by a kick launched with muscle-packed power."
+}

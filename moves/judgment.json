@@ -1,0 +1,11 @@
+{
+    "name": "judgment",
+    "type": "normal",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "if the user is holding a appropriate plate or drive, the damage inflicted will match it.",
+    "description": "the user releases countless shots of light at the target. this move\u2019s type varies depending on the kind of plate the user is holding."
+}

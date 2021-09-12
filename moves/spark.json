@@ -1,0 +1,11 @@
+{
+    "name": "spark",
+    "type": "electric",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "has a 30% chance to paralyze the target.",
+    "description": "the user throws an electrically charged tackle at the target. this may also leave the target with paralysis."
+}

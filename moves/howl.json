@@ -1,0 +1,11 @@
+{
+    "name": "howl",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": "cool",
+    "effect": "raises the user's attack by one stage.",
+    "description": "the user howls loudly to raise its spirit, which raises its attack stat."
+}

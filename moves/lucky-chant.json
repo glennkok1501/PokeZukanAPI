@@ -1,0 +1,11 @@
+{
+    "name": "lucky chant",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "cute",
+    "effect": "prevents the target from scoring critical hits for five turns.",
+    "description": "the user chants an incantation toward the sky, preventing opposing pok\u00e9mon from landing critical hits for five turns."
+}

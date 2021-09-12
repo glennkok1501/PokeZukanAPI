@@ -1,0 +1,11 @@
+{
+    "name": "poison powder",
+    "type": "poison",
+    "category": "status",
+    "power": null,
+    "accuracy": 75,
+    "pp": 35,
+    "contest": "smart",
+    "effect": "poisons the target.",
+    "description": "the user scatters a cloud of poisonous dust that poisons the target."
+}

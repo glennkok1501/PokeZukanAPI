@@ -1,0 +1,11 @@
+{
+    "name": "storm throw",
+    "type": "fighting",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "always scores a critical hit.",
+    "description": "the user strikes the target with a fierce blow. this attack always results in a critical hit."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "guard split",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": "averages defense and special defense with the target.",
+    "description": "the user employs its psychic power to average its defense and sp. def stats with those of the target."
+}

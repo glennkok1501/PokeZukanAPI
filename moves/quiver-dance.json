@@ -1,0 +1,11 @@
+{
+    "name": "quiver dance",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": null,
+    "effect": "raises the user's special attack, special defense, and speed by one stage each.",
+    "description": "the user lightly performs a beautiful, mystic dance. this boosts the user\u2019s sp. atk, sp. def, and speed stats."
+}

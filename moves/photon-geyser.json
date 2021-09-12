@@ -1,0 +1,11 @@
+{
+    "name": "photon geyser",
+    "type": "psychic",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "inflicts damage using either attack or special attack stat, whichever is higher.",
+    "description": "the user attacks a target with a pillar of light. this move inflicts attack or sp. atk damage\u2014whichever stat is higher for the user."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "horn attack",
+    "type": "normal",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 25,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the target is jabbed with a sharply pointed horn to inflict damage."
+}

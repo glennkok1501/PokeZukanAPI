@@ -1,0 +1,11 @@
+{
+    "name": "leech life",
+    "type": "bug",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "smart",
+    "effect": "drains half the damage inflicted to heal the user.",
+    "description": "the user drains the target\u2019s blood. the user\u2019s hp is restored by half the damage taken by the target."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "thousand waves",
+    "type": "ground",
+    "category": "physical",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "prevents the target from leaving battle.",
+    "description": "the user attacks with a wave that crawls along the ground. those hit can\u2019t flee from battle."
+}

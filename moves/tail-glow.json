@@ -1,0 +1,11 @@
+{
+    "name": "tail glow",
+    "type": "bug",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "raises the user's special attack by three stages.",
+    "description": "the user stares at flashing lights to focus its mind, drastically raising its sp. atk stat."
+}

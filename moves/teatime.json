@@ -1,0 +1,11 @@
+{
+    "name": "teatime",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

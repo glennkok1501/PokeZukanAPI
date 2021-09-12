@@ -1,0 +1,11 @@
+{
+    "name": "aerial ace",
+    "type": "flying",
+    "category": "physical",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "never misses.",
+    "description": "the user confounds the target with speed, then slashes. this attack never misses."
+}

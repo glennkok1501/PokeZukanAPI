@@ -1,0 +1,11 @@
+{
+    "name": "light screen",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "beauty",
+    "effect": "reduces damage from special attacks by 50% for five turns.",
+    "description": "a wondrous wall of light is put up to reduce damage from special attacks for five turns."
+}

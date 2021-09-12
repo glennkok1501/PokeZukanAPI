@@ -1,0 +1,11 @@
+{
+    "name": "sharpen",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "contest": "cute",
+    "effect": "raises the user's attack by one stage.",
+    "description": "the user makes its edges more jagged,  which raises its attack stat."
+}

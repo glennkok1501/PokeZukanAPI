@@ -1,0 +1,11 @@
+{
+    "name": "bouncy bubble",
+    "type": "water",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "drains half the damage inflicted to heal the user.",
+    "description": null
+}

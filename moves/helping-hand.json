@@ -1,0 +1,11 @@
+{
+    "name": "helping hand",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "ally's next move inflicts half more damage.",
+    "description": "the user assists an ally by boosting the power of that ally\u2019s attack."
+}

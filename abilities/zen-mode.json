@@ -1,0 +1,5 @@
+{
+    "name": "zen mode",
+    "effect": "this pok\u00e9mon switches between standard mode and zen mode after each turn depending on its hp.  below 50% of its maximum hp, it switches to zen mode, and at 50% or above, it switches to standard mode.  this pok\u00e9mon returns to standard mode upon leaving battle or losing this ability.  this ability has no effect if this pok\u00e9mon is not a darmanitan.",
+    "description": "changes the pok\u00e9mon\u2019s shape when hp is half or less."
+}

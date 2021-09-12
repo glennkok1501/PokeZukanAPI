@@ -1,0 +1,11 @@
+{
+    "name": "rage",
+    "type": "normal",
+    "category": "physical",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "if the user is hit after using this move, its attack rises by one stage.",
+    "description": "as long as this move is in use, the power of rage raises the attack stat each time the user is hit in battle."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "cotton spore",
+    "type": "grass",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 40,
+    "contest": "beauty",
+    "effect": "lowers the target's speed by two stages.",
+    "description": "the user releases cotton-like spores that cling to the opposing pok\u00e9mon, which harshly lowers their speed stat."
+}

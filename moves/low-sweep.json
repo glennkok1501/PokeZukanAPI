@@ -1,0 +1,11 @@
+{
+    "name": "low sweep",
+    "type": "fighting",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "lowers the target's speed by one stage.",
+    "description": "the user makes a swift attack on the target\u2019s legs, which lowers the target\u2019s speed stat."
+}

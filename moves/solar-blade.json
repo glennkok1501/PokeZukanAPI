@@ -1,0 +1,11 @@
+{
+    "name": "solar blade",
+    "type": "grass",
+    "category": "physical",
+    "power": 125,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "requires a turn to charge before attacking.",
+    "description": "in this two-turn attack, the user gathers light and fills a blade with the light\u2019s energy, attacking the target on the next turn."
+}

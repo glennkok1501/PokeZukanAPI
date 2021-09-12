@@ -1,0 +1,5 @@
+{
+    "name": "pressure",
+    "effect": "moves targetting this pok\u00e9mon use one extra pp.  this ability stacks if multiple targets have it.  this ability still affects moves that fail or miss.  this ability does not affect ally moves that target either the entire field or just its side, nor this pok\u00e9mon's self-targetted moves; it does, however, affect single-targetted ally moves aimed at this pok\u00e9mon, ally moves that target all other pok\u00e9mon, and opponents' moves that target the entire field.  if this ability raises a move's pp cost above its remaining pp, it will use all remaining pp.  when this pok\u00e9mon enters battle, all participating trainers are notified that it has this ability.  overworld: if the lead pok\u00e9mon has this ability, higher-levelled pok\u00e9mon have their encounter rate increased.",
+    "description": "by putting pressure on the opposing pok\u00e9mon, it raises their pp usage."
+}

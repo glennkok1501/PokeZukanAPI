@@ -1,0 +1,11 @@
+{
+    "name": "poison fang",
+    "type": "poison",
+    "category": "physical",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "has a 50% chance to badly poison the target.",
+    "description": "the user bites the target with toxic fangs. this may also leave the target badly poisoned."
+}

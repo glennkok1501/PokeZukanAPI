@@ -1,0 +1,11 @@
+{
+    "name": "hyperspace hole",
+    "type": "psychic",
+    "category": "special",
+    "power": 80,
+    "accuracy": null,
+    "pp": 5,
+    "contest": null,
+    "effect": "ignores and destroys protection effects.",
+    "description": "using a hyperspace hole, the user appears right next to the target and strikes. this also hits a target using a move such as protect or detect."
+}

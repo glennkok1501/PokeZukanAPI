@@ -1,0 +1,11 @@
+{
+    "name": "calm mind",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "contest": "smart",
+    "effect": "raises the user's special attack and special defense by one stage.",
+    "description": "the user quietly focuses its mind and calms its spirit to raise its sp. atk and sp. def stats."
+}

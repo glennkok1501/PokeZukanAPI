@@ -1,0 +1,11 @@
+{
+    "name": "inferno",
+    "type": "fire",
+    "category": "special",
+    "power": 100,
+    "accuracy": 50,
+    "pp": 5,
+    "contest": null,
+    "effect": "has a 100% chance to burn the target.",
+    "description": "the user attacks by engulfing the target in an intense fire. this leaves the target with a burn."
+}

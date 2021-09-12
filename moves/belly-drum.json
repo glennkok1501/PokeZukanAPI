@@ -1,0 +1,11 @@
+{
+    "name": "belly drum",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "user pays half its max hp to max out its attack.",
+    "description": "the user maximizes its attack stat in exchange for hp equal to half its max hp."
+}

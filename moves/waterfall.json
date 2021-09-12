@@ -1,0 +1,11 @@
+{
+    "name": "waterfall",
+    "type": "water",
+    "category": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "has a 20% chance to make the target flinch.",
+    "description": "the user charges at the target and may make it flinch."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "dynamax cannon",
+    "type": "dragon",
+    "category": "special",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

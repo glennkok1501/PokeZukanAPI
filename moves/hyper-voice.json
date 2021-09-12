@@ -1,0 +1,11 @@
+{
+    "name": "hyper voice",
+    "type": "normal",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "cool",
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user lets loose a horribly echoing shout with the power to inflict damage."
+}

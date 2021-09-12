@@ -1,0 +1,11 @@
+{
+    "name": "rock tomb",
+    "type": "rock",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 15,
+    "contest": "smart",
+    "effect": "has a 100% chance to lower the target's speed by one stage.",
+    "description": "boulders are hurled at the target. this also lowers the target\u2019s speed stat by preventing its movement."
+}

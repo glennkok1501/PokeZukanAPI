@@ -1,0 +1,11 @@
+{
+    "name": "shadow break",
+    "type": "shadow",
+    "category": "physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": null,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": null
+}

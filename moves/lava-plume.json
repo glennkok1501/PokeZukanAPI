@@ -1,0 +1,11 @@
+{
+    "name": "lava plume",
+    "type": "fire",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "has a 30% chance to burn the target.",
+    "description": "the user torches everything around it in an inferno of scarlet flames. this may also leave those it hits with a burn."
+}

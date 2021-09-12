@@ -1,0 +1,11 @@
+{
+    "name": "hydro vortex  physical",
+    "type": "water",
+    "category": "physical",
+    "power": null,
+    "accuracy": null,
+    "pp": 1,
+    "contest": null,
+    "effect": "inflicts regular damage with no additional effect.",
+    "description": "the user creates a huge whirling current using its z-power to swallow the target with full force. the power varies, depending on the original move."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "scald",
+    "type": "water",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "has a 30% chance to burn the target.",
+    "description": "the user shoots boiling hot water at its target. this may also leave the target with a burn."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "grass pledge",
+    "type": "grass",
+    "category": "special",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": null,
+    "effect": "with fire pledge, damages opposing pok\u00e9mon for 1/8 their max hp every turn for four turns.",
+    "description": "a column of grass hits the target. when used with its water equivalent, its power increases and a vast swamp appears."
+}

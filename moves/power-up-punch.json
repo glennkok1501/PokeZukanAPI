@@ -1,0 +1,11 @@
+{
+    "name": "power up punch",
+    "type": "fighting",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "raises the user's attack by one stage after inflicting damage.",
+    "description": "striking opponents over and over makes the user\u2019s fists harder. hitting a target raises the attack stat."
+}

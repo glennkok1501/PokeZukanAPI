@@ -1,0 +1,11 @@
+{
+    "name": "fury attack",
+    "type": "normal",
+    "category": "physical",
+    "power": 15,
+    "accuracy": 85,
+    "pp": 20,
+    "contest": "cool",
+    "effect": "hits 2-5 times in one turn.",
+    "description": "the target is jabbed repeatedly with a horn or beak two to five times in a row."
+}

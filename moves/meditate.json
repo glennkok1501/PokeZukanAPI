@@ -1,0 +1,11 @@
+{
+    "name": "meditate",
+    "type": "psychic",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "contest": "beauty",
+    "effect": "raises the user's attack by one stage.",
+    "description": "the user meditates to awaken the power deep within its body and raise its attack stat."
+}

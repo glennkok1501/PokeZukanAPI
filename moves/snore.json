@@ -1,0 +1,11 @@
+{
+    "name": "snore",
+    "type": "normal",
+    "category": "special",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "has a 30% chance to make the target flinch.  only works if the user is sleeping.",
+    "description": "this attack can be used only if the user is asleep. the harsh noise may also make the target flinch."
+}

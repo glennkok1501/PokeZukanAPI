@@ -1,0 +1,11 @@
+{
+    "name": "punishment",
+    "type": "dark",
+    "category": "physical",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "smart",
+    "effect": "power increases against targets with more raised stats, up to a maximum of 200.",
+    "description": "the more the target has powered up with stat changes, the greater the move\u2019s power."
+}

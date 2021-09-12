@@ -1,0 +1,11 @@
+{
+    "name": "dragon tail",
+    "type": "dragon",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": null,
+    "effect": "ends wild battles.  forces trainers to switch pok\u00e9mon.",
+    "description": "the target is knocked away, and a different pok\u00e9mon is dragged out. in the wild, this ends a battle against a single pok\u00e9mon."
+}

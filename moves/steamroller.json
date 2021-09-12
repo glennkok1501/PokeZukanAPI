@@ -1,0 +1,11 @@
+{
+    "name": "steamroller",
+    "type": "bug",
+    "category": "physical",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "has a 30% chance to make the target flinch.",
+    "description": "the user crushes its target by rolling over the target with its rolled-up body. this may also make the target flinch."
+}

@@ -1,0 +1,5 @@
+{
+    "name": "sap sipper",
+    "effect": "whenever a grass-type move hits this pok\u00e9mon, its attack rises one stage, negating any other effect on it.",
+    "description": "boosts the attack stat if hit by a grass-type move, instead of taking damage."
+}

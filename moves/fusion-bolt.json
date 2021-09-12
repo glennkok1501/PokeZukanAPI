@@ -1,0 +1,11 @@
+{
+    "name": "fusion bolt",
+    "type": "electric",
+    "category": "physical",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": null,
+    "effect": "with fusion flare, inflicts double damage.",
+    "description": "the user throws down a giant lightning bolt. this move\u2019s power is increased when influenced by an enormous flame."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "acid spray",
+    "type": "poison",
+    "category": "special",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": null,
+    "effect": "lowers the target's special defense by two stages.",
+    "description": "the user spits fluid that works to melt the target. this harshly lowers the target\u2019s sp. def stat."
+}

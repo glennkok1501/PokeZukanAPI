@@ -1,0 +1,11 @@
+{
+    "name": "shadow end",
+    "type": "shadow",
+    "category": "physical",
+    "power": 120,
+    "accuracy": 60,
+    "pp": null,
+    "contest": null,
+    "effect": "user receives 1/2 its hp in recoil.",
+    "description": null
+}

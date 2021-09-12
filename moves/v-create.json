@@ -1,0 +1,11 @@
+{
+    "name": "v create",
+    "type": "fire",
+    "category": "physical",
+    "power": 180,
+    "accuracy": 95,
+    "pp": 5,
+    "contest": null,
+    "effect": "lowers the user's defense, special defense, and speed by one stage each.",
+    "description": "with a hot flame on its forehead, the user hurls itself at its target. this lowers the user\u2019s defense, sp. def, and speed stats."
+}

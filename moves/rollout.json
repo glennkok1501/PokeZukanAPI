@@ -1,0 +1,11 @@
+{
+    "name": "rollout",
+    "type": "rock",
+    "category": "physical",
+    "power": 30,
+    "accuracy": 90,
+    "pp": 20,
+    "contest": "tough",
+    "effect": "power doubles every turn this move is used in succession after the first, resetting after five turns.",
+    "description": "the user continually rolls into the target over five turns. it becomes more powerful each time it hits."
+}

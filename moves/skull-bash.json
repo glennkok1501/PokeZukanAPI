@@ -1,0 +1,11 @@
+{
+    "name": "skull bash",
+    "type": "normal",
+    "category": "physical",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 10,
+    "contest": "tough",
+    "effect": "raises the user's defense by one stage.  user charges for one turn before attacking.",
+    "description": "the user tucks in its head to raise its defense stat on the first turn, then rams the target on the next turn."
+}

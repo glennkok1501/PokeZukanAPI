@@ -1,0 +1,11 @@
+{
+    "name": "breaking swipe",
+    "type": "dragon",
+    "category": "physical",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": null,
+    "description": null
+}

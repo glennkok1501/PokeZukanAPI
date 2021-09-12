@@ -1,0 +1,11 @@
+{
+    "name": "clamp",
+    "type": "water",
+    "category": "physical",
+    "power": 35,
+    "accuracy": 85,
+    "pp": 15,
+    "contest": "tough",
+    "effect": "prevents the target from fleeing and inflicts damage for 2-5 turns.",
+    "description": "the target is clamped and squeezed by the user\u2019s very thick and sturdy shell for four to five turns."
+}

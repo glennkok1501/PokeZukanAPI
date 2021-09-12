@@ -1,0 +1,11 @@
+{
+    "name": "hold back",
+    "type": "normal",
+    "category": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "contest": null,
+    "effect": "cannot lower the target's hp below 1.",
+    "description": "the user holds back when it attacks, and the target is left with at least 1 hp."
+}

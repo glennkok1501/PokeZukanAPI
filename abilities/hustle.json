@@ -1,0 +1,5 @@
+{
+    "name": "hustle",
+    "effect": "this pok\u00e9mon's physical moves do 1.5\u00d7 as much regular damage, but have 0.8\u00d7 their usual accuracy.  special moves are unaffected.  moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage.  overworld: if the lead pok\u00e9mon has this ability, higher-levelled pok\u00e9mon have their encounter rate increased.",
+    "description": "boosts the attack stat, but lowers accuracy."
+}

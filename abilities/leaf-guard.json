@@ -1,0 +1,5 @@
+{
+    "name": "leaf guard",
+    "effect": "this pok\u00e9mon cannot be given a major status ailment during strong sunlight.  this ability does not heal prior status ailments.  rest will fail altogether with this ability in effect.  yawn will immediately fail if used on this pok\u00e9mon during strong sunlight, and an already-used yawn will fail if the weather turns to strong sunlight in the meantime.",
+    "description": "prevents status conditions in harsh sunlight."
+}

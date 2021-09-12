@@ -1,0 +1,11 @@
+{
+    "name": "self destruct",
+    "type": "normal",
+    "category": "physical",
+    "power": 200,
+    "accuracy": 100,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "user faints.",
+    "description": "the user attacks everything around it by causing an explosion. the user faints upon using this move."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "sunny day",
+    "type": "fire",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "contest": "beauty",
+    "effect": "changes the weather to sunny for five turns.",
+    "description": "the user intensifies the sun for five turns, powering up fire-type moves. it lowers the power of water-type moves."
+}

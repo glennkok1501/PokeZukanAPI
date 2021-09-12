@@ -1,0 +1,11 @@
+{
+    "name": "teeter dance",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "cute",
+    "effect": "confuses the target.",
+    "description": "the user performs a wobbly dance that confuses the pok\u00e9mon around it."
+}

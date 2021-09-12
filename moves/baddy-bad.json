@@ -1,0 +1,11 @@
+{
+    "name": "baddy bad",
+    "type": "dark",
+    "category": "special",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": null,
+    "effect": "sets reflect on the user's side of the field after inflicting damage.",
+    "description": null
+}

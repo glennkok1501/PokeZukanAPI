@@ -1,0 +1,11 @@
+{
+    "name": "slack off",
+    "type": "normal",
+    "category": "status",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "contest": "cute",
+    "effect": "heals the user by half its max hp.",
+    "description": "the user slacks off, restoring its own hp by up to half of its max hp."
+}

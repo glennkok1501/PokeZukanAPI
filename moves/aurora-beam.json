@@ -1,0 +1,11 @@
+{
+    "name": "aurora beam",
+    "type": "ice",
+    "category": "special",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "contest": "beauty",
+    "effect": "has a 10% chance to lower the target's attack by one stage.",
+    "description": "the target is hit with a rainbow-colored beam. this may also lower the target\u2019s attack stat."
+}

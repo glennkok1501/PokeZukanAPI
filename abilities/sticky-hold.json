@@ -1,0 +1,5 @@
+{
+    "name": "sticky hold",
+    "effect": "this pok\u00e9mon's hold item cannot be removed by other pok\u00e9mon.  damaging moves that would remove this pok\u00e9mon's item can still inflict damage against this pok\u00e9mon, e.g. knock off or pluck.  this pok\u00e9mon can still use moves that involve the loss of its own item, e.g. fling or trick.  overworld: if the lead pok\u00e9mon has this ability, the encounter rate while fishing is increased.",
+    "description": "items held by the pok\u00e9mon are stuck fast and cannot be removed by other pok\u00e9mon."
+}

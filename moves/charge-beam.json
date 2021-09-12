@@ -1,0 +1,11 @@
+{
+    "name": "charge beam",
+    "type": "electric",
+    "category": "special",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 10,
+    "contest": "beauty",
+    "effect": "has a 70% chance to raise the user's special attack by one stage.",
+    "description": "the user attacks with an electric charge. the user may use any remaining electricity to raise its sp. atk stat."
+}

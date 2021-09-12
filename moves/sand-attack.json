@@ -1,0 +1,11 @@
+{
+    "name": "sand attack",
+    "type": "ground",
+    "category": "status",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "contest": "cute",
+    "effect": "lowers the target's accuracy by one stage.",
+    "description": "sand is hurled in the target\u2019s face, reducing the target\u2019s accuracy."
+}
