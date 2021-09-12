@@ -1,0 +1,60 @@
+{
+    "name": "chansey",
+    "id": 113,
+    "info": {
+        "species": "egg pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "natural-cure",
+                "is_hidden": false
+            },
+            {
+                "name": "serene-grace",
+                "is_hidden": false
+            },
+            {
+                "name": "healer",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.1,
+        "weight": 34.6
+    },
+    "sprites": {
+        "home": "images/pokemon/chansey.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+    },
+    "moves": "data/moves/chansey.json",
+    "location": "data/location/chansey.json",
+    "base_stats": {
+        "hp": 250,
+        "attack": 5,
+        "defense": 5,
+        "sp. atk": 35,
+        "sp. def": 105,
+        "speed": 50
+    },
+    "entry": "this species was once very slow. to protect their eggs from other creatures, these pok\u00e9mon became able to flee quickly.",
+    "training": {
+        "base_exp": 395,
+        "capture_rate": 30,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 140,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

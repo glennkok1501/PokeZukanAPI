@@ -1,0 +1,53 @@
+{
+    "name": "genesect",
+    "id": 649,
+    "info": {
+        "species": "paleozoic pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "download",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "height": 1.5,
+        "weight": 82.5
+    },
+    "sprites": {
+        "home": "images/pokemon/genesect.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png"
+    },
+    "moves": "data/moves/genesect.json",
+    "location": "data/location/genesect.json",
+    "base_stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "sp. atk": 120,
+        "sp. def": 95,
+        "speed": 99
+    },
+    "entry": "this pok\u00e9mon existed 300 million years ago. team plasma altered it and attached a cannon to its back.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

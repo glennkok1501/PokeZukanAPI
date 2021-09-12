@@ -1,0 +1,60 @@
+{
+    "name": "maractus",
+    "id": 556,
+    "info": {
+        "species": "cactus pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "storm-drain",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 1.0,
+        "weight": 28.0
+    },
+    "sprites": {
+        "home": "images/pokemon/maractus.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
+    },
+    "moves": "data/moves/maractus.json",
+    "location": "data/location/maractus.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 86,
+        "defense": 67,
+        "sp. atk": 106,
+        "sp. def": 67,
+        "speed": 60
+    },
+    "entry": "once each year, this pok\u00e9mon scatters its seeds. they\u2019re jam-packed with nutrients, making them a precious food source out in the desert.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

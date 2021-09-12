@@ -1,0 +1,75 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-216-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "ice-path-1f",
+                "ice-path-b1f",
+                "ice-path-b2f",
+                "ice-path-b3f"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "icefall-cave-1f",
+                "icefall-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-outside",
+                "giant-chasm-forest",
+                "unova-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-area",
+                "giant-chasm-forest-cave"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-17-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "garchomp mega",
+    "id": 445,
+    "info": {
+        "species": "mach pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-force",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "height": 1.9,
+        "weight": 95.0
+    },
+    "sprites": {
+        "home": "images/pokemon/garchomp-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png"
+    },
+    "moves": "data/moves/garchomp-mega.json",
+    "location": "data/location/garchomp-mega.json",
+    "base_stats": {
+        "hp": 108,
+        "attack": 170,
+        "defense": 115,
+        "sp. atk": 120,
+        "sp. def": 95,
+        "speed": 92
+    },
+    "entry": "its fine scales don\u2019t just reduce wind resistance\u2014their sharp edges also cause injury to any opponent who attacks it.",
+    "training": {
+        "base_exp": 315,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

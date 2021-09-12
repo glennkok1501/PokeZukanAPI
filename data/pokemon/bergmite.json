@@ -1,0 +1,60 @@
+{
+    "name": "bergmite",
+    "id": 712,
+    "info": {
+        "species": "ice chunk pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 1.0,
+        "weight": 99.5
+    },
+    "sprites": {
+        "home": "images/pokemon/bergmite.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png"
+    },
+    "moves": "data/moves/bergmite.json",
+    "location": "data/location/bergmite.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 69,
+        "defense": 85,
+        "sp. atk": 32,
+        "sp. def": 35,
+        "speed": 28
+    },
+    "entry": "this pok\u00e9mon lives in areas of frigid cold. it secures itself to the back of an avalugg by freezing its feet in place.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

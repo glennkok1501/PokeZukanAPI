@@ -1,0 +1,57 @@
+{
+    "name": "feraligatr",
+    "id": 160,
+    "info": {
+        "species": "big jaw pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 2.3,
+        "weight": 88.8
+    },
+    "sprites": {
+        "home": "images/pokemon/feraligatr.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
+    },
+    "moves": "data/moves/feraligatr.json",
+    "location": "data/location/feraligatr.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 100,
+        "sp. atk": 79,
+        "sp. def": 83,
+        "speed": 78
+    },
+    "entry": "feraligatr intimidates its foes by opening its huge mouth. in battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+    "training": {
+        "base_exp": 239,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-222-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-42-area",
+                "johto-route-43-area"
+            ]
+        }
+    ]
+}

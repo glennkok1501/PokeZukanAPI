@@ -1,0 +1,62 @@
+{
+    "name": "dedenne",
+    "id": 702,
+    "info": {
+        "species": "antenna pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cheek-pouch",
+                "is_hidden": false
+            },
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "plus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric",
+            "fairy"
+        ],
+        "height": 0.2,
+        "weight": 2.2
+    },
+    "sprites": {
+        "home": "images/pokemon/dedenne.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
+    },
+    "moves": "data/moves/dedenne.json",
+    "location": "data/location/dedenne.json",
+    "base_stats": {
+        "hp": 67,
+        "attack": 58,
+        "defense": 57,
+        "sp. atk": 81,
+        "sp. def": 67,
+        "speed": 101
+    },
+    "entry": "since dedenne can\u2019t generate much electricity on its own, it steals electricity from outlets or other electric pok\u00e9mon.",
+    "training": {
+        "base_exp": 151,
+        "capture_rate": 180,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

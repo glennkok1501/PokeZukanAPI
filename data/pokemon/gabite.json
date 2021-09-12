@@ -1,0 +1,58 @@
+{
+    "name": "gabite",
+    "id": 444,
+    "info": {
+        "species": "cave pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "rough-skin",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "height": 1.4,
+        "weight": 56.0
+    },
+    "sprites": {
+        "home": "images/pokemon/gabite.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png"
+    },
+    "moves": "data/moves/gabite.json",
+    "location": "data/location/gabite.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 90,
+        "defense": 65,
+        "sp. atk": 50,
+        "sp. def": 55,
+        "speed": 82
+    },
+    "entry": "it sheds its skin and gradually grows larger. its scales can be ground into a powder and used as raw materials for traditional medicine.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

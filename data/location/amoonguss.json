@@ -1,0 +1,45 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-10-area",
+                "unova-route-10-victory-road-gate"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-11-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-22-area",
+                "unova-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-20-area",
+                "pokemon-village-area"
+            ]
+        }
+    ]
+}

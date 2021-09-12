@@ -1,0 +1,22 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-228-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "reversal-mountain-unknown-area-48"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "flaaffy",
+    "id": 180,
+    "info": {
+        "species": "wool pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "static",
+                "is_hidden": false
+            },
+            {
+                "name": "plus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.8,
+        "weight": 13.3
+    },
+    "sprites": {
+        "home": "images/pokemon/flaaffy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    },
+    "moves": "data/moves/flaaffy.json",
+    "location": "data/location/flaaffy.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 55,
+        "defense": 55,
+        "sp. atk": 80,
+        "sp. def": 60,
+        "speed": 45
+    },
+    "entry": "it stores electricity in its fluffy fleece. if it stores up too much, it will start to go bald in those patches.",
+    "training": {
+        "base_exp": 128,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

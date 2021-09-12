@@ -1,0 +1,52 @@
+{
+    "name": "aggron mega",
+    "id": 306,
+    "info": {
+        "species": "iron armor pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "filter",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "steel"
+        ],
+        "height": 2.2,
+        "weight": 395.0
+    },
+    "sprites": {
+        "home": "images/pokemon/aggron-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png"
+    },
+    "moves": "data/moves/aggron-mega.json",
+    "location": "data/location/aggron-mega.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 140,
+        "defense": 230,
+        "sp. atk": 60,
+        "sp. def": 80,
+        "speed": 50
+    },
+    "entry": "aggron is protective of its environment. if its mountain is ravaged by a landslide or a fire, this pok\u00e9mon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+    "training": {
+        "base_exp": 284,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

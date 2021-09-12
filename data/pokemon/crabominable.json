@@ -1,0 +1,61 @@
+{
+    "name": "crabominable",
+    "id": 740,
+    "info": {
+        "species": "woolly crab pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hyper-cutter",
+                "is_hidden": false
+            },
+            {
+                "name": "iron-fist",
+                "is_hidden": false
+            },
+            {
+                "name": "anger-point",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting",
+            "ice"
+        ],
+        "height": 1.7,
+        "weight": 180.0
+    },
+    "sprites": {
+        "home": "images/pokemon/crabominable.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
+    },
+    "moves": "data/moves/crabominable.json",
+    "location": "data/location/crabominable.json",
+    "base_stats": {
+        "hp": 97,
+        "attack": 132,
+        "defense": 77,
+        "sp. atk": 62,
+        "sp. def": 67,
+        "speed": 43
+    },
+    "entry": "before it stops to think, it just starts pummeling. there are records of its turning back avalanches with a flurry of punches.",
+    "training": {
+        "base_exp": 167,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

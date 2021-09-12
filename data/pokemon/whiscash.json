@@ -1,0 +1,61 @@
+{
+    "name": "whiscash",
+    "id": 340,
+    "info": {
+        "species": "whiskers pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ground"
+        ],
+        "height": 0.9,
+        "weight": 23.6
+    },
+    "sprites": {
+        "home": "images/pokemon/whiscash.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
+    },
+    "moves": "data/moves/whiscash.json",
+    "location": "data/location/whiscash.json",
+    "base_stats": {
+        "hp": 110,
+        "attack": 78,
+        "defense": 73,
+        "sp. atk": 76,
+        "sp. def": 71,
+        "speed": 60
+    },
+    "entry": "it claims a large swamp to itself. if a foe comes near it, it sets off tremors by thrashing around.",
+    "training": {
+        "base_exp": 164,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "dialga",
+    "id": 483,
+    "info": {
+        "species": "temporal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "dragon"
+        ],
+        "height": 5.4,
+        "weight": 683.0
+    },
+    "sprites": {
+        "home": "images/pokemon/dialga.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+    },
+    "moves": "data/moves/dialga.json",
+    "location": "data/location/dialga.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 120,
+        "defense": 120,
+        "sp. atk": 150,
+        "sp. def": 100,
+        "speed": 90
+    },
+    "entry": "it has the power to control time. it appears in sinnoh-region myths as an ancient deity.",
+    "training": {
+        "base_exp": 306,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

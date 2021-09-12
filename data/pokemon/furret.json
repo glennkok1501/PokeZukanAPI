@@ -1,0 +1,60 @@
+{
+    "name": "furret",
+    "id": 162,
+    "info": {
+        "species": "long body pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.8,
+        "weight": 32.5
+    },
+    "sprites": {
+        "home": "images/pokemon/furret.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png"
+    },
+    "moves": "data/moves/furret.json",
+    "location": "data/location/furret.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 76,
+        "defense": 64,
+        "sp. atk": 45,
+        "sp. def": 55,
+        "speed": 90
+    },
+    "entry": "furret has a very slim build. when under attack, it can slickly squirm through narrow spaces and get away. in spite of its short limbs, this pok\u00e9mon is very nimble and fleet.",
+    "training": {
+        "base_exp": 145,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

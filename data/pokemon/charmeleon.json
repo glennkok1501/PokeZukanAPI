@@ -1,0 +1,57 @@
+{
+    "name": "charmeleon",
+    "id": 5,
+    "info": {
+        "species": "flame pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "solar-power",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 1.1,
+        "weight": 19.0
+    },
+    "sprites": {
+        "home": "images/pokemon/charmeleon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+    },
+    "moves": "data/moves/charmeleon.json",
+    "location": "data/location/charmeleon.json",
+    "base_stats": {
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "sp. atk": 80,
+        "sp. def": 65,
+        "speed": 80
+    },
+    "entry": "if it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

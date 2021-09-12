@@ -1,0 +1,61 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dragonspiral-tower-entrance",
+                "unova-route-14-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "dragonspiral-tower-outside",
+                "dragonspiral-tower-1f",
+                "unova-victory-road-outside",
+                "unova-victory-road-unknown-area-53",
+                "unova-victory-road-unknown-area-54",
+                "unova-victory-road-unknown-area-55",
+                "unova-victory-road-unknown-area-56",
+                "unova-victory-road-unknown-area-57",
+                "unova-victory-road-unknown-area-58",
+                "unova-victory-road-unknown-area-59",
+                "unova-victory-road-unknown-area-60",
+                "unova-victory-road-unknown-area-61",
+                "unova-victory-road-unknown-area-62",
+                "unova-victory-road-unknown-area-63",
+                "unova-victory-road-unknown-area-64",
+                "unova-victory-road-unknown-area-65",
+                "unova-victory-road-unknown-area-66",
+                "trial-chamber-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-22-area",
+                "unova-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-8-area"
+            ]
+        }
+    ]
+}

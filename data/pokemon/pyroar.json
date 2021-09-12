@@ -1,0 +1,61 @@
+{
+    "name": "pyroar",
+    "id": 668,
+    "info": {
+        "species": "royal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rivalry",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": false
+            },
+            {
+                "name": "moxie",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "normal"
+        ],
+        "height": 1.5,
+        "weight": 81.5
+    },
+    "sprites": {
+        "home": "images/pokemon/pyroar.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png"
+    },
+    "moves": "data/moves/pyroar.json",
+    "location": "data/location/pyroar.json",
+    "base_stats": {
+        "hp": 86,
+        "attack": 68,
+        "defense": 72,
+        "sp. atk": 109,
+        "sp. def": 66,
+        "speed": 106
+    },
+    "entry": "the temperature of its breath is over 10,000 degrees fahrenheit, but pyroar doesn\u2019t use it on its prey. this pok\u00e9mon prefers to eat raw meat.",
+    "training": {
+        "base_exp": 177,
+        "capture_rate": 65,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 12.5,
+            "female": 87.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

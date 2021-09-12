@@ -1,0 +1,52 @@
+{
+    "name": "slakoth",
+    "id": 287,
+    "info": {
+        "species": "slacker pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "truant",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.8,
+        "weight": 24.0
+    },
+    "sprites": {
+        "home": "images/pokemon/slakoth.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png"
+    },
+    "moves": "data/moves/slakoth.json",
+    "location": "data/location/slakoth.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "sp. atk": 35,
+        "sp. def": 35,
+        "speed": 30
+    },
+    "entry": "slakoth\u2019s heart beats just once a minute. whatever happens, it is content to loaf around motionless. it is rare to see this pok\u00e9mon in motion.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 255,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

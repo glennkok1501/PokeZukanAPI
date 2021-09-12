@@ -1,0 +1,22 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "driftveil-city-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "castelia-city-game-freak-hq-1f"
+            ]
+        }
+    ]
+}

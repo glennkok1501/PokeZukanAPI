@@ -1,0 +1,62 @@
+{
+    "name": "lombre",
+    "id": 271,
+    "info": {
+        "species": "jolly pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "grass"
+        ],
+        "height": 1.2,
+        "weight": 32.5
+    },
+    "sprites": {
+        "home": "images/pokemon/lombre.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png"
+    },
+    "moves": "data/moves/lombre.json",
+    "location": "data/location/lombre.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 50,
+        "sp. atk": 60,
+        "sp. def": 70,
+        "speed": 50
+    },
+    "entry": "it lives at the water\u2019s edge where it is sunny. it sleeps on a bed of water grass by day and becomes active at night.",
+    "training": {
+        "base_exp": 119,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

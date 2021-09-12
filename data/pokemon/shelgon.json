@@ -1,0 +1,56 @@
+{
+    "name": "shelgon",
+    "id": 372,
+    "info": {
+        "species": "endurance pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon"
+        ],
+        "height": 1.1,
+        "weight": 110.5
+    },
+    "sprites": {
+        "home": "images/pokemon/shelgon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
+    },
+    "moves": "data/moves/shelgon.json",
+    "location": "data/location/shelgon.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 95,
+        "defense": 100,
+        "sp. atk": 60,
+        "sp. def": 50,
+        "speed": 50
+    },
+    "entry": "shelgon lives deep within caves. it stays shut up in its hard shell, dreaming of the day it will be able to fly.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

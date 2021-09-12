@@ -1,0 +1,54 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "rock-tunnel-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-area-1-east",
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-safari-zone-area-2-north"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "glittering-cave-unknown-area-303"
+            ]
+        }
+    ]
+}

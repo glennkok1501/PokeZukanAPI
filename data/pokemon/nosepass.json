@@ -1,0 +1,60 @@
+{
+    "name": "nosepass",
+    "id": 299,
+    "info": {
+        "species": "compass pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "magnet-pull",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 1.0,
+        "weight": 97.0
+    },
+    "sprites": {
+        "home": "images/pokemon/nosepass.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png"
+    },
+    "moves": "data/moves/nosepass.json",
+    "location": "data/location/nosepass.json",
+    "base_stats": {
+        "hp": 30,
+        "attack": 45,
+        "defense": 135,
+        "sp. atk": 45,
+        "sp. def": 90,
+        "speed": 30
+    },
+    "entry": "it hunts without twitching a muscle by pulling in its prey with powerful magnetism. but sometimes it pulls natural enemies in close.",
+    "training": {
+        "base_exp": 75,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "scolipede",
+    "id": 545,
+    "info": {
+        "species": "megapede pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "poison-point",
+                "is_hidden": false
+            },
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "speed-boost",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 2.5,
+        "weight": 200.5
+    },
+    "sprites": {
+        "home": "images/pokemon/scolipede.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+    },
+    "moves": "data/moves/scolipede.json",
+    "location": "data/location/scolipede.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 89,
+        "sp. atk": 55,
+        "sp. def": 69,
+        "speed": 112
+    },
+    "entry": "scolipede engage in fierce territorial battles with centiskorch. at the end of one of these battles, the victor makes a meal of the loser.",
+    "training": {
+        "base_exp": 218,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

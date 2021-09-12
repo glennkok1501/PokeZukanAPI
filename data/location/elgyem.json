@@ -1,0 +1,17 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "celestial-tower-3f",
+                "celestial-tower-4f",
+                "celestial-tower-5f"
+            ]
+        }
+    ]
+}

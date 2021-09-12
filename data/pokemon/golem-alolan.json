@@ -1,0 +1,61 @@
+{
+    "name": "golem alolan",
+    "id": 76,
+    "info": {
+        "species": "megaton pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "magnet-pull",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "galvanize",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "electric"
+        ],
+        "height": 1.7,
+        "weight": 316.0
+    },
+    "sprites": {
+        "home": "images/pokemon/golem-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10111.png"
+    },
+    "moves": "data/moves/golem-alolan.json",
+    "location": "data/location/golem-alolan.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 130,
+        "sp. atk": 55,
+        "sp. def": 65,
+        "speed": 45
+    },
+    "entry": "once it sheds its skin, its body turns tender and whitish. its hide hardens when it\u2019s exposed to air.",
+    "training": {
+        "base_exp": 223,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

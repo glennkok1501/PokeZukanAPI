@@ -1,0 +1,79 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-209-area",
+                "sinnoh-route-210-south-towards-solaceon-town"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-13-area",
+                "kanto-route-14-area",
+                "kanto-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "cerulean-cave-2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-middle"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-safari-zone-area-1-east"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-area-2-north"
+            ]
+        }
+    ]
+}

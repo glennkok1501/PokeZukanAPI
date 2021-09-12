@@ -1,0 +1,56 @@
+{
+    "name": "duskull",
+    "id": 355,
+    "info": {
+        "species": "requiem pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 0.8,
+        "weight": 15.0
+    },
+    "sprites": {
+        "home": "images/pokemon/duskull.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
+    },
+    "moves": "data/moves/duskull.json",
+    "location": "data/location/duskull.json",
+    "base_stats": {
+        "hp": 20,
+        "attack": 40,
+        "defense": 90,
+        "sp. atk": 30,
+        "sp. def": 90,
+        "speed": 25
+    },
+    "entry": "making itself invisible, it silently sneaks up to prey. it has the ability to slip through thick walls.",
+    "training": {
+        "base_exp": 59,
+        "capture_rate": 190,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

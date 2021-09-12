@@ -1,0 +1,54 @@
+{
+    "name": "gyarados mega",
+    "id": 130,
+    "info": {
+        "species": "atrocious pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mold-breaker",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water",
+            "dark"
+        ],
+        "height": 6.5,
+        "weight": 305.0
+    },
+    "sprites": {
+        "home": "images/pokemon/gyarados-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10041.png"
+    },
+    "moves": "data/moves/gyarados-mega.json",
+    "location": "data/location/gyarados-mega.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 155,
+        "defense": 109,
+        "sp. atk": 70,
+        "sp. def": 130,
+        "speed": 81
+    },
+    "entry": "once it begins to rampage, a gyarados will burn everything down, even in a harsh storm.",
+    "training": {
+        "base_exp": 224,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 5,
+            "steps": 1530
+        }
+    }
+}

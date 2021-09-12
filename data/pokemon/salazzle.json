@@ -1,0 +1,58 @@
+{
+    "name": "salazzle",
+    "id": 758,
+    "info": {
+        "species": "toxic lizard pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "corrosion",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "fire"
+        ],
+        "height": 1.2,
+        "weight": 22.2
+    },
+    "sprites": {
+        "home": "images/pokemon/salazzle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png"
+    },
+    "moves": "data/moves/salazzle.json",
+    "location": "data/location/salazzle.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 64,
+        "defense": 60,
+        "sp. atk": 111,
+        "sp. def": 60,
+        "speed": 117
+    },
+    "entry": "the winner of competitions between salazzle is decided by which one has the most male salandit with it.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

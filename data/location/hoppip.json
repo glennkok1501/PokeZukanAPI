@@ -1,0 +1,79 @@
+{
+    "location": [
+        {
+            "game": [
+                "pearl"
+            ],
+            "area": [
+                "fuego-ironworks-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-205-south-towards-floaroma-town"
+            ]
+        },
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-205-east-towards-eterna-city"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-29-area",
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "kanto-route-11-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-32-area",
+                "johto-route-33-area",
+                "kanto-route-13-area",
+                "kanto-route-14-area",
+                "kanto-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-48-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "resort-gorgeous-area",
+                "water-labyrinth-area",
+                "five-isle-meadow-area",
+                "memorial-pillar-area",
+                "five-island-area"
+            ]
+        }
+    ]
+}

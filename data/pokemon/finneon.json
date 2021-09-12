@@ -1,0 +1,60 @@
+{
+    "name": "finneon",
+    "id": 456,
+    "info": {
+        "species": "wing fish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "storm-drain",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.4,
+        "weight": 7.0
+    },
+    "sprites": {
+        "home": "images/pokemon/finneon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png"
+    },
+    "moves": "data/moves/finneon.json",
+    "location": "data/location/finneon.json",
+    "base_stats": {
+        "hp": 49,
+        "attack": 49,
+        "defense": 56,
+        "sp. atk": 49,
+        "sp. def": 61,
+        "speed": 66
+    },
+    "entry": "it lures in prey with its shining tail fins. it stays near the surface during the day and moves to the depths when night falls.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 190,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

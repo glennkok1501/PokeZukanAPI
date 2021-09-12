@@ -1,0 +1,76 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "trophy-garden-area",
+                "sinnoh-route-212-north-towards-hearthome-city",
+                "sinnoh-route-221-area",
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-208-area",
+                "sinnoh-route-209-area",
+                "sinnoh-route-210-south-towards-solaceon-town",
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-212-east-towards-pastoria-city",
+                "sinnoh-route-225-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire"
+            ],
+            "area": [
+                "hoenn-route-117-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-12-area",
+                "lostlorn-forest-area",
+                "unova-victory-road-2-unknown-area-72"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-7-area"
+            ]
+        }
+    ]
+}

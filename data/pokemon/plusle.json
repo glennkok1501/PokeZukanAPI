@@ -1,0 +1,56 @@
+{
+    "name": "plusle",
+    "id": 311,
+    "info": {
+        "species": "cheering pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "plus",
+                "is_hidden": false
+            },
+            {
+                "name": "lightning-rod",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.4,
+        "weight": 4.2
+    },
+    "sprites": {
+        "home": "images/pokemon/plusle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png"
+    },
+    "moves": "data/moves/plusle.json",
+    "location": "data/location/plusle.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 40,
+        "sp. atk": 85,
+        "sp. def": 75,
+        "speed": 95
+    },
+    "entry": "when plusle is cheering on its partner, it flashes with electric sparks from all over its body. if its partner loses, this pok\u00e9mon cries loudly.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

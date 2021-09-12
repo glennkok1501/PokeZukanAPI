@@ -1,0 +1,53 @@
+{
+    "name": "mimikyu",
+    "id": 778,
+    "info": {
+        "species": "disguise pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "disguise",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ghost",
+            "fairy"
+        ],
+        "height": 0.2,
+        "weight": 0.7
+    },
+    "sprites": {
+        "home": "images/pokemon/mimikyu.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
+    },
+    "moves": "data/moves/mimikyu.json",
+    "location": "data/location/mimikyu.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "sp. atk": 50,
+        "sp. def": 105,
+        "speed": 96
+    },
+    "entry": "there was a scientist who peeked under mimikyu\u2019s old rag in the name of research. the scientist died of a mysterious disease.",
+    "training": {
+        "base_exp": 167,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

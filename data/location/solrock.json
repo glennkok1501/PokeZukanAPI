@@ -1,0 +1,79 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "mt-coronet-2f",
+                "mt-coronet-3f",
+                "mt-coronet-snowfall",
+                "mt-coronet-blizzard",
+                "mt-coronet-4f",
+                "mt-coronet-5f",
+                "mt-coronet-6f",
+                "mt-coronet-7f",
+                "mt-coronet-cave",
+                "sendoff-spring-area",
+                "turnback-cave-pillar-1",
+                "turnback-cave-pillar-2",
+                "turnback-cave-pillar-3",
+                "turnback-cave-before-pillar-1",
+                "turnback-cave-between-pillars-1-and-2",
+                "turnback-cave-between-pillars-2-and-3",
+                "turnback-cave-after-pillar-3",
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention",
+                "lake-valor-area",
+                "lake-acuity-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "emerald"
+            ],
+            "area": [
+                "meteor-falls-area",
+                "meteor-falls-back",
+                "meteor-falls-b1f",
+                "meteor-falls-backsmall-room"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-outside",
+                "giant-chasm-area",
+                "giant-chasm-forest",
+                "giant-chasm-forest-cave",
+                "unova-route-13-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "glittering-cave-unknown-area-303"
+            ]
+        }
+    ]
+}

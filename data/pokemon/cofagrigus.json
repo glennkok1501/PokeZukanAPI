@@ -1,0 +1,53 @@
+{
+    "name": "cofagrigus",
+    "id": 563,
+    "info": {
+        "species": "coffin pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mummy",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 1.7,
+        "weight": 76.5
+    },
+    "sprites": {
+        "home": "images/pokemon/cofagrigus.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
+    },
+    "moves": "data/moves/cofagrigus.json",
+    "location": "data/location/cofagrigus.json",
+    "base_stats": {
+        "hp": 58,
+        "attack": 50,
+        "defense": 145,
+        "sp. atk": 95,
+        "sp. def": 105,
+        "speed": 30
+    },
+    "entry": "there are many depictions of cofagrigus decorating ancient tombs. they\u2019re symbols of the wealth that kings of bygone eras had.",
+    "training": {
+        "base_exp": 169,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "gengar",
+    "id": 94,
+    "info": {
+        "species": "shadow pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cursed-body",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "height": 1.5,
+        "weight": 40.5
+    },
+    "sprites": {
+        "home": "images/pokemon/gengar.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+    },
+    "moves": "data/moves/gengar.json",
+    "location": "data/location/gengar.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "sp. atk": 130,
+        "sp. def": 75,
+        "speed": 110
+    },
+    "entry": "it lays traps, hoping to steal the lives of those it catches. if you stand in front of its mouth, you\u2019ll hear your loved ones\u2019 voices calling out to you.",
+    "training": {
+        "base_exp": 225,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

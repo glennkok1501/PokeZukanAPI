@@ -1,0 +1,61 @@
+{
+    "name": "geodude",
+    "id": 74,
+    "info": {
+        "species": "rock pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "height": 0.4,
+        "weight": 20.0
+    },
+    "sprites": {
+        "home": "images/pokemon/geodude.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
+    },
+    "moves": "data/moves/geodude.json",
+    "location": "data/location/geodude.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 20
+    },
+    "entry": "its stone head is imbued with electricity and magnetism. if you carelessly step on one, you\u2019ll be in for a painful shock.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

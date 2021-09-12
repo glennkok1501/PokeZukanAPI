@@ -1,0 +1,58 @@
+{
+    "name": "torterra",
+    "id": 389,
+    "info": {
+        "species": "continent pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "ground"
+        ],
+        "height": 2.2,
+        "weight": 310.0
+    },
+    "sprites": {
+        "home": "images/pokemon/torterra.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png"
+    },
+    "moves": "data/moves/torterra.json",
+    "location": "data/location/torterra.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 109,
+        "defense": 105,
+        "sp. atk": 75,
+        "sp. def": 85,
+        "speed": 56
+    },
+    "entry": "small pok\u00e9mon occasionally gather on its unmoving back to begin building their nests.",
+    "training": {
+        "base_exp": 236,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

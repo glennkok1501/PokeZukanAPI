@@ -1,0 +1,61 @@
+{
+    "name": "bronzor",
+    "id": 436,
+    "info": {
+        "species": "bronze pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            },
+            {
+                "name": "heatproof",
+                "is_hidden": false
+            },
+            {
+                "name": "heavy-metal",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "height": 0.5,
+        "weight": 60.5
+    },
+    "sprites": {
+        "home": "images/pokemon/bronzor.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png"
+    },
+    "moves": "data/moves/bronzor.json",
+    "location": "data/location/bronzor.json",
+    "base_stats": {
+        "hp": 57,
+        "attack": 24,
+        "defense": 86,
+        "sp. atk": 24,
+        "sp. def": 86,
+        "speed": 23
+    },
+    "entry": "polishing bronzor to a shine makes its surface reflect the truth, according to common lore. be that as it may, bronzor hates being polished.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

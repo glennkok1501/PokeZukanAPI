@@ -1,0 +1,61 @@
+{
+    "name": "slowpoke galarian",
+    "id": 79,
+    "info": {
+        "species": "dopey pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 1.2,
+        "weight": 36.0
+    },
+    "sprites": {
+        "home": "images/pokemon/slowpoke-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10161.png"
+    },
+    "moves": "data/moves/slowpoke-galarian.json",
+    "location": "data/location/slowpoke-galarian.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 65,
+        "defense": 65,
+        "sp. atk": 40,
+        "sp. def": 40,
+        "speed": 15
+    },
+    "entry": "when this pok\u00e9mon\u2019s tail is soaked in water, sweetness seeps from it. slowpoke uses this trait to lure in and fish up other pok\u00e9mon.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

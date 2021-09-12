@@ -1,0 +1,60 @@
+{
+    "name": "klinklang",
+    "id": 601,
+    "info": {
+        "species": "gear pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "plus",
+                "is_hidden": false
+            },
+            {
+                "name": "minus",
+                "is_hidden": false
+            },
+            {
+                "name": "clear-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel"
+        ],
+        "height": 0.6,
+        "weight": 81.0
+    },
+    "sprites": {
+        "home": "images/pokemon/klinklang.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png"
+    },
+    "moves": "data/moves/klinklang.json",
+    "location": "data/location/klinklang.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 115,
+        "sp. atk": 70,
+        "sp. def": 85,
+        "speed": 90
+    },
+    "entry": "the three gears that compose this pok\u00e9mon spin at high speed. its new spiked gear isn\u2019t a living creature.",
+    "training": {
+        "base_exp": 234,
+        "capture_rate": 30,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

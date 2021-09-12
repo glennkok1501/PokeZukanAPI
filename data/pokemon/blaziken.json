@@ -1,0 +1,57 @@
+{
+    "name": "blaziken",
+    "id": 257,
+    "info": {
+        "species": "blaze pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "speed-boost",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "height": 1.9,
+        "weight": 52.0
+    },
+    "sprites": {
+        "home": "images/pokemon/blaziken.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png"
+    },
+    "moves": "data/moves/blaziken.json",
+    "location": "data/location/blaziken.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 70,
+        "sp. atk": 110,
+        "sp. def": 70,
+        "speed": 80
+    },
+    "entry": "blaziken has incredibly strong legs\u2014it can easily clear a 30-story building in one leap. this pok\u00e9mon\u2019s blazing punches leave its foes scorched and blackened.",
+    "training": {
+        "base_exp": 239,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "pinwheel-forest-outside",
+                "unova-route-15-area",
+                "unova-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-10-area",
+                "unova-route-10-victory-road-gate"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-victory-road-2-unknown-area-76",
+                "unova-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "kalos-route-11-area"
+            ]
+        }
+    ]
+}

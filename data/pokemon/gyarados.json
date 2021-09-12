@@ -1,0 +1,58 @@
+{
+    "name": "gyarados",
+    "id": 130,
+    "info": {
+        "species": "atrocious pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "moxie",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "flying"
+        ],
+        "height": 6.5,
+        "weight": 235.0
+    },
+    "sprites": {
+        "home": "images/pokemon/gyarados.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+    },
+    "moves": "data/moves/gyarados.json",
+    "location": "data/location/gyarados.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 125,
+        "defense": 79,
+        "sp. atk": 60,
+        "sp. def": 100,
+        "speed": 81
+    },
+    "entry": "once it begins to rampage, a gyarados will burn everything down, even in a harsh storm.",
+    "training": {
+        "base_exp": 189,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 5,
+            "steps": 1530
+        }
+    }
+}

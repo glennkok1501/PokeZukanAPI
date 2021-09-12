@@ -1,0 +1,20 @@
+{
+    "location": [
+        {
+            "game": [
+                "sapphire"
+            ],
+            "area": [
+                "cave-of-origin-b4f"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "marine-cave-area"
+            ]
+        }
+    ]
+}

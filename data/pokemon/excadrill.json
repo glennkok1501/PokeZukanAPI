@@ -1,0 +1,61 @@
+{
+    "name": "excadrill",
+    "id": 530,
+    "info": {
+        "species": "subterrene pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-rush",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground",
+            "steel"
+        ],
+        "height": 0.7,
+        "weight": 40.4
+    },
+    "sprites": {
+        "home": "images/pokemon/excadrill.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
+    },
+    "moves": "data/moves/excadrill.json",
+    "location": "data/location/excadrill.json",
+    "base_stats": {
+        "hp": 110,
+        "attack": 135,
+        "defense": 60,
+        "sp. atk": 50,
+        "sp. def": 65,
+        "speed": 88
+    },
+    "entry": "known as the drill king, this pok\u00e9mon can tunnel through the terrain at speeds of over 90 mph.",
+    "training": {
+        "base_exp": 178,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

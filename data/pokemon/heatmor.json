@@ -1,0 +1,60 @@
+{
+    "name": "heatmor",
+    "id": 631,
+    "info": {
+        "species": "anteater pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "white-smoke",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 1.4,
+        "weight": 58.0
+    },
+    "sprites": {
+        "home": "images/pokemon/heatmor.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png"
+    },
+    "moves": "data/moves/heatmor.json",
+    "location": "data/location/heatmor.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 97,
+        "defense": 66,
+        "sp. atk": 105,
+        "sp. def": 66,
+        "speed": 65
+    },
+    "entry": "a flame serves as its tongue, melting through the hard shell of durant so that heatmor can devour their insides.",
+    "training": {
+        "base_exp": 169,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

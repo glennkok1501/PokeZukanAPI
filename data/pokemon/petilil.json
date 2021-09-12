@@ -1,0 +1,60 @@
+{
+    "name": "petilil",
+    "id": 548,
+    "info": {
+        "species": "bulb pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "leaf-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.5,
+        "weight": 6.6
+    },
+    "sprites": {
+        "home": "images/pokemon/petilil.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+    },
+    "moves": "data/moves/petilil.json",
+    "location": "data/location/petilil.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 50,
+        "sp. atk": 70,
+        "sp. def": 50,
+        "speed": 30
+    },
+    "entry": "the deeper the color of a petilil\u2019s leaves, the healthier the pok\u00e9mon is. petilil sometimes makes its home in a well-tended field or flowerbed.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

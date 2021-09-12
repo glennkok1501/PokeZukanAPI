@@ -1,0 +1,55 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-206-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-207-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-2f",
+                "mt-silver-1f",
+                "mt-silver-top"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-4f",
+                "mt-silver-mountainside",
+                "mt-silver-3f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "sevault-canyon-area"
+            ]
+        }
+    ]
+}

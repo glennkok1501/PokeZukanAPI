@@ -1,0 +1,54 @@
+{
+    "name": "polteageist",
+    "id": 855,
+    "info": {
+        "species": "black tea pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "weak-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 0.2,
+        "weight": 0.4
+    },
+    "sprites": {
+        "home": "images/pokemon/polteageist.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png"
+    },
+    "moves": "data/moves/polteageist.json",
+    "location": "data/location/polteageist.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 65,
+        "sp. atk": 134,
+        "sp. def": 114,
+        "speed": 70
+    },
+    "entry": "when angered, it launches tea from its body at the offender\u2019s mouth. the tea causes strong chills if swallowed.",
+    "training": {
+        "base_exp": 178,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

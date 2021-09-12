@@ -1,0 +1,56 @@
+{
+    "name": "electivire",
+    "id": 466,
+    "info": {
+        "species": "thunderbolt pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "motor-drive",
+                "is_hidden": false
+            },
+            {
+                "name": "vital-spirit",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 1.8,
+        "weight": 138.6
+    },
+    "sprites": {
+        "home": "images/pokemon/electivire.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
+    },
+    "moves": "data/moves/electivire.json",
+    "location": "data/location/electivire.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 123,
+        "defense": 67,
+        "sp. atk": 95,
+        "sp. def": 85,
+        "speed": 95
+    },
+    "entry": "a single electivire can provide enough electricity for all the buildings in a big city for a year.",
+    "training": {
+        "base_exp": 243,
+        "capture_rate": 30,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

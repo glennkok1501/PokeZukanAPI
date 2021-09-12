@@ -1,0 +1,57 @@
+{
+    "name": "brionne",
+    "id": 729,
+    "info": {
+        "species": "pop star pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "liquid-voice",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.6,
+        "weight": 17.5
+    },
+    "sprites": {
+        "home": "images/pokemon/brionne.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png"
+    },
+    "moves": "data/moves/brionne.json",
+    "location": "data/location/brionne.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 69,
+        "defense": 69,
+        "sp. atk": 91,
+        "sp. def": 81,
+        "speed": 50
+    },
+    "entry": "on nights when the sea is calm, brionne dance with one another to the singing of the primarina that\u2019s leading them.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

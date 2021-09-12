@@ -1,0 +1,53 @@
+{
+    "name": "pinsir mega",
+    "id": 127,
+    "info": {
+        "species": "stag beetle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "aerilate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 1.7,
+        "weight": 59.0
+    },
+    "sprites": {
+        "home": "images/pokemon/pinsir-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10040.png"
+    },
+    "moves": "data/moves/pinsir-mega.json",
+    "location": "data/location/pinsir-mega.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 155,
+        "defense": 120,
+        "sp. atk": 65,
+        "sp. def": 90,
+        "speed": 105
+    },
+    "entry": "this pok\u00e9mon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
+    "training": {
+        "base_exp": 210,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

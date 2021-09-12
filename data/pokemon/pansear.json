@@ -1,0 +1,56 @@
+{
+    "name": "pansear",
+    "id": 513,
+    "info": {
+        "species": "high temp pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "blaze",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.6,
+        "weight": 11.0
+    },
+    "sprites": {
+        "home": "images/pokemon/pansear.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png"
+    },
+    "moves": "data/moves/pansear.json",
+    "location": "data/location/pansear.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "sp. atk": 53,
+        "sp. def": 48,
+        "speed": 64
+    },
+    "entry": "this pok\u00e9mon lives in caves in volcanoes. the fire within the tuft on its head can reach 600 degrees fahrenheit.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "crabrawler",
+    "id": 739,
+    "info": {
+        "species": "boxing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hyper-cutter",
+                "is_hidden": false
+            },
+            {
+                "name": "iron-fist",
+                "is_hidden": false
+            },
+            {
+                "name": "anger-point",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 0.6,
+        "weight": 7.0
+    },
+    "sprites": {
+        "home": "images/pokemon/crabrawler.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png"
+    },
+    "moves": "data/moves/crabrawler.json",
+    "location": "data/location/crabrawler.json",
+    "base_stats": {
+        "hp": 47,
+        "attack": 82,
+        "defense": 57,
+        "sp. atk": 42,
+        "sp. def": 47,
+        "speed": 63
+    },
+    "entry": "crabrawler has been known to mistake exeggutor for a coconut tree and climb it. the enraged exeggutor shakes it off and stomps it.",
+    "training": {
+        "base_exp": 68,
+        "capture_rate": 225,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

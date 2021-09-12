@@ -1,0 +1,54 @@
+{
+    "name": "sobble",
+    "id": 816,
+    "info": {
+        "species": "water lizard pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.3,
+        "weight": 4.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sobble.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
+    },
+    "moves": "data/moves/sobble.json",
+    "location": "data/location/sobble.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 40,
+        "defense": 40,
+        "sp. atk": 70,
+        "sp. def": 40,
+        "speed": 70
+    },
+    "entry": "when it gets wet, its skin changes color, and this pok\u00e9mon becomes invisible as if it were camouflaged.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

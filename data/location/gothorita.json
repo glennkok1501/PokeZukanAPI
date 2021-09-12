@@ -1,0 +1,32 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "black-2"
+            ],
+            "area": [
+                "unova-route-9-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2"
+            ],
+            "area": [
+                "strange-house-1f",
+                "strange-house-b1f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-20-area",
+                "pokemon-village-area"
+            ]
+        }
+    ]
+}

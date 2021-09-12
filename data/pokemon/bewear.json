@@ -1,0 +1,61 @@
+{
+    "name": "bewear",
+    "id": 760,
+    "info": {
+        "species": "strong arm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "fluffy",
+                "is_hidden": false
+            },
+            {
+                "name": "klutz",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "height": 2.1,
+        "weight": 135.0
+    },
+    "sprites": {
+        "home": "images/pokemon/bewear.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
+    },
+    "moves": "data/moves/bewear.json",
+    "location": "data/location/bewear.json",
+    "base_stats": {
+        "hp": 120,
+        "attack": 125,
+        "defense": 80,
+        "sp. atk": 55,
+        "sp. def": 60,
+        "speed": 60
+    },
+    "entry": "the moves it uses to take down its prey would make a martial artist jealous. it tucks subdued prey under its arms to carry them to its nest.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 70,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

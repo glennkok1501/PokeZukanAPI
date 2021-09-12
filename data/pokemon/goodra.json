@@ -1,0 +1,60 @@
+{
+    "name": "goodra",
+    "id": 706,
+    "info": {
+        "species": "dragon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sap-sipper",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "gooey",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon"
+        ],
+        "height": 2.0,
+        "weight": 150.5
+    },
+    "sprites": {
+        "home": "images/pokemon/goodra.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
+    },
+    "moves": "data/moves/goodra.json",
+    "location": "data/location/goodra.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 70,
+        "sp. atk": 110,
+        "sp. def": 150,
+        "speed": 80
+    },
+    "entry": "its form of offense is forcefully stretching out its horns. the strikes land 100 times harder than any blow from a heavyweight boxer.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-210-west-towards-celestic-town"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-118-area",
+                "hoenn-route-119-area",
+                "hoenn-route-120-area",
+                "hoenn-route-121-area",
+                "hoenn-route-123-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "nature-sanctuary-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-6-area"
+            ]
+        }
+    ]
+}

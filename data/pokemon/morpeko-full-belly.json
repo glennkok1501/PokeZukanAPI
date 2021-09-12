@@ -1,0 +1,51 @@
+{
+    "name": "morpeko full belly",
+    "id": 877,
+    "info": {
+        "species": "two-sided pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hunger-switch",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric",
+            "dark"
+        ],
+        "height": 0.3,
+        "weight": 3.0
+    },
+    "sprites": {
+        "home": "images/pokemon/morpeko-full-belly.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png"
+    },
+    "moves": "data/moves/morpeko-full-belly.json",
+    "location": "data/location/morpeko-full-belly.json",
+    "base_stats": {
+        "hp": 58,
+        "attack": 95,
+        "defense": 58,
+        "sp. atk": 70,
+        "sp. def": 58,
+        "speed": 97
+    },
+    "entry": "it carries electrically roasted seeds with it as if they\u2019re precious treasures. no matter how much it eats, it always gets hungry again in short order.",
+    "training": {
+        "base_exp": 153,
+        "capture_rate": 180,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

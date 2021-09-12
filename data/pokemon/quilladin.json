@@ -1,0 +1,56 @@
+{
+    "name": "quilladin",
+    "id": 651,
+    "info": {
+        "species": "spiny armor pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "bulletproof",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.7,
+        "weight": 29.0
+    },
+    "sprites": {
+        "home": "images/pokemon/quilladin.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
+    },
+    "moves": "data/moves/quilladin.json",
+    "location": "data/location/quilladin.json",
+    "base_stats": {
+        "hp": 61,
+        "attack": 78,
+        "defense": 95,
+        "sp. atk": 56,
+        "sp. def": 58,
+        "speed": 57
+    },
+    "entry": "they strengthen their lower bodies by running into one another. they are very kind and won\u2019t start fights.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

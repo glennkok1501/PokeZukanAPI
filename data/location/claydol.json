@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "sky-pillar-1f",
+                "sky-pillar-3f",
+                "sky-pillar-5f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "relic-castle-d"
+            ]
+        }
+    ]
+}

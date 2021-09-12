@@ -1,0 +1,61 @@
+{
+    "name": "chatot",
+    "id": 441,
+    "info": {
+        "species": "music note pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "tangled-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "big-pecks",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.5,
+        "weight": 1.9
+    },
+    "sprites": {
+        "home": "images/pokemon/chatot.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
+    },
+    "moves": "data/moves/chatot.json",
+    "location": "data/location/chatot.json",
+    "base_stats": {
+        "hp": 76,
+        "attack": 65,
+        "defense": 45,
+        "sp. atk": 92,
+        "sp. def": 42,
+        "speed": 91
+    },
+    "entry": "it can learn and speak human words. if they gather, they all learn the same saying.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 30,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

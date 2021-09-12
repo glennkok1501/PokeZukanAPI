@@ -1,0 +1,56 @@
+{
+    "name": "simisear",
+    "id": 514,
+    "info": {
+        "species": "ember pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "blaze",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 1.0,
+        "weight": 28.0
+    },
+    "sprites": {
+        "home": "images/pokemon/simisear.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
+    },
+    "moves": "data/moves/simisear.json",
+    "location": "data/location/simisear.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "sp. atk": 98,
+        "sp. def": 63,
+        "speed": 101
+    },
+    "entry": "when it gets excited, embers rise from its head and tail and it gets hot. for some reason, it loves sweets.",
+    "training": {
+        "base_exp": 174,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "moves": [
+        {
+            "name": "razor-wind",
+            "method": "level-up",
+            "level": 36
+        },
+        {
+            "name": "gust",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "fly",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "leer",
+            "method": "level-up",
+            "level": 8
+        },
+        {
+            "name": "growl",
+            "method": "level-up",
+            "level": 4
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "quick-attack",
+            "method": "level-up",
+            "level": 11
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sky-attack",
+            "method": "level-up",
+            "level": 59
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "detect",
+            "method": "level-up",
+            "level": 23
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "steel-wing",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "uproar",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "heat-wave",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "taunt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "feather-dance",
+            "method": "level-up",
+            "level": 41
+        },
+        {
+            "name": "air-cutter",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "aerial-ace",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "roost",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "pluck",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "tailwind",
+            "method": "level-up",
+            "level": 54
+        },
+        {
+            "name": "u-turn",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "air-slash",
+            "method": "level-up",
+            "level": 32
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "echoed-voice",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "work-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

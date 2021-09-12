@@ -1,0 +1,61 @@
+{
+    "name": "golurk",
+    "id": 623,
+    "info": {
+        "species": "automaton pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "iron-fist",
+                "is_hidden": false
+            },
+            {
+                "name": "klutz",
+                "is_hidden": false
+            },
+            {
+                "name": "no-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground",
+            "ghost"
+        ],
+        "height": 2.8,
+        "weight": 330.0
+    },
+    "sprites": {
+        "home": "images/pokemon/golurk.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
+    },
+    "moves": "data/moves/golurk.json",
+    "location": "data/location/golurk.json",
+    "base_stats": {
+        "hp": 89,
+        "attack": 124,
+        "defense": 80,
+        "sp. atk": 55,
+        "sp. def": 80,
+        "speed": 55
+    },
+    "entry": "there\u2019s a theory that inside golurk is a perpetual motion machine that produces limitless energy, but this belief hasn\u2019t been proven.",
+    "training": {
+        "base_exp": 169,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

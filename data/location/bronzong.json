@@ -1,0 +1,48 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "mt-coronet-2f",
+                "mt-coronet-3f",
+                "mt-coronet-4f",
+                "mt-coronet-5f",
+                "mt-coronet-6f",
+                "mt-coronet-7f",
+                "turnback-cave-pillar-2",
+                "turnback-cave-pillar-3",
+                "turnback-cave-between-pillars-2-and-3",
+                "turnback-cave-after-pillar-3"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "mt-coronet-snowfall",
+                "mt-coronet-blizzard",
+                "mt-coronet-cave",
+                "turnback-cave-pillar-1",
+                "turnback-cave-before-pillar-1",
+                "turnback-cave-between-pillars-1-and-2"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "abundant-shrine-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "oreburgh-mine-1f",
+                "oreburgh-mine-b1f",
+                "sinnoh-victory-road-1f",
+                "sinnoh-victory-road-2f",
+                "sinnoh-victory-road-inside",
+                "sinnoh-victory-road-inside-exit",
+                "iron-island-1f",
+                "iron-island-b1f-left",
+                "iron-island-b1f-right",
+                "iron-island-b2f-right",
+                "iron-island-b2f-left",
+                "iron-island-b3f"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-b1f",
+                "wayward-cave-1f",
+                "wayward-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "stark-mountain-entrance",
+                "stark-mountain-inside",
+                "snowpoint-temple-1f",
+                "snowpoint-temple-b1f",
+                "snowpoint-temple-b2f",
+                "snowpoint-temple-b3f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "union-cave-1f",
+                "union-cave-b1f",
+                "union-cave-b2f",
+                "mt-silver-1f",
+                "kanto-victory-road-1-1f",
+                "kanto-victory-road-1-2f",
+                "kanto-victory-road-1-3f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-inside-cave",
+                "mt-silver-mountainside"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "mt-silver-top"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "rock-tunnel-1f",
+                "sevault-canyon-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "rock-tunnel-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "rock-tunnel-b2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-1f",
+                "kanto-victory-road-2-2f",
+                "kanto-victory-road-2-3f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "relic-castle-c"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "twist-mountain-area",
+                "unova-victory-road-2-unknown-area-74",
+                "unova-victory-road-2-unknown-area-75",
+                "unova-victory-road-2-unknown-area-77",
+                "unova-victory-road-2-unknown-area-80",
+                "relic-passage-castelia-sewers-entrance",
+                "relic-passage-relic-castle-entrance",
+                "relic-passage-pwt-entrance",
+                "clay-tunnel-area",
+                "underground-ruins-area",
+                "rocky-mountain-room-area",
+                "glacier-room-area",
+                "iron-room-area"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "cyllage-city-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "glittering-cave-unknown-area-303",
+                "glittering-cave-unknown-area-304"
+            ]
+        }
+    ]
+}

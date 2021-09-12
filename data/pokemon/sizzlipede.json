@@ -1,0 +1,59 @@
+{
+    "name": "sizzlipede",
+    "id": 850,
+    "info": {
+        "species": "radiator pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "white-smoke",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "bug"
+        ],
+        "height": 0.7,
+        "weight": 1.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sizzlipede.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png"
+    },
+    "moves": "data/moves/sizzlipede.json",
+    "location": "data/location/sizzlipede.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 45
+    },
+    "entry": "it wraps prey up with its heated body, cooking them in its coils. once they\u2019re well-done, it will voraciously nibble them down to the last morsel.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

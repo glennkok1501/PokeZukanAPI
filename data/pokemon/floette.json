@@ -1,0 +1,56 @@
+{
+    "name": "floette",
+    "id": 670,
+    "info": {
+        "species": "single bloom pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flower-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "symbiosis",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.2,
+        "weight": 0.9
+    },
+    "sprites": {
+        "home": "images/pokemon/floette.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png"
+    },
+    "moves": "data/moves/floette.json",
+    "location": "data/location/floette.json",
+    "base_stats": {
+        "hp": 54,
+        "attack": 45,
+        "defense": 47,
+        "sp. atk": 75,
+        "sp. def": 98,
+        "speed": 52
+    },
+    "entry": "it gives its own power to flowers, pouring its heart into caring for them. floette never forgives anyone who messes up a flower bed.",
+    "training": {
+        "base_exp": 130,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

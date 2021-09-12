@@ -1,0 +1,52 @@
+{
+    "name": "carnivine",
+    "id": 455,
+    "info": {
+        "species": "bug catcher pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 1.4,
+        "weight": 27.0
+    },
+    "sprites": {
+        "home": "images/pokemon/carnivine.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png"
+    },
+    "moves": "data/moves/carnivine.json",
+    "location": "data/location/carnivine.json",
+    "base_stats": {
+        "hp": 74,
+        "attack": 100,
+        "defense": 72,
+        "sp. atk": 90,
+        "sp. def": 72,
+        "speed": 46
+    },
+    "entry": "it binds itself to trees in marshes. it attracts prey with its sweet-smelling drool and gulps them down.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 200,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

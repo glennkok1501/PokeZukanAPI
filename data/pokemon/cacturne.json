@@ -1,0 +1,58 @@
+{
+    "name": "cacturne",
+    "id": 332,
+    "info": {
+        "species": "scarecrow pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "dark"
+        ],
+        "height": 1.3,
+        "weight": 77.4
+    },
+    "sprites": {
+        "home": "images/pokemon/cacturne.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
+    },
+    "moves": "data/moves/cacturne.json",
+    "location": "data/location/cacturne.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 115,
+        "defense": 60,
+        "sp. atk": 115,
+        "sp. def": 60,
+        "speed": 55
+    },
+    "entry": "if a traveler is going through a desert in the thick of night, cacturne will follow in a ragtag group. the pok\u00e9mon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 60,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "plant",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

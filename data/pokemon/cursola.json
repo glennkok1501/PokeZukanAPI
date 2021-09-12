@@ -1,0 +1,54 @@
+{
+    "name": "cursola",
+    "id": 864,
+    "info": {
+        "species": "coral pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "weak-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "perish-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 1.0,
+        "weight": 0.4
+    },
+    "sprites": {
+        "home": "images/pokemon/cursola.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png"
+    },
+    "moves": "data/moves/cursola.json",
+    "location": "data/location/cursola.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 50,
+        "sp. atk": 145,
+        "sp. def": 130,
+        "speed": 30
+    },
+    "entry": "be cautious of the ectoplasmic body surrounding its soul. you\u2019ll become stiff as stone if you touch it.",
+    "training": {
+        "base_exp": 179,
+        "capture_rate": 30,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

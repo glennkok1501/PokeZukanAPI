@@ -1,0 +1,26 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "chargestone-cave-1f",
+                "chargestone-cave-b1f",
+                "chargestone-cave-b2f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "seaside-cave-1f"
+            ]
+        }
+    ]
+}

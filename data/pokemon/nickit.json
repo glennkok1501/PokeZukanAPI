@@ -1,0 +1,58 @@
+{
+    "name": "nickit",
+    "id": 827,
+    "info": {
+        "species": "fox pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": false
+            },
+            {
+                "name": "stakeout",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark"
+        ],
+        "height": 0.6,
+        "weight": 8.9
+    },
+    "sprites": {
+        "home": "images/pokemon/nickit.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
+    },
+    "moves": "data/moves/nickit.json",
+    "location": "data/location/nickit.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 28,
+        "defense": 28,
+        "sp. atk": 47,
+        "sp. def": 52,
+        "speed": 50
+    },
+    "entry": "cunning and cautious, this pok\u00e9mon survives by stealing food from others. it erases its tracks with swipes of its tail as it makes off with its plunder.",
+    "training": {
+        "base_exp": 49,
+        "capture_rate": 255,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

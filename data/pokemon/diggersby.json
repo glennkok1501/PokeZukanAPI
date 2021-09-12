@@ -1,0 +1,61 @@
+{
+    "name": "diggersby",
+    "id": 660,
+    "info": {
+        "species": "digging pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "cheek-pouch",
+                "is_hidden": false
+            },
+            {
+                "name": "huge-power",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "ground"
+        ],
+        "height": 1.0,
+        "weight": 42.4
+    },
+    "sprites": {
+        "home": "images/pokemon/diggersby.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
+    },
+    "moves": "data/moves/diggersby.json",
+    "location": "data/location/diggersby.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 56,
+        "defense": 77,
+        "sp. atk": 50,
+        "sp. def": 77,
+        "speed": 78
+    },
+    "entry": "the fur on its belly retains heat exceptionally well. people used to make heavy winter clothing from fur shed by this pok\u00e9mon.",
+    "training": {
+        "base_exp": 148,
+        "capture_rate": 127,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

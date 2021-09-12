@@ -1,0 +1,50 @@
+{
+    "name": "zacian hero",
+    "id": 888,
+    "info": {
+        "species": "warrior pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intrepid-sword",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 2.8,
+        "weight": 110.0
+    },
+    "sprites": {
+        "home": "images/pokemon/zacian-hero.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png"
+    },
+    "moves": "data/moves/zacian-hero.json",
+    "location": "data/location/zacian-hero.json",
+    "base_stats": {
+        "hp": 92,
+        "attack": 130,
+        "defense": 115,
+        "sp. atk": 80,
+        "sp. def": 115,
+        "speed": 138
+    },
+    "entry": "this pok\u00e9mon has slumbered for many years. some say it\u2019s zamazenta\u2019s elder sister\u2014others say the two pok\u00e9mon are rivals.",
+    "training": {
+        "base_exp": 335,
+        "capture_rate": 10,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

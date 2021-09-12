@@ -1,0 +1,54 @@
+{
+    "name": "barraskewda",
+    "id": 847,
+    "info": {
+        "species": "skewer pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "propeller-tail",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.3,
+        "weight": 30.0
+    },
+    "sprites": {
+        "home": "images/pokemon/barraskewda.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png"
+    },
+    "moves": "data/moves/barraskewda.json",
+    "location": "data/location/barraskewda.json",
+    "base_stats": {
+        "hp": 61,
+        "attack": 123,
+        "defense": 60,
+        "sp. atk": 60,
+        "sp. def": 50,
+        "speed": 136
+    },
+    "entry": "it spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
+    "training": {
+        "base_exp": 172,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "klefki",
+    "id": 707,
+    "info": {
+        "species": "key ring pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prankster",
+                "is_hidden": false
+            },
+            {
+                "name": "magician",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "fairy"
+        ],
+        "height": 0.2,
+        "weight": 3.0
+    },
+    "sprites": {
+        "home": "images/pokemon/klefki.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png"
+    },
+    "moves": "data/moves/klefki.json",
+    "location": "data/location/klefki.json",
+    "base_stats": {
+        "hp": 57,
+        "attack": 80,
+        "defense": 91,
+        "sp. atk": 80,
+        "sp. def": 87,
+        "speed": 75
+    },
+    "entry": "klefki sucks in metal ions with the horn topping its head. it seems this pok\u00e9mon loves keys so much that its head needed to look like one, too.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 75,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

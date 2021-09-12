@@ -1,0 +1,48 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-35-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "ruin-valley-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "pinwheel-forest-outside",
+                "unova-route-3-area"
+            ]
+        }
+    ]
+}

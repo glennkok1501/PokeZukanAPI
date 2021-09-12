@@ -1,0 +1,60 @@
+{
+    "name": "sudowoodo",
+    "id": 185,
+    "info": {
+        "species": "imitation pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "rattled",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 1.2,
+        "weight": 38.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sudowoodo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png"
+    },
+    "moves": "data/moves/sudowoodo.json",
+    "location": "data/location/sudowoodo.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 115,
+        "sp. atk": 30,
+        "sp. def": 65,
+        "speed": 30
+    },
+    "entry": "it disguises itself as a tree to avoid attack. it hates water, so it will disappear if it starts raining.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 65,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

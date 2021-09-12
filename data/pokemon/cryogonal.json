@@ -1,0 +1,52 @@
+{
+    "name": "cryogonal",
+    "id": 615,
+    "info": {
+        "species": "crystallizing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 1.1,
+        "weight": 148.0
+    },
+    "sprites": {
+        "home": "images/pokemon/cryogonal.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png"
+    },
+    "moves": "data/moves/cryogonal.json",
+    "location": "data/location/cryogonal.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 50,
+        "sp. atk": 95,
+        "sp. def": 135,
+        "speed": 105
+    },
+    "entry": "they are composed of ice crystals. they capture prey with chains of ice, freezing the prey at -148 degrees fahrenheit.",
+    "training": {
+        "base_exp": 180,
+        "capture_rate": 25,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "articuno",
+    "id": 144,
+    "info": {
+        "species": "freeze pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "snow-cloak",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice",
+            "flying"
+        ],
+        "height": 1.7,
+        "weight": 55.4
+    },
+    "sprites": {
+        "home": "images/pokemon/articuno.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+    },
+    "moves": "data/moves/articuno.json",
+    "location": "data/location/articuno.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 100,
+        "sp. atk": 95,
+        "sp. def": 125,
+        "speed": 85
+    },
+    "entry": "a legendary bird pok\u00e9mon. it freezes water that is contained in winter air and makes it snow.",
+    "training": {
+        "base_exp": 261,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 80,
+            "steps": 20655
+        }
+    }
+}

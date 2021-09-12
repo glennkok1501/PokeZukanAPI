@@ -1,0 +1,53 @@
+{
+    "name": "honedge",
+    "id": 679,
+    "info": {
+        "species": "sword pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "no-guard",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "height": 0.8,
+        "weight": 2.0
+    },
+    "sprites": {
+        "home": "images/pokemon/honedge.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png"
+    },
+    "moves": "data/moves/honedge.json",
+    "location": "data/location/honedge.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 80,
+        "defense": 100,
+        "sp. atk": 35,
+        "sp. def": 37,
+        "speed": 28
+    },
+    "entry": "the blue eye on the sword\u2019s handguard is the true body of honedge. with its old cloth, it drains people\u2019s lives away.",
+    "training": {
+        "base_exp": 65,
+        "capture_rate": 180,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

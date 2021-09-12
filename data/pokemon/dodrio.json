@@ -1,0 +1,61 @@
+{
+    "name": "dodrio",
+    "id": 85,
+    "info": {
+        "species": "triple bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "early-bird",
+                "is_hidden": false
+            },
+            {
+                "name": "tangled-feet",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.8,
+        "weight": 85.2
+    },
+    "sprites": {
+        "home": "images/pokemon/dodrio.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+    },
+    "moves": "data/moves/dodrio.json",
+    "location": "data/location/dodrio.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 110,
+        "defense": 70,
+        "sp. atk": 60,
+        "sp. def": 60,
+        "speed": 110
+    },
+    "entry": "one of doduo\u2019s two heads splits to form a unique species. it runs close to 40 mph in prairies.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

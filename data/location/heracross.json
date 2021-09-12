@@ -1,0 +1,84 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver"
+            ],
+            "area": [
+                "johto-route-29-area",
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "johto-route-43-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "johto-route-33-area",
+                "johto-route-42-area",
+                "johto-route-44-area",
+                "johto-route-45-area",
+                "johto-route-46-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-neacro-bike-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "pattern-bush-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2"
+            ],
+            "area": [
+                "unova-route-12-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2"
+            ],
+            "area": [
+                "lostlorn-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "y"
+            ],
+            "area": [
+                "kalos-route-12-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "azalea-town-area"
+            ]
+        }
+    ]
+}

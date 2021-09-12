@@ -1,0 +1,49 @@
+{
+    "location": [
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-12-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "vermilion-city-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-11-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-16-area"
+            ]
+        }
+    ]
+}

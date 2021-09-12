@@ -1,0 +1,52 @@
+{
+    "name": "cosmoem",
+    "id": 790,
+    "info": {
+        "species": "protostar pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.1,
+        "weight": 999.9
+    },
+    "sprites": {
+        "home": "images/pokemon/cosmoem.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png"
+    },
+    "moves": "data/moves/cosmoem.json",
+    "location": "data/location/cosmoem.json",
+    "base_stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "sp. atk": 29,
+        "sp. def": 131,
+        "speed": 37
+    },
+    "entry": "it sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution.",
+    "training": {
+        "base_exp": 140,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

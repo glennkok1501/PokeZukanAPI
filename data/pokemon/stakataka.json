@@ -1,0 +1,53 @@
+{
+    "name": "stakataka",
+    "id": 805,
+    "info": {
+        "species": "rampart pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "beast-boost",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "steel"
+        ],
+        "height": 5.5,
+        "weight": 820.0
+    },
+    "sprites": {
+        "home": "images/pokemon/stakataka.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png"
+    },
+    "moves": "data/moves/stakataka.json",
+    "location": "data/location/stakataka.json",
+    "base_stats": {
+        "hp": 61,
+        "attack": 131,
+        "defense": 211,
+        "sp. atk": 53,
+        "sp. def": 101,
+        "speed": 13
+    },
+    "entry": "when stone walls started moving and attacking, the brute\u2019s true identity was this mysterious life-form, which brings to mind an ultra beast.",
+    "training": {
+        "base_exp": 257,
+        "capture_rate": 30,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "shelmet",
+    "id": 616,
+    "info": {
+        "species": "snail pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.4,
+        "weight": 7.7
+    },
+    "sprites": {
+        "home": "images/pokemon/shelmet.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png"
+    },
+    "moves": "data/moves/shelmet.json",
+    "location": "data/location/shelmet.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 40,
+        "defense": 85,
+        "sp. atk": 40,
+        "sp. def": 65,
+        "speed": 25
+    },
+    "entry": "it has a strange physiology that responds to electricity. when together with karrablast, shelmet evolves for some reason.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

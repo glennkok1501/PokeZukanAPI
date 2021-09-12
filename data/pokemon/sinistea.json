@@ -1,0 +1,54 @@
+{
+    "name": "sinistea",
+    "id": 854,
+    "info": {
+        "species": "black tea pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "weak-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 0.1,
+        "weight": 0.2
+    },
+    "sprites": {
+        "home": "images/pokemon/sinistea.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
+    },
+    "moves": "data/moves/sinistea.json",
+    "location": "data/location/sinistea.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 45,
+        "sp. atk": 74,
+        "sp. def": 54,
+        "speed": 50
+    },
+    "entry": "the teacup in which this pok\u00e9mon makes its home is a famous piece of antique tableware. many forgeries are in circulation.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

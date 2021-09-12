@@ -1,0 +1,52 @@
+{
+    "name": "vigoroth",
+    "id": 288,
+    "info": {
+        "species": "wild monkey pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "vital-spirit",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.4,
+        "weight": 46.5
+    },
+    "sprites": {
+        "home": "images/pokemon/vigoroth.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png"
+    },
+    "moves": "data/moves/vigoroth.json",
+    "location": "data/location/vigoroth.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "sp. atk": 55,
+        "sp. def": 55,
+        "speed": 90
+    },
+    "entry": "vigoroth is simply incapable of remaining still. even when it tries to sleep, the blood in its veins grows agitated, compelling this pok\u00e9mon to run wild throughout the jungle before it can settle down.",
+    "training": {
+        "base_exp": 154,
+        "capture_rate": 120,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

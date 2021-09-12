@@ -1,0 +1,62 @@
+{
+    "name": "inkay",
+    "id": 686,
+    "info": {
+        "species": "revolving pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "contrary",
+                "is_hidden": false
+            },
+            {
+                "name": "suction-cups",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "psychic"
+        ],
+        "height": 0.4,
+        "weight": 3.5
+    },
+    "sprites": {
+        "home": "images/pokemon/inkay.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png"
+    },
+    "moves": "data/moves/inkay.json",
+    "location": "data/location/inkay.json",
+    "base_stats": {
+        "hp": 53,
+        "attack": 54,
+        "defense": 53,
+        "sp. atk": 37,
+        "sp. def": 46,
+        "speed": 45
+    },
+    "entry": "by exposing foes to the blinking of its luminescent spots, inkay demoralizes them, and then it seizes the chance to flee.",
+    "training": {
+        "base_exp": 58,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

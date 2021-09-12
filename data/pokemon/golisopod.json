@@ -1,0 +1,54 @@
+{
+    "name": "golisopod",
+    "id": 768,
+    "info": {
+        "species": "hard scale pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "emergency-exit",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "water"
+        ],
+        "height": 2.0,
+        "weight": 108.0
+    },
+    "sprites": {
+        "home": "images/pokemon/golisopod.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png"
+    },
+    "moves": "data/moves/golisopod.json",
+    "location": "data/location/golisopod.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 140,
+        "sp. atk": 60,
+        "sp. def": 90,
+        "speed": 40
+    },
+    "entry": "they live in sunken ships or in holes in the seabed. when golisopod and grapploct battle, the loser becomes the winner\u2019s meal.",
+    "training": {
+        "base_exp": 186,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug",
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

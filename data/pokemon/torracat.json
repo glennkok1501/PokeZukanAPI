@@ -1,0 +1,56 @@
+{
+    "name": "torracat",
+    "id": 726,
+    "info": {
+        "species": "fire cat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "intimidate",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.7,
+        "weight": 25.0
+    },
+    "sprites": {
+        "home": "images/pokemon/torracat.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png"
+    },
+    "moves": "data/moves/torracat.json",
+    "location": "data/location/torracat.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 50,
+        "sp. atk": 80,
+        "sp. def": 50,
+        "speed": 90
+    },
+    "entry": "when facing a powerful enemy, torracat\u2019s fighting spirit gets pumped up, and its fire bell blazes hotter.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

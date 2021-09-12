@@ -1,0 +1,289 @@
+{
+    "moves": [
+        {
+            "name": "swords-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sand-attack",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "pin-missile",
+            "method": "level-up",
+            "level": 41
+        },
+        {
+            "name": "surf",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "ice-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "blizzard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "waterfall",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "leech-life",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-slide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "slash",
+            "method": "level-up",
+            "level": 21
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "spite",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge-bomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "false-swipe",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fury-cutter",
+            "method": "level-up",
+            "level": 4
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psych-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-smash",
+            "method": "level-up",
+            "level": 7
+        },
+        {
+            "name": "hail",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "taunt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "brick-break",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-tomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "aerial-ace",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "iron-defense",
+            "method": "level-up",
+            "level": 36
+        },
+        {
+            "name": "bulk-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "payback",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fling",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sucker-punch",
+            "method": "level-up",
+            "level": 31
+        },
+        {
+            "name": "poison-jab",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dark-pulse",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "x-scissor",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "focus-blast",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shadow-claw",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bug-bite",
+            "method": "level-up",
+            "level": 10
+        },
+        {
+            "name": "venoshock",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge-wave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "scald",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "struggle-bug",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "frost-breath",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "razor-shell",
+            "method": "level-up",
+            "level": 26
+        },
+        {
+            "name": "snarl",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "first-impression",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "liquidation",
+            "method": "level-up",
+            "level": 48
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "raichu alolan",
+    "id": 26,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "surge-surfer",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric",
+            "psychic"
+        ],
+        "height": 0.7,
+        "weight": 21.0
+    },
+    "sprites": {
+        "home": "images/pokemon/raichu-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png"
+    },
+    "moves": "data/moves/raichu-alolan.json",
+    "location": "data/location/raichu-alolan.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 50,
+        "sp. atk": 95,
+        "sp. def": 85,
+        "speed": 110
+    },
+    "entry": "this pok\u00e9mon rides on its tail while it uses its psychic powers to levitate. it attacks with star-shaped thunderbolts.",
+    "training": {
+        "base_exp": 218,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

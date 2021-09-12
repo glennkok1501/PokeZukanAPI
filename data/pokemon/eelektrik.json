@@ -1,0 +1,52 @@
+{
+    "name": "eelektrik",
+    "id": 603,
+    "info": {
+        "species": "elefish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 1.2,
+        "weight": 22.0
+    },
+    "sprites": {
+        "home": "images/pokemon/eelektrik.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png"
+    },
+    "moves": "data/moves/eelektrik.json",
+    "location": "data/location/eelektrik.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 70,
+        "sp. atk": 75,
+        "sp. def": 70,
+        "speed": 40
+    },
+    "entry": "these pok\u00e9mon have a big appetite. when they spot their prey, they attack it and paralyze it with electricity.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

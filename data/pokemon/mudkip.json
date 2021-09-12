@@ -1,0 +1,57 @@
+{
+    "name": "mudkip",
+    "id": 258,
+    "info": {
+        "species": "mud fish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "damp",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.4,
+        "weight": 7.6
+    },
+    "sprites": {
+        "home": "images/pokemon/mudkip.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png"
+    },
+    "moves": "data/moves/mudkip.json",
+    "location": "data/location/mudkip.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 40
+    },
+    "entry": "in water, mudkip breathes using the gills on its cheeks. if it is faced with a tight situation in battle, this pok\u00e9mon will unleash its amazing power\u2014it can crush rocks bigger than itself.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

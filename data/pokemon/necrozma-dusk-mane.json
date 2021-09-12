@@ -1,0 +1,53 @@
+{
+    "name": "necrozma dusk mane",
+    "id": 800,
+    "info": {
+        "species": "prism pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prism-armor",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "steel"
+        ],
+        "height": 3.8,
+        "weight": 460.0
+    },
+    "sprites": {
+        "home": "images/pokemon/necrozma-dusk-mane.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10155.png"
+    },
+    "moves": "data/moves/necrozma-dusk-mane.json",
+    "location": "data/location/necrozma-dusk-mane.json",
+    "base_stats": {
+        "hp": 97,
+        "attack": 157,
+        "defense": 127,
+        "sp. atk": 113,
+        "sp. def": 109,
+        "speed": 77
+    },
+    "entry": "when necrozma latches on to lunala, it becomes vicious, seeing enemies everywhere it looks. it will burn the world with lasers.",
+    "training": {
+        "base_exp": 306,
+        "capture_rate": 255,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

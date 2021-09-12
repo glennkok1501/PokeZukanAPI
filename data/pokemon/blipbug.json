@@ -1,0 +1,58 @@
+{
+    "name": "blipbug",
+    "id": 824,
+    "info": {
+        "species": "larva pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "compound-eyes",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.4,
+        "weight": 8.0
+    },
+    "sprites": {
+        "home": "images/pokemon/blipbug.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png"
+    },
+    "moves": "data/moves/blipbug.json",
+    "location": "data/location/blipbug.json",
+    "base_stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 20,
+        "sp. atk": 25,
+        "sp. def": 45,
+        "speed": 45
+    },
+    "entry": "often found in gardens, this pok\u00e9mon has hairs on its body that it uses to assess its surroundings.",
+    "training": {
+        "base_exp": 36,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

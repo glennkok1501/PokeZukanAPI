@@ -1,0 +1,54 @@
+{
+    "name": "drizzile",
+    "id": 817,
+    "info": {
+        "species": "water lizard pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.7,
+        "weight": 11.5
+    },
+    "sprites": {
+        "home": "images/pokemon/drizzile.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png"
+    },
+    "moves": "data/moves/drizzile.json",
+    "location": "data/location/drizzile.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 55,
+        "sp. atk": 95,
+        "sp. def": 55,
+        "speed": 90
+    },
+    "entry": "highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

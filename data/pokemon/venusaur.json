@@ -1,0 +1,58 @@
+{
+    "name": "venusaur",
+    "id": 3,
+    "info": {
+        "species": "seed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "chlorophyll",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 2.0,
+        "weight": 100.0
+    },
+    "sprites": {
+        "home": "images/pokemon/venusaur.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+    },
+    "moves": "data/moves/venusaur.json",
+    "location": "data/location/venusaur.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "sp. atk": 100,
+        "sp. def": 100,
+        "speed": 80
+    },
+    "entry": "huge amounts of pollen burst from it with the force of a volcanic eruption. breathing in too much of the pollen can cause fainting.",
+    "training": {
+        "base_exp": 236,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

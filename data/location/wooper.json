@@ -1,0 +1,72 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-212-east-towards-pastoria-city"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-32-area",
+                "ruins-of-alph-outside",
+                "union-cave-1f",
+                "union-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-cave-gate",
+                "johto-route-47-inside-cave",
+                "violet-city-pokemon-center"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-south"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "icefall-cave-entrance",
+                "ruin-valley-area",
+                "four-island-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "kakuna",
+    "id": 14,
+    "info": {
+        "species": "cocoon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 0.6,
+        "weight": 10.0
+    },
+    "sprites": {
+        "home": "images/pokemon/kakuna.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+    },
+    "moves": "data/moves/kakuna.json",
+    "location": "data/location/kakuna.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "sp. atk": 25,
+        "sp. def": 25,
+        "speed": 35
+    },
+    "entry": "able to move only slightly. when endangered, it may stick out its stinger and poison its enemy.",
+    "training": {
+        "base_exp": 72,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

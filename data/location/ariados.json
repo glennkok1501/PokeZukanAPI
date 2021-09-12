@@ -1,0 +1,50 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-37-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-2-south-towards-viridian-city"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-2-north-towards-pewter-city"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "dreamyard-area",
+                "dreamyard-b1f"
+            ]
+        }
+    ]
+}

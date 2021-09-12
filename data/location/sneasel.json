@@ -1,0 +1,94 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "snowpoint-temple-1f",
+                "snowpoint-temple-b1f",
+                "snowpoint-temple-b2f",
+                "snowpoint-temple-b3f",
+                "snowpoint-temple-b4f",
+                "snowpoint-temple-b5f",
+                "lake-acuity-area",
+                "acuity-lakefront-area",
+                "sinnoh-route-216-area",
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "ice-path-b1f",
+                "ice-path-b2f",
+                "ice-path-b3f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-4f",
+                "mt-silver-top"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-outside",
+                "kanto-route-28-area"
+            ]
+        },
+        {
+            "game": [
+                "leafgreen"
+            ],
+            "area": [
+                "icefall-cave-1f",
+                "icefall-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "giant-chasm-forest-cave"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-17-area"
+            ]
+        }
+    ]
+}

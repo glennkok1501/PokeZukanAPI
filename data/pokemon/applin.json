@@ -1,0 +1,59 @@
+{
+    "name": "applin",
+    "id": 840,
+    "info": {
+        "species": "apple core pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "ripen",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "bulletproof",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "height": 0.2,
+        "weight": 0.5
+    },
+    "sprites": {
+        "home": "images/pokemon/applin.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png"
+    },
+    "moves": "data/moves/applin.json",
+    "location": "data/location/applin.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 80,
+        "sp. atk": 40,
+        "sp. def": 40,
+        "speed": 20
+    },
+    "entry": "as soon as it\u2019s born, it burrows into an apple. not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+    "training": {
+        "base_exp": 52,
+        "capture_rate": 255,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

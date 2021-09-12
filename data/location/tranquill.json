@@ -1,0 +1,40 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "pinwheel-forest-inside",
+                "lostlorn-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dragonspiral-tower-entrance",
+                "dragonspiral-tower-outside",
+                "unova-route-6-area",
+                "unova-route-7-area",
+                "unova-route-12-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-3-area",
+                "unova-victory-road-2-unknown-area-73",
+                "unova-victory-road-2-unknown-area-79"
+            ]
+        }
+    ]
+}

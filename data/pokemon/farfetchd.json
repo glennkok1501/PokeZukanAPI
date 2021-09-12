@@ -1,0 +1,62 @@
+{
+    "name": "farfetchd",
+    "id": 83,
+    "info": {
+        "species": "wild duck pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "defiant",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.8,
+        "weight": 15.0
+    },
+    "sprites": {
+        "home": "images/pokemon/farfetchd.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+    },
+    "moves": "data/moves/farfetchd.json",
+    "location": "data/location/farfetchd.json",
+    "base_stats": {
+        "hp": 52,
+        "attack": 90,
+        "defense": 55,
+        "sp. atk": 58,
+        "sp. def": 62,
+        "speed": 60
+    },
+    "entry": "they use a plant stalk as a weapon, but not all of them use it in the same way. several distinct styles of stalk fighting have been observed.",
+    "training": {
+        "base_exp": 132,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "lurantis",
+    "id": 754,
+    "info": {
+        "species": "bloom sickle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.9,
+        "weight": 18.5
+    },
+    "sprites": {
+        "home": "images/pokemon/lurantis.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
+    },
+    "moves": "data/moves/lurantis.json",
+    "location": "data/location/lurantis.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 105,
+        "defense": 90,
+        "sp. atk": 80,
+        "sp. def": 90,
+        "speed": 45
+    },
+    "entry": "the petals on this pok\u00e9mon\u2019s arms are thin and super sharp, and they can fire laser beams if lurantis gathers light first.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "oshawott",
+    "id": 501,
+    "info": {
+        "species": "sea otter pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.5,
+        "weight": 5.9
+    },
+    "sprites": {
+        "home": "images/pokemon/oshawott.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+    },
+    "moves": "data/moves/oshawott.json",
+    "location": "data/location/oshawott.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 45,
+        "sp. atk": 63,
+        "sp. def": 45,
+        "speed": 45
+    },
+    "entry": "it fights using the scalchop on its stomach. in response to an attack, it retaliates immediately by slashing.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

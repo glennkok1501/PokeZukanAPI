@@ -1,0 +1,50 @@
+{
+    "name": "stonjourner",
+    "id": 874,
+    "info": {
+        "species": "big rock pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "power-spot",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 2.5,
+        "weight": 520.0
+    },
+    "sprites": {
+        "home": "images/pokemon/stonjourner.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+    },
+    "moves": "data/moves/stonjourner.json",
+    "location": "data/location/stonjourner.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 135,
+        "sp. atk": 20,
+        "sp. def": 20,
+        "speed": 70
+    },
+    "entry": "once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

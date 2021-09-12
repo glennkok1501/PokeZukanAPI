@@ -1,0 +1,52 @@
+{
+    "name": "tynamo",
+    "id": 602,
+    "info": {
+        "species": "elefish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.2,
+        "weight": 0.3
+    },
+    "sprites": {
+        "home": "images/pokemon/tynamo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png"
+    },
+    "moves": "data/moves/tynamo.json",
+    "location": "data/location/tynamo.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "sp. atk": 45,
+        "sp. def": 40,
+        "speed": 60
+    },
+    "entry": "one alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+    "training": {
+        "base_exp": 55,
+        "capture_rate": 190,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

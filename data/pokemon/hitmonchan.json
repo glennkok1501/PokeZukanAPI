@@ -1,0 +1,60 @@
+{
+    "name": "hitmonchan",
+    "id": 107,
+    "info": {
+        "species": "punching pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "iron-fist",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.4,
+        "weight": 50.2
+    },
+    "sprites": {
+        "home": "images/pokemon/hitmonchan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+    },
+    "moves": "data/moves/hitmonchan.json",
+    "location": "data/location/hitmonchan.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 105,
+        "defense": 79,
+        "sp. atk": 35,
+        "sp. def": 110,
+        "speed": 76
+    },
+    "entry": "its punches slice the air. however, it seems to need a short break after fighting for three minutes.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

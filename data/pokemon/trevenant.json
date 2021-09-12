@@ -1,0 +1,62 @@
+{
+    "name": "trevenant",
+    "id": 709,
+    "info": {
+        "species": "elder tree pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "natural-cure",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "harvest",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost",
+            "grass"
+        ],
+        "height": 1.5,
+        "weight": 71.0
+    },
+    "sprites": {
+        "home": "images/pokemon/trevenant.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
+    },
+    "moves": "data/moves/trevenant.json",
+    "location": "data/location/trevenant.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 110,
+        "defense": 76,
+        "sp. atk": 65,
+        "sp. def": 82,
+        "speed": 56
+    },
+    "entry": "small roots that extend from the tips of this pok\u00e9mon\u2019s feet can tie into the trees of the forest and give trevenant control over them.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

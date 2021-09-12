@@ -1,0 +1,279 @@
+{
+    "moves": [
+        {
+            "name": "thunderbolt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "earthquake",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confusion",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "psychic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "reflect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dream-eater",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-slide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "feint-attack",
+            "method": "level-up",
+            "level": 22
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psych-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shadow-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "future-sight",
+            "method": "level-up",
+            "level": 46
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "nature-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "taunt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "brick-break",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "extrasensory",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "calm-mind",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "payback",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "embargo",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fling",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "focus-blast",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "energy-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "nasty-plot",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "zen-headbutt",
+            "method": "level-up",
+            "level": 29
+        },
+        {
+            "name": "trick-room",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "wonder-room",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "psyshock",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "foul-play",
+            "method": "level-up",
+            "level": 36
+        },
+        {
+            "name": "after-you",
+            "method": "level-up",
+            "level": 4
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "stored-power",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "quash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bulldoze",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "work-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psychic-terrain",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "instruct",
+            "method": "level-up",
+            "level": 32
+        },
+        {
+            "name": "brutal-swing",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

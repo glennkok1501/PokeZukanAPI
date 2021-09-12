@@ -1,0 +1,59 @@
+{
+    "name": "orbeetle",
+    "id": 826,
+    "info": {
+        "species": "seven spot pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "psychic"
+        ],
+        "height": 0.4,
+        "weight": 40.8
+    },
+    "sprites": {
+        "home": "images/pokemon/orbeetle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png"
+    },
+    "moves": "data/moves/orbeetle.json",
+    "location": "data/location/orbeetle.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 110,
+        "sp. atk": 80,
+        "sp. def": 120,
+        "speed": 90
+    },
+    "entry": "it emits psychic energy to observe and study what\u2019s around it\u2014and what\u2019s around it can include things over six miles away.",
+    "training": {
+        "base_exp": 253,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

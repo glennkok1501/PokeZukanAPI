@@ -1,0 +1,53 @@
+{
+    "name": "gardevoir mega",
+    "id": 282,
+    "info": {
+        "species": "embrace pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pixilate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "height": 1.6,
+        "weight": 48.4
+    },
+    "sprites": {
+        "home": "images/pokemon/gardevoir-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+    },
+    "moves": "data/moves/gardevoir-mega.json",
+    "location": "data/location/gardevoir-mega.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 85,
+        "defense": 65,
+        "sp. atk": 165,
+        "sp. def": 135,
+        "speed": 100
+    },
+    "entry": "to protect its trainer, it will expend all its psychic power to create a small black hole.",
+    "training": {
+        "base_exp": 278,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

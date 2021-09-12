@@ -1,0 +1,58 @@
+{
+    "name": "swablu",
+    "id": 333,
+    "info": {
+        "species": "cotton bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "natural-cure",
+                "is_hidden": false
+            },
+            {
+                "name": "cloud-nine",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.4,
+        "weight": 1.2
+    },
+    "sprites": {
+        "home": "images/pokemon/swablu.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png"
+    },
+    "moves": "data/moves/swablu.json",
+    "location": "data/location/swablu.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 40,
+        "defense": 60,
+        "sp. atk": 40,
+        "sp. def": 75,
+        "speed": 50
+    },
+    "entry": "swablu loves to make things clean. if it spots something dirty, it will wipe and polish it with its cottony wings. if its wings become dirty, this pok\u00e9mon finds a stream and showers itself.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 255,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

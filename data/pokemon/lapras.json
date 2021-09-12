@@ -1,0 +1,62 @@
+{
+    "name": "lapras",
+    "id": 131,
+    "info": {
+        "species": "transport pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ice"
+        ],
+        "height": 2.5,
+        "weight": 220.0
+    },
+    "sprites": {
+        "home": "images/pokemon/lapras.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+    },
+    "moves": "data/moves/lapras.json",
+    "location": "data/location/lapras.json",
+    "base_stats": {
+        "hp": 130,
+        "attack": 85,
+        "defense": 80,
+        "sp. atk": 85,
+        "sp. def": 95,
+        "speed": 60
+    },
+    "entry": "it surrounds itself with a huge ring of gathered ice particles. it uses the ring to smash any icebergs that might impede its graceful swimming.",
+    "training": {
+        "base_exp": 187,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

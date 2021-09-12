@@ -1,0 +1,61 @@
+{
+    "name": "wailmer",
+    "id": 320,
+    "info": {
+        "species": "ball whale pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "pressure",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 2.0,
+        "weight": 130.0
+    },
+    "sprites": {
+        "home": "images/pokemon/wailmer.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png"
+    },
+    "moves": "data/moves/wailmer.json",
+    "location": "data/location/wailmer.json",
+    "base_stats": {
+        "hp": 130,
+        "attack": 70,
+        "defense": 35,
+        "sp. atk": 70,
+        "sp. def": 35,
+        "speed": 60
+    },
+    "entry": "when it sucks in a large volume of seawater, it becomes like a big, bouncy ball. it eats a ton of food daily.",
+    "training": {
+        "base_exp": 80,
+        "capture_rate": 125,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

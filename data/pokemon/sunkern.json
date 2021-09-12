@@ -1,0 +1,60 @@
+{
+    "name": "sunkern",
+    "id": 191,
+    "info": {
+        "species": "seed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "solar-power",
+                "is_hidden": false
+            },
+            {
+                "name": "early-bird",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.3,
+        "weight": 1.8
+    },
+    "sprites": {
+        "home": "images/pokemon/sunkern.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png"
+    },
+    "moves": "data/moves/sunkern.json",
+    "location": "data/location/sunkern.json",
+    "base_stats": {
+        "hp": 30,
+        "attack": 30,
+        "defense": 30,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 30
+    },
+    "entry": "sunkern tries to move as little as it possibly can. it does so because it tries to conserve all the nutrients it has stored in its body for its evolution. it will not eat a thing, subsisting only on morning dew.",
+    "training": {
+        "base_exp": 36,
+        "capture_rate": 235,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

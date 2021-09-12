@@ -1,0 +1,51 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "valor-lakefront-area",
+                "sinnoh-route-214-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-7-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-north",
+                "hoenn-altering-cave-d"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-altering-cave-d"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "kalos-route-10-area"
+            ]
+        }
+    ]
+}

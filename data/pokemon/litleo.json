@@ -1,0 +1,61 @@
+{
+    "name": "litleo",
+    "id": 667,
+    "info": {
+        "species": "lion cub pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rivalry",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": false
+            },
+            {
+                "name": "moxie",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "normal"
+        ],
+        "height": 0.6,
+        "weight": 13.5
+    },
+    "sprites": {
+        "home": "images/pokemon/litleo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
+    },
+    "moves": "data/moves/litleo.json",
+    "location": "data/location/litleo.json",
+    "base_stats": {
+        "hp": 62,
+        "attack": 50,
+        "defense": 58,
+        "sp. atk": 73,
+        "sp. def": 54,
+        "speed": 72
+    },
+    "entry": "this hot-blooded pok\u00e9mon is filled with curiosity. when it gets angry or starts fighting, its short mane gets hot.",
+    "training": {
+        "base_exp": 74,
+        "capture_rate": 220,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 12.5,
+            "female": 87.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

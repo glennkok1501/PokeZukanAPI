@@ -1,0 +1,44 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area",
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town",
+                "sinnoh-route-210-south-towards-solaceon-town"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-102-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby"
+            ],
+            "area": [
+                "hoenn-route-114-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-117-area",
+                "hoenn-route-120-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "moves": [
+        {
+            "name": "sand-attack",
+            "method": "level-up",
+            "level": 7
+        },
+        {
+            "name": "headbutt",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "tackle",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "body-slam",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "take-down",
+            "method": "level-up",
+            "level": 48
+        },
+        {
+            "name": "double-edge",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "bite",
+            "method": "level-up",
+            "level": 10
+        },
+        {
+            "name": "roar",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hyper-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "counter",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "strength",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dig",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mimic",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "super-fang",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thief",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "spite",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "scary-face",
+            "method": "level-up",
+            "level": 28
+        },
+        {
+            "name": "mud-slap",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "iron-tail",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "crunch",
+            "method": "level-up",
+            "level": 40
+        },
+        {
+            "name": "psych-up",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "shadow-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-smash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "uproar",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "torment",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "taunt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "yawn",
+            "method": "level-up",
+            "level": 44
+        },
+        {
+            "name": "snatch",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hyper-voice",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "odor-sleuth",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "howl",
+            "method": "level-up",
+            "level": 4
+        },
+        {
+            "name": "covet",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "payback",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "assurance",
+            "method": "level-up",
+            "level": 24
+        },
+        {
+            "name": "embargo",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sucker-punch",
+            "method": "level-up",
+            "level": 52
+        },
+        {
+            "name": "dark-pulse",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder-fang",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "ice-fang",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "fire-fang",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "captivate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "foul-play",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "incinerate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "retaliate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snarl",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "play-rough",
+            "method": "level-up",
+            "level": 56
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

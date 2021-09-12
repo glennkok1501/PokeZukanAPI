@@ -1,0 +1,23 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-209-area",
+                "sinnoh-route-212-north-towards-hearthome-city"
+            ]
+        }
+    ]
+}

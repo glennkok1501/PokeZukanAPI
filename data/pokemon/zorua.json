@@ -1,0 +1,52 @@
+{
+    "name": "zorua",
+    "id": 570,
+    "info": {
+        "species": "tricky fox pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "illusion",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dark"
+        ],
+        "height": 0.7,
+        "weight": 12.5
+    },
+    "sprites": {
+        "home": "images/pokemon/zorua.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+    },
+    "moves": "data/moves/zorua.json",
+    "location": "data/location/zorua.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 40,
+        "sp. atk": 80,
+        "sp. def": 40,
+        "speed": 65
+    },
+    "entry": "zorua sometimes transforms into a person and goes into cities to search for food. when zorua does this, it usually takes on the form of a child.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 75,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

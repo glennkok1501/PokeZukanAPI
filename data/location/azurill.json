@@ -1,0 +1,39 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "floccesy-ranch-outer",
+                "floccesy-ranch-inner",
+                "unova-route-20-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-3-area",
+                "kalos-route-22-area"
+            ]
+        }
+    ]
+}

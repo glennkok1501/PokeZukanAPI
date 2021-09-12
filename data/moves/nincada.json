@@ -1,0 +1,264 @@
+{
+    "moves": [
+        {
+            "name": "scratch",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "cut",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "gust",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "sand-attack",
+            "method": "level-up",
+            "level": 9
+        },
+        {
+            "name": "double-edge",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "absorb",
+            "method": "level-up",
+            "level": 5
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "string-shot",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "dig",
+            "method": "level-up",
+            "level": 37
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mimic",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "harden",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "bide",
+            "method": "level-up",
+            "level": 29
+        },
+        {
+            "name": "leech-life",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "flash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fury-swipes",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mind-reader",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "spite",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "feint-attack",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "mud-slap",
+            "method": "level-up",
+            "level": 17
+        },
+        {
+            "name": "sandstorm",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-drain",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "false-swipe",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fury-cutter",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "metal-claw",
+            "method": "level-up",
+            "level": 21
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shadow-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "silver-wind",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "aerial-ace",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "night-slash",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "x-scissor",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bug-buzz",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "bug-bite",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "hone-claws",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "final-gambit",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "struggle-bug",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

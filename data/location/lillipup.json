@@ -1,0 +1,24 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-1-area",
+                "unova-route-2-area",
+                "unova-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "floccesy-ranch-inner"
+            ]
+        }
+    ]
+}

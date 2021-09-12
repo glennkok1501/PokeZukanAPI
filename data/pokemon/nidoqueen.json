@@ -1,0 +1,61 @@
+{
+    "name": "nidoqueen",
+    "id": 31,
+    "info": {
+        "species": "drill pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "poison-point",
+                "is_hidden": false
+            },
+            {
+                "name": "rivalry",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "height": 1.3,
+        "weight": 60.0
+    },
+    "sprites": {
+        "home": "images/pokemon/nidoqueen.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+    },
+    "moves": "data/moves/nidoqueen.json",
+    "location": "data/location/nidoqueen.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 92,
+        "defense": 87,
+        "sp. atk": 75,
+        "sp. def": 85,
+        "speed": 76
+    },
+    "entry": "tough scales cover the sturdy body of this pok\u00e9mon. it appears that the scales grow in cycles.",
+    "training": {
+        "base_exp": 227,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

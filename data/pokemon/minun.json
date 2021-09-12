@@ -1,0 +1,56 @@
+{
+    "name": "minun",
+    "id": 312,
+    "info": {
+        "species": "cheering pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "minus",
+                "is_hidden": false
+            },
+            {
+                "name": "volt-absorb",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.4,
+        "weight": 4.2
+    },
+    "sprites": {
+        "home": "images/pokemon/minun.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png"
+    },
+    "moves": "data/moves/minun.json",
+    "location": "data/location/minun.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 50,
+        "sp. atk": 75,
+        "sp. def": 85,
+        "speed": 95
+    },
+    "entry": "minun loves to cheer on its partner in battle. it gives off sparks from its body while it is doing so. if its partner is in trouble, this pok\u00e9mon gives off increasing amounts of sparks.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

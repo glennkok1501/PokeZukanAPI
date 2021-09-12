@@ -1,0 +1,61 @@
+{
+    "name": "palpitoad",
+    "id": 536,
+    "info": {
+        "species": "vibration pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ground"
+        ],
+        "height": 0.8,
+        "weight": 17.0
+    },
+    "sprites": {
+        "home": "images/pokemon/palpitoad.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+    },
+    "moves": "data/moves/palpitoad.json",
+    "location": "data/location/palpitoad.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 65,
+        "defense": 55,
+        "sp. atk": 65,
+        "sp. def": 55,
+        "speed": 69
+    },
+    "entry": "on occasion, their cries are sublimely pleasing to the ear. palpitoad with larger lumps on their bodies can sing with a wider range of sounds.",
+    "training": {
+        "base_exp": 134,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "slugma",
+    "id": 218,
+    "info": {
+        "species": "lava pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "magma-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "weak-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.7,
+        "weight": 35.0
+    },
+    "sprites": {
+        "home": "images/pokemon/slugma.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png"
+    },
+    "moves": "data/moves/slugma.json",
+    "location": "data/location/slugma.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 40,
+        "sp. atk": 70,
+        "sp. def": 40,
+        "speed": 20
+    },
+    "entry": "slugma does not have any blood in its body. instead, intensely hot magma circulates throughout this pok\u00e9mon\u2019s body, carrying essential nutrients and oxygen to its organs.",
+    "training": {
+        "base_exp": 50,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

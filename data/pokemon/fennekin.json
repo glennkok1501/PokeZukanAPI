@@ -1,0 +1,56 @@
+{
+    "name": "fennekin",
+    "id": 653,
+    "info": {
+        "species": "fox pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "magician",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.4,
+        "weight": 9.4
+    },
+    "sprites": {
+        "home": "images/pokemon/fennekin.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png"
+    },
+    "moves": "data/moves/fennekin.json",
+    "location": "data/location/fennekin.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "sp. atk": 62,
+        "sp. def": 60,
+        "speed": 60
+    },
+    "entry": "as it walks, it munches on a twig in place of a snack. it intimidates opponents by puffing hot air out of its ears.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

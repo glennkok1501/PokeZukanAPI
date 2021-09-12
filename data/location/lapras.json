@@ -1,0 +1,56 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-inside-b1f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "icefall-cave-waterfall"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "village-bridge-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-12-area",
+                "azure-bay-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "saffron-city-silph-co-7f"
+            ]
+        }
+    ]
+}

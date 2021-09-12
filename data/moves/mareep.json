@@ -1,0 +1,319 @@
+{
+    "moves": [
+        {
+            "name": "sand-attack",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "headbutt",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "tackle",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "body-slam",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "take-down",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "double-edge",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "growl",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "thunder-shock",
+            "method": "level-up",
+            "level": 8
+        },
+        {
+            "name": "thunderbolt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder-wave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "agility",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "mimic",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "screech",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confuse-ray",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "defense-curl",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "reflect",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "swift",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "flash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "curse",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "cotton-spore",
+            "method": "level-up",
+            "level": 11
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "zap-cannon",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "heal-bell",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "iron-tail",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "flatter",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "odor-sleuth",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "signal-beam",
+            "method": "level-up",
+            "level": 39
+        },
+        {
+            "name": "shock-wave",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "magnet-rise",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "power-gem",
+            "method": "level-up",
+            "level": 29
+        },
+        {
+            "name": "discharge",
+            "method": "level-up",
+            "level": 32
+        },
+        {
+            "name": "captivate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "electro-ball",
+            "method": "level-up",
+            "level": 22
+        },
+        {
+            "name": "after-you",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "echoed-voice",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "electroweb",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "wild-charge",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "cotton-guard",
+            "method": "level-up",
+            "level": 36
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "eerie-impulse",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "electric-terrain",
+            "method": "egg",
+            "level": 0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "infernape",
+    "id": 392,
+    "info": {
+        "species": "flame pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "iron-fist",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "height": 1.2,
+        "weight": 55.0
+    },
+    "sprites": {
+        "home": "images/pokemon/infernape.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
+    },
+    "moves": "data/moves/infernape.json",
+    "location": "data/location/infernape.json",
+    "base_stats": {
+        "hp": 76,
+        "attack": 104,
+        "defense": 71,
+        "sp. atk": 104,
+        "sp. def": 71,
+        "speed": 108
+    },
+    "entry": "it tosses its enemies around with agility. it uses all its limbs to fight in its own unique style.",
+    "training": {
+        "base_exp": 240,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

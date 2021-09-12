@@ -1,0 +1,60 @@
+{
+    "name": "lumineon",
+    "id": 457,
+    "info": {
+        "species": "neon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "storm-drain",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.2,
+        "weight": 24.0
+    },
+    "sprites": {
+        "home": "images/pokemon/lumineon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
+    },
+    "moves": "data/moves/lumineon.json",
+    "location": "data/location/lumineon.json",
+    "base_stats": {
+        "hp": 69,
+        "attack": 69,
+        "defense": 76,
+        "sp. atk": 69,
+        "sp. def": 86,
+        "speed": 91
+    },
+    "entry": "they traverse the deep waters as if crawling over the seafloor. the fantastic lights of its fins shine like stars in the night sky.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 75,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

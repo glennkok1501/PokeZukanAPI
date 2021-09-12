@@ -1,0 +1,53 @@
+{
+    "name": "blacephalon",
+    "id": 806,
+    "info": {
+        "species": "fireworks pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "beast-boost",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fire",
+            "ghost"
+        ],
+        "height": 1.8,
+        "weight": 13.0
+    },
+    "sprites": {
+        "home": "images/pokemon/blacephalon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png"
+    },
+    "moves": "data/moves/blacephalon.json",
+    "location": "data/location/blacephalon.json",
+    "base_stats": {
+        "hp": 53,
+        "attack": 127,
+        "defense": 53,
+        "sp. atk": 151,
+        "sp. def": 79,
+        "speed": 107
+    },
+    "entry": "a ub that appeared from an ultra wormhole, it causes explosions, then takes advantage of opponents\u2019 surprise to rob them of their vitality.",
+    "training": {
+        "base_exp": 257,
+        "capture_rate": 30,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

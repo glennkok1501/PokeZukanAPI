@@ -1,0 +1,57 @@
+{
+    "name": "weedle",
+    "id": 13,
+    "info": {
+        "species": "hairy bug pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shield-dust",
+                "is_hidden": false
+            },
+            {
+                "name": "run-away",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 0.3,
+        "weight": 3.2
+    },
+    "sprites": {
+        "home": "images/pokemon/weedle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+    },
+    "moves": "data/moves/weedle.json",
+    "location": "data/location/weedle.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "sp. atk": 20,
+        "sp. def": 20,
+        "speed": 50
+    },
+    "entry": "beware of the sharp stinger on its head. it hides in grass and bushes where it eats leaves.",
+    "training": {
+        "base_exp": 39,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

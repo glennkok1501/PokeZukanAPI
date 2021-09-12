@@ -1,0 +1,61 @@
+{
+    "name": "sableye",
+    "id": 302,
+    "info": {
+        "species": "darkness pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "stall",
+                "is_hidden": false
+            },
+            {
+                "name": "prankster",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "ghost"
+        ],
+        "height": 0.5,
+        "weight": 11.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sableye.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
+    },
+    "moves": "data/moves/sableye.json",
+    "location": "data/location/sableye.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 75,
+        "sp. atk": 65,
+        "sp. def": 65,
+        "speed": 50
+    },
+    "entry": "it feeds on gemstone crystals. in darkness, its eyes sparkle with the glitter of jewels.",
+    "training": {
+        "base_exp": 133,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

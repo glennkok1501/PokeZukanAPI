@@ -1,0 +1,76 @@
+{
+    "location": [
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "rock-tunnel-1f",
+                "kanto-route-9-area",
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "rock-tunnel-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "cerulean-cave-2f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-1f",
+                "kanto-victory-road-2-2f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-3f",
+                "sevault-canyon-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-safari-zone-area-1-east",
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-15-area"
+            ]
+        }
+    ]
+}

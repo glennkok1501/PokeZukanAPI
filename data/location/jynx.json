@@ -1,0 +1,72 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "snowpoint-temple-b1f",
+                "snowpoint-temple-b2f",
+                "snowpoint-temple-b3f",
+                "snowpoint-temple-b4f",
+                "snowpoint-temple-b5f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ice-path-1f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ice-path-b1f",
+                "ice-path-b2f",
+                "ice-path-b3f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b4f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "giant-chasm-area",
+                "giant-chasm-forest-cave"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "frost-cavern-unknown-area-314",
+                "frost-cavern-unknown-area-315",
+                "frost-cavern-unknown-area-316",
+                "frost-cavern-unknown-area-317"
+            ]
+        }
+    ]
+}

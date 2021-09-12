@@ -1,0 +1,90 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "valley-windworks-area",
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention",
+                "sinnoh-route-201-area",
+                "sinnoh-route-202-area",
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town",
+                "sinnoh-route-205-south-towards-floaroma-town",
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-208-area",
+                "sinnoh-route-211-west-towards-eterna-city"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "ruins-of-alph-outside",
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-42-area",
+                "johto-route-43-area",
+                "johto-route-44-area",
+                "johto-route-45-area",
+                "johto-route-47-area",
+                "mt-silver-outside",
+                "unknown-all-rattata-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-28-area",
+                "kanto-route-4-area",
+                "kanto-route-6-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area",
+                "kanto-route-13-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-22-area",
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-3-area",
+                "kalos-route-22-area"
+            ]
+        }
+    ]
+}

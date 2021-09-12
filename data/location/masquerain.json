@@ -1,0 +1,21 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-3-area"
+            ]
+        }
+    ]
+}

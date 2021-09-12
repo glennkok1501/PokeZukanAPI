@@ -1,0 +1,60 @@
+{
+    "name": "gulpin",
+    "id": 316,
+    "info": {
+        "species": "stomach pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "liquid-ooze",
+                "is_hidden": false
+            },
+            {
+                "name": "sticky-hold",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison"
+        ],
+        "height": 0.4,
+        "weight": 10.3
+    },
+    "sprites": {
+        "home": "images/pokemon/gulpin.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png"
+    },
+    "moves": "data/moves/gulpin.json",
+    "location": "data/location/gulpin.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 43,
+        "defense": 53,
+        "sp. atk": 43,
+        "sp. def": 53,
+        "speed": 40
+    },
+    "entry": "most of gulpin\u2019s body is made up of its stomach\u2014its heart and brain are very small in comparison. this pok\u00e9mon\u2019s stomach contains special enzymes that dissolve anything.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 225,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

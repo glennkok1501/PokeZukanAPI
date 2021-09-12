@@ -1,0 +1,60 @@
+{
+    "name": "bonsly",
+    "id": 438,
+    "info": {
+        "species": "bonsai pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "rattled",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 0.5,
+        "weight": 15.0
+    },
+    "sprites": {
+        "home": "images/pokemon/bonsly.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png"
+    },
+    "moves": "data/moves/bonsly.json",
+    "location": "data/location/bonsly.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 80,
+        "defense": 95,
+        "sp. atk": 10,
+        "sp. def": 45,
+        "speed": 10
+    },
+    "entry": "this pok\u00e9mon lives in dry, rocky areas. as its green spheres dry out, their dull luster increases.",
+    "training": {
+        "base_exp": 58,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

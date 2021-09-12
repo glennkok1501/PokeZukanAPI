@@ -1,0 +1,52 @@
+{
+    "name": "komala",
+    "id": 775,
+    "info": {
+        "species": "drowsing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "comatose",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.4,
+        "weight": 19.9
+    },
+    "sprites": {
+        "home": "images/pokemon/komala.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png"
+    },
+    "moves": "data/moves/komala.json",
+    "location": "data/location/komala.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 115,
+        "defense": 65,
+        "sp. atk": 75,
+        "sp. def": 95,
+        "speed": 65
+    },
+    "entry": "it remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

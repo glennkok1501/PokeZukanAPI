@@ -1,0 +1,23 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dreamyard-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "giant-chasm-outside",
+                "unova-route-13-area"
+            ]
+        }
+    ]
+}

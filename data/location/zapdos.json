@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "power-plant-area"
+            ]
+        }
+    ]
+}

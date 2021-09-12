@@ -1,0 +1,57 @@
+{
+    "name": "charmander",
+    "id": 4,
+    "info": {
+        "species": "lizard pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "solar-power",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.6,
+        "weight": 8.5
+    },
+    "sprites": {
+        "home": "images/pokemon/charmander.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+    },
+    "moves": "data/moves/charmander.json",
+    "location": "data/location/charmander.json",
+    "base_stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "sp. atk": 60,
+        "sp. def": 50,
+        "speed": 65
+    },
+    "entry": "from the time it is born, a flame burns at the tip of its tail. its life would end if the flame were to go out.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

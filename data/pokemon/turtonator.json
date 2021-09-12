@@ -1,0 +1,54 @@
+{
+    "name": "turtonator",
+    "id": 776,
+    "info": {
+        "species": "blast turtle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shell-armor",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fire",
+            "dragon"
+        ],
+        "height": 2.0,
+        "weight": 212.0
+    },
+    "sprites": {
+        "home": "images/pokemon/turtonator.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png"
+    },
+    "moves": "data/moves/turtonator.json",
+    "location": "data/location/turtonator.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 78,
+        "defense": 135,
+        "sp. atk": 91,
+        "sp. def": 85,
+        "speed": 36
+    },
+    "entry": "eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. its droppings are also dangerously explosive.",
+    "training": {
+        "base_exp": 170,
+        "capture_rate": 70,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

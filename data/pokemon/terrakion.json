@@ -1,0 +1,53 @@
+{
+    "name": "terrakion",
+    "id": 639,
+    "info": {
+        "species": "cavern pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "justified",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "fighting"
+        ],
+        "height": 1.9,
+        "weight": 260.0
+    },
+    "sprites": {
+        "home": "images/pokemon/terrakion.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
+    },
+    "moves": "data/moves/terrakion.json",
+    "location": "data/location/terrakion.json",
+    "base_stats": {
+        "hp": 91,
+        "attack": 129,
+        "defense": 90,
+        "sp. atk": 72,
+        "sp. def": 90,
+        "speed": 108
+    },
+    "entry": "spoken of in legend, this pok\u00e9mon used its phenomenal power to destroy a castle in its effort to protect pok\u00e9mon.",
+    "training": {
+        "base_exp": 261,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 80,
+            "steps": 20655
+        }
+    }
+}

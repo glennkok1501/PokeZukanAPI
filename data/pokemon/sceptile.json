@@ -1,0 +1,57 @@
+{
+    "name": "sceptile",
+    "id": 254,
+    "info": {
+        "species": "forest pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 1.7,
+        "weight": 52.2
+    },
+    "sprites": {
+        "home": "images/pokemon/sceptile.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png"
+    },
+    "moves": "data/moves/sceptile.json",
+    "location": "data/location/sceptile.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "sp. atk": 105,
+        "sp. def": 85,
+        "speed": 120
+    },
+    "entry": "sceptile has seeds growing on its back. they are said to be bursting with nutrients that revitalize trees. this pok\u00e9mon raises the trees in a forest with loving care.",
+    "training": {
+        "base_exp": 239,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

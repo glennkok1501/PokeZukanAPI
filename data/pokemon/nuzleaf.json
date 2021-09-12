@@ -1,0 +1,62 @@
+{
+    "name": "nuzleaf",
+    "id": 274,
+    "info": {
+        "species": "wily pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "early-bird",
+                "is_hidden": false
+            },
+            {
+                "name": "pickpocket",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "dark"
+        ],
+        "height": 1.0,
+        "weight": 28.0
+    },
+    "sprites": {
+        "home": "images/pokemon/nuzleaf.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
+    },
+    "moves": "data/moves/nuzleaf.json",
+    "location": "data/location/nuzleaf.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 40,
+        "sp. atk": 60,
+        "sp. def": 40,
+        "speed": 60
+    },
+    "entry": "they live in holes bored in large trees. the sound of nuzleaf\u2019s grass flute fills listeners with dread.",
+    "training": {
+        "base_exp": 119,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

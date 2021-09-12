@@ -1,0 +1,62 @@
+{
+    "name": "skiploom",
+    "id": 188,
+    "info": {
+        "species": "cottonweed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "height": 0.6,
+        "weight": 1.0
+    },
+    "sprites": {
+        "home": "images/pokemon/skiploom.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png"
+    },
+    "moves": "data/moves/skiploom.json",
+    "location": "data/location/skiploom.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 45,
+        "defense": 50,
+        "sp. atk": 45,
+        "sp. def": 65,
+        "speed": 80
+    },
+    "entry": "skiploom\u2019s flower blossoms when the temperature rises above 64 degrees fahrenheit. how much the flower opens depends on the temperature. for that reason, this pok\u00e9mon is sometimes used as a thermometer.",
+    "training": {
+        "base_exp": 119,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

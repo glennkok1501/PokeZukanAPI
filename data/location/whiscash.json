@@ -1,0 +1,93 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-city-area",
+                "mt-coronet-route-207",
+                "mt-coronet-b1f",
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-6",
+                "ravaged-path-area",
+                "oreburgh-gate-b1f",
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-210-west-towards-celestic-town",
+                "sinnoh-route-227-area",
+                "sinnoh-route-228-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "mt-coronet-4f",
+                "great-marsh-area-5",
+                "sinnoh-route-225-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-208-area",
+                "sinnoh-route-212-east-towards-pastoria-city",
+                "celestic-town-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "violet-city-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "meteor-falls-back",
+                "meteor-falls-b1f",
+                "meteor-falls-backsmall-room",
+                "hoenn-victory-road-b2f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "icirrus-city-area",
+                "unova-route-8-area",
+                "moor-of-icirrus-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-14-area",
+                "kalos-route-19-area"
+            ]
+        }
+    ]
+}

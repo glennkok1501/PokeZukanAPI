@@ -1,0 +1,54 @@
+{
+    "name": "cufant",
+    "id": 878,
+    "info": {
+        "species": "copperderm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "heavy-metal",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel"
+        ],
+        "height": 1.2,
+        "weight": 100.0
+    },
+    "sprites": {
+        "home": "images/pokemon/cufant.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png"
+    },
+    "moves": "data/moves/cufant.json",
+    "location": "data/location/cufant.json",
+    "base_stats": {
+        "hp": 72,
+        "attack": 80,
+        "defense": 49,
+        "sp. atk": 40,
+        "sp. def": 49,
+        "speed": 40
+    },
+    "entry": "if a job requires serious strength, this pok\u00e9mon will excel at it. its copper body tarnishes in the rain, turning a vibrant green color.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "cinderace",
+    "id": 815,
+    "info": {
+        "species": "striker pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "libero",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 1.4,
+        "weight": 33.0
+    },
+    "sprites": {
+        "home": "images/pokemon/cinderace.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png"
+    },
+    "moves": "data/moves/cinderace.json",
+    "location": "data/location/cinderace.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 116,
+        "defense": 75,
+        "sp. atk": 65,
+        "sp. def": 75,
+        "speed": 119
+    },
+    "entry": "it\u2019s skilled at both offense and defense, and it gets pumped up when cheered on. but if it starts showboating, it could put itself in a tough spot.",
+    "training": {
+        "base_exp": 265,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

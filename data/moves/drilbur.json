@@ -1,0 +1,259 @@
+{
+    "moves": [
+        {
+            "name": "scratch",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "swords-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "cut",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "submission",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "strength",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "earthquake",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fissure",
+            "method": "level-up",
+            "level": 47
+        },
+        {
+            "name": "dig",
+            "method": "level-up",
+            "level": 19
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "skull-bash",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "fury-swipes",
+            "method": "level-up",
+            "level": 12
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-slide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "slash",
+            "method": "level-up",
+            "level": 26
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge-bomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mud-slap",
+            "method": "level-up",
+            "level": 8
+        },
+        {
+            "name": "sandstorm",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rapid-spin",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "metal-claw",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-smash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "brick-break",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mud-sport",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "crush-claw",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "rock-tomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "metal-sound",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "aerial-ace",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "iron-defense",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "fling",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "poison-jab",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "x-scissor",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "earth-power",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "shadow-claw",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-climb",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "stealth-rock",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "hone-claws",
+            "method": "level-up",
+            "level": 22
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bulldoze",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "drill-run",
+            "method": "level-up",
+            "level": 43
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "acuity-lakefront-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ice-path-1f",
+                "ice-path-b1f",
+                "ice-path-b2f",
+                "ice-path-b3f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "icefall-cave-1f",
+                "icefall-cave-b1f"
+            ]
+        }
+    ]
+}

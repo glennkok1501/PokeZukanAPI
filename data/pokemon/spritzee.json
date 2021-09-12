@@ -1,0 +1,56 @@
+{
+    "name": "spritzee",
+    "id": 682,
+    "info": {
+        "species": "perfume pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "healer",
+                "is_hidden": false
+            },
+            {
+                "name": "aroma-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.2,
+        "weight": 0.5
+    },
+    "sprites": {
+        "home": "images/pokemon/spritzee.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png"
+    },
+    "moves": "data/moves/spritzee.json",
+    "location": "data/location/spritzee.json",
+    "base_stats": {
+        "hp": 78,
+        "attack": 52,
+        "defense": 60,
+        "sp. atk": 63,
+        "sp. def": 65,
+        "speed": 23
+    },
+    "entry": "the scent its body gives off enraptures those who smell it. noble ladies had no shortage of love for spritzee.",
+    "training": {
+        "base_exp": 68,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

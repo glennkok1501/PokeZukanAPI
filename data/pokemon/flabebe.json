@@ -1,0 +1,56 @@
+{
+    "name": "flabebe",
+    "id": 669,
+    "info": {
+        "species": "single bloom pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flower-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "symbiosis",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.1,
+        "weight": 0.1
+    },
+    "sprites": {
+        "home": "images/pokemon/flabebe.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+    },
+    "moves": "data/moves/flabebe.json",
+    "location": "data/location/flabebe.json",
+    "base_stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "sp. atk": 61,
+        "sp. def": 79,
+        "speed": 42
+    },
+    "entry": "flab\u00e9b\u00e9 wears a crown made from pollen it\u2019s collected from its flower. the crown has hidden healing properties.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 225,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

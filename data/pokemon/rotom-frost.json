@@ -1,0 +1,53 @@
+{
+    "name": "rotom frost",
+    "id": 479,
+    "info": {
+        "species": "plasma pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric",
+            "ice"
+        ],
+        "height": 0.3,
+        "weight": 0.3
+    },
+    "sprites": {
+        "home": "images/pokemon/rotom-frost.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10010.png"
+    },
+    "moves": "data/moves/rotom-frost.json",
+    "location": "data/location/rotom-frost.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp. atk": 105,
+        "sp. def": 107,
+        "speed": 86
+    },
+    "entry": "with a body made of plasma, it can inhabit all sorts of machines. it loves to surprise others.",
+    "training": {
+        "base_exp": 182,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

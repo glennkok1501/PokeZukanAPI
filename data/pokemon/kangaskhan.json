@@ -1,0 +1,60 @@
+{
+    "name": "kangaskhan",
+    "id": 115,
+    "info": {
+        "species": "parent pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "early-bird",
+                "is_hidden": false
+            },
+            {
+                "name": "scrappy",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 2.2,
+        "weight": 80.0
+    },
+    "sprites": {
+        "home": "images/pokemon/kangaskhan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+    },
+    "moves": "data/moves/kangaskhan.json",
+    "location": "data/location/kangaskhan.json",
+    "base_stats": {
+        "hp": 105,
+        "attack": 95,
+        "defense": 80,
+        "sp. atk": 40,
+        "sp. def": 80,
+        "speed": 90
+    },
+    "entry": "there are records of a lost human child being raised by a childless kangaskhan.",
+    "training": {
+        "base_exp": 172,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

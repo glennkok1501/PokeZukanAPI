@@ -1,0 +1,60 @@
+{
+    "name": "lycanroc midday",
+    "id": 745,
+    "info": {
+        "species": "wolf pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-rush",
+                "is_hidden": false
+            },
+            {
+                "name": "steadfast",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 0.8,
+        "weight": 25.0
+    },
+    "sprites": {
+        "home": "images/pokemon/lycanroc-midday.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png"
+    },
+    "moves": "data/moves/lycanroc-midday.json",
+    "location": "data/location/lycanroc-midday.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 115,
+        "defense": 65,
+        "sp. atk": 55,
+        "sp. def": 65,
+        "speed": 112
+    },
+    "entry": "with swift movements, this pok\u00e9mon gradually backs its prey into a corner. lycanroc\u2019s fangs are always aimed toward opponents\u2019 weak spots.",
+    "training": {
+        "base_exp": 170,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

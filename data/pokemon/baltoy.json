@@ -1,0 +1,53 @@
+{
+    "name": "baltoy",
+    "id": 343,
+    "info": {
+        "species": "clay doll pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ground",
+            "psychic"
+        ],
+        "height": 0.5,
+        "weight": 21.5
+    },
+    "sprites": {
+        "home": "images/pokemon/baltoy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
+    },
+    "moves": "data/moves/baltoy.json",
+    "location": "data/location/baltoy.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 55,
+        "sp. atk": 40,
+        "sp. def": 70,
+        "speed": 55
+    },
+    "entry": "it was discovered in ancient ruins. while moving, it constantly spins. it stands on one foot even when asleep.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

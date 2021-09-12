@@ -1,0 +1,47 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sendoff-spring-area",
+                "trophy-garden-area",
+                "lake-valor-area",
+                "valor-lakefront-area",
+                "sinnoh-route-209-area",
+                "sinnoh-route-212-north-towards-hearthome-city"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-210-south-towards-solaceon-town",
+                "sinnoh-route-215-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-11-area"
+            ]
+        }
+    ]
+}

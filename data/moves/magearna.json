@@ -1,0 +1,264 @@
+{
+    "moves": [
+        {
+            "name": "sonic-boom",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "ice-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psybeam",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "aurora-beam",
+            "method": "level-up",
+            "level": 17
+        },
+        {
+            "name": "hyper-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunderbolt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder-wave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "defense-curl",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "reflect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "explosion",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mind-reader",
+            "method": "level-up",
+            "level": 33
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "false-swipe",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "pain-split",
+            "method": "level-up",
+            "level": 65
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shadow-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "helping-hand",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "brick-break",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "iron-defense",
+            "method": "level-up",
+            "level": 57
+        },
+        {
+            "name": "calm-mind",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "gyro-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "embargo",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "trump-card",
+            "method": "level-up",
+            "level": 97
+        },
+        {
+            "name": "lucky-chant",
+            "method": "level-up",
+            "level": 9
+        },
+        {
+            "name": "heart-swap",
+            "method": "level-up",
+            "level": 89
+        },
+        {
+            "name": "aura-sphere",
+            "method": "level-up",
+            "level": 81
+        },
+        {
+            "name": "focus-blast",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "energy-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mirror-shot",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "flash-cannon",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "trick-room",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "iron-head",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "grass-knot",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "synchronoise",
+            "method": "level-up",
+            "level": 73
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "echoed-voice",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shift-gear",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "volt-switch",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "crafty-shield",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dazzling-gleam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "gear-up",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "fleur-cannon",
+            "method": "level-up",
+            "level": 49
+        }
+    ]
+}

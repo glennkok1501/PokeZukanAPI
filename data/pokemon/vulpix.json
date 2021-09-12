@@ -1,0 +1,56 @@
+{
+    "name": "vulpix",
+    "id": 37,
+    "info": {
+        "species": "fox pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "drought",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.6,
+        "weight": 9.9
+    },
+    "sprites": {
+        "home": "images/pokemon/vulpix.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
+    },
+    "moves": "data/moves/vulpix.json",
+    "location": "data/location/vulpix.json",
+    "base_stats": {
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "sp. atk": 50,
+        "sp. def": 65,
+        "speed": 65
+    },
+    "entry": "if you observe its curly hairs through a microscope, you\u2019ll see small ice particles springing up.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

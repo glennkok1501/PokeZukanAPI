@@ -1,0 +1,60 @@
+{
+    "name": "seaking",
+    "id": 119,
+    "info": {
+        "species": "goldfish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "lightning-rod",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.3,
+        "weight": 39.0
+    },
+    "sprites": {
+        "home": "images/pokemon/seaking.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+    },
+    "moves": "data/moves/seaking.json",
+    "location": "data/location/seaking.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 92,
+        "defense": 65,
+        "sp. atk": 65,
+        "sp. def": 80,
+        "speed": 68
+    },
+    "entry": "using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+    "training": {
+        "base_exp": 158,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

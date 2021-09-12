@@ -1,0 +1,61 @@
+{
+    "name": "escavalier",
+    "id": 589,
+    "info": {
+        "species": "cavalry pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "height": 1.0,
+        "weight": 33.0
+    },
+    "sprites": {
+        "home": "images/pokemon/escavalier.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
+    },
+    "moves": "data/moves/escavalier.json",
+    "location": "data/location/escavalier.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 135,
+        "defense": 105,
+        "sp. atk": 60,
+        "sp. def": 105,
+        "speed": 20
+    },
+    "entry": "it charges its enemies, lances at the ready. an image of one of its duels is captured in a famous painting of escavalier clashing with sirfetch\u2019d.",
+    "training": {
+        "base_exp": 173,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

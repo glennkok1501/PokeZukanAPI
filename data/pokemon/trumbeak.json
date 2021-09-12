@@ -1,0 +1,61 @@
+{
+    "name": "trumbeak",
+    "id": 732,
+    "info": {
+        "species": "bugle beak pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "skill-link",
+                "is_hidden": false
+            },
+            {
+                "name": "pickup",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.6,
+        "weight": 14.8
+    },
+    "sprites": {
+        "home": "images/pokemon/trumbeak.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
+    },
+    "moves": "data/moves/trumbeak.json",
+    "location": "data/location/trumbeak.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 85,
+        "defense": 50,
+        "sp. atk": 40,
+        "sp. def": 50,
+        "speed": 75
+    },
+    "entry": "from its mouth, it fires the seeds of berries it has eaten. the scattered seeds give rise to new plants.",
+    "training": {
+        "base_exp": 124,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

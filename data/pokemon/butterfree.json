@@ -1,0 +1,57 @@
+{
+    "name": "butterfree",
+    "id": 12,
+    "info": {
+        "species": "butterfly pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "compound-eyes",
+                "is_hidden": false
+            },
+            {
+                "name": "tinted-lens",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 1.1,
+        "weight": 32.0
+    },
+    "sprites": {
+        "home": "images/pokemon/butterfree.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+    },
+    "moves": "data/moves/butterfree.json",
+    "location": "data/location/butterfree.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "sp. atk": 90,
+        "sp. def": 80,
+        "speed": 70
+    },
+    "entry": "once it has opponents trapped in a tornado that could blow away a 10-ton truck, it finishes them off with its poisonous scales.",
+    "training": {
+        "base_exp": 178,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

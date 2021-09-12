@@ -1,0 +1,74 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "twist-mountain-area",
+                "wellspring-cave-area",
+                "mistralton-cave-area",
+                "guidance-chamber-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-victory-road-unknown-area-53",
+                "unova-victory-road-unknown-area-54",
+                "unova-victory-road-unknown-area-55",
+                "unova-victory-road-unknown-area-56",
+                "unova-victory-road-unknown-area-57",
+                "unova-victory-road-unknown-area-58",
+                "unova-victory-road-unknown-area-59",
+                "unova-victory-road-unknown-area-60",
+                "unova-victory-road-unknown-area-61",
+                "unova-victory-road-unknown-area-62",
+                "unova-victory-road-unknown-area-63",
+                "unova-victory-road-unknown-area-64",
+                "unova-victory-road-unknown-area-65",
+                "unova-victory-road-unknown-area-66",
+                "trial-chamber-area",
+                "challengers-cave-1f",
+                "challengers-cave-b1f",
+                "challengers-cave-b2f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "reversal-mountain-unknown-area-49",
+                "reversal-mountain-unknown-area-50",
+                "reversal-mountain-unknown-area-51",
+                "reversal-mountain-unknown-area-52",
+                "reversal-mountain-unknown-area-53",
+                "reversal-mountain-unknown-area-54",
+                "reversal-mountain-unknown-area-55",
+                "reversal-mountain-unknown-area-56",
+                "reversal-mountain-unknown-area-57",
+                "reversal-mountain-unknown-area-58",
+                "reversal-mountain-unknown-area-59",
+                "reversal-mountain-unknown-area-60",
+                "relic-passage-castelia-sewers-entrance",
+                "relic-passage-relic-castle-entrance",
+                "relic-passage-pwt-entrance",
+                "clay-tunnel-area",
+                "underground-ruins-area",
+                "rocky-mountain-room-area",
+                "glacier-room-area",
+                "iron-room-area",
+                "seaside-cave-1f",
+                "seaside-cave-b1f"
+            ]
+        }
+    ]
+}

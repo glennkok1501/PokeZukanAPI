@@ -1,0 +1,60 @@
+{
+    "name": "beartic",
+    "id": 614,
+    "info": {
+        "species": "freezing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "slush-rush",
+                "is_hidden": false
+            },
+            {
+                "name": "swift-swim",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 2.6,
+        "weight": 260.0
+    },
+    "sprites": {
+        "home": "images/pokemon/beartic.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png"
+    },
+    "moves": "data/moves/beartic.json",
+    "location": "data/location/beartic.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 130,
+        "defense": 80,
+        "sp. atk": 70,
+        "sp. def": 80,
+        "speed": 50
+    },
+    "entry": "it swims energetically through frigid seas. when it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
+    "training": {
+        "base_exp": 177,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

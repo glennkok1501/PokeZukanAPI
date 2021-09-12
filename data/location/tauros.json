@@ -1,0 +1,85 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-209-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-210-south-towards-solaceon-town"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-38-area",
+                "johto-route-39-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-48-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-safari-zone-area-1-east"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-area-2-north"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-12-area"
+            ]
+        }
+    ]
+}

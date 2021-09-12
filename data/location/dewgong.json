@@ -1,0 +1,95 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-inside-b1f"
+            ]
+        },
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-sea-route-226-area",
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "seafoam-islands-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b3f"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b4f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "icefall-cave-entrance",
+                "icefall-cave-waterfall"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "giant-chasm-forest-cave"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "seaside-cave-1f"
+            ]
+        }
+    ]
+}

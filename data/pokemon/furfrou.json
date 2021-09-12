@@ -1,0 +1,52 @@
+{
+    "name": "furfrou",
+    "id": 676,
+    "info": {
+        "species": "poodle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "fur-coat",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.2,
+        "weight": 28.0
+    },
+    "sprites": {
+        "home": "images/pokemon/furfrou.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
+    },
+    "moves": "data/moves/furfrou.json",
+    "location": "data/location/furfrou.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 60,
+        "sp. atk": 65,
+        "sp. def": 90,
+        "speed": 102
+    },
+    "entry": "left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 160,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

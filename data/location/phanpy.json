@@ -1,0 +1,63 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-207-area"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "johto-route-45-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-46-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-1f",
+                "mt-silver-mountainside",
+                "mt-silver-3f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-neacro-bike-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "canyon-entrance-area",
+                "sevault-canyon-area"
+            ]
+        }
+    ]
+}

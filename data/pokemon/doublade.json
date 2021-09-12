@@ -1,0 +1,53 @@
+{
+    "name": "doublade",
+    "id": 680,
+    "info": {
+        "species": "sword pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "no-guard",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "height": 0.8,
+        "weight": 4.5
+    },
+    "sprites": {
+        "home": "images/pokemon/doublade.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png"
+    },
+    "moves": "data/moves/doublade.json",
+    "location": "data/location/doublade.json",
+    "base_stats": {
+        "hp": 59,
+        "attack": 110,
+        "defense": 150,
+        "sp. atk": 45,
+        "sp. def": 49,
+        "speed": 35
+    },
+    "entry": "the two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.",
+    "training": {
+        "base_exp": 157,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

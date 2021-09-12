@@ -1,0 +1,61 @@
+{
+    "name": "volbeat",
+    "id": 313,
+    "info": {
+        "species": "firefly pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "illuminate",
+                "is_hidden": false
+            },
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "prankster",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.7,
+        "weight": 17.7
+    },
+    "sprites": {
+        "home": "images/pokemon/volbeat.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png"
+    },
+    "moves": "data/moves/volbeat.json",
+    "location": "data/location/volbeat.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 73,
+        "defense": 75,
+        "sp. atk": 47,
+        "sp. def": 85,
+        "speed": 85
+    },
+    "entry": "volbeat\u2019s tail glows like a lightbulb. with other volbeat, it uses its tail to draw geometric shapes in the night sky. this pok\u00e9mon loves the sweet aroma given off by illumise.",
+    "training": {
+        "base_exp": 151,
+        "capture_rate": 150,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

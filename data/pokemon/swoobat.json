@@ -1,0 +1,62 @@
+{
+    "name": "swoobat",
+    "id": 528,
+    "info": {
+        "species": "courting pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "unaware",
+                "is_hidden": false
+            },
+            {
+                "name": "klutz",
+                "is_hidden": false
+            },
+            {
+                "name": "simple",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic",
+            "flying"
+        ],
+        "height": 0.9,
+        "weight": 10.5
+    },
+    "sprites": {
+        "home": "images/pokemon/swoobat.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
+    },
+    "moves": "data/moves/swoobat.json",
+    "location": "data/location/swoobat.json",
+    "base_stats": {
+        "hp": 67,
+        "attack": 57,
+        "defense": 55,
+        "sp. atk": 77,
+        "sp. def": 55,
+        "speed": 114
+    },
+    "entry": "the auspicious shape of this pok\u00e9mon\u2019s nose apparently led some regions to consider swoobat a symbol of good luck.",
+    "training": {
+        "base_exp": 149,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

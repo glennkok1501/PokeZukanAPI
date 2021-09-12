@@ -1,0 +1,66 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "stark-mountain-area",
+                "sinnoh-route-207-area",
+                "sinnoh-route-214-area",
+                "sinnoh-route-215-area",
+                "sinnoh-route-227-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-206-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "johto-route-45-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-south"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-11-area",
+                "unova-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-23-area"
+            ]
+        }
+    ]
+}

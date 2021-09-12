@@ -1,0 +1,379 @@
+{
+    "moves": [
+        {
+            "name": "headbutt",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "double-edge",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "ice-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psybeam",
+            "method": "level-up",
+            "level": 16
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "earthquake",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dig",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confusion",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "psychic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mimic",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "harden",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "reflect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "self-destruct",
+            "method": "level-up",
+            "level": 28
+        },
+        {
+            "name": "dream-eater",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "flash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "explosion",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-slide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mud-slap",
+            "method": "level-up",
+            "level": 7
+        },
+        {
+            "name": "sandstorm",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rapid-spin",
+            "method": "level-up",
+            "level": 4
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psych-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "ancient-power",
+            "method": "level-up",
+            "level": 19
+        },
+        {
+            "name": "shadow-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "trick",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "magic-coat",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "recycle",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "skill-swap",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "imprison",
+            "method": "level-up",
+            "level": 43
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-tomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "cosmic-power",
+            "method": "level-up",
+            "level": 22
+        },
+        {
+            "name": "signal-beam",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "extrasensory",
+            "method": "level-up",
+            "level": 31
+        },
+        {
+            "name": "calm-mind",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "gravity",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "gyro-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "heal-block",
+            "method": "level-up",
+            "level": 10
+        },
+        {
+            "name": "power-trick",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "rock-polish",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "earth-power",
+            "method": "level-up",
+            "level": 37
+        },
+        {
+            "name": "zen-headbutt",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "trick-room",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "stealth-rock",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "grass-knot",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "guard-split",
+            "method": "level-up",
+            "level": 34
+        },
+        {
+            "name": "power-split",
+            "method": "level-up",
+            "level": 34
+        },
+        {
+            "name": "wonder-room",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "psyshock",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "telekinesis",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "smack-down",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "ally-switch",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bulldoze",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "drill-run",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dazzling-gleam",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

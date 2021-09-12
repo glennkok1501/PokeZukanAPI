@@ -1,0 +1,14 @@
+{
+    "location": [
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "ancient-tomb-area"
+            ]
+        }
+    ]
+}

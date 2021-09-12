@@ -1,0 +1,62 @@
+{
+    "name": "gastrodon",
+    "id": 423,
+    "info": {
+        "species": "sea slug pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sticky-hold",
+                "is_hidden": false
+            },
+            {
+                "name": "storm-drain",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ground"
+        ],
+        "height": 0.9,
+        "weight": 29.9
+    },
+    "sprites": {
+        "home": "images/pokemon/gastrodon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
+    },
+    "moves": "data/moves/gastrodon.json",
+    "location": "data/location/gastrodon.json",
+    "base_stats": {
+        "hp": 111,
+        "attack": 83,
+        "defense": 68,
+        "sp. atk": 92,
+        "sp. def": 82,
+        "speed": 39
+    },
+    "entry": "the softness of its body helps disperse the force of impacts, so although its body is uncommonly squishy, it\u2019s also surprisingly resilient.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-2f",
+                "sinnoh-route-222-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cerulean-cave-1f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cerulean-cave-2f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "power-plant-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "new-mauville-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "p2-laboratory-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "lost-hotel-area"
+            ]
+        }
+    ]
+}

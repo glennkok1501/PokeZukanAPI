@@ -1,0 +1,53 @@
+{
+    "name": "sharpedo mega",
+    "id": 319,
+    "info": {
+        "species": "brutal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "strong-jaw",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water",
+            "dark"
+        ],
+        "height": 2.5,
+        "weight": 130.3
+    },
+    "sprites": {
+        "home": "images/pokemon/sharpedo-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png"
+    },
+    "moves": "data/moves/sharpedo-mega.json",
+    "location": "data/location/sharpedo-mega.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 140,
+        "defense": 70,
+        "sp. atk": 110,
+        "sp. def": 65,
+        "speed": 105
+    },
+    "entry": "this pok\u00e9mon is known as the bully of the sea. any ship entering the waters sharpedo calls home will be attacked\u2014no exceptions.",
+    "training": {
+        "base_exp": 196,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

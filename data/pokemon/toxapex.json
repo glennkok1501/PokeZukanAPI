@@ -1,0 +1,61 @@
+{
+    "name": "toxapex",
+    "id": 748,
+    "info": {
+        "species": "brutal star pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "merciless",
+                "is_hidden": false
+            },
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "water"
+        ],
+        "height": 0.7,
+        "weight": 14.5
+    },
+    "sprites": {
+        "home": "images/pokemon/toxapex.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
+    },
+    "moves": "data/moves/toxapex.json",
+    "location": "data/location/toxapex.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 63,
+        "defense": 152,
+        "sp. atk": 53,
+        "sp. def": 142,
+        "speed": 35
+    },
+    "entry": "within the poison sac in its body is a poison so toxic that pok\u00e9mon as large as wailord will still be suffering three days after it first takes effect.",
+    "training": {
+        "base_exp": 173,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

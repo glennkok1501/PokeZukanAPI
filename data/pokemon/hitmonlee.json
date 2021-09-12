@@ -1,0 +1,60 @@
+{
+    "name": "hitmonlee",
+    "id": 106,
+    "info": {
+        "species": "kicking pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "reckless",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.5,
+        "weight": 49.8
+    },
+    "sprites": {
+        "home": "images/pokemon/hitmonlee.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+    },
+    "moves": "data/moves/hitmonlee.json",
+    "location": "data/location/hitmonlee.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 120,
+        "defense": 53,
+        "sp. atk": 35,
+        "sp. def": 110,
+        "speed": 87
+    },
+    "entry": "the legs freely contract and stretch. the stretchy legs allow it to hit a distant foe with a rising kick.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

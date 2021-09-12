@@ -1,0 +1,574 @@
+{
+    "moves": [
+        {
+            "name": "comet-punch",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "mega-punch",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "fire-punch",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "ice-punch",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "thunder-punch",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "cut",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "stomp",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "mega-kick",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "headbutt",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "body-slam",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "take-down",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-edge",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "tail-whip",
+            "method": "level-up",
+            "level": 10
+        },
+        {
+            "name": "leer",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "bite",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "roar",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "disable",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "flamethrower",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "water-gun",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "surf",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "ice-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "blizzard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bubble-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hyper-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "submission",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "low-kick",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "counter",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "seismic-toss",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "strength",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunderbolt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "earthquake",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fissure",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dig",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rage",
+            "method": "level-up",
+            "level": 22
+        },
+        {
+            "name": "mimic",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "focus-energy",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "bide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fire-blast",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "skull-bash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dizzy-punch",
+            "method": "level-up",
+            "level": 34
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-slide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thief",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "curse",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "reversal",
+            "method": "level-up",
+            "level": 50
+        },
+        {
+            "name": "spite",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mud-slap",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "zap-cannon",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "foresight",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "icy-wind",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "outrage",
+            "method": "level-up",
+            "level": 46
+        },
+        {
+            "name": "sandstorm",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "level-up",
+            "level": 43
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fury-cutter",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dynamic-punch",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "iron-tail",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "crunch",
+            "method": "level-up",
+            "level": 37
+        },
+        {
+            "name": "shadow-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-smash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "whirlpool",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fake-out",
+            "method": "level-up",
+            "level": 7
+        },
+        {
+            "name": "uproar",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "hail",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "focus-punch",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "helping-hand",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "brick-break",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "endeavor",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "crush-claw",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "rock-tomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "aerial-ace",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "covet",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "shock-wave",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "water-pulse",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "hammer-arm",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fling",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "trump-card",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "sucker-punch",
+            "method": "level-up",
+            "level": 49
+        },
+        {
+            "name": "aqua-tail",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "drain-punch",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "focus-blast",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "avalanche",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shadow-claw",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rock-climb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "captivate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-hit",
+            "method": "level-up",
+            "level": 19
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "chip-away",
+            "method": "level-up",
+            "level": 31
+        },
+        {
+            "name": "circle-throw",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "incinerate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "retaliate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bulldoze",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "work-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "power-up-punch",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

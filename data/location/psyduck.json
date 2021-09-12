@@ -1,0 +1,225 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-city-area",
+                "ravaged-path-area",
+                "oreburgh-gate-b1f",
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention",
+                "lake-valor-area",
+                "lake-acuity-area",
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town",
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-208-area",
+                "sinnoh-route-209-area",
+                "sinnoh-route-210-west-towards-celestic-town",
+                "sinnoh-route-212-north-towards-hearthome-city",
+                "sinnoh-route-214-area",
+                "twinleaf-town-area",
+                "celestic-town-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-6"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "oreburgh-gate-1f",
+                "sinnoh-route-225-area",
+                "resort-area-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ilex-forest-area",
+                "johto-route-35-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "national-park-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-1f"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "firered",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b1f",
+                "seafoam-islands-b2f",
+                "seafoam-islands-b3f",
+                "seafoam-islands-b4f"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "kanto-route-12-area",
+                "kanto-sea-route-19-area",
+                "kanto-sea-route-20-area",
+                "cinnabar-island-area",
+                "viridian-city-area",
+                "vermilion-city-area",
+                "celadon-city-area",
+                "fuchsia-city-area",
+                "pallet-town-area",
+                "kanto-route-4-area",
+                "kanto-route-10-area",
+                "kanto-route-11-area",
+                "kanto-route-13-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-22-area",
+                "kanto-route-23-area",
+                "ss-anne-area",
+                "berry-forest-area",
+                "icefall-cave-entrance",
+                "icefall-cave-waterfall",
+                "kindle-road-area",
+                "treasure-beach-area",
+                "cape-brink-area",
+                "bond-bridge-area",
+                "resort-gorgeous-area",
+                "water-labyrinth-area",
+                "five-isle-meadow-area",
+                "memorial-pillar-area",
+                "outcast-island-area",
+                "green-path-area",
+                "water-path-area",
+                "ruin-valley-area",
+                "trainer-tower-area",
+                "canyon-entrance-area",
+                "tanoby-ruins-area",
+                "one-island-area",
+                "four-island-area",
+                "five-island-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered"
+            ],
+            "area": [
+                "cerulean-city-area",
+                "kanto-route-24-area",
+                "kanto-route-25-area",
+                "kanto-safari-zone-middle",
+                "kanto-safari-zone-area-1-east",
+                "kanto-safari-zone-area-2-north",
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-6-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cerulean-cave-2f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-nwmach-bike-area",
+                "hoenn-safari-zone-sw"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "floccesy-ranch-inner"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-22-area"
+            ]
+        }
+    ]
+}

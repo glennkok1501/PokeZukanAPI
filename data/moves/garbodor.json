@@ -1,0 +1,274 @@
+{
+    "moves": [
+        {
+            "name": "pound",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "double-slap",
+            "method": "level-up",
+            "level": 14
+        },
+        {
+            "name": "body-slam",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "hyper-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunderbolt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psychic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge",
+            "method": "level-up",
+            "level": 18
+        },
+        {
+            "name": "amnesia",
+            "method": "level-up",
+            "level": 46
+        },
+        {
+            "name": "poison-gas",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "explosion",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thief",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "spite",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge-bomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-drain",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "pain-split",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "stockpile",
+            "method": "level-up",
+            "level": 23
+        },
+        {
+            "name": "swallow",
+            "method": "level-up",
+            "level": 23
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "recycle",
+            "method": "level-up",
+            "level": 3
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "payback",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fling",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic-spikes",
+            "method": "level-up",
+            "level": 7
+        },
+        {
+            "name": "rock-polish",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dark-pulse",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "seed-bomb",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "drain-punch",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "focus-blast",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "gunk-shot",
+            "method": "level-up",
+            "level": 54
+        },
+        {
+            "name": "venoshock",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "smack-down",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge-wave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "acid-spray",
+            "method": "level-up",
+            "level": 12
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "clear-smog",
+            "method": "level-up",
+            "level": 34
+        },
+        {
+            "name": "belch",
+            "method": "level-up",
+            "level": 49
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "infestation",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

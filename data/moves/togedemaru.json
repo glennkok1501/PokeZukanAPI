@@ -1,0 +1,269 @@
+{
+    "moves": [
+        {
+            "name": "tackle",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "twineedle",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "pin-missile",
+            "method": "level-up",
+            "level": 45
+        },
+        {
+            "name": "thunder-shock",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "thunderbolt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder-wave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "defense-curl",
+            "method": "level-up",
+            "level": 5
+        },
+        {
+            "name": "reflect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thief",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "flail",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "reversal",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rollout",
+            "method": "level-up",
+            "level": 9
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "spark",
+            "method": "level-up",
+            "level": 17
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "present",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "encore",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fake-out",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "wish",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "tickle",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "gyro-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "u-turn",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "payback",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fling",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "magnet-rise",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "poison-jab",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "discharge",
+            "method": "level-up",
+            "level": 29
+        },
+        {
+            "name": "grass-knot",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "volt-switch",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "work-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "wild-charge",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fell-stinger",
+            "method": "level-up",
+            "level": 53
+        },
+        {
+            "name": "disarming-voice",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "spiky-shield",
+            "method": "level-up",
+            "level": 49
+        },
+        {
+            "name": "electric-terrain",
+            "method": "level-up",
+            "level": 37
+        },
+        {
+            "name": "nuzzle",
+            "method": "level-up",
+            "level": 21
+        },
+        {
+            "name": "zing-zap",
+            "method": "level-up",
+            "level": 33
+        }
+    ]
+}

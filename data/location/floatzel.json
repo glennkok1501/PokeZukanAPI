@@ -1,0 +1,81 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "fuego-ironworks-area",
+                "sinnoh-victory-road-b1f",
+                "sinnoh-victory-road-inside-b1f",
+                "sinnoh-route-218-area",
+                "sinnoh-route-221-area",
+                "sinnoh-route-222-area",
+                "sinnoh-route-224-area",
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-inside",
+                "sinnoh-victory-road-inside-exit"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-213-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-11-area",
+                "unova-route-14-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "lostlorn-forest-area",
+                "unova-victory-road-2-unknown-area-73",
+                "unova-victory-road-2-unknown-area-79",
+                "nature-sanctuary-area",
+                "unova-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "couriway-town-area",
+                "kalos-route-15-area",
+                "kalos-route-16-area",
+                "kalos-route-21-area",
+                "frost-cavern-unknown-area-313",
+                "frost-cavern-unknown-area-315",
+                "kalos-victory-road-unknown-area-322",
+                "kalos-victory-road-unknown-area-327",
+                "kalos-victory-road-unknown-area-328"
+            ]
+        }
+    ]
+}

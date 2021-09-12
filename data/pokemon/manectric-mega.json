@@ -1,0 +1,52 @@
+{
+    "name": "manectric mega",
+    "id": 310,
+    "info": {
+        "species": "discharge pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 1.8,
+        "weight": 44.0
+    },
+    "sprites": {
+        "home": "images/pokemon/manectric-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png"
+    },
+    "moves": "data/moves/manectric-mega.json",
+    "location": "data/location/manectric-mega.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 80,
+        "sp. atk": 135,
+        "sp. def": 80,
+        "speed": 135
+    },
+    "entry": "it rarely appears before people. it is said to nest where lightning has fallen.",
+    "training": {
+        "base_exp": 201,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "phanpy",
+    "id": 231,
+    "info": {
+        "species": "long nose pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 0.5,
+        "weight": 33.5
+    },
+    "sprites": {
+        "home": "images/pokemon/phanpy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png"
+    },
+    "moves": "data/moves/phanpy.json",
+    "location": "data/location/phanpy.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 60,
+        "sp. atk": 40,
+        "sp. def": 40,
+        "speed": 40
+    },
+    "entry": "phanpy uses its long nose to shower itself. when others gather around, they thoroughly douse each other with water. these pok\u00e9mon can be seen drying their soaking-wet bodies at the edge of water.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

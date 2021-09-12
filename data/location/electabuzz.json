@@ -1,0 +1,33 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-222-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered"
+            ],
+            "area": [
+                "power-plant-area"
+            ]
+        }
+    ]
+}

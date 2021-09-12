@@ -1,0 +1,33 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-210-south-towards-solaceon-town",
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-114-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "nature-sanctuary-area"
+            ]
+        }
+    ]
+}

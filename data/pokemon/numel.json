@@ -1,0 +1,61 @@
+{
+    "name": "numel",
+    "id": 322,
+    "info": {
+        "species": "numb pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "simple",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "ground"
+        ],
+        "height": 0.7,
+        "weight": 24.0
+    },
+    "sprites": {
+        "home": "images/pokemon/numel.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png"
+    },
+    "moves": "data/moves/numel.json",
+    "location": "data/location/numel.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 40,
+        "sp. atk": 65,
+        "sp. def": 45,
+        "speed": 35
+    },
+    "entry": "numel stores magma of almost 2,200 degrees fahrenheit within its body. if it gets wet, the magma cools and hardens. in that event, the pok\u00e9mon\u2019s body grows heavy and its movements become sluggish.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "litten",
+    "id": 725,
+    "info": {
+        "species": "fire cat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "intimidate",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.4,
+        "weight": 4.3
+    },
+    "sprites": {
+        "home": "images/pokemon/litten.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png"
+    },
+    "moves": "data/moves/litten.json",
+    "location": "data/location/litten.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 65,
+        "defense": 40,
+        "sp. atk": 60,
+        "sp. def": 40,
+        "speed": 70
+    },
+    "entry": "trying to pet litten before it trusts you will result in a nasty scratch from its sharp claws. be careful.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

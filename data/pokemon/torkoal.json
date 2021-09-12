@@ -1,0 +1,60 @@
+{
+    "name": "torkoal",
+    "id": 324,
+    "info": {
+        "species": "coal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "white-smoke",
+                "is_hidden": false
+            },
+            {
+                "name": "drought",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.5,
+        "weight": 80.4
+    },
+    "sprites": {
+        "home": "images/pokemon/torkoal.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
+    },
+    "moves": "data/moves/torkoal.json",
+    "location": "data/location/torkoal.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 140,
+        "sp. atk": 85,
+        "sp. def": 70,
+        "speed": 20
+    },
+    "entry": "you find abandoned coal mines full of them. they dig tirelessly in search of coal.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

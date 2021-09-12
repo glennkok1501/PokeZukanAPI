@@ -1,0 +1,60 @@
+{
+    "name": "growlithe",
+    "id": 58,
+    "info": {
+        "species": "puppy pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "justified",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.7,
+        "weight": 19.0
+    },
+    "sprites": {
+        "home": "images/pokemon/growlithe.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+    },
+    "moves": "data/moves/growlithe.json",
+    "location": "data/location/growlithe.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 70,
+        "defense": 45,
+        "sp. atk": 70,
+        "sp. def": 50,
+        "speed": 60
+    },
+    "entry": "extremely loyal, it will fearlessly bark at any opponent to protect its own trainer from harm.",
+    "training": {
+        "base_exp": 70,
+        "capture_rate": 190,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

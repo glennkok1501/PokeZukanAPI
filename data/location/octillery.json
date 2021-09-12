@@ -1,0 +1,77 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "pastoria-city-area",
+                "sunyshore-city-area",
+                "sinnoh-pokemon-league-area",
+                "sinnoh-route-213-area",
+                "sinnoh-route-222-area",
+                "sinnoh-route-224-area",
+                "sinnoh-sea-route-223-area",
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-212-east-towards-pastoria-city"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-south"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "undella-bay-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "undella-town-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-21-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "shalour-city-area",
+                "kalos-route-12-area",
+                "azure-bay-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "trubbish",
+    "id": 568,
+    "info": {
+        "species": "trash bag pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "stench",
+                "is_hidden": false
+            },
+            {
+                "name": "sticky-hold",
+                "is_hidden": false
+            },
+            {
+                "name": "aftermath",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison"
+        ],
+        "height": 0.6,
+        "weight": 31.0
+    },
+    "sprites": {
+        "home": "images/pokemon/trubbish.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png"
+    },
+    "moves": "data/moves/trubbish.json",
+    "location": "data/location/trubbish.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 62,
+        "sp. atk": 40,
+        "sp. def": 62,
+        "speed": 65
+    },
+    "entry": "this pok\u00e9mon was born from a bag stuffed with trash. galarian weezing relish the fumes belched by trubbish.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

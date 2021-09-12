@@ -1,0 +1,47 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-1f",
+                "stark-mountain-entrance",
+                "stark-mountain-inside"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "stark-mountain-area",
+                "sinnoh-route-227-area",
+                "sinnoh-route-228-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "kanto-victory-road-1-1f",
+                "kanto-victory-road-1-2f",
+                "kanto-victory-road-1-3f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "cerulean-cave-2f",
+                "cerulean-cave-b1f"
+            ]
+        }
+    ]
+}

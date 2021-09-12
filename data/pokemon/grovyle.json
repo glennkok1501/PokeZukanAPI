@@ -1,0 +1,57 @@
+{
+    "name": "grovyle",
+    "id": 253,
+    "info": {
+        "species": "wood gecko pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.9,
+        "weight": 21.6
+    },
+    "sprites": {
+        "home": "images/pokemon/grovyle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
+    },
+    "moves": "data/moves/grovyle.json",
+    "location": "data/location/grovyle.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "sp. atk": 85,
+        "sp. def": 65,
+        "speed": 95
+    },
+    "entry": "this pok\u00e9mon adeptly flies from branch to branch in trees. in a forest, no pok\u00e9mon can ever hope to catch a fleeing grovyle however fast they may be.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

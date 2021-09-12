@@ -1,0 +1,61 @@
+{
+    "name": "igglybuff",
+    "id": 174,
+    "info": {
+        "species": "balloon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cute-charm",
+                "is_hidden": false
+            },
+            {
+                "name": "competitive",
+                "is_hidden": false
+            },
+            {
+                "name": "friend-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "height": 0.3,
+        "weight": 1.0
+    },
+    "sprites": {
+        "home": "images/pokemon/igglybuff.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
+    },
+    "moves": "data/moves/igglybuff.json",
+    "location": "data/location/igglybuff.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 30,
+        "defense": 15,
+        "sp. atk": 40,
+        "sp. def": 20,
+        "speed": 15
+    },
+    "entry": "taking advantage of the softness of its body, igglybuff moves as if bouncing. its body turns a deep pink when its temperature rises.",
+    "training": {
+        "base_exp": 42,
+        "capture_rate": 170,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "pinwheel-forest-inside"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-12-area",
+                "unova-route-20-area"
+            ]
+        }
+    ]
+}

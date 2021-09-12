@@ -1,0 +1,52 @@
+{
+    "name": "metapod",
+    "id": 11,
+    "info": {
+        "species": "cocoon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.7,
+        "weight": 9.9
+    },
+    "sprites": {
+        "home": "images/pokemon/metapod.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+    },
+    "moves": "data/moves/metapod.json",
+    "location": "data/location/metapod.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "sp. atk": 25,
+        "sp. def": 25,
+        "speed": 30
+    },
+    "entry": "even though it is encased in a sturdy shell, the body inside is tender. it can\u2019t withstand a harsh attack.",
+    "training": {
+        "base_exp": 72,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

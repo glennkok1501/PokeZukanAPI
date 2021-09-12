@@ -1,0 +1,56 @@
+{
+    "name": "flareon",
+    "id": 136,
+    "info": {
+        "species": "flame pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "guts",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.9,
+        "weight": 25.0
+    },
+    "sprites": {
+        "home": "images/pokemon/flareon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+    },
+    "moves": "data/moves/flareon.json",
+    "location": "data/location/flareon.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "sp. atk": 95,
+        "sp. def": 110,
+        "speed": 65
+    },
+    "entry": "it stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees fahrenheit.",
+    "training": {
+        "base_exp": 184,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

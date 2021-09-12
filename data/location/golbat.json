@@ -1,0 +1,256 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "mt-coronet-route-207",
+                "mt-coronet-2f",
+                "mt-coronet-3f",
+                "mt-coronet-snowfall",
+                "mt-coronet-blizzard",
+                "mt-coronet-4f",
+                "mt-coronet-5f",
+                "mt-coronet-6f",
+                "mt-coronet-7f",
+                "mt-coronet-cave",
+                "mt-coronet-route-216",
+                "mt-coronet-b1f",
+                "sinnoh-victory-road-1f",
+                "sinnoh-victory-road-2f",
+                "sinnoh-victory-road-b1f",
+                "sinnoh-victory-road-inside-b1f",
+                "sinnoh-victory-road-inside",
+                "sinnoh-victory-road-inside-exit",
+                "ravaged-path-area",
+                "oreburgh-gate-b1f",
+                "stark-mountain-area",
+                "stark-mountain-entrance",
+                "stark-mountain-inside",
+                "turnback-cave-pillar-1",
+                "turnback-cave-pillar-2",
+                "turnback-cave-pillar-3",
+                "turnback-cave-before-pillar-1",
+                "turnback-cave-between-pillars-1-and-2",
+                "turnback-cave-between-pillars-2-and-3",
+                "turnback-cave-after-pillar-3",
+                "snowpoint-temple-1f",
+                "snowpoint-temple-b1f",
+                "snowpoint-temple-b2f",
+                "snowpoint-temple-b3f",
+                "snowpoint-temple-b4f",
+                "snowpoint-temple-b5f",
+                "iron-island-1f",
+                "iron-island-b1f-left",
+                "iron-island-b1f-right",
+                "iron-island-b2f-right",
+                "iron-island-b2f-left",
+                "iron-island-b3f",
+                "lost-tower-3f",
+                "lost-tower-4f",
+                "lost-tower-5f",
+                "sinnoh-route-227-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sendoff-spring-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "union-cave-b2f",
+                "slowpoke-well-b1f",
+                "whirl-islands-1f",
+                "whirl-islands-b1f",
+                "whirl-islands-b2f",
+                "whirl-islands-b3f",
+                "mt-mortar-upper-cave",
+                "ice-path-1f",
+                "ice-path-b1f",
+                "ice-path-b2f",
+                "ice-path-b3f",
+                "dark-cave-blackthorn-city-entrance",
+                "mt-silver-2f",
+                "mt-silver-1f",
+                "mt-silver-top",
+                "kanto-victory-road-1-1f",
+                "tohjo-falls-area",
+                "kanto-victory-road-1-2f",
+                "kanto-victory-road-1-3f"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-42-area",
+                "mt-mortar-1f",
+                "mt-mortar-lower-cave",
+                "mt-mortar-b1f",
+                "mt-silver-outside",
+                "kanto-route-28-area",
+                "rock-tunnel-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-1f",
+                "seafoam-islands-b2f",
+                "seafoam-islands-b4f",
+                "cerulean-cave-1f"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b1f",
+                "seafoam-islands-b3f",
+                "cerulean-cave-2f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-4f",
+                "johto-route-47-inside-cave",
+                "mt-silver-mountainside",
+                "mt-silver-3f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-2f",
+                "kanto-victory-road-2-3f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "meteor-falls-back",
+                "meteor-falls-b1f",
+                "meteor-falls-backsmall-room",
+                "seafloor-cavern-area",
+                "cave-of-origin-entrance",
+                "cave-of-origin-1f",
+                "cave-of-origin-b1f",
+                "cave-of-origin-b2f",
+                "cave-of-origin-b3f",
+                "hoenn-victory-road-1f",
+                "hoenn-victory-road-b1f",
+                "hoenn-victory-road-b2f",
+                "shoal-cave-area",
+                "shoal-cave-b1f",
+                "sky-pillar-1f",
+                "sky-pillar-3f",
+                "sky-pillar-5f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "icefall-cave-entrance",
+                "icefall-cave-1f",
+                "icefall-cave-b1f",
+                "icefall-cave-waterfall",
+                "lost-cave-room-1",
+                "lost-cave-room-2",
+                "lost-cave-room-3",
+                "lost-cave-room-4",
+                "lost-cave-room-5",
+                "lost-cave-room-6",
+                "lost-cave-room-7",
+                "lost-cave-room-8",
+                "lost-cave-room-9",
+                "lost-cave-room-10",
+                "lost-cave-item-rooms"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dreamyard-area",
+                "dreamyard-b1f",
+                "celestial-tower-3f",
+                "celestial-tower-4f",
+                "celestial-tower-5f",
+                "strange-house-1f",
+                "strange-house-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "giant-chasm-outside",
+                "giant-chasm-area",
+                "giant-chasm-forest-cave",
+                "unova-route-13-area"
+            ]
+        }
+    ]
+}

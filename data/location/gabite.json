@@ -1,0 +1,17 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-1f",
+                "sinnoh-victory-road-2f",
+                "sinnoh-victory-road-b1f",
+                "sinnoh-victory-road-inside-b1f",
+                "sinnoh-victory-road-inside",
+                "sinnoh-victory-road-inside-exit"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "pachirisu",
+    "id": 417,
+    "info": {
+        "species": "elesquirrel pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "volt-absorb",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.4,
+        "weight": 3.9
+    },
+    "sprites": {
+        "home": "images/pokemon/pachirisu.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png"
+    },
+    "moves": "data/moves/pachirisu.json",
+    "location": "data/location/pachirisu.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "sp. atk": 45,
+        "sp. def": 90,
+        "speed": 95
+    },
+    "entry": "a pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

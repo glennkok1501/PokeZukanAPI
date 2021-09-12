@@ -1,0 +1,57 @@
+{
+    "name": "tapu koko",
+    "id": 785,
+    "info": {
+        "species": "land spirit pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "electric-surge",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric",
+            "fairy"
+        ],
+        "height": 1.8,
+        "weight": 20.5
+    },
+    "sprites": {
+        "home": "images/pokemon/tapu-koko.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
+    },
+    "moves": "data/moves/tapu-koko.json",
+    "location": "data/location/tapu-koko.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 115,
+        "defense": 85,
+        "sp. atk": 95,
+        "sp. def": 75,
+        "speed": 130
+    },
+    "entry": "the lightning-wielding guardian deity of melemele, tapu koko is brimming with curiosity and appears before people from time to time.",
+    "training": {
+        "base_exp": 257,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

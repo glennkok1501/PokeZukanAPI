@@ -1,0 +1,56 @@
+{
+    "name": "sandslash",
+    "id": 28,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-rush",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 1.0,
+        "weight": 29.5
+    },
+    "sprites": {
+        "home": "images/pokemon/sandslash.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+    },
+    "moves": "data/moves/sandslash.json",
+    "location": "data/location/sandslash.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 110,
+        "sp. atk": 45,
+        "sp. def": 55,
+        "speed": 65
+    },
+    "entry": "many people climb snowy mountains, hoping to see the icy spikes of these pok\u00e9mon glistening in the light of dawn.",
+    "training": {
+        "base_exp": 158,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

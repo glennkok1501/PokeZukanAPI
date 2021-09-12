@@ -1,0 +1,199 @@
+{
+    "moves": [
+        {
+            "name": "absorb",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "mega-drain",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-powder",
+            "method": "level-up",
+            "level": 18
+        },
+        {
+            "name": "thunder-wave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confuse-ray",
+            "method": "level-up",
+            "level": 26
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dream-eater",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "spore",
+            "method": "level-up",
+            "level": 40
+        },
+        {
+            "name": "flash",
+            "method": "level-up",
+            "level": 8
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge-bomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-drain",
+            "method": "level-up",
+            "level": 31
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "moonlight",
+            "method": "level-up",
+            "level": 11
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "nature-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "ingrain",
+            "method": "level-up",
+            "level": 22
+        },
+        {
+            "name": "astonish",
+            "method": "level-up",
+            "level": 4
+        },
+        {
+            "name": "energy-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "grass-knot",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "charge-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "moonblast",
+            "method": "level-up",
+            "level": 44
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dazzling-gleam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "strength-sap",
+            "method": "level-up",
+            "level": 35
+        },
+        {
+            "name": "spotlight",
+            "method": "level-up",
+            "level": 53
+        }
+    ]
+}

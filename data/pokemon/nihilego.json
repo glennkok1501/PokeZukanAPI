@@ -1,0 +1,53 @@
+{
+    "name": "nihilego",
+    "id": 793,
+    "info": {
+        "species": "parasite pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "beast-boost",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "poison"
+        ],
+        "height": 1.2,
+        "weight": 55.5
+    },
+    "sprites": {
+        "home": "images/pokemon/nihilego.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png"
+    },
+    "moves": "data/moves/nihilego.json",
+    "location": "data/location/nihilego.json",
+    "base_stats": {
+        "hp": 109,
+        "attack": 53,
+        "defense": 47,
+        "sp. atk": 127,
+        "sp. def": 131,
+        "speed": 103
+    },
+    "entry": "it appeared in this world from an ultra wormhole. nihilego appears to be a parasite that lives by feeding on people and pok\u00e9mon.",
+    "training": {
+        "base_exp": 257,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

@@ -1,0 +1,384 @@
+{
+    "moves": [
+        {
+            "name": "swords-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "take-down",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-edge",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "strength",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mega-drain",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "leech-seed",
+            "method": "level-up",
+            "level": 11
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "poison-powder",
+            "method": "level-up",
+            "level": 21
+        },
+        {
+            "name": "stun-spore",
+            "method": "level-up",
+            "level": 19
+        },
+        {
+            "name": "sleep-powder",
+            "method": "level-up",
+            "level": 23
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confusion",
+            "method": "level-up",
+            "level": 27
+        },
+        {
+            "name": "psychic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hypnosis",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "rage",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "teleport",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mimic",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "reflect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "self-destruct",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "egg-bomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "dream-eater",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "barrage",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "flash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psywave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "explosion",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thief",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "nightmare",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "curse",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sludge-bomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-drain",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rollout",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "synthesis",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "moonlight",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psych-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "ancient-power",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "uproar",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "nature-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "ingrain",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "skill-swap",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "extrasensory",
+            "method": "level-up",
+            "level": 47
+        },
+        {
+            "name": "bullet-seed",
+            "method": "level-up",
+            "level": 17
+        },
+        {
+            "name": "block",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "gravity",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "lucky-chant",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "power-swap",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "worry-seed",
+            "method": "level-up",
+            "level": 33
+        },
+        {
+            "name": "seed-bomb",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "energy-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "trick-room",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "leaf-storm",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "captivate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "grass-knot",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "telekinesis",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bestow",
+            "method": "level-up",
+            "level": 50
+        },
+        {
+            "name": "grassy-terrain",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "infestation",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

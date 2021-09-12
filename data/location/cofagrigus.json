@@ -1,0 +1,14 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "relic-castle-b",
+                "relic-castle-c"
+            ]
+        }
+    ]
+}

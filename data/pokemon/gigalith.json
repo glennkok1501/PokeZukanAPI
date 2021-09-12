@@ -1,0 +1,60 @@
+{
+    "name": "gigalith",
+    "id": 526,
+    "info": {
+        "species": "compressed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-stream",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 1.7,
+        "weight": 260.0
+    },
+    "sprites": {
+        "home": "images/pokemon/gigalith.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png"
+    },
+    "moves": "data/moves/gigalith.json",
+    "location": "data/location/gigalith.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 135,
+        "defense": 130,
+        "sp. atk": 60,
+        "sp. def": 80,
+        "speed": 25
+    },
+    "entry": "although its energy blasts can blow away a dump truck, they have a limitation\u2014 they can only be fired when the sun is out.",
+    "training": {
+        "base_exp": 232,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

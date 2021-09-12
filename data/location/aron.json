@@ -1,0 +1,36 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "platinum"
+            ],
+            "area": [
+                "fuego-ironworks-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "granite-cave-b1f",
+                "granite-cave-b2f",
+                "granite-cave-1fsmall-room",
+                "hoenn-victory-road-1f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "mistralton-cave-area",
+                "guidance-chamber-area"
+            ]
+        }
+    ]
+}

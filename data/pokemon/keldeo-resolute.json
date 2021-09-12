@@ -1,0 +1,53 @@
+{
+    "name": "keldeo resolute",
+    "id": 647,
+    "info": {
+        "species": "colt pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "justified",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "height": 1.4,
+        "weight": 48.5
+    },
+    "sprites": {
+        "home": "images/pokemon/keldeo-resolute.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10024.png"
+    },
+    "moves": "data/moves/keldeo-resolute.json",
+    "location": "data/location/keldeo-resolute.json",
+    "base_stats": {
+        "hp": 91,
+        "attack": 72,
+        "defense": 90,
+        "sp. atk": 129,
+        "sp. def": 90,
+        "speed": 108
+    },
+    "entry": "when it is resolute, its body fills with power and it becomes swifter. its jumps are then too fast to follow.",
+    "training": {
+        "base_exp": 261,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 80,
+            "steps": 20655
+        }
+    }
+}

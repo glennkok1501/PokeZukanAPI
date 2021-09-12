@@ -1,0 +1,56 @@
+{
+    "name": "cranidos",
+    "id": 408,
+    "info": {
+        "species": "head butt pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mold-breaker",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 0.9,
+        "weight": 31.5
+    },
+    "sprites": {
+        "home": "images/pokemon/cranidos.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
+    },
+    "moves": "data/moves/cranidos.json",
+    "location": "data/location/cranidos.json",
+    "base_stats": {
+        "hp": 67,
+        "attack": 125,
+        "defense": 40,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 58
+    },
+    "entry": "its hard skull is its distinguishing feature. it snapped trees by headbutting them, and then it fed on their ripe berries.",
+    "training": {
+        "base_exp": 70,
+        "capture_rate": 45,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

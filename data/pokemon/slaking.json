@@ -1,0 +1,52 @@
+{
+    "name": "slaking",
+    "id": 289,
+    "info": {
+        "species": "lazy pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "truant",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 2.0,
+        "weight": 130.5
+    },
+    "sprites": {
+        "home": "images/pokemon/slaking.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png"
+    },
+    "moves": "data/moves/slaking.json",
+    "location": "data/location/slaking.json",
+    "base_stats": {
+        "hp": 150,
+        "attack": 160,
+        "defense": 100,
+        "sp. atk": 95,
+        "sp. def": 65,
+        "speed": 100
+    },
+    "entry": "wherever slaking live, rings of over a yard in diameter appear in grassy fields. they are made by the pok\u00e9mon as it eats all the grass within reach while lying prone on the ground.",
+    "training": {
+        "base_exp": 252,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

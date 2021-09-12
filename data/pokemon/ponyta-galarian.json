@@ -1,0 +1,60 @@
+{
+    "name": "ponyta galarian",
+    "id": 77,
+    "info": {
+        "species": "unique horn pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "pastel-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "anticipation",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.8,
+        "weight": 24.0
+    },
+    "sprites": {
+        "home": "images/pokemon/ponyta-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10159.png"
+    },
+    "moves": "data/moves/ponyta-galarian.json",
+    "location": "data/location/ponyta-galarian.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 55,
+        "sp. atk": 65,
+        "sp. def": 65,
+        "speed": 90
+    },
+    "entry": "this pok\u00e9mon will look into your eyes and read the contents of your heart. if it finds evil there, it promptly hides away.",
+    "training": {
+        "base_exp": 82,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

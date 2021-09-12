@@ -1,0 +1,60 @@
+{
+    "name": "tympole",
+    "id": 535,
+    "info": {
+        "species": "tadpole pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.5,
+        "weight": 4.5
+    },
+    "sprites": {
+        "home": "images/pokemon/tympole.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+    },
+    "moves": "data/moves/tympole.json",
+    "location": "data/location/tympole.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "sp. atk": 50,
+        "sp. def": 40,
+        "speed": 64
+    },
+    "entry": "it uses sound waves to communicate with others of its kind. people and other pok\u00e9mon species can\u2019t hear its cries of warning.",
+    "training": {
+        "base_exp": 59,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

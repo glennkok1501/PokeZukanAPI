@@ -1,0 +1,77 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area",
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town",
+                "sinnoh-route-210-south-towards-solaceon-town",
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-29-area",
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "johto-route-43-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "ilex-forest-area",
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-36-area",
+                "johto-route-37-area",
+                "johto-route-38-area",
+                "johto-route-39-area",
+                "lake-of-rage-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-north",
+                "hoenn-altering-cave-c"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-altering-cave-c"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver"
+            ],
+            "area": [
+                "azalea-town-area"
+            ]
+        }
+    ]
+}

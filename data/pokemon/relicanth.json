@@ -1,0 +1,62 @@
+{
+    "name": "relicanth",
+    "id": 369,
+    "info": {
+        "species": "longevity pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "rock"
+        ],
+        "height": 1.0,
+        "weight": 23.4
+    },
+    "sprites": {
+        "home": "images/pokemon/relicanth.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png"
+    },
+    "moves": "data/moves/relicanth.json",
+    "location": "data/location/relicanth.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 90,
+        "defense": 130,
+        "sp. atk": 45,
+        "sp. def": 65,
+        "speed": 55
+    },
+    "entry": "the reason it hasn\u2019t changed at all in a hundred million years is that it\u2019s apparently already a perfect life-form.",
+    "training": {
+        "base_exp": 170,
+        "capture_rate": 25,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water2"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-201-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-35-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "national-park-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-36-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-2-south-towards-viridian-city",
+                "kanto-route-9-area",
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "firered"
+            ],
+            "area": [
+                "kanto-safari-zone-middle",
+                "kanto-safari-zone-area-2-north"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-area-1-east",
+                "kanto-safari-zone-area-3-west"
+            ]
+        }
+    ]
+}

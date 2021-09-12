@@ -1,0 +1,39 @@
+{
+    "location": [
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-7-area"
+            ]
+        },
+        {
+            "game": [
+                "soulsilver"
+            ],
+            "area": [
+                "cerulean-cave-1f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kindle-road-area",
+                "treasure-beach-area",
+                "cape-brink-area",
+                "bond-bridge-area",
+                "five-isle-meadow-area",
+                "water-path-area",
+                "ruin-valley-area",
+                "canyon-entrance-area",
+                "sevault-canyon-area"
+            ]
+        }
+    ]
+}

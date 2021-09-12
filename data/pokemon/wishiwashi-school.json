@@ -1,0 +1,52 @@
+{
+    "name": "wishiwashi school",
+    "id": 746,
+    "info": {
+        "species": "small fry pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "schooling",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 8.2,
+        "weight": 78.6
+    },
+    "sprites": {
+        "home": "images/pokemon/wishiwashi-school.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10127.png"
+    },
+    "moves": "data/moves/wishiwashi-school.json",
+    "location": "data/location/wishiwashi-school.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 140,
+        "defense": 130,
+        "sp. atk": 140,
+        "sp. def": 135,
+        "speed": 30
+    },
+    "entry": "when it senses danger, its eyes tear up. the sparkle of its tears signals other wishiwashi to gather.",
+    "training": {
+        "base_exp": 217,
+        "capture_rate": 60,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

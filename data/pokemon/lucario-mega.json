@@ -1,0 +1,54 @@
+{
+    "name": "lucario mega",
+    "id": 448,
+    "info": {
+        "species": "aura pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "adaptability",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fighting",
+            "steel"
+        ],
+        "height": 1.3,
+        "weight": 57.5
+    },
+    "sprites": {
+        "home": "images/pokemon/lucario-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png"
+    },
+    "moves": "data/moves/lucario-mega.json",
+    "location": "data/location/lucario-mega.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 145,
+        "defense": 88,
+        "sp. atk": 140,
+        "sp. def": 70,
+        "speed": 112
+    },
+    "entry": "it can tell what people are thinking. only trainers who have justice in their hearts can earn this pok\u00e9mon\u2019s trust.",
+    "training": {
+        "base_exp": 219,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

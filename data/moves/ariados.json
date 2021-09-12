@@ -1,0 +1,334 @@
+{
+    "moves": [
+        {
+            "name": "swords-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "body-slam",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "double-edge",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "poison-sting",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "pin-missile",
+            "method": "level-up",
+            "level": 41
+        },
+        {
+            "name": "hyper-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "absorb",
+            "method": "level-up",
+            "level": 5
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "string-shot",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "dig",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psychic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "agility",
+            "method": "level-up",
+            "level": 37
+        },
+        {
+            "name": "night-shade",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "mimic",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "screech",
+            "method": "level-up",
+            "level": 53
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "focus-energy",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "constrict",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "leech-life",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "flash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fury-swipes",
+            "method": "level-up",
+            "level": 23
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thief",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "spider-web",
+            "method": "level-up",
+            "level": 32
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "curse",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "scary-face",
+            "method": "level-up",
+            "level": 12
+        },
+        {
+            "name": "sludge-bomb",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-drain",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "signal-beam",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "bounce",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sucker-punch",
+            "method": "level-up",
+            "level": 28
+        },
+        {
+            "name": "poison-jab",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "x-scissor",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shadow-sneak",
+            "method": "level-up",
+            "level": 19
+        },
+        {
+            "name": "cross-poison",
+            "method": "level-up",
+            "level": 55
+        },
+        {
+            "name": "captivate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bug-bite",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "hone-claws",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "venoshock",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "foul-play",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "struggle-bug",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "electroweb",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "sticky-web",
+            "method": "level-up",
+            "level": 58
+        },
+        {
+            "name": "fell-stinger",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "venom-drench",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "infestation",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic-thread",
+            "method": "level-up",
+            "level": 63
+        },
+        {
+            "name": "smart-strike",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

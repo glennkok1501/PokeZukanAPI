@@ -1,0 +1,42 @@
+{
+    "location": [
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-victory-road-1f",
+                "hoenn-victory-road-b1f",
+                "hoenn-victory-road-b2f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "clay-tunnel-area",
+                "underground-ruins-area",
+                "rocky-mountain-room-area",
+                "glacier-room-area",
+                "iron-room-area"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "kalos-route-18-area",
+                "terminus-cave-unknown-area-343",
+                "terminus-cave-unknown-area-344",
+                "terminus-cave-unknown-area-345",
+                "terminus-cave-unknown-area-347",
+                "terminus-cave-unknown-area-348"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "driftveil-city-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "p2-laboratory-area",
+                "unova-route-4-area",
+                "unova-route-18-area",
+                "unova-route-17-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "undella-bay-area",
+                "unova-route-13-area",
+                "undella-town-area",
+                "virbank-city-area",
+                "humilau-city-area",
+                "virbank-complex-outer",
+                "seaside-cave-1f",
+                "unova-route-21-area"
+            ]
+        }
+    ]
+}

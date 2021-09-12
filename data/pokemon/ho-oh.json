@@ -1,0 +1,57 @@
+{
+    "name": "ho oh",
+    "id": 250,
+    "info": {
+        "species": "rainbow pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "height": 3.8,
+        "weight": 199.0
+    },
+    "sprites": {
+        "home": "images/pokemon/ho-oh.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+    },
+    "moves": "data/moves/ho-oh.json",
+    "location": "data/location/ho-oh.json",
+    "base_stats": {
+        "hp": 106,
+        "attack": 130,
+        "defense": 90,
+        "sp. atk": 110,
+        "sp. def": 154,
+        "speed": 90
+    },
+    "entry": "ho-oh\u2019s feathers glow in seven colors depending on the angle at which they are struck by light. these feathers are said to bring happiness to the bearers. this pok\u00e9mon is said to live at the foot of a rainbow.",
+    "training": {
+        "base_exp": 306,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

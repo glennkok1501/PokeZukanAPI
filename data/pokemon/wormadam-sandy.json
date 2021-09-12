@@ -1,0 +1,57 @@
+{
+    "name": "wormadam sandy",
+    "id": 413,
+    "info": {
+        "species": "bagworm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "ground"
+        ],
+        "height": 0.5,
+        "weight": 6.5
+    },
+    "sprites": {
+        "home": "images/pokemon/wormadam-sandy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10004.png"
+    },
+    "moves": "data/moves/wormadam-sandy.json",
+    "location": "data/location/wormadam-sandy.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 79,
+        "defense": 105,
+        "sp. atk": 59,
+        "sp. def": 85,
+        "speed": 36
+    },
+    "entry": "when burmy evolved, its cloak became a part of this pok\u00e9mon\u2019s body. the cloak is never shed.",
+    "training": {
+        "base_exp": 148,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

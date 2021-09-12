@@ -1,0 +1,61 @@
+{
+    "name": "fraxure",
+    "id": 611,
+    "info": {
+        "species": "axe jaw pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rivalry",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon"
+        ],
+        "height": 1.0,
+        "weight": 36.0
+    },
+    "sprites": {
+        "home": "images/pokemon/fraxure.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
+    },
+    "moves": "data/moves/fraxure.json",
+    "location": "data/location/fraxure.json",
+    "base_stats": {
+        "hp": 66,
+        "attack": 117,
+        "defense": 70,
+        "sp. atk": 40,
+        "sp. def": 50,
+        "speed": 67
+    },
+    "entry": "its skin is as hard as a suit of armor. fraxure\u2019s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

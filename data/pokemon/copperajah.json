@@ -1,0 +1,54 @@
+{
+    "name": "copperajah",
+    "id": 879,
+    "info": {
+        "species": "copperderm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "heavy-metal",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel"
+        ],
+        "height": 3.0,
+        "weight": 650.0
+    },
+    "sprites": {
+        "home": "images/pokemon/copperajah.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png"
+    },
+    "moves": "data/moves/copperajah.json",
+    "location": "data/location/copperajah.json",
+    "base_stats": {
+        "hp": 122,
+        "attack": 130,
+        "defense": 69,
+        "sp. atk": 80,
+        "sp. def": 69,
+        "speed": 30
+    },
+    "entry": "these pok\u00e9mon live in herds. their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

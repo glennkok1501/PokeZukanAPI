@@ -1,0 +1,61 @@
+{
+    "name": "milotic",
+    "id": 350,
+    "info": {
+        "species": "tender pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "marvel-scale",
+                "is_hidden": false
+            },
+            {
+                "name": "competitive",
+                "is_hidden": false
+            },
+            {
+                "name": "cute-charm",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 6.2,
+        "weight": 162.0
+    },
+    "sprites": {
+        "home": "images/pokemon/milotic.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+    },
+    "moves": "data/moves/milotic.json",
+    "location": "data/location/milotic.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 60,
+        "defense": 79,
+        "sp. atk": 100,
+        "sp. def": 125,
+        "speed": 81
+    },
+    "entry": "it\u2019s said that a glimpse of a milotic and its beauty will calm any hostile emotions you\u2019re feeling.",
+    "training": {
+        "base_exp": 189,
+        "capture_rate": 60,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

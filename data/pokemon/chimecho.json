@@ -1,0 +1,52 @@
+{
+    "name": "chimecho",
+    "id": 358,
+    "info": {
+        "species": "wind chime pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.6,
+        "weight": 1.0
+    },
+    "sprites": {
+        "home": "images/pokemon/chimecho.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png"
+    },
+    "moves": "data/moves/chimecho.json",
+    "location": "data/location/chimecho.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 80,
+        "sp. atk": 95,
+        "sp. def": 90,
+        "speed": 65
+    },
+    "entry": "in high winds, chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. this pok\u00e9mon plucks berries with its long tail and eats them.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 45,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

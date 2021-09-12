@@ -1,0 +1,59 @@
+{
+    "name": "impidimp",
+    "id": 859,
+    "info": {
+        "species": "wily pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prankster",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "pickpocket",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "fairy"
+        ],
+        "height": 0.4,
+        "weight": 5.5
+    },
+    "sprites": {
+        "home": "images/pokemon/impidimp.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png"
+    },
+    "moves": "data/moves/impidimp.json",
+    "location": "data/location/impidimp.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 45,
+        "defense": 30,
+        "sp. atk": 55,
+        "sp. def": 40,
+        "speed": 50
+    },
+    "entry": "it sneaks into people\u2019s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
+    "training": {
+        "base_exp": 53,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

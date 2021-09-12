@@ -1,0 +1,60 @@
+{
+    "name": "hitmontop",
+    "id": 237,
+    "info": {
+        "species": "handstand pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "technician",
+                "is_hidden": false
+            },
+            {
+                "name": "steadfast",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.4,
+        "weight": 48.0
+    },
+    "sprites": {
+        "home": "images/pokemon/hitmontop.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png"
+    },
+    "moves": "data/moves/hitmontop.json",
+    "location": "data/location/hitmontop.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 95,
+        "sp. atk": 35,
+        "sp. def": 110,
+        "speed": 70
+    },
+    "entry": "after doing a handstand to throw off the opponent\u2019s timing, it presents its fancy kick moves.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "location": [
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "saffron-city-fighting-dojo"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "sewaddle",
+    "id": 540,
+    "info": {
+        "species": "sewing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "height": 0.3,
+        "weight": 2.5
+    },
+    "sprites": {
+        "home": "images/pokemon/sewaddle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png"
+    },
+    "moves": "data/moves/sewaddle.json",
+    "location": "data/location/sewaddle.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 53,
+        "defense": 70,
+        "sp. atk": 40,
+        "sp. def": 60,
+        "speed": 42
+    },
+    "entry": "since this pok\u00e9mon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

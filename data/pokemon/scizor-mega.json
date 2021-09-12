@@ -1,0 +1,53 @@
+{
+    "name": "scizor mega",
+    "id": 212,
+    "info": {
+        "species": "pincer pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "technician",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "height": 2.0,
+        "weight": 125.0
+    },
+    "sprites": {
+        "home": "images/pokemon/scizor-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png"
+    },
+    "moves": "data/moves/scizor-mega.json",
+    "location": "data/location/scizor-mega.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 150,
+        "defense": 140,
+        "sp. atk": 65,
+        "sp. def": 100,
+        "speed": 75
+    },
+    "entry": "though its body is slim, scizor has tremendous attacking power. even scizor\u2019s muscles are made of metal.",
+    "training": {
+        "base_exp": 210,
+        "capture_rate": 25,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

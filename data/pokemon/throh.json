@@ -1,0 +1,60 @@
+{
+    "name": "throh",
+    "id": 538,
+    "info": {
+        "species": "judo pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.3,
+        "weight": 55.5
+    },
+    "sprites": {
+        "home": "images/pokemon/throh.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png"
+    },
+    "moves": "data/moves/throh.json",
+    "location": "data/location/throh.json",
+    "base_stats": {
+        "hp": 120,
+        "attack": 100,
+        "defense": 85,
+        "sp. atk": 30,
+        "sp. def": 85,
+        "speed": 45
+    },
+    "entry": "they train in groups of five. any member that can\u2019t keep up will discard its belt and leave the group.",
+    "training": {
+        "base_exp": 163,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

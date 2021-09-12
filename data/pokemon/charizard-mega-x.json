@@ -1,0 +1,54 @@
+{
+    "name": "charizard mega x",
+    "id": 6,
+    "info": {
+        "species": "flame pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "tough-claws",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fire",
+            "dragon"
+        ],
+        "height": 1.7,
+        "weight": 110.5
+    },
+    "sprites": {
+        "home": "images/pokemon/charizard-mega-x.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png"
+    },
+    "moves": "data/moves/charizard-mega-x.json",
+    "location": "data/location/charizard-mega-x.json",
+    "base_stats": {
+        "hp": 78,
+        "attack": 130,
+        "defense": 111,
+        "sp. atk": 130,
+        "sp. def": 85,
+        "speed": 100
+    },
+    "entry": "the flame inside its body burns hotter than 3,600 degrees fahrenheit. when charizard roars, that temperature climbs even higher.",
+    "training": {
+        "base_exp": 285,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

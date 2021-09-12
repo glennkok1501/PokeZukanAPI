@@ -1,0 +1,64 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-outside",
+                "kanto-route-28-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-26-area"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-27-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-17-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-2f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-nwmach-bike-area"
+            ]
+        }
+    ]
+}

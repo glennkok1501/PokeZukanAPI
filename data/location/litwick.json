@@ -1,0 +1,37 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "celestial-tower-2f",
+                "celestial-tower-3f",
+                "celestial-tower-4f",
+                "celestial-tower-5f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "strange-house-1f",
+                "strange-house-b1f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "lost-hotel-area"
+            ]
+        }
+    ]
+}

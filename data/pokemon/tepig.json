@@ -1,0 +1,56 @@
+{
+    "name": "tepig",
+    "id": 498,
+    "info": {
+        "species": "fire pig pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "thick-fat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.5,
+        "weight": 9.9
+    },
+    "sprites": {
+        "home": "images/pokemon/tepig.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png"
+    },
+    "moves": "data/moves/tepig.json",
+    "location": "data/location/tepig.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 63,
+        "defense": 45,
+        "sp. atk": 45,
+        "sp. def": 45,
+        "speed": 45
+    },
+    "entry": "it loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

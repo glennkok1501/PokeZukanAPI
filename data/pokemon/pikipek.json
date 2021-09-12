@@ -1,0 +1,61 @@
+{
+    "name": "pikipek",
+    "id": 731,
+    "info": {
+        "species": "woodpecker pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "skill-link",
+                "is_hidden": false
+            },
+            {
+                "name": "pickup",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.3,
+        "weight": 1.2
+    },
+    "sprites": {
+        "home": "images/pokemon/pikipek.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
+    },
+    "moves": "data/moves/pikipek.json",
+    "location": "data/location/pikipek.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 75,
+        "defense": 30,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 65
+    },
+    "entry": "it may look spindly, but its neck muscles are heavy-duty. it can peck at a tree 16 times per second!",
+    "training": {
+        "base_exp": 53,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

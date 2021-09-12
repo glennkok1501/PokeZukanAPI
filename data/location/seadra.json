@@ -1,0 +1,125 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-sea-route-226-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "whirl-islands-1f",
+                "whirl-islands-b2f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "whirl-islands-b3f"
+            ]
+        },
+        {
+            "game": [
+                "red"
+            ],
+            "area": [
+                "seafoam-islands-b1f",
+                "seafoam-islands-b3f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b4f"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-12-area",
+                "kanto-route-13-area"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "kanto-sea-route-19-area",
+                "kanto-sea-route-20-area",
+                "cinnabar-island-area",
+                "pallet-town-area",
+                "kanto-sea-route-21-area",
+                "icefall-cave-waterfall",
+                "kindle-road-area",
+                "treasure-beach-area",
+                "bond-bridge-area",
+                "resort-gorgeous-area",
+                "water-labyrinth-area",
+                "five-isle-meadow-area",
+                "memorial-pillar-area",
+                "outcast-island-area",
+                "green-path-area",
+                "water-path-area",
+                "trainer-tower-area",
+                "tanoby-ruins-area",
+                "one-island-area",
+                "five-island-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f",
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "p2-laboratory-area",
+                "unova-route-18-area",
+                "unova-route-17-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "ambrette-town-area",
+                "cyllage-city-area"
+            ]
+        }
+    ]
+}

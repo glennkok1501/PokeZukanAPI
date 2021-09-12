@@ -1,0 +1,23 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "dragonspiral-tower-1f",
+                "dragonspiral-tower-2f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-10-area"
+            ]
+        }
+    ]
+}

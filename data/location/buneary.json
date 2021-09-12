@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2"
+            ],
+            "area": [
+                "castelia-city-area"
+            ]
+        }
+    ]
+}

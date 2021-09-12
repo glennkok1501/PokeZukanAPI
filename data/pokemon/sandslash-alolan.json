@@ -1,0 +1,57 @@
+{
+    "name": "sandslash alolan",
+    "id": 28,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "slush-rush",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice",
+            "steel"
+        ],
+        "height": 1.2,
+        "weight": 55.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sandslash-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10102.png"
+    },
+    "moves": "data/moves/sandslash-alolan.json",
+    "location": "data/location/sandslash-alolan.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 120,
+        "sp. atk": 25,
+        "sp. def": 65,
+        "speed": 65
+    },
+    "entry": "many people climb snowy mountains, hoping to see the icy spikes of these pok\u00e9mon glistening in the light of dawn.",
+    "training": {
+        "base_exp": 158,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

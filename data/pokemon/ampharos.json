@@ -1,0 +1,57 @@
+{
+    "name": "ampharos",
+    "id": 181,
+    "info": {
+        "species": "light pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "static",
+                "is_hidden": false
+            },
+            {
+                "name": "plus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 1.4,
+        "weight": 61.5
+    },
+    "sprites": {
+        "home": "images/pokemon/ampharos.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
+    },
+    "moves": "data/moves/ampharos.json",
+    "location": "data/location/ampharos.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 85,
+        "sp. atk": 115,
+        "sp. def": 90,
+        "speed": 55
+    },
+    "entry": "its tail shines bright and strong. it has been prized since long ago as a beacon for sailors.",
+    "training": {
+        "base_exp": 230,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

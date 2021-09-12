@@ -1,0 +1,58 @@
+{
+    "location": [
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "ruins-of-alph-outside",
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-42-area",
+                "johto-route-43-area",
+                "johto-route-44-area",
+                "johto-route-45-area",
+                "johto-route-47-area",
+                "mt-silver-outside",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-28-area",
+                "kanto-route-4-area",
+                "kanto-route-6-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area",
+                "kanto-route-13-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-22-area",
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-118-area",
+                "hoenn-route-119-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire"
+            ],
+            "area": [
+                "hoenn-route-120-area",
+                "hoenn-route-121-area",
+                "hoenn-route-123-area"
+            ]
+        }
+    ]
+}

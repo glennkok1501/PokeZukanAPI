@@ -1,0 +1,57 @@
+{
+    "name": "serperior",
+    "id": 497,
+    "info": {
+        "species": "regal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 3.3,
+        "weight": 63.0
+    },
+    "sprites": {
+        "home": "images/pokemon/serperior.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
+    },
+    "moves": "data/moves/serperior.json",
+    "location": "data/location/serperior.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 95,
+        "sp. atk": 75,
+        "sp. def": 95,
+        "speed": 113
+    },
+    "entry": "it can stop its opponents\u2019 movements with just a glare. it takes in solar energy and boosts it internally.",
+    "training": {
+        "base_exp": 238,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

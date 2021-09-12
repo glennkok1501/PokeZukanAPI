@@ -1,0 +1,61 @@
+{
+    "name": "shellos",
+    "id": 422,
+    "info": {
+        "species": "sea slug pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sticky-hold",
+                "is_hidden": false
+            },
+            {
+                "name": "storm-drain",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.3,
+        "weight": 6.3
+    },
+    "sprites": {
+        "home": "images/pokemon/shellos.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
+    },
+    "moves": "data/moves/shellos.json",
+    "location": "data/location/shellos.json",
+    "base_stats": {
+        "hp": 76,
+        "attack": 48,
+        "defense": 48,
+        "sp. atk": 57,
+        "sp. def": 62,
+        "speed": 34
+    },
+    "entry": "subjecting this pok\u00e9mon to a strong force causes it to secrete a strange purple fluid. though harmless, the fluid is awfully sticky.",
+    "training": {
+        "base_exp": 65,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

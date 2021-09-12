@@ -1,0 +1,61 @@
+{
+    "name": "stufful",
+    "id": 759,
+    "info": {
+        "species": "flailing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "fluffy",
+                "is_hidden": false
+            },
+            {
+                "name": "klutz",
+                "is_hidden": false
+            },
+            {
+                "name": "cute-charm",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "height": 0.5,
+        "weight": 6.8
+    },
+    "sprites": {
+        "home": "images/pokemon/stufful.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png"
+    },
+    "moves": "data/moves/stufful.json",
+    "location": "data/location/stufful.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 50,
+        "sp. atk": 45,
+        "sp. def": 50,
+        "speed": 50
+    },
+    "entry": "the way it protects itself by flailing its arms may be an adorable sight, but stay well away. this is flailing that can snap thick tree trunks.",
+    "training": {
+        "base_exp": 68,
+        "capture_rate": 140,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

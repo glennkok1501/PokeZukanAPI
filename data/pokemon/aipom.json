@@ -1,0 +1,60 @@
+{
+    "name": "aipom",
+    "id": 190,
+    "info": {
+        "species": "long tail pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "skill-link",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.8,
+        "weight": 11.5
+    },
+    "sprites": {
+        "home": "images/pokemon/aipom.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+    },
+    "moves": "data/moves/aipom.json",
+    "location": "data/location/aipom.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 70,
+        "defense": 55,
+        "sp. atk": 40,
+        "sp. def": 55,
+        "speed": 85
+    },
+    "entry": "it searches for prey from the tops of trees. when it spots its favorite food, bounsweet, aipom gets excited and pounces.",
+    "training": {
+        "base_exp": 72,
+        "capture_rate": 45,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

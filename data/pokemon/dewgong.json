@@ -1,0 +1,62 @@
+{
+    "name": "dewgong",
+    "id": 87,
+    "info": {
+        "species": "sea lion pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "thick-fat",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ice"
+        ],
+        "height": 1.7,
+        "weight": 120.0
+    },
+    "sprites": {
+        "home": "images/pokemon/dewgong.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+    },
+    "moves": "data/moves/dewgong.json",
+    "location": "data/location/dewgong.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 70,
+        "defense": 80,
+        "sp. atk": 70,
+        "sp. def": 95,
+        "speed": 70
+    },
+    "entry": "its entire body is a snowy white. unharmed by even intense cold, it swims powerfully in icy waters.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

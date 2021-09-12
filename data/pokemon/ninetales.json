@@ -1,0 +1,56 @@
+{
+    "name": "ninetales",
+    "id": 38,
+    "info": {
+        "species": "fox pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "drought",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 1.1,
+        "weight": 19.9
+    },
+    "sprites": {
+        "home": "images/pokemon/ninetales.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+    },
+    "moves": "data/moves/ninetales.json",
+    "location": "data/location/ninetales.json",
+    "base_stats": {
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "sp. atk": 81,
+        "sp. def": 100,
+        "speed": 100
+    },
+    "entry": "while it will guide travelers who get lost on a snowy mountain down to the mountain\u2019s base, it won\u2019t forgive anyone who harms nature.",
+    "training": {
+        "base_exp": 177,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

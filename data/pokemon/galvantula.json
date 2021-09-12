@@ -1,0 +1,61 @@
+{
+    "name": "galvantula",
+    "id": 596,
+    "info": {
+        "species": "elespider pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "compound-eyes",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": false
+            },
+            {
+                "name": "swarm",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "height": 0.8,
+        "weight": 14.3
+    },
+    "sprites": {
+        "home": "images/pokemon/galvantula.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
+    },
+    "moves": "data/moves/galvantula.json",
+    "location": "data/location/galvantula.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 77,
+        "defense": 60,
+        "sp. atk": 97,
+        "sp. def": 60,
+        "speed": 108
+    },
+    "entry": "it lays traps of electrified threads near the nests of bird pok\u00e9mon, aiming to snare chicks that are not yet good at flying.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

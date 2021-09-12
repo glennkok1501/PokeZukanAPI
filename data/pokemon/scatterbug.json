@@ -1,0 +1,60 @@
+{
+    "name": "scatterbug",
+    "id": 664,
+    "info": {
+        "species": "scatterdust pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shield-dust",
+                "is_hidden": false
+            },
+            {
+                "name": "compound-eyes",
+                "is_hidden": false
+            },
+            {
+                "name": "friend-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.3,
+        "weight": 2.5
+    },
+    "sprites": {
+        "home": "images/pokemon/scatterbug.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+    },
+    "moves": "data/moves/scatterbug.json",
+    "location": "data/location/scatterbug.json",
+    "base_stats": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 40,
+        "sp. atk": 27,
+        "sp. def": 25,
+        "speed": 35
+    },
+    "entry": "the powder that covers its body regulates its temperature, so it can live in any region or climate.",
+    "training": {
+        "base_exp": 40,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

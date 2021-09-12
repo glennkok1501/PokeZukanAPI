@@ -1,0 +1,16 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "p2-laboratory-area",
+                "unova-route-1-area",
+                "unova-route-15-area",
+                "unova-route-18-area"
+            ]
+        }
+    ]
+}

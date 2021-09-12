@@ -1,0 +1,56 @@
+{
+    "name": "magby",
+    "id": 240,
+    "info": {
+        "species": "live coal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "vital-spirit",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.7,
+        "weight": 21.4
+    },
+    "sprites": {
+        "home": "images/pokemon/magby.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
+    },
+    "moves": "data/moves/magby.json",
+    "location": "data/location/magby.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 75,
+        "defense": 37,
+        "sp. atk": 70,
+        "sp. def": 55,
+        "speed": 83
+    },
+    "entry": "its body temperature is always around 1,100 degrees fahrenheit. if magby falls into a small- enough pond, the whole thing will dry up.",
+    "training": {
+        "base_exp": 73,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

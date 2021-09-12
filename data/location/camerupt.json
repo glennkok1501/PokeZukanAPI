@@ -1,0 +1,54 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "stark-mountain-area",
+                "sinnoh-route-227-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "stark-mountain-entrance",
+                "stark-mountain-inside"
+            ]
+        },
+        {
+            "game": [
+                "white-2"
+            ],
+            "area": [
+                "reversal-mountain-unknown-area-48",
+                "reversal-mountain-unknown-area-49",
+                "reversal-mountain-unknown-area-50",
+                "reversal-mountain-unknown-area-51",
+                "reversal-mountain-unknown-area-52",
+                "reversal-mountain-unknown-area-53",
+                "reversal-mountain-unknown-area-54",
+                "reversal-mountain-unknown-area-55",
+                "reversal-mountain-unknown-area-56",
+                "reversal-mountain-unknown-area-57",
+                "reversal-mountain-unknown-area-58",
+                "reversal-mountain-unknown-area-59",
+                "reversal-mountain-unknown-area-60"
+            ]
+        },
+        {
+            "game": [
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "battle-resort-area"
+            ]
+        }
+    ]
+}

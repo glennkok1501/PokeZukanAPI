@@ -1,0 +1,33 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "valley-windworks-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-110-area",
+                "hoenn-route-118-area"
+            ]
+        },
+        {
+            "game": [
+                "y"
+            ],
+            "area": [
+                "kalos-route-10-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "indeedee male",
+    "id": 876,
+    "info": {
+        "species": "emotion pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "synchronize",
+                "is_hidden": false
+            },
+            {
+                "name": "psychic-surge",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic",
+            "normal"
+        ],
+        "height": 0.9,
+        "weight": 28.0
+    },
+    "sprites": {
+        "home": "images/pokemon/indeedee-male.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png"
+    },
+    "moves": "data/moves/indeedee-male.json",
+    "location": "data/location/indeedee-male.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 55,
+        "sp. atk": 105,
+        "sp. def": 95,
+        "speed": 95
+    },
+    "entry": "through its horns, it can pick up on the emotions of creatures around it. positive emotions are the source of its strength.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 30,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 140,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

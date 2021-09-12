@@ -1,0 +1,53 @@
+{
+    "name": "vibrava",
+    "id": 329,
+    "info": {
+        "species": "vibration pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ground",
+            "dragon"
+        ],
+        "height": 1.1,
+        "weight": 15.3
+    },
+    "sprites": {
+        "home": "images/pokemon/vibrava.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png"
+    },
+    "moves": "data/moves/vibrava.json",
+    "location": "data/location/vibrava.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 70
+    },
+    "entry": "to help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
+    "training": {
+        "base_exp": 119,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

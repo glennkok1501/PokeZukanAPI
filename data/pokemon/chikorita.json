@@ -1,0 +1,57 @@
+{
+    "name": "chikorita",
+    "id": 152,
+    "info": {
+        "species": "leaf pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "leaf-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.9,
+        "weight": 6.4
+    },
+    "sprites": {
+        "home": "images/pokemon/chikorita.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+    },
+    "moves": "data/moves/chikorita.json",
+    "location": "data/location/chikorita.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 65,
+        "sp. atk": 49,
+        "sp. def": 65,
+        "speed": 45
+    },
+    "entry": "in battle, chikorita waves its leaf around to keep the foe at bay. however, a sweet fragrance also wafts from the leaf, becalming the battling pok\u00e9mon and creating a cozy, friendly atmosphere all around.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

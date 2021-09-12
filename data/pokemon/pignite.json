@@ -1,0 +1,57 @@
+{
+    "name": "pignite",
+    "id": 499,
+    "info": {
+        "species": "fire pig pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "thick-fat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "height": 1.0,
+        "weight": 55.5
+    },
+    "sprites": {
+        "home": "images/pokemon/pignite.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png"
+    },
+    "moves": "data/moves/pignite.json",
+    "location": "data/location/pignite.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 93,
+        "defense": 55,
+        "sp. atk": 70,
+        "sp. def": 55,
+        "speed": 55
+    },
+    "entry": "when its internal fire flares up, its movements grow sharper and faster. when in trouble, it emits smoke.",
+    "training": {
+        "base_exp": 146,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

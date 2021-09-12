@@ -1,0 +1,57 @@
+{
+    "name": "larvesta",
+    "id": 636,
+    "info": {
+        "species": "torch pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "swarm",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "fire"
+        ],
+        "height": 1.1,
+        "weight": 28.8
+    },
+    "sprites": {
+        "home": "images/pokemon/larvesta.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+    },
+    "moves": "data/moves/larvesta.json",
+    "location": "data/location/larvesta.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 85,
+        "defense": 55,
+        "sp. atk": 50,
+        "sp. def": 55,
+        "speed": 60
+    },
+    "entry": "larvesta\u2019s body is warm all over. it spouts fire from the tips of its horns to intimidate predators and scare prey.",
+    "training": {
+        "base_exp": 72,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

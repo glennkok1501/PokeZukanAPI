@@ -1,0 +1,61 @@
+{
+    "name": "seedot",
+    "id": 273,
+    "info": {
+        "species": "acorn pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "early-bird",
+                "is_hidden": false
+            },
+            {
+                "name": "pickpocket",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.5,
+        "weight": 4.0
+    },
+    "sprites": {
+        "home": "images/pokemon/seedot.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png"
+    },
+    "moves": "data/moves/seedot.json",
+    "location": "data/location/seedot.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 50,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 30
+    },
+    "entry": "it attaches itself to a tree branch using the top of its head. strong winds can sometimes make it fall.",
+    "training": {
+        "base_exp": 44,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

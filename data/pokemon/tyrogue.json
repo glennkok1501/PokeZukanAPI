@@ -1,0 +1,60 @@
+{
+    "name": "tyrogue",
+    "id": 236,
+    "info": {
+        "species": "scuffle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "steadfast",
+                "is_hidden": false
+            },
+            {
+                "name": "vital-spirit",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 0.7,
+        "weight": 21.0
+    },
+    "sprites": {
+        "home": "images/pokemon/tyrogue.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
+    },
+    "moves": "data/moves/tyrogue.json",
+    "location": "data/location/tyrogue.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 35,
+        "sp. atk": 35,
+        "sp. def": 35,
+        "speed": 35
+    },
+    "entry": "even though it is small, it can\u2019t be ignored because it will slug any handy target without warning.",
+    "training": {
+        "base_exp": 42,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

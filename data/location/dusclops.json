@@ -1,0 +1,38 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sendoff-spring-area",
+                "turnback-cave-pillar-1",
+                "turnback-cave-pillar-2",
+                "turnback-cave-pillar-3",
+                "turnback-cave-before-pillar-1",
+                "turnback-cave-between-pillars-1-and-2",
+                "turnback-cave-between-pillars-2-and-3",
+                "turnback-cave-after-pillar-3"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby"
+            ],
+            "area": [
+                "sky-pillar-1f",
+                "sky-pillar-3f",
+                "sky-pillar-5f"
+            ]
+        }
+    ]
+}

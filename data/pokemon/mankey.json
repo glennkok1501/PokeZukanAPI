@@ -1,0 +1,60 @@
+{
+    "name": "mankey",
+    "id": 56,
+    "info": {
+        "species": "pig monkey pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "vital-spirit",
+                "is_hidden": false
+            },
+            {
+                "name": "anger-point",
+                "is_hidden": false
+            },
+            {
+                "name": "defiant",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 0.5,
+        "weight": 28.0
+    },
+    "sprites": {
+        "home": "images/pokemon/mankey.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
+    },
+    "moves": "data/moves/mankey.json",
+    "location": "data/location/mankey.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 35,
+        "sp. atk": 35,
+        "sp. def": 45,
+        "speed": 70
+    },
+    "entry": "an agile pok\u00e9mon that lives in trees. it angers easily and will not hesitate to attack anything.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "marshadow",
+    "id": 802,
+    "info": {
+        "species": "gloomdweller pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "technician",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fighting",
+            "ghost"
+        ],
+        "height": 0.7,
+        "weight": 22.2
+    },
+    "sprites": {
+        "home": "images/pokemon/marshadow.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png"
+    },
+    "moves": "data/moves/marshadow.json",
+    "location": "data/location/marshadow.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 125,
+        "defense": 80,
+        "sp. atk": 90,
+        "sp. def": 90,
+        "speed": 125
+    },
+    "entry": "this pok\u00e9mon can conceal itself in any shadow, so it went undiscovered for a long time.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

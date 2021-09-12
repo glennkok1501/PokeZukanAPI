@@ -1,0 +1,64 @@
+{
+    "moves": [
+        {
+            "name": "gust",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "string-shot",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "swift",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "mud-slap",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "sweet-scent",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "endeavor",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "air-cutter",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "tailwind",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "bug-buzz",
+            "method": "level-up",
+            "level": 29
+        },
+        {
+            "name": "bug-bite",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "ominous-wind",
+            "method": "tutor",
+            "level": 0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "moves": [
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

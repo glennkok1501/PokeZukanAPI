@@ -1,0 +1,53 @@
+{
+    "name": "latias",
+    "id": 380,
+    "info": {
+        "species": "eon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dragon",
+            "psychic"
+        ],
+        "height": 1.4,
+        "weight": 40.0
+    },
+    "sprites": {
+        "home": "images/pokemon/latias.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png"
+    },
+    "moves": "data/moves/latias.json",
+    "location": "data/location/latias.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 90,
+        "sp. atk": 110,
+        "sp. def": 130,
+        "speed": 110
+    },
+    "entry": "latias is highly intelligent and capable of understanding human speech. it is covered with a glass-like down. the pok\u00e9mon enfolds its body with its down and refracts light to alter its appearance.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 90,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

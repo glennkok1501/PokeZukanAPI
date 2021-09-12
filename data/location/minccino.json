@@ -1,0 +1,34 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "cold-storage-area"
+            ]
+        },
+        {
+            "game": [
+                "white-2"
+            ],
+            "area": [
+                "unova-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-5-area",
+                "unova-route-9-area",
+                "unova-route-16-area"
+            ]
+        }
+    ]
+}

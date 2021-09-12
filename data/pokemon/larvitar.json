@@ -1,0 +1,57 @@
+{
+    "name": "larvitar",
+    "id": 246,
+    "info": {
+        "species": "rock skin pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "height": 0.6,
+        "weight": 72.0
+    },
+    "sprites": {
+        "home": "images/pokemon/larvitar.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+    },
+    "moves": "data/moves/larvitar.json",
+    "location": "data/location/larvitar.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "sp. atk": 45,
+        "sp. def": 50,
+        "speed": 41
+    },
+    "entry": "it feeds on soil. after it has eaten a large mountain, it will fall asleep so it can grow.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

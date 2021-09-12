@@ -1,0 +1,62 @@
+{
+    "name": "wingull",
+    "id": 278,
+    "info": {
+        "species": "seagull pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "flying"
+        ],
+        "height": 0.6,
+        "weight": 9.5
+    },
+    "sprites": {
+        "home": "images/pokemon/wingull.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png"
+    },
+    "moves": "data/moves/wingull.json",
+    "location": "data/location/wingull.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "sp. atk": 55,
+        "sp. def": 30,
+        "speed": 85
+    },
+    "entry": "it soars on updrafts without flapping its wings. it makes a nest on sheer cliffs at the sea\u2019s edge.",
+    "training": {
+        "base_exp": 54,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

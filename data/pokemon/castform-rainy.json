@@ -1,0 +1,53 @@
+{
+    "name": "castform rainy",
+    "id": 351,
+    "info": {
+        "species": "weather pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "forecast",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.3,
+        "weight": 0.8
+    },
+    "sprites": {
+        "home": "images/pokemon/castform-rainy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10014.png"
+    },
+    "moves": "data/moves/castform-rainy.json",
+    "location": "data/location/castform-rainy.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 70,
+        "sp. atk": 70,
+        "sp. def": 70,
+        "speed": 70
+    },
+    "entry": "its form changes depending on the weather. the rougher conditions get, the rougher castform\u2019s disposition!",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

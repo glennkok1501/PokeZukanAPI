@@ -1,0 +1,61 @@
+{
+    "name": "mareanie",
+    "id": 747,
+    "info": {
+        "species": "brutal star pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "merciless",
+                "is_hidden": false
+            },
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "water"
+        ],
+        "height": 0.4,
+        "weight": 8.0
+    },
+    "sprites": {
+        "home": "images/pokemon/mareanie.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png"
+    },
+    "moves": "data/moves/mareanie.json",
+    "location": "data/location/mareanie.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "sp. atk": 43,
+        "sp. def": 52,
+        "speed": 45
+    },
+    "entry": "unlike their alolan counterparts, the mareanie of the galar region have not yet figured out that the branches of corsola are delicious.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

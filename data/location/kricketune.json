@@ -1,0 +1,39 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "trophy-garden-area",
+                "valor-lakefront-area",
+                "sinnoh-route-206-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-210-south-towards-solaceon-town",
+                "sinnoh-route-212-north-towards-hearthome-city",
+                "sinnoh-route-212-east-towards-pastoria-city",
+                "sinnoh-route-214-area",
+                "sinnoh-route-215-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "dreamyard-area",
+                "dreamyard-b1f"
+            ]
+        }
+    ]
+}

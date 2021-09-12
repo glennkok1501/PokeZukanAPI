@@ -1,0 +1,60 @@
+{
+    "name": "hypno",
+    "id": 97,
+    "info": {
+        "species": "hypnosis pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "insomnia",
+                "is_hidden": false
+            },
+            {
+                "name": "forewarn",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 1.6,
+        "weight": 75.6
+    },
+    "sprites": {
+        "home": "images/pokemon/hypno.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+    },
+    "moves": "data/moves/hypno.json",
+    "location": "data/location/hypno.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 73,
+        "defense": 70,
+        "sp. atk": 73,
+        "sp. def": 115,
+        "speed": 67
+    },
+    "entry": "avoid eye contact if you come across one. it will try to put you to sleep by using its pendulum.",
+    "training": {
+        "base_exp": 169,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

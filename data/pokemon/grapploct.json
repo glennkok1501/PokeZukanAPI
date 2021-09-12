@@ -1,0 +1,54 @@
+{
+    "name": "grapploct",
+    "id": 853,
+    "info": {
+        "species": "tantrum pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "technician",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.6,
+        "weight": 39.0
+    },
+    "sprites": {
+        "home": "images/pokemon/grapploct.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png"
+    },
+    "moves": "data/moves/grapploct.json",
+    "location": "data/location/grapploct.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 118,
+        "defense": 90,
+        "sp. atk": 70,
+        "sp. def": 80,
+        "speed": 42
+    },
+    "entry": "searching for an opponent to test its skills against, it emerges onto land. once the battle is over, it returns to the sea.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

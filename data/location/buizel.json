@@ -1,0 +1,91 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "valley-windworks-area",
+                "sinnoh-route-205-south-towards-floaroma-town",
+                "sinnoh-route-213-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-212-east-towards-pastoria-city"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "ruins-of-alph-outside",
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-42-area",
+                "johto-route-43-area",
+                "johto-route-44-area",
+                "johto-route-45-area",
+                "johto-route-47-area",
+                "mt-silver-outside",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-28-area",
+                "kanto-route-4-area",
+                "kanto-route-6-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area",
+                "kanto-route-13-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-22-area",
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-11-area",
+                "unova-route-14-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "lostlorn-forest-area",
+                "unova-victory-road-2-unknown-area-73",
+                "unova-victory-road-2-unknown-area-79",
+                "nature-sanctuary-area",
+                "unova-route-23-area"
+            ]
+        }
+    ]
+}

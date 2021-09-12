@@ -1,0 +1,89 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "valor-lakefront-area",
+                "sinnoh-route-221-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-9-area",
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-13-area",
+                "kanto-route-14-area",
+                "kanto-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-middle"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered"
+            ],
+            "area": [
+                "kanto-safari-zone-area-1-east"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-safari-zone-area-2-north"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "firered"
+            ],
+            "area": [
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-11-area"
+            ]
+        }
+    ]
+}

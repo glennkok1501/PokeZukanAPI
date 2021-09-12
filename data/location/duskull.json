@@ -1,0 +1,55 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "turnback-cave-pillar-1",
+                "turnback-cave-before-pillar-1",
+                "turnback-cave-between-pillars-1-and-2",
+                "sinnoh-route-209-area",
+                "lost-tower-1f",
+                "lost-tower-2f",
+                "lost-tower-3f",
+                "lost-tower-4f",
+                "lost-tower-5f"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby"
+            ],
+            "area": [
+                "mt-pyre-1f",
+                "mt-pyre-2f",
+                "mt-pyre-3f",
+                "mt-pyre-outside",
+                "hoenn-route-121-area",
+                "hoenn-route-123-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "mt-pyre-4f",
+                "mt-pyre-5f",
+                "mt-pyre-6f",
+                "mt-pyre-summit"
+            ]
+        }
+    ]
+}

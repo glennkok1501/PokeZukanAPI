@@ -1,0 +1,63 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "valley-windworks-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-32-area",
+                "johto-route-42-area",
+                "johto-route-43-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-south",
+                "hoenn-altering-cave-b"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-altering-cave-b"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "floccesy-ranch-inner"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "violet-city-pokemon-center"
+            ]
+        }
+    ]
+}

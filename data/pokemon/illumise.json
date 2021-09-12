@@ -1,0 +1,61 @@
+{
+    "name": "illumise",
+    "id": 314,
+    "info": {
+        "species": "firefly pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "tinted-lens",
+                "is_hidden": false
+            },
+            {
+                "name": "prankster",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.6,
+        "weight": 17.7
+    },
+    "sprites": {
+        "home": "images/pokemon/illumise.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+    },
+    "moves": "data/moves/illumise.json",
+    "location": "data/location/illumise.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 47,
+        "defense": 75,
+        "sp. atk": 73,
+        "sp. def": 85,
+        "speed": 85
+    },
+    "entry": "illumise leads a flight of illuminated volbeat to draw signs in the night sky. this pok\u00e9mon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+    "training": {
+        "base_exp": 151,
+        "capture_rate": 150,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

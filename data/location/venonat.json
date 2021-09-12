@@ -1,0 +1,101 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "ilex-forest-area",
+                "national-park-area",
+                "lake-of-rage-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-43-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-12-area",
+                "kanto-safari-zone-middle",
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "crystal",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-13-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "crystal",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-14-area",
+                "kanto-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "berry-forest-area",
+                "bond-bridge-area"
+            ]
+        }
+    ]
+}

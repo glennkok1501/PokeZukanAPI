@@ -1,0 +1,72 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cherrygrove-city-area",
+                "union-cave-b2f",
+                "johto-route-34-area",
+                "olivine-city-area",
+                "johto-sea-route-40-area",
+                "cianwood-city-area",
+                "kanto-sea-route-19-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "ever-grande-city-area",
+                "hoenn-route-128-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-13-area",
+                "undella-town-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-18-area",
+                "humilau-city-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-12-area"
+            ]
+        }
+    ]
+}

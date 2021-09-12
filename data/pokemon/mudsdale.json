@@ -1,0 +1,60 @@
+{
+    "name": "mudsdale",
+    "id": 750,
+    "info": {
+        "species": "draft horse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "stamina",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 2.5,
+        "weight": 920.0
+    },
+    "sprites": {
+        "home": "images/pokemon/mudsdale.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png"
+    },
+    "moves": "data/moves/mudsdale.json",
+    "location": "data/location/mudsdale.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 100,
+        "sp. atk": 55,
+        "sp. def": 85,
+        "speed": 35
+    },
+    "entry": "mudsdale has so much stamina that it could carry over 10 tons across the galar region without rest or sleep.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

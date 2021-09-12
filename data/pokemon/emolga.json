@@ -1,0 +1,57 @@
+{
+    "name": "emolga",
+    "id": 587,
+    "info": {
+        "species": "sky squirrel pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "static",
+                "is_hidden": false
+            },
+            {
+                "name": "motor-drive",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "height": 0.4,
+        "weight": 5.0
+    },
+    "sprites": {
+        "home": "images/pokemon/emolga.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png"
+    },
+    "moves": "data/moves/emolga.json",
+    "location": "data/location/emolga.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 60,
+        "sp. atk": 75,
+        "sp. def": 60,
+        "speed": 103
+    },
+    "entry": "this pok\u00e9mon absolutely loves sweet berries. sometimes it stuffs its cheeks full of so much food that it can\u2019t fly properly.",
+    "training": {
+        "base_exp": 150,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

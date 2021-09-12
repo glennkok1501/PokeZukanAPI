@@ -1,0 +1,84 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-sea-route-220-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "new-bark-town-area",
+                "johto-sea-route-41-area",
+                "kanto-sea-route-20-area",
+                "cinnabar-island-area",
+                "vermilion-city-area",
+                "pallet-town-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-sea-route-21-area",
+                "vermilion-city-ss-anne-dock"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-124-underwater",
+                "hoenn-route-126-underwater"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "driftveil-city-area",
+                "unova-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "undella-bay-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "shalour-city-area",
+                "azure-bay-area"
+            ]
+        }
+    ]
+}

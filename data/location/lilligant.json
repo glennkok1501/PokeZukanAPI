@@ -1,0 +1,24 @@
+{
+    "location": [
+        {
+            "game": [
+                "white",
+                "white-2"
+            ],
+            "area": [
+                "pinwheel-forest-inside",
+                "abundant-shrine-area",
+                "lostlorn-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "white-2"
+            ],
+            "area": [
+                "castelia-city-area",
+                "unova-victory-road-2-unknown-area-72"
+            ]
+        }
+    ]
+}

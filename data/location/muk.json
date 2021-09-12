@@ -1,0 +1,61 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "celadon-city-area",
+                "kanto-route-16-area",
+                "kanto-route-17-area",
+                "kanto-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "power-plant-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "leafgreen"
+            ],
+            "area": [
+                "pokemon-mansion-1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "pokemon-mansion-2f",
+                "pokemon-mansion-3f",
+                "pokemon-mansion-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-9-area",
+                "castelia-sewers-area",
+                "castelia-sewers-unknown-area-38"
+            ]
+        }
+    ]
+}

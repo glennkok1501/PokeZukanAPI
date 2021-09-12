@@ -1,0 +1,59 @@
+{
+    "name": "carkol",
+    "id": 838,
+    "info": {
+        "species": "coal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "steam-engine",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "flash-fire",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "fire"
+        ],
+        "height": 1.1,
+        "weight": 78.0
+    },
+    "sprites": {
+        "home": "images/pokemon/carkol.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png"
+    },
+    "moves": "data/moves/carkol.json",
+    "location": "data/location/carkol.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 60,
+        "defense": 90,
+        "sp. atk": 60,
+        "sp. def": 70,
+        "speed": 50
+    },
+    "entry": "by rapidly rolling its legs, it can travel at over 18 mph. the temperature of the flames it breathes exceeds 1,800 degrees fahrenheit.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

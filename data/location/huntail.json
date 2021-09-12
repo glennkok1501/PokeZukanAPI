@@ -1,0 +1,21 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "black-2"
+            ],
+            "area": [
+                "unova-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "kalos-route-12-area"
+            ]
+        }
+    ]
+}

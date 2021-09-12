@@ -1,0 +1,61 @@
+{
+    "name": "pidgeot",
+    "id": 18,
+    "info": {
+        "species": "bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "tangled-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "big-pecks",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.5,
+        "weight": 39.5
+    },
+    "sprites": {
+        "home": "images/pokemon/pidgeot.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+    },
+    "moves": "data/moves/pidgeot.json",
+    "location": "data/location/pidgeot.json",
+    "base_stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "sp. atk": 70,
+        "sp. def": 70,
+        "speed": 101
+    },
+    "entry": "with its muscular strength now greatly increased, it can fly continuously for two weeks without resting.",
+    "training": {
+        "base_exp": 216,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

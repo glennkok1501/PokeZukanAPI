@@ -1,0 +1,60 @@
+{
+    "name": "conkeldurr",
+    "id": 534,
+    "info": {
+        "species": "muscular pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "iron-fist",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.4,
+        "weight": 87.0
+    },
+    "sprites": {
+        "home": "images/pokemon/conkeldurr.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
+    },
+    "moves": "data/moves/conkeldurr.json",
+    "location": "data/location/conkeldurr.json",
+    "base_stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 95,
+        "sp. atk": 55,
+        "sp. def": 65,
+        "speed": 45
+    },
+    "entry": "when going all out, this pok\u00e9mon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.",
+    "training": {
+        "base_exp": 227,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "bibarel",
+    "id": 400,
+    "info": {
+        "species": "beaver pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "simple",
+                "is_hidden": false
+            },
+            {
+                "name": "unaware",
+                "is_hidden": false
+            },
+            {
+                "name": "moody",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "water"
+        ],
+        "height": 1.0,
+        "weight": 31.5
+    },
+    "sprites": {
+        "home": "images/pokemon/bibarel.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png"
+    },
+    "moves": "data/moves/bibarel.json",
+    "location": "data/location/bibarel.json",
+    "base_stats": {
+        "hp": 79,
+        "attack": 85,
+        "defense": 60,
+        "sp. atk": 55,
+        "sp. def": 60,
+        "speed": 71
+    },
+    "entry": "it makes its nest by damming streams with bark and mud. it is known as an industrious worker.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 127,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

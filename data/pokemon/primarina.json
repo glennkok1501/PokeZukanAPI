@@ -1,0 +1,58 @@
+{
+    "name": "primarina",
+    "id": 730,
+    "info": {
+        "species": "soloist pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "liquid-voice",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "fairy"
+        ],
+        "height": 1.8,
+        "weight": 44.0
+    },
+    "sprites": {
+        "home": "images/pokemon/primarina.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
+    },
+    "moves": "data/moves/primarina.json",
+    "location": "data/location/primarina.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 74,
+        "defense": 74,
+        "sp. atk": 126,
+        "sp. def": 116,
+        "speed": 60
+    },
+    "entry": "for primarina, every battle\u2019s a stage. its singing and the dancing of its balloons will mesmerize the audience.",
+    "training": {
+        "base_exp": 239,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

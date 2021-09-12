@@ -1,0 +1,60 @@
+{
+    "name": "lillipup",
+    "id": 506,
+    "info": {
+        "species": "puppy pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "vital-spirit",
+                "is_hidden": false
+            },
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "run-away",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.4,
+        "weight": 4.1
+    },
+    "sprites": {
+        "home": "images/pokemon/lillipup.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png"
+    },
+    "moves": "data/moves/lillipup.json",
+    "location": "data/location/lillipup.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 45,
+        "sp. atk": 25,
+        "sp. def": 45,
+        "speed": 55
+    },
+    "entry": "this pok\u00e9mon is far brighter than the average child, and lillipup won\u2019t forget the love it receives or any abuse it suffers.",
+    "training": {
+        "base_exp": 55,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

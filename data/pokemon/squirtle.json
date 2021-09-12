@@ -1,0 +1,57 @@
+{
+    "name": "squirtle",
+    "id": 7,
+    "info": {
+        "species": "tiny turtle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.5,
+        "weight": 9.0
+    },
+    "sprites": {
+        "home": "images/pokemon/squirtle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+    },
+    "moves": "data/moves/squirtle.json",
+    "location": "data/location/squirtle.json",
+    "base_stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "sp. atk": 50,
+        "sp. def": 64,
+        "speed": 43
+    },
+    "entry": "when it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

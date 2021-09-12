@@ -1,0 +1,53 @@
+{
+    "name": "blastoise mega",
+    "id": 9,
+    "info": {
+        "species": "shellfish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mega-launcher",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.6,
+        "weight": 101.1
+    },
+    "sprites": {
+        "home": "images/pokemon/blastoise-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10036.png"
+    },
+    "moves": "data/moves/blastoise-mega.json",
+    "location": "data/location/blastoise-mega.json",
+    "base_stats": {
+        "hp": 79,
+        "attack": 103,
+        "defense": 120,
+        "sp. atk": 135,
+        "sp. def": 115,
+        "speed": 78
+    },
+    "entry": "water fired from this pok\u00e9mon\u2019s central main cannon has enough power to blast a hole into a mountain.",
+    "training": {
+        "base_exp": 284,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

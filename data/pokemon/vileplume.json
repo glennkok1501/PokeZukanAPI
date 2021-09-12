@@ -1,0 +1,57 @@
+{
+    "name": "vileplume",
+    "id": 45,
+    "info": {
+        "species": "flower pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "effect-spore",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 1.2,
+        "weight": 18.6
+    },
+    "sprites": {
+        "home": "images/pokemon/vileplume.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+    },
+    "moves": "data/moves/vileplume.json",
+    "location": "data/location/vileplume.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 85,
+        "sp. atk": 110,
+        "sp. def": 90,
+        "speed": 50
+    },
+    "entry": "the larger its petals, the more toxic pollen it contains. its big head is heavy and hard to hold up.",
+    "training": {
+        "base_exp": 221,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

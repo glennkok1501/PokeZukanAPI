@@ -1,0 +1,30 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "lake-verity-before-galactic-intervention"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-201-area"
+            ]
+        },
+        {
+            "game": [
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "hoenn-route-101-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "wooper",
+    "id": 194,
+    "info": {
+        "species": "water fish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "damp",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "unaware",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ground"
+        ],
+        "height": 0.4,
+        "weight": 8.5
+    },
+    "sprites": {
+        "home": "images/pokemon/wooper.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png"
+    },
+    "moves": "data/moves/wooper.json",
+    "location": "data/location/wooper.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 45,
+        "defense": 45,
+        "sp. atk": 25,
+        "sp. def": 25,
+        "speed": 15
+    },
+    "entry": "when walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "training": {
+        "base_exp": 42,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

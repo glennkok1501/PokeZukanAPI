@@ -1,0 +1,52 @@
+{
+    "name": "wishiwashi solo",
+    "id": 746,
+    "info": {
+        "species": "small fry pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "schooling",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.2,
+        "weight": 0.3
+    },
+    "sprites": {
+        "home": "images/pokemon/wishiwashi-solo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png"
+    },
+    "moves": "data/moves/wishiwashi-solo.json",
+    "location": "data/location/wishiwashi-solo.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 20,
+        "defense": 20,
+        "sp. atk": 25,
+        "sp. def": 25,
+        "speed": 40
+    },
+    "entry": "when it senses danger, its eyes tear up. the sparkle of its tears signals other wishiwashi to gather.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 60,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

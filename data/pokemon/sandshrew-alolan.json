@@ -1,0 +1,57 @@
+{
+    "name": "sandshrew alolan",
+    "id": 27,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "slush-rush",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice",
+            "steel"
+        ],
+        "height": 0.7,
+        "weight": 40.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sandshrew-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10101.png"
+    },
+    "moves": "data/moves/sandshrew-alolan.json",
+    "location": "data/location/sandshrew-alolan.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 90,
+        "sp. atk": 10,
+        "sp. def": 35,
+        "speed": 40
+    },
+    "entry": "it lives in snowy mountains on southern islands. when a blizzard rolls in, this pok\u00e9mon hunkers down in the snow to avoid getting blown away.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

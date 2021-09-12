@@ -1,0 +1,61 @@
+{
+    "name": "lopunny",
+    "id": 428,
+    "info": {
+        "species": "rabbit pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cute-charm",
+                "is_hidden": false
+            },
+            {
+                "name": "klutz",
+                "is_hidden": false
+            },
+            {
+                "name": "limber",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.2,
+        "weight": 33.3
+    },
+    "sprites": {
+        "home": "images/pokemon/lopunny.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png"
+    },
+    "moves": "data/moves/lopunny.json",
+    "location": "data/location/lopunny.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 76,
+        "defense": 84,
+        "sp. atk": 54,
+        "sp. def": 96,
+        "speed": 105
+    },
+    "entry": "once hot seasons are over, lopunny\u2019s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 140,
+        "egg_group": [
+            "ground",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

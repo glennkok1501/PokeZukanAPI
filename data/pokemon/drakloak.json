@@ -1,0 +1,59 @@
+{
+    "name": "drakloak",
+    "id": 886,
+    "info": {
+        "species": "caretaker pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "clear-body",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "height": 1.4,
+        "weight": 11.0
+    },
+    "sprites": {
+        "home": "images/pokemon/drakloak.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png"
+    },
+    "moves": "data/moves/drakloak.json",
+    "location": "data/location/drakloak.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 80,
+        "defense": 50,
+        "sp. atk": 60,
+        "sp. def": 50,
+        "speed": 102
+    },
+    "entry": "without a dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute any pok\u00e9mon it finds for the missing dreepy.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

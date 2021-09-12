@@ -1,0 +1,60 @@
+{
+    "name": "stantler",
+    "id": 234,
+    "info": {
+        "species": "big horn pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "sap-sipper",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.4,
+        "weight": 71.2
+    },
+    "sprites": {
+        "home": "images/pokemon/stantler.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png"
+    },
+    "moves": "data/moves/stantler.json",
+    "location": "data/location/stantler.json",
+    "base_stats": {
+        "hp": 73,
+        "attack": 95,
+        "defense": 62,
+        "sp. atk": 85,
+        "sp. def": 65,
+        "speed": 85
+    },
+    "entry": "stantler\u2019s magnificent antlers were traded at high prices as works of art. as a result, this pok\u00e9mon was hunted close to extinction by those who were after the priceless antlers.",
+    "training": {
+        "base_exp": 163,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "driftveil-city-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "p2-laboratory-area",
+                "unova-route-4-area",
+                "unova-route-18-area",
+                "unova-route-17-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "virbank-city-area",
+                "virbank-complex-outer",
+                "unova-route-21-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "shalour-city-area",
+                "azure-bay-area"
+            ]
+        }
+    ]
+}

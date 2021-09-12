@@ -1,0 +1,57 @@
+{
+    "name": "oddish",
+    "id": 43,
+    "info": {
+        "species": "weed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "run-away",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 0.5,
+        "weight": 5.4
+    },
+    "sprites": {
+        "home": "images/pokemon/oddish.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+    },
+    "moves": "data/moves/oddish.json",
+    "location": "data/location/oddish.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 55,
+        "sp. atk": 75,
+        "sp. def": 65,
+        "speed": 30
+    },
+    "entry": "during the day, it stays in the cold underground to avoid the sun. it grows by bathing in moonlight.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

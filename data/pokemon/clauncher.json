@@ -1,0 +1,53 @@
+{
+    "name": "clauncher",
+    "id": 692,
+    "info": {
+        "species": "water gun pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mega-launcher",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.5,
+        "weight": 8.3
+    },
+    "sprites": {
+        "home": "images/pokemon/clauncher.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png"
+    },
+    "moves": "data/moves/clauncher.json",
+    "location": "data/location/clauncher.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "sp. atk": 58,
+        "sp. def": 63,
+        "speed": 44
+    },
+    "entry": "by detonating gas that accumulates in its right claw, this pok\u00e9mon launches water like a bullet. this is how clauncher defeats its enemies.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 225,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

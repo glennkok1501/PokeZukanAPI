@@ -1,0 +1,61 @@
+{
+    "name": "croagunk",
+    "id": 453,
+    "info": {
+        "species": "toxic mouth pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "dry-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "poison-touch",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "fighting"
+        ],
+        "height": 0.7,
+        "weight": 23.0
+    },
+    "sprites": {
+        "home": "images/pokemon/croagunk.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png"
+    },
+    "moves": "data/moves/croagunk.json",
+    "location": "data/location/croagunk.json",
+    "base_stats": {
+        "hp": 48,
+        "attack": 61,
+        "defense": 40,
+        "sp. atk": 61,
+        "sp. def": 40,
+        "speed": 50
+    },
+    "entry": "once diluted, its poison becomes medicinal. this pok\u00e9mon came into popularity after a pharmaceutical company chose it as a mascot.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 140,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

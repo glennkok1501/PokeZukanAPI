@@ -1,0 +1,61 @@
+{
+    "name": "psyduck",
+    "id": 54,
+    "info": {
+        "species": "duck pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "damp",
+                "is_hidden": false
+            },
+            {
+                "name": "cloud-nine",
+                "is_hidden": false
+            },
+            {
+                "name": "swift-swim",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.8,
+        "weight": 19.6
+    },
+    "sprites": {
+        "home": "images/pokemon/psyduck.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+    },
+    "moves": "data/moves/psyduck.json",
+    "location": "data/location/psyduck.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 52,
+        "defense": 48,
+        "sp. atk": 65,
+        "sp. def": 50,
+        "speed": 55
+    },
+    "entry": "as psyduck gets stressed out, its headache gets progressively worse. it uses intense psychic energy to overwhelm those around it.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

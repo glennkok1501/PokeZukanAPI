@@ -1,0 +1,53 @@
+{
+    "name": "aegislash blade",
+    "id": 681,
+    "info": {
+        "species": "royal sword pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "stance-change",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "height": 1.7,
+        "weight": 53.0
+    },
+    "sprites": {
+        "home": "images/pokemon/aegislash-blade.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10026.png"
+    },
+    "moves": "data/moves/aegislash-blade.json",
+    "location": "data/location/aegislash-blade.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 140,
+        "defense": 50,
+        "sp. atk": 140,
+        "sp. def": 50,
+        "speed": 60
+    },
+    "entry": "once upon a time, a king with an aegislash reigned over the land. his pok\u00e9mon eventually drained him of life, and his kingdom fell with him.",
+    "training": {
+        "base_exp": 234,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

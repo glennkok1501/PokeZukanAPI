@@ -1,0 +1,119 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "national-park-area",
+                "kanto-route-2-south-towards-viridian-city"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "ilex-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "silver"
+            ],
+            "area": [
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-36-area",
+                "johto-route-37-area",
+                "johto-route-38-area",
+                "johto-route-39-area",
+                "lake-of-rage-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "azalea-town-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-24-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-2-north-towards-pewter-city"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen",
+                "soulsilver"
+            ],
+            "area": [
+                "viridian-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "pattern-bush-area"
+            ]
+        },
+        {
+            "game": [
+                "black"
+            ],
+            "area": [
+                "unova-route-12-area"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "santalune-forest-area"
+            ]
+        }
+    ]
+}

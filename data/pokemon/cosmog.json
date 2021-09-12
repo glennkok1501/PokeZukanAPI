@@ -1,0 +1,52 @@
+{
+    "name": "cosmog",
+    "id": 789,
+    "info": {
+        "species": "nebula pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "unaware",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.2,
+        "weight": 0.1
+    },
+    "sprites": {
+        "home": "images/pokemon/cosmog.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
+    },
+    "moves": "data/moves/cosmog.json",
+    "location": "data/location/cosmog.json",
+    "base_stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 31,
+        "sp. atk": 29,
+        "sp. def": 31,
+        "speed": 37
+    },
+    "entry": "cosmog is very curious but not very cautious, often placing itself in danger. if things start to look dicey, it teleports away.",
+    "training": {
+        "base_exp": 40,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

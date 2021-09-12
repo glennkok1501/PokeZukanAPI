@@ -1,0 +1,95 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "slowpoke-well-b1f"
+            ]
+        },
+        {
+            "game": [
+                "blue"
+            ],
+            "area": [
+                "seafoam-islands-1f"
+            ]
+        },
+        {
+            "game": [
+                "leafgreen"
+            ],
+            "area": [
+                "seafoam-islands-b1f",
+                "seafoam-islands-b3f",
+                "cinnabar-island-area",
+                "berry-forest-area",
+                "cape-brink-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "seafoam-islands-b2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b4f"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-12-area",
+                "kanto-route-13-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "leafgreen"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "abundant-shrine-area"
+            ]
+        }
+    ]
+}

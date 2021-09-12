@@ -1,0 +1,33 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "whirl-islands-b2f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "whirl-islands-b3f"
+            ]
+        },
+        {
+            "game": [
+                "emerald",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "navel-rock-area"
+            ]
+        }
+    ]
+}

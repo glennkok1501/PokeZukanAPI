@@ -1,0 +1,57 @@
+{
+    "name": "dragonair",
+    "id": 148,
+    "info": {
+        "species": "dragon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "marvel-scale",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon"
+        ],
+        "height": 4.0,
+        "weight": 16.5
+    },
+    "sprites": {
+        "home": "images/pokemon/dragonair.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+    },
+    "moves": "data/moves/dragonair.json",
+    "location": "data/location/dragonair.json",
+    "base_stats": {
+        "hp": 61,
+        "attack": 84,
+        "defense": 65,
+        "sp. atk": 70,
+        "sp. def": 70,
+        "speed": 70
+    },
+    "entry": "according to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "water1",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

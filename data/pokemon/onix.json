@@ -1,0 +1,61 @@
+{
+    "name": "onix",
+    "id": 95,
+    "info": {
+        "species": "rock snake pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "weak-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "height": 8.8,
+        "weight": 210.0
+    },
+    "sprites": {
+        "home": "images/pokemon/onix.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+    },
+    "moves": "data/moves/onix.json",
+    "location": "data/location/onix.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "sp. atk": 30,
+        "sp. def": 45,
+        "speed": 70
+    },
+    "entry": "it rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+    "training": {
+        "base_exp": 77,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

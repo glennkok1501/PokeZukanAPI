@@ -1,0 +1,56 @@
+{
+    "name": "huntail",
+    "id": 367,
+    "info": {
+        "species": "deep sea pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.7,
+        "weight": 27.0
+    },
+    "sprites": {
+        "home": "images/pokemon/huntail.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
+    },
+    "moves": "data/moves/huntail.json",
+    "location": "data/location/huntail.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 104,
+        "defense": 105,
+        "sp. atk": 94,
+        "sp. def": 75,
+        "speed": 52
+    },
+    "entry": "deep seas are their habitat. according to tradition, when huntail wash up onshore, something unfortunate will happen.",
+    "training": {
+        "base_exp": 170,
+        "capture_rate": 60,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "giratina altered",
+    "id": 487,
+    "info": {
+        "species": "renegade pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost",
+            "dragon"
+        ],
+        "height": 4.5,
+        "weight": 750.0
+    },
+    "sprites": {
+        "home": "images/pokemon/giratina-altered.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+    },
+    "moves": "data/moves/giratina-altered.json",
+    "location": "data/location/giratina-altered.json",
+    "base_stats": {
+        "hp": 150,
+        "attack": 100,
+        "defense": 120,
+        "sp. atk": 100,
+        "sp. def": 120,
+        "speed": 90
+    },
+    "entry": "it was banished for its violence. it silently gazed upon the old world from the distortion world.",
+    "training": {
+        "base_exp": 306,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

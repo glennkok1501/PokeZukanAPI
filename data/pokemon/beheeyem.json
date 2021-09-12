@@ -1,0 +1,60 @@
+{
+    "name": "beheeyem",
+    "id": 606,
+    "info": {
+        "species": "cerebral pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "telepathy",
+                "is_hidden": false
+            },
+            {
+                "name": "synchronize",
+                "is_hidden": false
+            },
+            {
+                "name": "analytic",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 1.0,
+        "weight": 34.5
+    },
+    "sprites": {
+        "home": "images/pokemon/beheeyem.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png"
+    },
+    "moves": "data/moves/beheeyem.json",
+    "location": "data/location/beheeyem.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 75,
+        "sp. atk": 125,
+        "sp. def": 95,
+        "speed": 40
+    },
+    "entry": "sometimes found drifting above wheat fields, this pok\u00e9mon can control the memories of its opponents.",
+    "training": {
+        "base_exp": 170,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

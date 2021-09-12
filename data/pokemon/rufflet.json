@@ -1,0 +1,61 @@
+{
+    "name": "rufflet",
+    "id": 627,
+    "info": {
+        "species": "eaglet pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "hustle",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.5,
+        "weight": 10.5
+    },
+    "sprites": {
+        "home": "images/pokemon/rufflet.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+    },
+    "moves": "data/moves/rufflet.json",
+    "location": "data/location/rufflet.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 83,
+        "defense": 50,
+        "sp. atk": 37,
+        "sp. def": 50,
+        "speed": 60
+    },
+    "entry": "a combative pok\u00e9mon, it\u2019s ready to pick a fight with anyone. it has talons that can crush hard berries.",
+    "training": {
+        "base_exp": 70,
+        "capture_rate": 190,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "tornadus therian",
+    "id": 641,
+    "info": {
+        "species": "cyclone pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "regenerator",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "flying"
+        ],
+        "height": 1.4,
+        "weight": 63.0
+    },
+    "sprites": {
+        "home": "images/pokemon/tornadus-therian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10019.png"
+    },
+    "moves": "data/moves/tornadus-therian.json",
+    "location": "data/location/tornadus-therian.json",
+    "base_stats": {
+        "hp": 79,
+        "attack": 100,
+        "defense": 80,
+        "sp. atk": 110,
+        "sp. def": 90,
+        "speed": 121
+    },
+    "entry": "tornadus expels massive energy from its tail, causing severe storms. its power is great enough to blow houses away.",
+    "training": {
+        "base_exp": 261,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 90,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

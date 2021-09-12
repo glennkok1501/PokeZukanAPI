@@ -1,0 +1,58 @@
+{
+    "name": "corvisquire",
+    "id": 822,
+    "info": {
+        "species": "raven pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": false
+            },
+            {
+                "name": "big-pecks",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "flying"
+        ],
+        "height": 0.8,
+        "weight": 16.0
+    },
+    "sprites": {
+        "home": "images/pokemon/corvisquire.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png"
+    },
+    "moves": "data/moves/corvisquire.json",
+    "location": "data/location/corvisquire.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 67,
+        "defense": 55,
+        "sp. atk": 43,
+        "sp. def": 55,
+        "speed": 77
+    },
+    "entry": "the lessons of many harsh battles have taught it how to accurately judge an opponent\u2019s strength.",
+    "training": {
+        "base_exp": 128,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

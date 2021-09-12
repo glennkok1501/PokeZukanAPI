@@ -1,0 +1,15 @@
+{
+    "location": [
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-15-area",
+                "kalos-route-16-area",
+                "lost-hotel-area"
+            ]
+        }
+    ]
+}

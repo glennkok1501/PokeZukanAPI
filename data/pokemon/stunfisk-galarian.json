@@ -1,0 +1,54 @@
+{
+    "name": "stunfisk galarian",
+    "id": 618,
+    "info": {
+        "species": "trap pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mimicry",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ground",
+            "steel"
+        ],
+        "height": 0.7,
+        "weight": 20.5
+    },
+    "sprites": {
+        "home": "images/pokemon/stunfisk-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10177.png"
+    },
+    "moves": "data/moves/stunfisk-galarian.json",
+    "location": "data/location/stunfisk-galarian.json",
+    "base_stats": {
+        "hp": 109,
+        "attack": 81,
+        "defense": 99,
+        "sp. atk": 66,
+        "sp. def": 84,
+        "speed": 32
+    },
+    "entry": "its conspicuous lips lure prey in as it lies in wait in the mud. when prey gets close, stunfisk clamps its jagged steel fins down on them.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

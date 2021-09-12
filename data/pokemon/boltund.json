@@ -1,0 +1,54 @@
+{
+    "name": "boltund",
+    "id": 836,
+    "info": {
+        "species": "dog pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "strong-jaw",
+                "is_hidden": false
+            },
+            {
+                "name": "competitive",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 1.0,
+        "weight": 34.0
+    },
+    "sprites": {
+        "home": "images/pokemon/boltund.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png"
+    },
+    "moves": "data/moves/boltund.json",
+    "location": "data/location/boltund.json",
+    "base_stats": {
+        "hp": 69,
+        "attack": 90,
+        "defense": 60,
+        "sp. atk": 90,
+        "sp. def": 60,
+        "speed": 121
+    },
+    "entry": "it sends electricity through its legs to boost their strength. running at top speed, it easily breaks 50 mph.",
+    "training": {
+        "base_exp": 172,
+        "capture_rate": 45,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

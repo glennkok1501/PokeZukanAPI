@@ -1,0 +1,60 @@
+{
+    "name": "ursaring",
+    "id": 217,
+    "info": {
+        "species": "hibernator pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "quick-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.8,
+        "weight": 125.8
+    },
+    "sprites": {
+        "home": "images/pokemon/ursaring.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
+    },
+    "moves": "data/moves/ursaring.json",
+    "location": "data/location/ursaring.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 130,
+        "defense": 75,
+        "sp. atk": 75,
+        "sp. def": 75,
+        "speed": 55
+    },
+    "entry": "in the forests inhabited by ursaring, it is said that there are many streams and towering trees where they gather food. this pok\u00e9mon walks through its forest gathering food every day.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

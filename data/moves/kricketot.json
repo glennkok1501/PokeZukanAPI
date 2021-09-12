@@ -1,0 +1,49 @@
+{
+    "moves": [
+        {
+            "name": "growl",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "string-shot",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "bide",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "mud-slap",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "uproar",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "endeavor",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "bug-bite",
+            "method": "level-up",
+            "level": 16
+        },
+        {
+            "name": "struggle-bug",
+            "method": "level-up",
+            "level": 6
+        }
+    ]
+}

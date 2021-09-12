@@ -1,0 +1,67 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-213-area",
+                "sinnoh-route-222-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "mossdeep-city-area",
+                "hoenn-route-103-area",
+                "hoenn-route-118-area",
+                "hoenn-route-122-area",
+                "hoenn-route-124-area",
+                "hoenn-route-125-area",
+                "hoenn-route-126-area",
+                "hoenn-route-127-area",
+                "hoenn-route-129-area",
+                "hoenn-route-130-area",
+                "hoenn-route-131-area",
+                "hoenn-route-132-area",
+                "hoenn-route-133-area",
+                "hoenn-route-134-area",
+                "pacifidlog-town-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "village-bridge-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "battle-resort-area"
+            ]
+        }
+    ]
+}

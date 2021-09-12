@@ -1,0 +1,130 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-228-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-26-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-27-area",
+                "mt-moon-1f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "mt-moon-2f"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "kanto-victory-road-1-1f",
+                "kanto-victory-road-1-2f",
+                "kanto-victory-road-1-3f"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "cerulean-cave-1f"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "cerulean-cave-2f"
+            ]
+        },
+        {
+            "game": [
+                "blue"
+            ],
+            "area": [
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-1f",
+                "kanto-victory-road-2-2f",
+                "kanto-victory-road-2-3f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "relic-castle-c"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-18-area",
+                "terminus-cave-unknown-area-343",
+                "terminus-cave-unknown-area-344",
+                "terminus-cave-unknown-area-345",
+                "terminus-cave-unknown-area-347",
+                "terminus-cave-unknown-area-348"
+            ]
+        }
+    ]
+}

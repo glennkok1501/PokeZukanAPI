@@ -1,0 +1,52 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-sea-route-230-area",
+                "eterna-city-west-gate"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "violet-city-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "water-labyrinth-area"
+            ]
+        },
+        {
+            "game": [
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "lavaridge-town-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "violet-city-poke-mart"
+            ]
+        }
+    ]
+}

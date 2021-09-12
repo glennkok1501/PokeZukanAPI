@@ -1,0 +1,56 @@
+{
+    "name": "rampardos",
+    "id": 409,
+    "info": {
+        "species": "head butt pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mold-breaker",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 1.6,
+        "weight": 102.5
+    },
+    "sprites": {
+        "home": "images/pokemon/rampardos.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png"
+    },
+    "moves": "data/moves/rampardos.json",
+    "location": "data/location/rampardos.json",
+    "base_stats": {
+        "hp": 97,
+        "attack": 165,
+        "defense": 60,
+        "sp. atk": 65,
+        "sp. def": 50,
+        "speed": 58
+    },
+    "entry": "this ancient pok\u00e9mon used headbutts skillfully. its brain was really small, so some theories suggest that its stupidity led to its extinction.",
+    "training": {
+        "base_exp": 173,
+        "capture_rate": 45,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

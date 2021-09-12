@@ -1,0 +1,38 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-212-east-towards-pastoria-city",
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-114-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "couriway-town-area",
+                "kalos-route-15-area",
+                "kalos-route-16-area",
+                "kalos-route-21-area",
+                "pokemon-village-area",
+                "kalos-victory-road-unknown-area-327"
+            ]
+        }
+    ]
+}

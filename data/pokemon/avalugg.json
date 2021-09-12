@@ -1,0 +1,60 @@
+{
+    "name": "avalugg",
+    "id": 713,
+    "info": {
+        "species": "iceberg pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 2.0,
+        "weight": 505.0
+    },
+    "sprites": {
+        "home": "images/pokemon/avalugg.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
+    },
+    "moves": "data/moves/avalugg.json",
+    "location": "data/location/avalugg.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 117,
+        "defense": 184,
+        "sp. atk": 44,
+        "sp. def": 46,
+        "speed": 28
+    },
+    "entry": "as avalugg moves about during the day, the cracks in its body deepen. the pok\u00e9mon\u2019s body returns to a pristine state overnight.",
+    "training": {
+        "base_exp": 180,
+        "capture_rate": 55,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

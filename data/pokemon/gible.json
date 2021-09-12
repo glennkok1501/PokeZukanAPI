@@ -1,0 +1,58 @@
+{
+    "name": "gible",
+    "id": 443,
+    "info": {
+        "species": "land shark pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "rough-skin",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "height": 0.7,
+        "weight": 20.5
+    },
+    "sprites": {
+        "home": "images/pokemon/gible.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
+    },
+    "moves": "data/moves/gible.json",
+    "location": "data/location/gible.json",
+    "base_stats": {
+        "hp": 58,
+        "attack": 70,
+        "defense": 45,
+        "sp. atk": 40,
+        "sp. def": 45,
+        "speed": 42
+    },
+    "entry": "its original home is an area much hotter than alola. if you\u2019re planning to live with one, your heating bill will soar.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

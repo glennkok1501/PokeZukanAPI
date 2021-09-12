@@ -1,0 +1,60 @@
+{
+    "name": "makuhita",
+    "id": 296,
+    "info": {
+        "species": "guts pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "thick-fat",
+                "is_hidden": false
+            },
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.0,
+        "weight": 86.4
+    },
+    "sprites": {
+        "home": "images/pokemon/makuhita.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
+    },
+    "moves": "data/moves/makuhita.json",
+    "location": "data/location/makuhita.json",
+    "base_stats": {
+        "hp": 72,
+        "attack": 60,
+        "defense": 30,
+        "sp. atk": 20,
+        "sp. def": 30,
+        "speed": 25
+    },
+    "entry": "there\u2019s a rumor of a traditional recipe for stew that trainers can use to raise strong makuhita.",
+    "training": {
+        "base_exp": 47,
+        "capture_rate": 180,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

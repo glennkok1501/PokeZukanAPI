@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "sapphire",
+                "emerald",
+                "omega-ruby"
+            ],
+            "area": [
+                "southern-island-area"
+            ]
+        },
+        {
+            "game": [
+                "soulsilver"
+            ],
+            "area": [
+                "roaming-johto-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "emerald"
+            ],
+            "area": [
+                "roaming-hoenn-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "alomomola",
+    "id": 594,
+    "info": {
+        "species": "caring pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "healer",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.2,
+        "weight": 31.6
+    },
+    "sprites": {
+        "home": "images/pokemon/alomomola.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+    },
+    "moves": "data/moves/alomomola.json",
+    "location": "data/location/alomomola.json",
+    "base_stats": {
+        "hp": 165,
+        "attack": 75,
+        "defense": 80,
+        "sp. atk": 40,
+        "sp. def": 45,
+        "speed": 65
+    },
+    "entry": "the reason it helps pok\u00e9mon in a weakened condition is that any pok\u00e9mon coming after them may also attack alomomola.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 75,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

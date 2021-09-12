@@ -1,0 +1,60 @@
+{
+    "name": "gurdurr",
+    "id": 533,
+    "info": {
+        "species": "muscular pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "iron-fist",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.2,
+        "weight": 40.0
+    },
+    "sprites": {
+        "home": "images/pokemon/gurdurr.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+    },
+    "moves": "data/moves/gurdurr.json",
+    "location": "data/location/gurdurr.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 85,
+        "sp. atk": 40,
+        "sp. def": 50,
+        "speed": 40
+    },
+    "entry": "gurdurr excels at demolition\u2014construction is not its forte. in any case, there\u2019s skill in the way this pok\u00e9mon wields its metal beam.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 90,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "eternatus eternamax",
+    "id": 890,
+    "info": {
+        "species": "gigantic pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "poison",
+            "dragon"
+        ],
+        "height": 100.0,
+        "weight": 1000.0
+    },
+    "sprites": {
+        "home": "images/pokemon/eternatus-eternamax.png",
+        "artwork": null
+    },
+    "moves": "data/moves/eternatus-eternamax.json",
+    "location": "data/location/eternatus-eternamax.json",
+    "base_stats": {
+        "hp": 255,
+        "attack": 115,
+        "defense": 250,
+        "sp. atk": 125,
+        "sp. def": 250,
+        "speed": 130
+    },
+    "entry": "it was inside a meteorite that fell 20,000 years ago. there seems to be a connection between this pok\u00e9mon and the dynamax phenomenon.",
+    "training": {
+        "base_exp": 345,
+        "capture_rate": 255,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

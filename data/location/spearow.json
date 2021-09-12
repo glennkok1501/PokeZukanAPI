@@ -1,0 +1,157 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-225-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-sea-route-226-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver"
+            ],
+            "area": [
+                "johto-route-29-area",
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "johto-route-43-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-33-area",
+                "johto-route-42-area",
+                "johto-route-46-area",
+                "kanto-route-7-area",
+                "goldenrod-city-north-gate"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "johto-route-44-area",
+                "johto-route-45-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-3-area",
+                "kanto-route-4-area",
+                "kanto-route-9-area",
+                "kanto-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-11-area",
+                "kanto-route-17-area",
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-16-area",
+                "kanto-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "mt-ember-area",
+                "kindle-road-area",
+                "treasure-beach-area",
+                "cape-brink-area",
+                "water-path-area",
+                "ruin-valley-area",
+                "canyon-entrance-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "azalea-town-area"
+            ]
+        }
+    ]
+}

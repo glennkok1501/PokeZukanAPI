@@ -1,0 +1,58 @@
+{
+    "name": "snover",
+    "id": 459,
+    "info": {
+        "species": "frost tree pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "snow-warning",
+                "is_hidden": false
+            },
+            {
+                "name": "soundproof",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "ice"
+        ],
+        "height": 1.0,
+        "weight": 50.5
+    },
+    "sprites": {
+        "home": "images/pokemon/snover.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png"
+    },
+    "moves": "data/moves/snover.json",
+    "location": "data/location/snover.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 50,
+        "sp. atk": 62,
+        "sp. def": 60,
+        "speed": 40
+    },
+    "entry": "the berries that grow around its belly are like ice pops. galarian darumaka absolutely love these berries.",
+    "training": {
+        "base_exp": 67,
+        "capture_rate": 120,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

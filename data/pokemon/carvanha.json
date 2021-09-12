@@ -1,0 +1,57 @@
+{
+    "name": "carvanha",
+    "id": 318,
+    "info": {
+        "species": "savage pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rough-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "speed-boost",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "dark"
+        ],
+        "height": 0.8,
+        "weight": 20.8
+    },
+    "sprites": {
+        "home": "images/pokemon/carvanha.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png"
+    },
+    "moves": "data/moves/carvanha.json",
+    "location": "data/location/carvanha.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 90,
+        "defense": 20,
+        "sp. atk": 65,
+        "sp. def": 20,
+        "speed": 65
+    },
+    "entry": "these pok\u00e9mon have sharp fangs and powerful jaws. sailors avoid carvanha dens at all costs.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 225,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

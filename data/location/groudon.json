@@ -1,0 +1,20 @@
+{
+    "location": [
+        {
+            "game": [
+                "ruby"
+            ],
+            "area": [
+                "cave-of-origin-b4f"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "terra-cave-area"
+            ]
+        }
+    ]
+}

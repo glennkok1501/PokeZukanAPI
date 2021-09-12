@@ -1,0 +1,62 @@
+{
+    "name": "sealeo",
+    "id": 364,
+    "info": {
+        "species": "ball roll pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "thick-fat",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice",
+            "water"
+        ],
+        "height": 1.1,
+        "weight": 87.6
+    },
+    "sprites": {
+        "home": "images/pokemon/sealeo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png"
+    },
+    "moves": "data/moves/sealeo.json",
+    "location": "data/location/sealeo.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 70,
+        "sp. atk": 75,
+        "sp. def": 70,
+        "speed": 45
+    },
+    "entry": "sealeo often balances and rolls things on the tip of its nose. while the pok\u00e9mon is rolling something, it checks the object\u2019s aroma and texture to determine whether it likes the object or not.",
+    "training": {
+        "base_exp": 144,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

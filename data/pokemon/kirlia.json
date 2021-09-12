@@ -1,0 +1,61 @@
+{
+    "name": "kirlia",
+    "id": 281,
+    "info": {
+        "species": "emotion pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "synchronize",
+                "is_hidden": false
+            },
+            {
+                "name": "trace",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "height": 0.8,
+        "weight": 20.2
+    },
+    "sprites": {
+        "home": "images/pokemon/kirlia.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
+    },
+    "moves": "data/moves/kirlia.json",
+    "location": "data/location/kirlia.json",
+    "base_stats": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 35,
+        "sp. atk": 65,
+        "sp. def": 55,
+        "speed": 50
+    },
+    "entry": "it has a psychic power that enables it to distort the space around it and see into the future.",
+    "training": {
+        "base_exp": 97,
+        "capture_rate": 120,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

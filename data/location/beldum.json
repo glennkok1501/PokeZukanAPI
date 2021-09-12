@@ -1,0 +1,26 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-228-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald",
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "mossdeep-city-stevens-house"
+            ]
+        }
+    ]
+}

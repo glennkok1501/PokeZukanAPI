@@ -1,0 +1,57 @@
+{
+    "name": "wartortle",
+    "id": 8,
+    "info": {
+        "species": "turtle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.0,
+        "weight": 22.5
+    },
+    "sprites": {
+        "home": "images/pokemon/wartortle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+    },
+    "moves": "data/moves/wartortle.json",
+    "location": "data/location/wartortle.json",
+    "base_stats": {
+        "hp": 59,
+        "attack": 63,
+        "defense": 80,
+        "sp. atk": 65,
+        "sp. def": 80,
+        "speed": 58
+    },
+    "entry": "it cleverly controls its furry ears and tail to maintain its balance while swimming.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

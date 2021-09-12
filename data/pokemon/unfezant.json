@@ -1,0 +1,61 @@
+{
+    "name": "unfezant",
+    "id": 521,
+    "info": {
+        "species": "proud pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "big-pecks",
+                "is_hidden": false
+            },
+            {
+                "name": "super-luck",
+                "is_hidden": false
+            },
+            {
+                "name": "rivalry",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.2,
+        "weight": 29.0
+    },
+    "sprites": {
+        "home": "images/pokemon/unfezant.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
+    },
+    "moves": "data/moves/unfezant.json",
+    "location": "data/location/unfezant.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 115,
+        "defense": 80,
+        "sp. atk": 65,
+        "sp. def": 55,
+        "speed": 93
+    },
+    "entry": "this pok\u00e9mon is intelligent and intensely proud. people will sit up and take notice if you become the trainer of one.",
+    "training": {
+        "base_exp": 220,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

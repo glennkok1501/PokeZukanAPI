@@ -1,0 +1,54 @@
+{
+    "name": "archen",
+    "id": 566,
+    "info": {
+        "species": "first bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "defeatist",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "height": 0.5,
+        "weight": 9.5
+    },
+    "sprites": {
+        "home": "images/pokemon/archen.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png"
+    },
+    "moves": "data/moves/archen.json",
+    "location": "data/location/archen.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 112,
+        "defense": 45,
+        "sp. atk": 74,
+        "sp. def": 45,
+        "speed": 70
+    },
+    "entry": "restored from a fossil, this ancient bird pok\u00e9mon has wings but can\u2019t yet fly.",
+    "training": {
+        "base_exp": 71,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying",
+            "water3"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

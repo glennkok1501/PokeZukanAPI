@@ -1,0 +1,56 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "castelia-city-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "celadon-city-celadon-mansion"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "goldenrod-city-bills-house"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "hearthome-city-area"
+            ]
+        }
+    ]
+}

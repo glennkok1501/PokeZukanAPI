@@ -1,0 +1,29 @@
+{
+    "moves": [
+        {
+            "name": "headbutt",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "take-down",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "iron-defense",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "zen-headbutt",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "iron-head",
+            "method": "tutor",
+            "level": 0
+        }
+    ]
+}

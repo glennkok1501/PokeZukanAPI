@@ -1,0 +1,58 @@
+{
+    "name": "surskit",
+    "id": 283,
+    "info": {
+        "species": "pond skater pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "water"
+        ],
+        "height": 0.5,
+        "weight": 1.7
+    },
+    "sprites": {
+        "home": "images/pokemon/surskit.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png"
+    },
+    "moves": "data/moves/surskit.json",
+    "location": "data/location/surskit.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 32,
+        "sp. atk": 50,
+        "sp. def": 52,
+        "speed": 65
+    },
+    "entry": "it lives in ponds and marshes that feature lots of plant life. it often fights with dewpider, whose habitat and diet are similar.",
+    "training": {
+        "base_exp": 54,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

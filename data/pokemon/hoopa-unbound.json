@@ -1,0 +1,53 @@
+{
+    "name": "hoopa unbound",
+    "id": 720,
+    "info": {
+        "species": "djinn pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "magician",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "dark"
+        ],
+        "height": 6.5,
+        "weight": 490.0
+    },
+    "sprites": {
+        "home": "images/pokemon/hoopa-unbound.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10086.png"
+    },
+    "moves": "data/moves/hoopa-unbound.json",
+    "location": "data/location/hoopa-unbound.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 160,
+        "defense": 60,
+        "sp. atk": 170,
+        "sp. def": 130,
+        "speed": 80
+    },
+    "entry": "it is said to be able to seize anything it desires with its six rings and six huge arms. with its power sealed, it is transformed into a much smaller form.",
+    "training": {
+        "base_exp": 306,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

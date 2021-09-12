@@ -1,0 +1,53 @@
+{
+    "name": "cherubi",
+    "id": 420,
+    "info": {
+        "species": "cherry pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.4,
+        "weight": 3.3
+    },
+    "sprites": {
+        "home": "images/pokemon/cherubi.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png"
+    },
+    "moves": "data/moves/cherubi.json",
+    "location": "data/location/cherubi.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 45,
+        "sp. atk": 62,
+        "sp. def": 53,
+        "speed": 35
+    },
+    "entry": "the deeper a cherubi\u2019s red, the more nutrients it has stockpiled in its body. and the sweeter and tastier its small ball!",
+    "training": {
+        "base_exp": 55,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

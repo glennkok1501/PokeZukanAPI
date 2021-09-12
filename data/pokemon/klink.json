@@ -1,0 +1,60 @@
+{
+    "name": "klink",
+    "id": 599,
+    "info": {
+        "species": "gear pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "plus",
+                "is_hidden": false
+            },
+            {
+                "name": "minus",
+                "is_hidden": false
+            },
+            {
+                "name": "clear-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel"
+        ],
+        "height": 0.3,
+        "weight": 21.0
+    },
+    "sprites": {
+        "home": "images/pokemon/klink.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+    },
+    "moves": "data/moves/klink.json",
+    "location": "data/location/klink.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 70,
+        "sp. atk": 45,
+        "sp. def": 60,
+        "speed": 30
+    },
+    "entry": "it\u2019s suspected that klink were the inspiration behind ancient people\u2019s invention of the first gears.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 130,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

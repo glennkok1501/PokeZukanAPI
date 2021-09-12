@@ -1,0 +1,56 @@
+{
+    "name": "burmy",
+    "id": 412,
+    "info": {
+        "species": "bagworm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.2,
+        "weight": 3.4
+    },
+    "sprites": {
+        "home": "images/pokemon/burmy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png"
+    },
+    "moves": "data/moves/burmy.json",
+    "location": "data/location/burmy.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "sp. atk": 29,
+        "sp. def": 45,
+        "speed": 36
+    },
+    "entry": "if its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+    "training": {
+        "base_exp": 45,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

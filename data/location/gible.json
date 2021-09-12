@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "wayward-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-13-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2"
+            ],
+            "area": [
+                "floccesy-town-area"
+            ]
+        }
+    ]
+}

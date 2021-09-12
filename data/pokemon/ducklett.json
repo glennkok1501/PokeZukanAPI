@@ -1,0 +1,62 @@
+{
+    "name": "ducklett",
+    "id": 580,
+    "info": {
+        "species": "water bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "big-pecks",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "flying"
+        ],
+        "height": 0.5,
+        "weight": 5.5
+    },
+    "sprites": {
+        "home": "images/pokemon/ducklett.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
+    },
+    "moves": "data/moves/ducklett.json",
+    "location": "data/location/ducklett.json",
+    "base_stats": {
+        "hp": 62,
+        "attack": 44,
+        "defense": 50,
+        "sp. atk": 44,
+        "sp. def": 50,
+        "speed": 55
+    },
+    "entry": "they are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

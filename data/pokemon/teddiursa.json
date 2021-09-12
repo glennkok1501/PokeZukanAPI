@@ -1,0 +1,60 @@
+{
+    "name": "teddiursa",
+    "id": 216,
+    "info": {
+        "species": "little bear pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "quick-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "honey-gather",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.6,
+        "weight": 8.8
+    },
+    "sprites": {
+        "home": "images/pokemon/teddiursa.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+    },
+    "moves": "data/moves/teddiursa.json",
+    "location": "data/location/teddiursa.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 40
+    },
+    "entry": "this pok\u00e9mon likes to lick its palms that are sweetened by being soaked in honey. teddiursa concocts its own honey by blending fruits and pollen collected by beedrill.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "regice",
+    "id": 378,
+    "info": {
+        "species": "iceberg pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "clear-body",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 1.8,
+        "weight": 175.0
+    },
+    "sprites": {
+        "home": "images/pokemon/regice.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png"
+    },
+    "moves": "data/moves/regice.json",
+    "location": "data/location/regice.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 100,
+        "sp. atk": 100,
+        "sp. def": 200,
+        "speed": 50
+    },
+    "entry": "regice cloaks itself with frigid air of -328 degrees fahrenheit. things will freeze solid just by going near this pok\u00e9mon. its icy body is so cold, it will not melt even if it is immersed in magma.",
+    "training": {
+        "base_exp": 261,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 80,
+            "steps": 20655
+        }
+    }
+}

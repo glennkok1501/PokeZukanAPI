@@ -1,0 +1,82 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention",
+                "lake-valor-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "lake-acuity-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "dark-cave-blackthorn-city-entrance"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-2f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-sw",
+                "hoenn-safari-zone-se"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "ruin-valley-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "reflection-cave-unknown-area-305",
+                "reflection-cave-unknown-area-306",
+                "reflection-cave-unknown-area-307",
+                "reflection-cave-unknown-area-308"
+            ]
+        }
+    ]
+}

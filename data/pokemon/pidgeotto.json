@@ -1,0 +1,61 @@
+{
+    "name": "pidgeotto",
+    "id": 17,
+    "info": {
+        "species": "bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "tangled-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "big-pecks",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.1,
+        "weight": 30.0
+    },
+    "sprites": {
+        "home": "images/pokemon/pidgeotto.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+    },
+    "moves": "data/moves/pidgeotto.json",
+    "location": "data/location/pidgeotto.json",
+    "base_stats": {
+        "hp": 63,
+        "attack": 60,
+        "defense": 55,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 71
+    },
+    "entry": "this pok\u00e9mon is full of vitality. it constantly flies around its large territory in search of prey.",
+    "training": {
+        "base_exp": 122,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

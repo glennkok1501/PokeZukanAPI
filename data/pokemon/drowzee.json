@@ -1,0 +1,60 @@
+{
+    "name": "drowzee",
+    "id": 96,
+    "info": {
+        "species": "hypnosis pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "insomnia",
+                "is_hidden": false
+            },
+            {
+                "name": "forewarn",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 1.0,
+        "weight": 32.4
+    },
+    "sprites": {
+        "home": "images/pokemon/drowzee.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+    },
+    "moves": "data/moves/drowzee.json",
+    "location": "data/location/drowzee.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 48,
+        "defense": 45,
+        "sp. atk": 43,
+        "sp. def": 90,
+        "speed": 42
+    },
+    "entry": "if you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

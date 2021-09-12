@@ -1,0 +1,62 @@
+{
+    "name": "hoppip",
+    "id": 187,
+    "info": {
+        "species": "cottonweed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "height": 0.4,
+        "weight": 0.5
+    },
+    "sprites": {
+        "home": "images/pokemon/hoppip.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png"
+    },
+    "moves": "data/moves/hoppip.json",
+    "location": "data/location/hoppip.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 40,
+        "sp. atk": 35,
+        "sp. def": 55,
+        "speed": 50
+    },
+    "entry": "this pok\u00e9mon drifts and floats with the wind. if it senses the approach of strong winds, hoppip links its leaves with other hoppip to prepare against being blown away.",
+    "training": {
+        "base_exp": 50,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

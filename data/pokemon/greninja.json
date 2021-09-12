@@ -1,0 +1,57 @@
+{
+    "name": "greninja",
+    "id": 658,
+    "info": {
+        "species": "ninja pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "protean",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "dark"
+        ],
+        "height": 1.5,
+        "weight": 40.0
+    },
+    "sprites": {
+        "home": "images/pokemon/greninja.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+    },
+    "moves": "data/moves/greninja.json",
+    "location": "data/location/greninja.json",
+    "base_stats": {
+        "hp": 72,
+        "attack": 95,
+        "defense": 67,
+        "sp. atk": 103,
+        "sp. def": 71,
+        "speed": 122
+    },
+    "entry": "it appears and vanishes with a ninja\u2019s grace. it toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+    "training": {
+        "base_exp": 239,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

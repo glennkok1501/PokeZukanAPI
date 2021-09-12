@@ -1,0 +1,58 @@
+{
+    "name": "froslass",
+    "id": 478,
+    "info": {
+        "species": "snow land pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice",
+            "ghost"
+        ],
+        "height": 1.3,
+        "weight": 26.6
+    },
+    "sprites": {
+        "home": "images/pokemon/froslass.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
+    },
+    "moves": "data/moves/froslass.json",
+    "location": "data/location/froslass.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 70,
+        "sp. atk": 80,
+        "sp. def": 70,
+        "speed": 110
+    },
+    "entry": "it spits out cold air of nearly \u221260 degrees fahrenheit to freeze its quarry. it brings frozen prey back to its lair and neatly lines them up.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "mineral"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

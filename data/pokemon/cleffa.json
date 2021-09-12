@@ -1,0 +1,60 @@
+{
+    "name": "cleffa",
+    "id": 173,
+    "info": {
+        "species": "star shape pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cute-charm",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "friend-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.3,
+        "weight": 3.0
+    },
+    "sprites": {
+        "home": "images/pokemon/cleffa.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png"
+    },
+    "moves": "data/moves/cleffa.json",
+    "location": "data/location/cleffa.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 25,
+        "defense": 28,
+        "sp. atk": 45,
+        "sp. def": 55,
+        "speed": 15
+    },
+    "entry": "because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+    "training": {
+        "base_exp": 44,
+        "capture_rate": 150,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 140,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

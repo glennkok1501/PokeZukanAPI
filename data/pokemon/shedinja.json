@@ -1,0 +1,53 @@
+{
+    "name": "shedinja",
+    "id": 292,
+    "info": {
+        "species": "shed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "wonder-guard",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "ghost"
+        ],
+        "height": 0.8,
+        "weight": 1.2
+    },
+    "sprites": {
+        "home": "images/pokemon/shedinja.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
+    },
+    "moves": "data/moves/shedinja.json",
+    "location": "data/location/shedinja.json",
+    "base_stats": {
+        "hp": 1,
+        "attack": 90,
+        "defense": 45,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 40
+    },
+    "entry": "a strange pok\u00e9mon\u2014it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+    "training": {
+        "base_exp": 83,
+        "capture_rate": 45,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

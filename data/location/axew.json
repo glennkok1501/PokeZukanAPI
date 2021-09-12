@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "mistralton-cave-area",
+                "guidance-chamber-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "connecting-cave-area"
+            ]
+        }
+    ]
+}

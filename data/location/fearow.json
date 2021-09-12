@@ -1,0 +1,117 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "stark-mountain-area",
+                "sinnoh-route-225-area",
+                "sinnoh-route-227-area",
+                "sinnoh-sea-route-226-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-42-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-area",
+                "johto-route-48-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-9-area",
+                "kanto-route-16-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-10-area",
+                "kanto-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-17-area",
+                "kanto-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "mt-ember-area",
+                "kindle-road-area",
+                "treasure-beach-area",
+                "cape-brink-area",
+                "water-path-area",
+                "ruin-valley-area",
+                "canyon-entrance-area",
+                "sevault-canyon-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-15-area"
+            ]
+        }
+    ]
+}

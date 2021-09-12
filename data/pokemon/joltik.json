@@ -1,0 +1,61 @@
+{
+    "name": "joltik",
+    "id": 595,
+    "info": {
+        "species": "attaching pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "compound-eyes",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": false
+            },
+            {
+                "name": "swarm",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "height": 0.1,
+        "weight": 0.6
+    },
+    "sprites": {
+        "home": "images/pokemon/joltik.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
+    },
+    "moves": "data/moves/joltik.json",
+    "location": "data/location/joltik.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 47,
+        "defense": 50,
+        "sp. atk": 57,
+        "sp. def": 50,
+        "speed": 65
+    },
+    "entry": "joltik latch on to other pok\u00e9mon and suck out static electricity. they\u2019re often found sticking to yamper\u2019s hindquarters.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

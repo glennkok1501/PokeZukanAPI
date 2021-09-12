@@ -1,0 +1,57 @@
+{
+    "name": "pikachu",
+    "id": 25,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "static",
+                "is_hidden": false
+            },
+            {
+                "name": "lightning-rod",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.4,
+        "weight": 6.0
+    },
+    "sprites": {
+        "home": "images/pokemon/pikachu.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+    },
+    "moves": "data/moves/pikachu.json",
+    "location": "data/location/pikachu.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 90
+    },
+    "entry": "when it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.",
+    "training": {
+        "base_exp": 112,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

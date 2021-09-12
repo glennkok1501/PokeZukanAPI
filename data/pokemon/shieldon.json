@@ -1,0 +1,57 @@
+{
+    "name": "shieldon",
+    "id": 410,
+    "info": {
+        "species": "shield pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "soundproof",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "steel"
+        ],
+        "height": 0.5,
+        "weight": 57.0
+    },
+    "sprites": {
+        "home": "images/pokemon/shieldon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
+    },
+    "moves": "data/moves/shieldon.json",
+    "location": "data/location/shieldon.json",
+    "base_stats": {
+        "hp": 30,
+        "attack": 42,
+        "defense": 118,
+        "sp. atk": 42,
+        "sp. def": 88,
+        "speed": 30
+    },
+    "entry": "although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
+    "training": {
+        "base_exp": 70,
+        "capture_rate": 45,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

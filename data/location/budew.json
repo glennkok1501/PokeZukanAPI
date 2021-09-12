@@ -1,0 +1,59 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6",
+                "sinnoh-route-212-north-towards-hearthome-city"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-208-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ilex-forest-area",
+                "viridian-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-4-area"
+            ]
+        }
+    ]
+}

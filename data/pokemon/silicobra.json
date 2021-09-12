@@ -1,0 +1,58 @@
+{
+    "name": "silicobra",
+    "id": 843,
+    "info": {
+        "species": "sand snake pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-spit",
+                "is_hidden": false
+            },
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 2.2,
+        "weight": 7.6
+    },
+    "sprites": {
+        "home": "images/pokemon/silicobra.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png"
+    },
+    "moves": "data/moves/silicobra.json",
+    "location": "data/location/silicobra.json",
+    "base_stats": {
+        "hp": 52,
+        "attack": 57,
+        "defense": 75,
+        "sp. atk": 35,
+        "sp. def": 50,
+        "speed": 46
+    },
+    "entry": "it spews sand from its nostrils. while the enemy is blinded, it burrows into the ground to hide.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

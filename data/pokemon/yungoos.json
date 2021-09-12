@@ -1,0 +1,60 @@
+{
+    "name": "yungoos",
+    "id": 734,
+    "info": {
+        "species": "loitering pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "stakeout",
+                "is_hidden": false
+            },
+            {
+                "name": "strong-jaw",
+                "is_hidden": false
+            },
+            {
+                "name": "adaptability",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.4,
+        "weight": 6.0
+    },
+    "sprites": {
+        "home": "images/pokemon/yungoos.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
+    },
+    "moves": "data/moves/yungoos.json",
+    "location": "data/location/yungoos.json",
+    "base_stats": {
+        "hp": 48,
+        "attack": 70,
+        "defense": 30,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 45
+    },
+    "entry": "although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
+    "training": {
+        "base_exp": 51,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "fletchinder",
+    "id": 662,
+    "info": {
+        "species": "ember pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "gale-wings",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "height": 0.7,
+        "weight": 16.0
+    },
+    "sprites": {
+        "home": "images/pokemon/fletchinder.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png"
+    },
+    "moves": "data/moves/fletchinder.json",
+    "location": "data/location/fletchinder.json",
+    "base_stats": {
+        "hp": 62,
+        "attack": 73,
+        "defense": 55,
+        "sp. atk": 56,
+        "sp. def": 52,
+        "speed": 84
+    },
+    "entry": "fletchinder are exceedingly territorial and aggressive. these pok\u00e9mon fight among themselves over feeding grounds.",
+    "training": {
+        "base_exp": 134,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

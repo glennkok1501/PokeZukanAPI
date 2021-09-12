@@ -1,0 +1,51 @@
+{
+    "name": "calyrex ice rider",
+    "id": 898,
+    "info": {
+        "species": "king pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "as-one",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "ice"
+        ],
+        "height": 2.4,
+        "weight": 809.1
+    },
+    "sprites": {
+        "home": "images/pokemon/calyrex-ice-rider.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10184.png"
+    },
+    "moves": "data/moves/calyrex-ice-rider.json",
+    "location": "data/location/calyrex-ice-rider.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 165,
+        "defense": 150,
+        "sp. atk": 85,
+        "sp. def": 130,
+        "speed": 50
+    },
+    "entry": "calyrex is known in legend as a king that ruled over galar in ancient times. it has the power to cause hearts to mend and plants to spring forth.",
+    "training": {
+        "base_exp": 340,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

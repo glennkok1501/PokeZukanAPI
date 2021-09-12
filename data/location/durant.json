@@ -1,0 +1,55 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "twist-mountain-area",
+                "clay-tunnel-area",
+                "underground-ruins-area",
+                "rocky-mountain-room-area",
+                "glacier-room-area",
+                "iron-room-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-victory-road-unknown-area-53",
+                "unova-victory-road-unknown-area-54",
+                "unova-victory-road-unknown-area-55",
+                "unova-victory-road-unknown-area-56",
+                "unova-victory-road-unknown-area-57",
+                "unova-victory-road-unknown-area-58",
+                "unova-victory-road-unknown-area-59",
+                "unova-victory-road-unknown-area-60",
+                "unova-victory-road-unknown-area-61",
+                "unova-victory-road-unknown-area-62",
+                "unova-victory-road-unknown-area-63",
+                "unova-victory-road-unknown-area-64",
+                "unova-victory-road-unknown-area-65",
+                "unova-victory-road-unknown-area-66",
+                "trial-chamber-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-18-area",
+                "terminus-cave-unknown-area-343",
+                "terminus-cave-unknown-area-344",
+                "terminus-cave-unknown-area-345",
+                "terminus-cave-unknown-area-347",
+                "terminus-cave-unknown-area-348"
+            ]
+        }
+    ]
+}

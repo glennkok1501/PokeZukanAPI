@@ -1,0 +1,34 @@
+{
+    "moves": [
+        {
+            "name": "tackle",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "poison-powder",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "stun-spore",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "string-shot",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "bug-bite",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "rage-powder",
+            "method": "egg",
+            "level": 0
+        }
+    ]
+}

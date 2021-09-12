@@ -1,0 +1,70 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-42-area",
+                "mt-silver-outside",
+                "kanto-route-28-area"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-3-area",
+                "kanto-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "red"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered"
+            ],
+            "area": [
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "kanto-victory-road-2-1f",
+                "kanto-victory-road-2-2f",
+                "kanto-victory-road-2-3f"
+            ]
+        }
+    ]
+}

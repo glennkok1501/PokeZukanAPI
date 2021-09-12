@@ -1,0 +1,59 @@
+{
+    "name": "dreepy",
+    "id": 885,
+    "info": {
+        "species": "lingering pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "clear-body",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "height": 0.5,
+        "weight": 2.0
+    },
+    "sprites": {
+        "home": "images/pokemon/dreepy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png"
+    },
+    "moves": "data/moves/dreepy.json",
+    "location": "data/location/dreepy.json",
+    "base_stats": {
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "sp. atk": 40,
+        "sp. def": 30,
+        "speed": 82
+    },
+    "entry": "if this weak pok\u00e9mon is by itself, a mere child could defeat it. but if dreepy has friends to help it train, it can evolve and become much stronger.",
+    "training": {
+        "base_exp": 54,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

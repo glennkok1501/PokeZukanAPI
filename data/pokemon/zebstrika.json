@@ -1,0 +1,60 @@
+{
+    "name": "zebstrika",
+    "id": 523,
+    "info": {
+        "species": "thunderbolt pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "lightning-rod",
+                "is_hidden": false
+            },
+            {
+                "name": "motor-drive",
+                "is_hidden": false
+            },
+            {
+                "name": "sap-sipper",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 1.6,
+        "weight": 79.5
+    },
+    "sprites": {
+        "home": "images/pokemon/zebstrika.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+    },
+    "moves": "data/moves/zebstrika.json",
+    "location": "data/location/zebstrika.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 63,
+        "sp. atk": 80,
+        "sp. def": 63,
+        "speed": 116
+    },
+    "entry": "they have lightning-like movements. when zebstrika run at full speed, the sound of thunder reverberates.",
+    "training": {
+        "base_exp": 174,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

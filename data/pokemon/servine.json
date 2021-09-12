@@ -1,0 +1,57 @@
+{
+    "name": "servine",
+    "id": 496,
+    "info": {
+        "species": "grass snake pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.8,
+        "weight": 16.0
+    },
+    "sprites": {
+        "home": "images/pokemon/servine.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
+    },
+    "moves": "data/moves/servine.json",
+    "location": "data/location/servine.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "sp. atk": 60,
+        "sp. def": 75,
+        "speed": 83
+    },
+    "entry": "when it gets dirty, its leaves can\u2019t be used in photosynthesis, so it always keeps itself clean.",
+    "training": {
+        "base_exp": 145,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

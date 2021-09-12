@@ -1,0 +1,57 @@
+{
+    "name": "sandygast",
+    "id": 769,
+    "info": {
+        "species": "sand heap pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-compaction",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost",
+            "ground"
+        ],
+        "height": 0.5,
+        "weight": 70.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sandygast.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png"
+    },
+    "moves": "data/moves/sandygast.json",
+    "location": "data/location/sandygast.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 80,
+        "sp. atk": 70,
+        "sp. def": 45,
+        "speed": 15
+    },
+    "entry": "sandygast mainly inhabits beaches. it takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 140,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

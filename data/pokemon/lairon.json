@@ -1,0 +1,61 @@
+{
+    "name": "lairon",
+    "id": 305,
+    "info": {
+        "species": "iron armor pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "heavy-metal",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "rock"
+        ],
+        "height": 0.9,
+        "weight": 120.0
+    },
+    "sprites": {
+        "home": "images/pokemon/lairon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png"
+    },
+    "moves": "data/moves/lairon.json",
+    "location": "data/location/lairon.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 140,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 40
+    },
+    "entry": "lairon feeds on iron contained in rocks and water. it makes its nest on mountains where iron ore is buried. as a result, the pok\u00e9mon often clashes with humans mining the iron ore.",
+    "training": {
+        "base_exp": 151,
+        "capture_rate": 90,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

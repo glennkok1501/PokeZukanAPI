@@ -1,0 +1,54 @@
+{
+    "name": "abomasnow mega",
+    "id": 460,
+    "info": {
+        "species": "frost tree pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "snow-warning",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "grass",
+            "ice"
+        ],
+        "height": 2.7,
+        "weight": 185.0
+    },
+    "sprites": {
+        "home": "images/pokemon/abomasnow-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png"
+    },
+    "moves": "data/moves/abomasnow-mega.json",
+    "location": "data/location/abomasnow-mega.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 132,
+        "defense": 105,
+        "sp. atk": 132,
+        "sp. def": 105,
+        "speed": 30
+    },
+    "entry": "this pok\u00e9mon is known to bring blizzards. a shake of its massive body is enough to cause whiteout conditions.",
+    "training": {
+        "base_exp": 208,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

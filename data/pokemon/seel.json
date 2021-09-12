@@ -1,0 +1,61 @@
+{
+    "name": "seel",
+    "id": 86,
+    "info": {
+        "species": "sea lion pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "thick-fat",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.1,
+        "weight": 90.0
+    },
+    "sprites": {
+        "home": "images/pokemon/seel.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+    },
+    "moves": "data/moves/seel.json",
+    "location": "data/location/seel.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 45,
+        "defense": 55,
+        "sp. atk": 45,
+        "sp. def": 70,
+        "speed": 45
+    },
+    "entry": "loves freezing-cold conditions. relishes swimming in a frigid climate of around 14 degrees fahrenheit.",
+    "training": {
+        "base_exp": 65,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

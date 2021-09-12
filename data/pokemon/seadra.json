@@ -1,0 +1,61 @@
+{
+    "name": "seadra",
+    "id": 117,
+    "info": {
+        "species": "dragon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "poison-point",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": false
+            },
+            {
+                "name": "damp",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.2,
+        "weight": 25.0
+    },
+    "sprites": {
+        "home": "images/pokemon/seadra.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+    },
+    "moves": "data/moves/seadra.json",
+    "location": "data/location/seadra.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 65,
+        "defense": 95,
+        "sp. atk": 95,
+        "sp. def": 45,
+        "speed": 85
+    },
+    "entry": "seadra\u2019s mouth is slender, but its suction power is strong. in an instant, seadra can suck in food that\u2019s larger than the opening of its mouth.",
+    "training": {
+        "base_exp": 154,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

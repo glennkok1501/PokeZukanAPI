@@ -1,0 +1,53 @@
+{
+    "name": "phione",
+    "id": 489,
+    "info": {
+        "species": "sea drifter pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hydration",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.4,
+        "weight": 3.1
+    },
+    "sprites": {
+        "home": "images/pokemon/phione.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png"
+    },
+    "moves": "data/moves/phione.json",
+    "location": "data/location/phione.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "sp. atk": 80,
+        "sp. def": 80,
+        "speed": 80
+    },
+    "entry": "it drifts in warm seas. it always returns to where it was born, no matter how far it may have drifted.",
+    "training": {
+        "base_exp": 216,
+        "capture_rate": 30,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "fairy"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

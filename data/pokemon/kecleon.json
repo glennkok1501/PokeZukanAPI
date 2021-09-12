@@ -1,0 +1,56 @@
+{
+    "name": "kecleon",
+    "id": 352,
+    "info": {
+        "species": "color swap pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "color-change",
+                "is_hidden": false
+            },
+            {
+                "name": "protean",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.0,
+        "weight": 22.0
+    },
+    "sprites": {
+        "home": "images/pokemon/kecleon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png"
+    },
+    "moves": "data/moves/kecleon.json",
+    "location": "data/location/kecleon.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 70,
+        "sp. atk": 60,
+        "sp. def": 120,
+        "speed": 40
+    },
+    "entry": "its color changes for concealment and also when its mood or health changes. the darker the color, the healthier it is.",
+    "training": {
+        "base_exp": 154,
+        "capture_rate": 200,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

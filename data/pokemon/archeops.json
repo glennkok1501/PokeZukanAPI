@@ -1,0 +1,54 @@
+{
+    "name": "archeops",
+    "id": 567,
+    "info": {
+        "species": "first bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "defeatist",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "height": 1.4,
+        "weight": 32.0
+    },
+    "sprites": {
+        "home": "images/pokemon/archeops.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png"
+    },
+    "moves": "data/moves/archeops.json",
+    "location": "data/location/archeops.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 140,
+        "defense": 65,
+        "sp. atk": 112,
+        "sp. def": 65,
+        "speed": 110
+    },
+    "entry": "said to be an ancestor of bird pok\u00e9mon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
+    "training": {
+        "base_exp": 177,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying",
+            "water3"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

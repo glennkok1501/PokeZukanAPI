@@ -1,0 +1,61 @@
+{
+    "name": "lanturn",
+    "id": 171,
+    "info": {
+        "species": "light pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "volt-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "illuminate",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "electric"
+        ],
+        "height": 1.2,
+        "weight": 22.5
+    },
+    "sprites": {
+        "home": "images/pokemon/lanturn.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"
+    },
+    "moves": "data/moves/lanturn.json",
+    "location": "data/location/lanturn.json",
+    "base_stats": {
+        "hp": 125,
+        "attack": 58,
+        "defense": 58,
+        "sp. atk": 76,
+        "sp. def": 76,
+        "speed": 67
+    },
+    "entry": "this pok\u00e9mon flashes a bright light that blinds its prey. this creates an opening for it to deliver an electrical attack.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 75,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

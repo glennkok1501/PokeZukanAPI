@@ -1,0 +1,184 @@
+{
+    "moves": [
+        {
+            "name": "counter",
+            "method": "level-up",
+            "level": 17
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "recover",
+            "method": "level-up",
+            "level": 37
+        },
+        {
+            "name": "harden",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "reflect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bide",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "curse",
+            "method": "level-up",
+            "level": 25
+        },
+        {
+            "name": "spite",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "pain-split",
+            "method": "level-up",
+            "level": 33
+        },
+        {
+            "name": "baton-pass",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psych-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "hail",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "memento",
+            "method": "level-up",
+            "level": 49
+        },
+        {
+            "name": "taunt",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "helping-hand",
+            "method": "level-up",
+            "level": 5
+        },
+        {
+            "name": "mud-sport",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "tickle",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "water-sport",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "gastro-acid",
+            "method": "level-up",
+            "level": 29
+        },
+        {
+            "name": "soak",
+            "method": "level-up",
+            "level": 41
+        },
+        {
+            "name": "quash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "bestow",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "venom-drench",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "purify",
+            "method": "level-up",
+            "level": 21
+        }
+    ]
+}

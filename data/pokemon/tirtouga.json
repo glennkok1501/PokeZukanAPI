@@ -1,0 +1,62 @@
+{
+    "name": "tirtouga",
+    "id": 564,
+    "info": {
+        "species": "prototurtle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "solid-rock",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "swift-swim",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "rock"
+        ],
+        "height": 0.7,
+        "weight": 16.5
+    },
+    "sprites": {
+        "home": "images/pokemon/tirtouga.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+    },
+    "moves": "data/moves/tirtouga.json",
+    "location": "data/location/tirtouga.json",
+    "base_stats": {
+        "hp": 54,
+        "attack": 78,
+        "defense": 103,
+        "sp. atk": 53,
+        "sp. def": 45,
+        "speed": 22
+    },
+    "entry": "its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
+    "training": {
+        "base_exp": 71,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water3"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

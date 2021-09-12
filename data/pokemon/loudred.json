@@ -1,0 +1,57 @@
+{
+    "name": "loudred",
+    "id": 294,
+    "info": {
+        "species": "big voice pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "soundproof",
+                "is_hidden": false
+            },
+            {
+                "name": "scrappy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.0,
+        "weight": 40.5
+    },
+    "sprites": {
+        "home": "images/pokemon/loudred.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png"
+    },
+    "moves": "data/moves/loudred.json",
+    "location": "data/location/loudred.json",
+    "base_stats": {
+        "hp": 84,
+        "attack": 71,
+        "defense": 43,
+        "sp. atk": 71,
+        "sp. def": 43,
+        "speed": 48
+    },
+    "entry": "the force of this pok\u00e9mon\u2019s loud voice isn\u2019t just the sound\u2014it\u2019s also the wave of air pressure that blows opponents away and damages them.",
+    "training": {
+        "base_exp": 126,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

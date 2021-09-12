@@ -1,0 +1,61 @@
+{
+    "name": "mandibuzz",
+    "id": 630,
+    "info": {
+        "species": "bone vulture pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "big-pecks",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": false
+            },
+            {
+                "name": "weak-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "flying"
+        ],
+        "height": 1.2,
+        "weight": 39.5
+    },
+    "sprites": {
+        "home": "images/pokemon/mandibuzz.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
+    },
+    "moves": "data/moves/mandibuzz.json",
+    "location": "data/location/mandibuzz.json",
+    "base_stats": {
+        "hp": 110,
+        "attack": 65,
+        "defense": 105,
+        "sp. atk": 55,
+        "sp. def": 95,
+        "speed": 80
+    },
+    "entry": "they adorn themselves with bones. there seem to be fashion trends among them, as different bones come into and fall out of popularity.",
+    "training": {
+        "base_exp": 179,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

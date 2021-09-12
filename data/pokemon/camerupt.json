@@ -1,0 +1,61 @@
+{
+    "name": "camerupt",
+    "id": 323,
+    "info": {
+        "species": "eruption pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "magma-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "solid-rock",
+                "is_hidden": false
+            },
+            {
+                "name": "anger-point",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "ground"
+        ],
+        "height": 1.9,
+        "weight": 220.0
+    },
+    "sprites": {
+        "home": "images/pokemon/camerupt.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
+    },
+    "moves": "data/moves/camerupt.json",
+    "location": "data/location/camerupt.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "sp. atk": 105,
+        "sp. def": 75,
+        "speed": 40
+    },
+    "entry": "the humps on camerupt\u2019s back are formed by a transformation of its bones. they sometimes blast out molten magma. this pok\u00e9mon apparently erupts often when it is enraged.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 150,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

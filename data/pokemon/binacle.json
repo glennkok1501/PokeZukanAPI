@@ -1,0 +1,61 @@
+{
+    "name": "binacle",
+    "id": 688,
+    "info": {
+        "species": "two-handed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "tough-claws",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": false
+            },
+            {
+                "name": "pickpocket",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "water"
+        ],
+        "height": 0.5,
+        "weight": 31.0
+    },
+    "sprites": {
+        "home": "images/pokemon/binacle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+    },
+    "moves": "data/moves/binacle.json",
+    "location": "data/location/binacle.json",
+    "base_stats": {
+        "hp": 42,
+        "attack": 52,
+        "defense": 67,
+        "sp. atk": 39,
+        "sp. def": 56,
+        "speed": 50
+    },
+    "entry": "if the two don\u2019t work well together, both their offense and defense fall apart. without good teamwork, they won\u2019t survive.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "spoink",
+    "id": 325,
+    "info": {
+        "species": "bounce pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "thick-fat",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.7,
+        "weight": 30.6
+    },
+    "sprites": {
+        "home": "images/pokemon/spoink.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png"
+    },
+    "moves": "data/moves/spoink.json",
+    "location": "data/location/spoink.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 25,
+        "defense": 35,
+        "sp. atk": 70,
+        "sp. def": 80,
+        "speed": 60
+    },
+    "entry": "spoink keeps a pearl on top of its head. the pearl functions to amplify this pok\u00e9mon\u2019s psychokinetic powers. it is therefore on a constant search for a bigger pearl.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 255,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

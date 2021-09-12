@@ -1,0 +1,60 @@
+{
+    "name": "klang",
+    "id": 600,
+    "info": {
+        "species": "gear pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "plus",
+                "is_hidden": false
+            },
+            {
+                "name": "minus",
+                "is_hidden": false
+            },
+            {
+                "name": "clear-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel"
+        ],
+        "height": 0.6,
+        "weight": 51.0
+    },
+    "sprites": {
+        "home": "images/pokemon/klang.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
+    },
+    "moves": "data/moves/klang.json",
+    "location": "data/location/klang.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 95,
+        "sp. atk": 70,
+        "sp. def": 85,
+        "speed": 50
+    },
+    "entry": "many companies in the galar region choose klang as their logo. this pok\u00e9mon is considered the symbol of industrial technology.",
+    "training": {
+        "base_exp": 154,
+        "capture_rate": 60,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

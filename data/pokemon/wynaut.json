@@ -1,0 +1,56 @@
+{
+    "name": "wynaut",
+    "id": 360,
+    "info": {
+        "species": "bright pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shadow-tag",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.6,
+        "weight": 14.0
+    },
+    "sprites": {
+        "home": "images/pokemon/wynaut.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png"
+    },
+    "moves": "data/moves/wynaut.json",
+    "location": "data/location/wynaut.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 23,
+        "defense": 48,
+        "sp. atk": 23,
+        "sp. def": 48,
+        "speed": 23
+    },
+    "entry": "it tends to move in a pack with others. they cluster in a tight group to sleep in a cave.",
+    "training": {
+        "base_exp": 52,
+        "capture_rate": 125,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

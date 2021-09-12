@@ -1,0 +1,52 @@
+{
+    "name": "deoxys defense",
+    "id": 386,
+    "info": {
+        "species": "dna pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 1.7,
+        "weight": 60.8
+    },
+    "sprites": {
+        "home": "images/pokemon/deoxys-defense.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10002.png"
+    },
+    "moves": "data/moves/deoxys-defense.json",
+    "location": "data/location/deoxys-defense.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 160,
+        "sp. atk": 70,
+        "sp. def": 160,
+        "speed": 90
+    },
+    "entry": "deoxys emerged from a virus that came from space. it is highly intelligent and wields psychokinetic powers. this pok\u00e9mon shoots lasers from the crystalline organ on its chest.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

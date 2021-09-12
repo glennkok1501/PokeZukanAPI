@@ -1,0 +1,60 @@
+{
+    "name": "riolu",
+    "id": 447,
+    "info": {
+        "species": "emanation pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "steadfast",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "prankster",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 0.7,
+        "weight": 20.2
+    },
+    "sprites": {
+        "home": "images/pokemon/riolu.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png"
+    },
+    "moves": "data/moves/riolu.json",
+    "location": "data/location/riolu.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 70,
+        "defense": 40,
+        "sp. atk": 35,
+        "sp. def": 40,
+        "speed": 60
+    },
+    "entry": "it can use waves called auras to gauge how others are feeling. these same waves can also tell this pok\u00e9mon about the state of the environment.",
+    "training": {
+        "base_exp": 57,
+        "capture_rate": 75,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

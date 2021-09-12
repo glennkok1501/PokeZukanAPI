@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "roaming-kanto-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "roaming-johto-area"
+            ]
+        }
+    ]
+}

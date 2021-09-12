@@ -1,0 +1,57 @@
+{
+    "name": "fletchling",
+    "id": 661,
+    "info": {
+        "species": "tiny robin pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "big-pecks",
+                "is_hidden": false
+            },
+            {
+                "name": "gale-wings",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.3,
+        "weight": 1.7
+    },
+    "sprites": {
+        "home": "images/pokemon/fletchling.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
+    },
+    "moves": "data/moves/fletchling.json",
+    "location": "data/location/fletchling.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 43,
+        "sp. atk": 40,
+        "sp. def": 38,
+        "speed": 62
+    },
+    "entry": "when this pok\u00e9mon gets excited, its body temperature increases sharply. if you touch a fletchling with bare hands, you might get burned.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

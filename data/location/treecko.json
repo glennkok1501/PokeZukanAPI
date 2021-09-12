@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald",
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "hoenn-route-101-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "saffron-city-silph-co-7f"
+            ]
+        }
+    ]
+}

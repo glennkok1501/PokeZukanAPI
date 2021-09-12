@@ -1,0 +1,52 @@
+{
+    "name": "necrozma",
+    "id": 800,
+    "info": {
+        "species": "prism pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prism-armor",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 2.4,
+        "weight": 230.0
+    },
+    "sprites": {
+        "home": "images/pokemon/necrozma.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png"
+    },
+    "moves": "data/moves/necrozma.json",
+    "location": "data/location/necrozma.json",
+    "base_stats": {
+        "hp": 97,
+        "attack": 107,
+        "defense": 101,
+        "sp. atk": 127,
+        "sp. def": 89,
+        "speed": 79
+    },
+    "entry": "when necrozma latches on to lunala, it becomes vicious, seeing enemies everywhere it looks. it will burn the world with lasers.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 255,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

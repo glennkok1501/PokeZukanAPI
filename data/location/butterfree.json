@@ -1,0 +1,66 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "crystal"
+            ],
+            "area": [
+                "ilex-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "gold"
+            ],
+            "area": [
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-36-area",
+                "johto-route-37-area",
+                "johto-route-38-area",
+                "johto-route-39-area",
+                "lake-of-rage-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "azalea-town-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-2-south-towards-viridian-city"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-2-north-towards-pewter-city",
+                "viridian-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "white"
+            ],
+            "area": [
+                "unova-route-12-area"
+            ]
+        }
+    ]
+}

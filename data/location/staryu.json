@@ -1,0 +1,166 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "canalave-city-area",
+                "sunyshore-city-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cherrygrove-city-area",
+                "union-cave-b2f",
+                "johto-route-34-area",
+                "olivine-city-area",
+                "johto-sea-route-40-area",
+                "cianwood-city-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-area"
+            ]
+        },
+        {
+            "game": [
+                "blue"
+            ],
+            "area": [
+                "seafoam-islands-1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "seafoam-islands-b1f",
+                "seafoam-islands-b2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "seafoam-islands-b3f",
+                "seafoam-islands-b4f",
+                "kanto-sea-route-20-area",
+                "kanto-sea-route-21-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-sea-route-19-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "cinnabar-island-area"
+            ]
+        },
+        {
+            "game": [
+                "leafgreen"
+            ],
+            "area": [
+                "vermilion-city-area",
+                "ss-anne-area",
+                "icefall-cave-waterfall",
+                "one-island-area",
+                "five-island-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "pallet-town-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "vermilion-city-ss-anne-dock"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "lilycove-city-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-13-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "undella-town-area",
+                "humilau-city-area"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "kalos-route-8-area"
+            ]
+        }
+    ]
+}

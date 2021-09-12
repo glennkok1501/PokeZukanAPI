@@ -1,0 +1,22 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "hearthome-city-west-gate"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "nacrene-city-west-gate"
+            ]
+        }
+    ]
+}

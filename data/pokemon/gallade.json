@@ -1,0 +1,57 @@
+{
+    "name": "gallade",
+    "id": 475,
+    "info": {
+        "species": "blade pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "steadfast",
+                "is_hidden": false
+            },
+            {
+                "name": "justified",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic",
+            "fighting"
+        ],
+        "height": 1.6,
+        "weight": 52.0
+    },
+    "sprites": {
+        "home": "images/pokemon/gallade.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
+    },
+    "moves": "data/moves/gallade.json",
+    "location": "data/location/gallade.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 125,
+        "defense": 65,
+        "sp. atk": 65,
+        "sp. def": 115,
+        "speed": 80
+    },
+    "entry": "sharply attuned to others\u2019 wishes for help, this pok\u00e9mon seeks out those in need and aids them in battle.",
+    "training": {
+        "base_exp": 233,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

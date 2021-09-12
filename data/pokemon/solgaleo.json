@@ -1,0 +1,53 @@
+{
+    "name": "solgaleo",
+    "id": 791,
+    "info": {
+        "species": "sunne pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "full-metal-body",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "steel"
+        ],
+        "height": 3.4,
+        "weight": 230.0
+    },
+    "sprites": {
+        "home": "images/pokemon/solgaleo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png"
+    },
+    "moves": "data/moves/solgaleo.json",
+    "location": "data/location/solgaleo.json",
+    "base_stats": {
+        "hp": 137,
+        "attack": 137,
+        "defense": 107,
+        "sp. atk": 113,
+        "sp. def": 89,
+        "speed": 97
+    },
+    "entry": "solgaleo was once known as the beast that devours the sun. energy in the form of light radiates boundlessly from it.",
+    "training": {
+        "base_exp": 306,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

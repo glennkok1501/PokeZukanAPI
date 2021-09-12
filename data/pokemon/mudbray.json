@@ -1,0 +1,60 @@
+{
+    "name": "mudbray",
+    "id": 749,
+    "info": {
+        "species": "donkey pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "stamina",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 1.0,
+        "weight": 110.0
+    },
+    "sprites": {
+        "home": "images/pokemon/mudbray.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
+    },
+    "moves": "data/moves/mudbray.json",
+    "location": "data/location/mudbray.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "sp. atk": 45,
+        "sp. def": 55,
+        "speed": 45
+    },
+    "entry": "it eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
+    "training": {
+        "base_exp": 77,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

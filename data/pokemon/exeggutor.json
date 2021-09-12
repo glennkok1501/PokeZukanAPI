@@ -1,0 +1,57 @@
+{
+    "name": "exeggutor",
+    "id": 103,
+    "info": {
+        "species": "coconut pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "harvest",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "height": 2.0,
+        "weight": 120.0
+    },
+    "sprites": {
+        "home": "images/pokemon/exeggutor.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+    },
+    "moves": "data/moves/exeggutor.json",
+    "location": "data/location/exeggutor.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 85,
+        "sp. atk": 125,
+        "sp. def": 75,
+        "speed": 55
+    },
+    "entry": "when they work together, exeggutor\u2019s three heads can put out powerful psychic energy. cloudy days make this pok\u00e9mon sluggish.",
+    "training": {
+        "base_exp": 186,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

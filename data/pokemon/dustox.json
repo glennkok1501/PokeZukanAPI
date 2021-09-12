@@ -1,0 +1,57 @@
+{
+    "name": "dustox",
+    "id": 269,
+    "info": {
+        "species": "poison moth pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shield-dust",
+                "is_hidden": false
+            },
+            {
+                "name": "compound-eyes",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 1.2,
+        "weight": 31.6
+    },
+    "sprites": {
+        "home": "images/pokemon/dustox.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
+    },
+    "moves": "data/moves/dustox.json",
+    "location": "data/location/dustox.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 70,
+        "sp. atk": 50,
+        "sp. def": 90,
+        "speed": 65
+    },
+    "entry": "when dustox flaps its wings, a fine dust is scattered all over. this dust is actually a powerful poison that will even make a pro wrestler sick. this pok\u00e9mon searches for food using its antennae like radar.",
+    "training": {
+        "base_exp": 173,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

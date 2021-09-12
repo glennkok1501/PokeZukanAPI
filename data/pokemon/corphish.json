@@ -1,0 +1,61 @@
+{
+    "name": "corphish",
+    "id": 341,
+    "info": {
+        "species": "ruffian pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hyper-cutter",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "adaptability",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.6,
+        "weight": 11.5
+    },
+    "sprites": {
+        "home": "images/pokemon/corphish.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
+    },
+    "moves": "data/moves/corphish.json",
+    "location": "data/location/corphish.json",
+    "base_stats": {
+        "hp": 43,
+        "attack": 80,
+        "defense": 65,
+        "sp. atk": 50,
+        "sp. def": 35,
+        "speed": 35
+    },
+    "entry": "it was originally a pok\u00e9mon from afar that escaped to the wild. it can adapt to the dirtiest river.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 205,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

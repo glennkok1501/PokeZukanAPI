@@ -1,0 +1,60 @@
+{
+    "name": "duosion",
+    "id": 578,
+    "info": {
+        "species": "mitosis pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overcoat",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.6,
+        "weight": 8.0
+    },
+    "sprites": {
+        "home": "images/pokemon/duosion.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png"
+    },
+    "moves": "data/moves/duosion.json",
+    "location": "data/location/duosion.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 40,
+        "defense": 50,
+        "sp. atk": 125,
+        "sp. def": 60,
+        "speed": 30
+    },
+    "entry": "its brain has split into two, and the two halves rarely think alike. its actions are utterly unpredictable.",
+    "training": {
+        "base_exp": 130,
+        "capture_rate": 100,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

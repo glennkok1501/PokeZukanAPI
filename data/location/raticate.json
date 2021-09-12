@@ -1,0 +1,154 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-225-area",
+                "sinnoh-sea-route-226-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "union-cave-b2f",
+                "burned-tower-1f",
+                "johto-route-38-area",
+                "johto-route-39-area",
+                "mt-mortar-upper-cave",
+                "mt-mortar-b1f",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-7-area",
+                "tohjo-falls-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-42-area",
+                "mt-mortar-1f",
+                "mt-mortar-lower-cave",
+                "johto-route-43-area",
+                "kanto-route-1-area",
+                "kanto-route-3-area",
+                "kanto-route-4-area",
+                "kanto-route-6-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-9-area",
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "crystal"
+            ],
+            "area": [
+                "kanto-route-11-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-16-area",
+                "kanto-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-17-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "crystal"
+            ],
+            "area": [
+                "kanto-sea-route-21-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "pokemon-mansion-1f",
+                "pokemon-mansion-2f",
+                "pokemon-mansion-3f",
+                "pokemon-mansion-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dreamyard-area",
+                "dreamyard-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "strange-house-1f",
+                "strange-house-b1f",
+                "relic-passage-relic-castle-entrance"
+            ]
+        }
+    ]
+}

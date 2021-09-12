@@ -1,0 +1,65 @@
+{
+    "location": [
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "ruins-of-alph-outside",
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-42-area",
+                "johto-route-43-area",
+                "johto-route-44-area",
+                "johto-route-45-area",
+                "johto-route-47-area",
+                "mt-silver-outside",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-28-area",
+                "kanto-route-4-area",
+                "kanto-route-6-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area",
+                "kanto-route-13-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-22-area",
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "rusturf-tunnel-area",
+                "hoenn-victory-road-1f",
+                "hoenn-route-116-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "desert-underpass-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "connecting-cave-area"
+            ]
+        }
+    ]
+}

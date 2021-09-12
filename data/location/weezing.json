@@ -1,0 +1,47 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "stark-mountain-area",
+                "stark-mountain-entrance",
+                "stark-mountain-inside",
+                "sinnoh-route-227-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "burned-tower-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered"
+            ],
+            "area": [
+                "pokemon-mansion-1f",
+                "pokemon-mansion-2f",
+                "pokemon-mansion-3f",
+                "pokemon-mansion-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "p2-laboratory-area"
+            ]
+        }
+    ]
+}

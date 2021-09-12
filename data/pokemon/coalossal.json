@@ -1,0 +1,59 @@
+{
+    "name": "coalossal",
+    "id": 839,
+    "info": {
+        "species": "coal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "steam-engine",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "flash-fire",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "fire"
+        ],
+        "height": 2.8,
+        "weight": 310.5
+    },
+    "sprites": {
+        "home": "images/pokemon/coalossal.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png"
+    },
+    "moves": "data/moves/coalossal.json",
+    "location": "data/location/coalossal.json",
+    "base_stats": {
+        "hp": 110,
+        "attack": 80,
+        "defense": 120,
+        "sp. atk": 80,
+        "sp. def": 90,
+        "speed": 30
+    },
+    "entry": "while it\u2019s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
+    "training": {
+        "base_exp": 255,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

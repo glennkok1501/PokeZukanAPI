@@ -1,0 +1,53 @@
+{
+    "name": "charjabug",
+    "id": 737,
+    "info": {
+        "species": "battery pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "battery",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "height": 0.5,
+        "weight": 10.5
+    },
+    "sprites": {
+        "home": "images/pokemon/charjabug.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png"
+    },
+    "moves": "data/moves/charjabug.json",
+    "location": "data/location/charjabug.json",
+    "base_stats": {
+        "hp": 57,
+        "attack": 82,
+        "defense": 95,
+        "sp. atk": 55,
+        "sp. def": 75,
+        "speed": 36
+    },
+    "entry": "its digestive processes convert the leaves it eats into electricity. an electric sac in its belly stores the electricity for later use.",
+    "training": {
+        "base_exp": 140,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

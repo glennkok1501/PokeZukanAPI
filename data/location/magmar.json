@@ -1,0 +1,48 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "fuego-ironworks-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "burned-tower-b1f"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "mt-silver-1f"
+            ]
+        },
+        {
+            "game": [
+                "blue"
+            ],
+            "area": [
+                "pokemon-mansion-3f",
+                "pokemon-mansion-b1f"
+            ]
+        },
+        {
+            "game": [
+                "leafgreen"
+            ],
+            "area": [
+                "mt-ember-area"
+            ]
+        }
+    ]
+}

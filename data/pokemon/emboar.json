@@ -1,0 +1,57 @@
+{
+    "name": "emboar",
+    "id": 500,
+    "info": {
+        "species": "mega fire pig pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "reckless",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "height": 1.6,
+        "weight": 150.0
+    },
+    "sprites": {
+        "home": "images/pokemon/emboar.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png"
+    },
+    "moves": "data/moves/emboar.json",
+    "location": "data/location/emboar.json",
+    "base_stats": {
+        "hp": 110,
+        "attack": 123,
+        "defense": 65,
+        "sp. atk": 100,
+        "sp. def": 65,
+        "speed": 65
+    },
+    "entry": "it has mastered fast and powerful fighting moves. it grows a beard of fire.",
+    "training": {
+        "base_exp": 238,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "oreburgh-mine-1f",
+                "oreburgh-mine-b1f",
+                "mt-coronet-route-207",
+                "mt-coronet-4f",
+                "mt-coronet-route-211",
+                "mt-coronet-b1f",
+                "ravaged-path-area",
+                "oreburgh-gate-1f",
+                "oreburgh-gate-b1f",
+                "wayward-cave-1f",
+                "wayward-cave-b1f",
+                "iron-island-1f",
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town",
+                "sinnoh-route-206-area",
+                "sinnoh-route-207-area",
+                "sinnoh-route-208-area",
+                "sinnoh-route-209-area",
+                "lost-tower-1f",
+                "lost-tower-2f",
+                "lost-tower-3f",
+                "lost-tower-4f",
+                "lost-tower-5f",
+                "sinnoh-route-211-west-towards-eterna-city",
+                "sinnoh-route-211-east-towards-celestic-town",
+                "sinnoh-route-216-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "acuity-lakefront-area",
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-214-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-32-area",
+                "union-cave-1f",
+                "union-cave-b1f",
+                "union-cave-b2f",
+                "johto-route-33-area",
+                "slowpoke-well-1f",
+                "slowpoke-well-b1f",
+                "burned-tower-1f",
+                "burned-tower-b1f",
+                "whirl-islands-1f",
+                "whirl-islands-b1f",
+                "whirl-islands-b2f",
+                "whirl-islands-b3f",
+                "johto-route-42-area",
+                "mt-mortar-1f",
+                "mt-mortar-lower-cave",
+                "mt-mortar-b1f",
+                "dark-cave-violet-city-entrance",
+                "dark-cave-blackthorn-city-entrance",
+                "kanto-route-3-area",
+                "kanto-route-4-area",
+                "tohjo-falls-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ilex-forest-area",
+                "ice-path-1f",
+                "ice-path-b1f",
+                "ice-path-b2f",
+                "ice-path-b3f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-1f"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b1f",
+                "seafoam-islands-b2f",
+                "seafoam-islands-b3f"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "seafoam-islands-b4f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-47-inside-cave",
+                "mt-moon-2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-moon-1f",
+                "rock-tunnel-b1f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "rock-tunnel-1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "mt-moon-b1f",
+                "rock-tunnel-b2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "mt-moon-b2f",
+                "kanto-victory-road-2-1f",
+                "kanto-victory-road-2-2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-3f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "meteor-falls-area",
+                "granite-cave-1f",
+                "granite-cave-b1f",
+                "granite-cave-b2f",
+                "granite-cave-1fsmall-room",
+                "seafloor-cavern-area",
+                "cave-of-origin-entrance",
+                "cave-of-origin-1f",
+                "cave-of-origin-b1f",
+                "cave-of-origin-b2f",
+                "cave-of-origin-b3f",
+                "hoenn-victory-road-1f",
+                "shoal-cave-area",
+                "shoal-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-altering-cave-a"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "icefall-cave-entrance",
+                "icefall-cave-1f",
+                "icefall-cave-b1f",
+                "icefall-cave-waterfall",
+                "lost-cave-room-1",
+                "lost-cave-room-2",
+                "lost-cave-room-3",
+                "lost-cave-room-4",
+                "lost-cave-room-5",
+                "lost-cave-room-6",
+                "lost-cave-room-7",
+                "lost-cave-room-8",
+                "lost-cave-room-9",
+                "lost-cave-room-10",
+                "lost-cave-item-rooms",
+                "kanto-altering-cave-a"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "castelia-sewers-area",
+                "castelia-sewers-unknown-area-38"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "connecting-cave-area"
+            ]
+        }
+    ]
+}

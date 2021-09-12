@@ -1,0 +1,57 @@
+{
+    "name": "volcarona",
+    "id": 637,
+    "info": {
+        "species": "sun pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "swarm",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "fire"
+        ],
+        "height": 1.6,
+        "weight": 46.0
+    },
+    "sprites": {
+        "home": "images/pokemon/volcarona.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png"
+    },
+    "moves": "data/moves/volcarona.json",
+    "location": "data/location/volcarona.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 60,
+        "defense": 65,
+        "sp. atk": 135,
+        "sp. def": 105,
+        "speed": 100
+    },
+    "entry": "this pok\u00e9mon emerges from a cocoon formed of raging flames. ancient murals depict volcarona as a deity of fire.",
+    "training": {
+        "base_exp": 248,
+        "capture_rate": 15,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

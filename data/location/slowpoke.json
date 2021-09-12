@@ -1,0 +1,150 @@
+{
+    "location": [
+        {
+            "game": [
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-205-east-towards-eterna-city"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "slowpoke-well-1f",
+                "slowpoke-well-b1f",
+                "tohjo-falls-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "seafoam-islands-1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "seafoam-islands-b1f",
+                "seafoam-islands-b2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "leafgreen"
+            ],
+            "area": [
+                "seafoam-islands-b3f",
+                "seafoam-islands-b4f"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-12-area",
+                "kanto-route-13-area"
+            ]
+        },
+        {
+            "game": [
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-sea-route-19-area",
+                "kanto-sea-route-20-area",
+                "cinnabar-island-area",
+                "viridian-city-area",
+                "cerulean-city-area",
+                "vermilion-city-area",
+                "fuchsia-city-area",
+                "pallet-town-area",
+                "kanto-route-4-area",
+                "kanto-route-6-area",
+                "kanto-route-11-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-22-area",
+                "kanto-route-24-area",
+                "kanto-route-25-area",
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f",
+                "kanto-route-23-area",
+                "ss-anne-area",
+                "berry-forest-area",
+                "icefall-cave-entrance",
+                "icefall-cave-waterfall",
+                "kindle-road-area",
+                "treasure-beach-area",
+                "cape-brink-area",
+                "bond-bridge-area",
+                "resort-gorgeous-area",
+                "water-labyrinth-area",
+                "five-isle-meadow-area",
+                "memorial-pillar-area",
+                "outcast-island-area",
+                "green-path-area",
+                "water-path-area",
+                "ruin-valley-area",
+                "trainer-tower-area",
+                "canyon-entrance-area",
+                "tanoby-ruins-area",
+                "one-island-area",
+                "four-island-area",
+                "five-island-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "leafgreen"
+            ],
+            "area": [
+                "celadon-city-area",
+                "kanto-route-10-area",
+                "kanto-safari-zone-middle",
+                "kanto-safari-zone-area-1-east",
+                "kanto-safari-zone-area-2-north",
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "abundant-shrine-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-12-area",
+                "azure-bay-area"
+            ]
+        }
+    ]
+}

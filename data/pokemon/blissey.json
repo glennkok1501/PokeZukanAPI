@@ -1,0 +1,60 @@
+{
+    "name": "blissey",
+    "id": 242,
+    "info": {
+        "species": "happiness pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "natural-cure",
+                "is_hidden": false
+            },
+            {
+                "name": "serene-grace",
+                "is_hidden": false
+            },
+            {
+                "name": "healer",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.5,
+        "weight": 46.8
+    },
+    "sprites": {
+        "home": "images/pokemon/blissey.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
+    },
+    "moves": "data/moves/blissey.json",
+    "location": "data/location/blissey.json",
+    "base_stats": {
+        "hp": 255,
+        "attack": 10,
+        "defense": 10,
+        "sp. atk": 75,
+        "sp. def": 135,
+        "speed": 55
+    },
+    "entry": "blissey lays mysterious eggs that are filled with happiness. it\u2019s said that anyone who eats a blissey egg will start acting kindly to all others.",
+    "training": {
+        "base_exp": 608,
+        "capture_rate": 30,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 140,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

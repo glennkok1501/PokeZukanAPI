@@ -1,0 +1,57 @@
+{
+    "name": "mothim",
+    "id": 414,
+    "info": {
+        "species": "moth pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "tinted-lens",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 0.9,
+        "weight": 23.3
+    },
+    "sprites": {
+        "home": "images/pokemon/mothim.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
+    },
+    "moves": "data/moves/mothim.json",
+    "location": "data/location/mothim.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 94,
+        "defense": 50,
+        "sp. atk": 94,
+        "sp. def": 50,
+        "speed": 66
+    },
+    "entry": "it flutters around at night and steals honey from the combee hive.",
+    "training": {
+        "base_exp": 148,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "oranguru",
+    "id": 765,
+    "info": {
+        "species": "sage pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": false
+            },
+            {
+                "name": "symbiosis",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "psychic"
+        ],
+        "height": 1.5,
+        "weight": 76.0
+    },
+    "sprites": {
+        "home": "images/pokemon/oranguru.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png"
+    },
+    "moves": "data/moves/oranguru.json",
+    "location": "data/location/oranguru.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 80,
+        "sp. atk": 90,
+        "sp. def": 110,
+        "speed": 60
+    },
+    "entry": "it knows the forest inside and out. if it comes across a wounded pok\u00e9mon, oranguru will gather medicinal herbs to treat it.",
+    "training": {
+        "base_exp": 172,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

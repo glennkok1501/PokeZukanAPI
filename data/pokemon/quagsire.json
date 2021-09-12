@@ -1,0 +1,62 @@
+{
+    "name": "quagsire",
+    "id": 195,
+    "info": {
+        "species": "water fish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "damp",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "unaware",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ground"
+        ],
+        "height": 1.4,
+        "weight": 75.0
+    },
+    "sprites": {
+        "home": "images/pokemon/quagsire.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+    },
+    "moves": "data/moves/quagsire.json",
+    "location": "data/location/quagsire.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 85,
+        "defense": 85,
+        "sp. atk": 65,
+        "sp. def": 65,
+        "speed": 35
+    },
+    "entry": "its body is always slimy. it often bangs its head on the river bottom as it swims but seems not to care.",
+    "training": {
+        "base_exp": 151,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "lunala",
+    "id": 792,
+    "info": {
+        "species": "moone pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shadow-shield",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "ghost"
+        ],
+        "height": 4.0,
+        "weight": 120.0
+    },
+    "sprites": {
+        "home": "images/pokemon/lunala.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png"
+    },
+    "moves": "data/moves/lunala.json",
+    "location": "data/location/lunala.json",
+    "base_stats": {
+        "hp": 137,
+        "attack": 113,
+        "defense": 89,
+        "sp. atk": 137,
+        "sp. def": 107,
+        "speed": 97
+    },
+    "entry": "it steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
+    "training": {
+        "base_exp": 306,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

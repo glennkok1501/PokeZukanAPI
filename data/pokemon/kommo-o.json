@@ -1,0 +1,61 @@
+{
+    "name": "kommo o",
+    "id": 784,
+    "info": {
+        "species": "scaly pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "bulletproof",
+                "is_hidden": false
+            },
+            {
+                "name": "soundproof",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon",
+            "fighting"
+        ],
+        "height": 1.6,
+        "weight": 78.2
+    },
+    "sprites": {
+        "home": "images/pokemon/kommo-o.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
+    },
+    "moves": "data/moves/kommo-o.json",
+    "location": "data/location/kommo-o.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 125,
+        "sp. atk": 100,
+        "sp. def": 105,
+        "speed": 85
+    },
+    "entry": "certain ruins have paintings of ancient warriors wearing armor made of kommo-o scales.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

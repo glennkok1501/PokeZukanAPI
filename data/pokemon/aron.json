@@ -1,0 +1,61 @@
+{
+    "name": "aron",
+    "id": 304,
+    "info": {
+        "species": "iron armor pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "heavy-metal",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "rock"
+        ],
+        "height": 0.4,
+        "weight": 60.0
+    },
+    "sprites": {
+        "home": "images/pokemon/aron.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png"
+    },
+    "moves": "data/moves/aron.json",
+    "location": "data/location/aron.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 100,
+        "sp. atk": 40,
+        "sp. def": 40,
+        "speed": 30
+    },
+    "entry": "aron has a body of steel. with one all-out charge, this pok\u00e9mon can demolish even a heavy dump truck. the destroyed dump truck then becomes a handy meal for the pok\u00e9mon.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 180,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

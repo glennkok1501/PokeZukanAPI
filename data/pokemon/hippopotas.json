@@ -1,0 +1,56 @@
+{
+    "name": "hippopotas",
+    "id": 449,
+    "info": {
+        "species": "hippo pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-stream",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 0.8,
+        "weight": 49.5
+    },
+    "sprites": {
+        "home": "images/pokemon/hippopotas.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png"
+    },
+    "moves": "data/moves/hippopotas.json",
+    "location": "data/location/hippopotas.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 72,
+        "defense": 78,
+        "sp. atk": 38,
+        "sp. def": 42,
+        "speed": 32
+    },
+    "entry": "this pok\u00e9mon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 140,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver"
+            ],
+            "area": [
+                "johto-route-29-area",
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "johto-route-43-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "area": [
+                "johto-route-33-area",
+                "johto-route-42-area",
+                "johto-route-44-area",
+                "johto-route-45-area",
+                "johto-route-46-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-south",
+                "hoenn-safari-zone-expansion-north",
+                "hoenn-altering-cave-f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-altering-cave-f"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "azalea-town-area"
+            ]
+        }
+    ]
+}

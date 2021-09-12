@@ -1,0 +1,116 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "johto-route-44-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-36-area"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-12-area",
+                "kanto-route-13-area",
+                "kanto-route-14-area",
+                "kanto-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "gold",
+                "silver",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-5-area",
+                "kanto-route-6-area"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-7-area"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "leafgreen"
+            ],
+            "area": [
+                "berry-forest-area",
+                "cape-brink-area",
+                "bond-bridge-area",
+                "water-path-area"
+            ]
+        }
+    ]
+}

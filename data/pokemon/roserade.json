@@ -1,0 +1,62 @@
+{
+    "name": "roserade",
+    "id": 407,
+    "info": {
+        "species": "bouquet pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "natural-cure",
+                "is_hidden": false
+            },
+            {
+                "name": "poison-point",
+                "is_hidden": false
+            },
+            {
+                "name": "technician",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 0.9,
+        "weight": 14.5
+    },
+    "sprites": {
+        "home": "images/pokemon/roserade.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png"
+    },
+    "moves": "data/moves/roserade.json",
+    "location": "data/location/roserade.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 65,
+        "sp. atk": 125,
+        "sp. def": 105,
+        "speed": 90
+    },
+    "entry": "the poison in its right hand is quick acting. the poison in its left hand is slow acting. both are life threatening.",
+    "training": {
+        "base_exp": 232,
+        "capture_rate": 75,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

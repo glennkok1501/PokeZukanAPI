@@ -1,0 +1,56 @@
+{
+    "location": [
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-29-area",
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "national-park-area",
+                "johto-route-36-area",
+                "johto-route-38-area",
+                "johto-route-39-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "johto-route-37-area",
+                "kanto-route-2-south-towards-viridian-city"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-2-north-towards-pewter-city"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-south"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "pattern-bush-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "moves": [
+        {
+            "name": "tackle",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "string-shot",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "bug-bite",
+            "method": "level-up",
+            "level": 9
+        },
+        {
+            "name": "electroweb",
+            "method": "tutor",
+            "level": 0
+        }
+    ]
+}

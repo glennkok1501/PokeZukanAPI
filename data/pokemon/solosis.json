@@ -1,0 +1,60 @@
+{
+    "name": "solosis",
+    "id": 577,
+    "info": {
+        "species": "cell pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overcoat",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.3,
+        "weight": 1.0
+    },
+    "sprites": {
+        "home": "images/pokemon/solosis.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png"
+    },
+    "moves": "data/moves/solosis.json",
+    "location": "data/location/solosis.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 40,
+        "sp. atk": 105,
+        "sp. def": 50,
+        "speed": 20
+    },
+    "entry": "many say that the special liquid covering this pok\u00e9mon\u2019s body would allow it to survive in the vacuum of space.",
+    "training": {
+        "base_exp": 58,
+        "capture_rate": 200,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

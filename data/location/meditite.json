@@ -1,0 +1,72 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "mt-coronet-route-207",
+                "mt-coronet-route-216",
+                "mt-coronet-route-211",
+                "mt-coronet-b1f",
+                "sinnoh-route-210-west-towards-celestic-town",
+                "sinnoh-route-211-west-towards-eterna-city",
+                "sinnoh-route-211-east-towards-celestic-town",
+                "sinnoh-route-216-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "acuity-lakefront-area",
+                "sinnoh-route-208-area",
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "sprout-tower-2f",
+                "sprout-tower-3f",
+                "burned-tower-1f",
+                "burned-tower-b1f",
+                "bell-tower-2f",
+                "bell-tower-3f",
+                "bell-tower-4f",
+                "bell-tower-5f",
+                "bell-tower-6f",
+                "bell-tower-7f",
+                "bell-tower-8f",
+                "bell-tower-9f",
+                "bell-tower-10f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire"
+            ],
+            "area": [
+                "mt-pyre-outside",
+                "hoenn-victory-road-b1f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "connecting-cave-area"
+            ]
+        }
+    ]
+}

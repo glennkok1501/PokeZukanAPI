@@ -1,0 +1,56 @@
+{
+    "name": "pansage",
+    "id": 511,
+    "info": {
+        "species": "grass monkey pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "overgrow",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.6,
+        "weight": 10.5
+    },
+    "sprites": {
+        "home": "images/pokemon/pansage.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png"
+    },
+    "moves": "data/moves/pansage.json",
+    "location": "data/location/pansage.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "sp. atk": 53,
+        "sp. def": 48,
+        "speed": 64
+    },
+    "entry": "it\u2019s good at finding berries and gathers them from all over. it\u2019s kind enough to share them with friends.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

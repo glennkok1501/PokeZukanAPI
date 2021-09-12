@@ -1,0 +1,51 @@
+{
+    "name": "zamazenta crowned",
+    "id": 889,
+    "info": {
+        "species": "warrior pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "dauntless-shield",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fighting",
+            "steel"
+        ],
+        "height": 2.9,
+        "weight": 785.0
+    },
+    "sprites": {
+        "home": "images/pokemon/zamazenta-crowned.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10182.png"
+    },
+    "moves": "data/moves/zamazenta-crowned.json",
+    "location": "data/location/zamazenta-crowned.json",
+    "base_stats": {
+        "hp": 92,
+        "attack": 130,
+        "defense": 145,
+        "sp. atk": 80,
+        "sp. def": 145,
+        "speed": 128
+    },
+    "entry": "this pok\u00e9mon slept for aeons while in the form of a statue. it was asleep for so long, people forgot that it ever existed.",
+    "training": {
+        "base_exp": 335,
+        "capture_rate": 10,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

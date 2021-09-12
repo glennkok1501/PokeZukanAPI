@@ -1,0 +1,56 @@
+{
+    "name": "luvdisc",
+    "id": 370,
+    "info": {
+        "species": "rendezvous pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.6,
+        "weight": 8.7
+    },
+    "sprites": {
+        "home": "images/pokemon/luvdisc.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png"
+    },
+    "moves": "data/moves/luvdisc.json",
+    "location": "data/location/luvdisc.json",
+    "base_stats": {
+        "hp": 43,
+        "attack": 30,
+        "defense": 55,
+        "sp. atk": 40,
+        "sp. def": 65,
+        "speed": 97
+    },
+    "entry": "luvdisc makes its home in coral reefs in warm seas. it especially likes sleeping in the space between corsola\u2019s branches.",
+    "training": {
+        "base_exp": 116,
+        "capture_rate": 225,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "feebas",
+    "id": 349,
+    "info": {
+        "species": "fish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "adaptability",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.6,
+        "weight": 7.4
+    },
+    "sprites": {
+        "home": "images/pokemon/feebas.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png"
+    },
+    "moves": "data/moves/feebas.json",
+    "location": "data/location/feebas.json",
+    "base_stats": {
+        "hp": 20,
+        "attack": 15,
+        "defense": 20,
+        "sp. atk": 10,
+        "sp. def": 55,
+        "speed": 80
+    },
+    "entry": "it is a shabby and ugly pok\u00e9mon. however, it is very hardy and can survive on little water.",
+    "training": {
+        "base_exp": 40,
+        "capture_rate": 255,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "krokorok",
+    "id": 552,
+    "info": {
+        "species": "desert croc pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "moxie",
+                "is_hidden": false
+            },
+            {
+                "name": "anger-point",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground",
+            "dark"
+        ],
+        "height": 1.0,
+        "weight": 33.4
+    },
+    "sprites": {
+        "home": "images/pokemon/krokorok.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+    },
+    "moves": "data/moves/krokorok.json",
+    "location": "data/location/krokorok.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 82,
+        "defense": 45,
+        "sp. atk": 45,
+        "sp. def": 45,
+        "speed": 74
+    },
+    "entry": "although this pok\u00e9mon has specialized eyes that allow it to see in the dark, krokorok won\u2019t move much at night\u2014the desert gets cold after sunset.",
+    "training": {
+        "base_exp": 123,
+        "capture_rate": 90,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

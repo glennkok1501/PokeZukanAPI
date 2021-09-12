@@ -1,0 +1,60 @@
+{
+    "name": "politoed",
+    "id": 186,
+    "info": {
+        "species": "frog pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "damp",
+                "is_hidden": false
+            },
+            {
+                "name": "drizzle",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.1,
+        "weight": 33.9
+    },
+    "sprites": {
+        "home": "images/pokemon/politoed.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
+    },
+    "moves": "data/moves/politoed.json",
+    "location": "data/location/politoed.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 75,
+        "sp. atk": 90,
+        "sp. def": 100,
+        "speed": 70
+    },
+    "entry": "the cry of a male is louder than that of a female. male politoed with deep, menacing voices find more popularity with the opposite gender.",
+    "training": {
+        "base_exp": 225,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

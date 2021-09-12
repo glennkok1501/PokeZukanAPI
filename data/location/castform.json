@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-6-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald",
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "hoenn-route-119-weather-institute"
+            ]
+        }
+    ]
+}

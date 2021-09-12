@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-outside",
+                "giant-chasm-forest-cave"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-forest"
+            ]
+        }
+    ]
+}

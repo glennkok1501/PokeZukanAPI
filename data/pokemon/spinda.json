@@ -1,0 +1,61 @@
+{
+    "name": "spinda",
+    "id": 327,
+    "info": {
+        "species": "spot panda pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "tangled-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.1,
+        "weight": 5.0
+    },
+    "sprites": {
+        "home": "images/pokemon/spinda.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png"
+    },
+    "moves": "data/moves/spinda.json",
+    "location": "data/location/spinda.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "sp. atk": 60,
+        "sp. def": 60,
+        "speed": 60
+    },
+    "entry": "each spinda\u2019s spot pattern is different. with its stumbling movements, it evades opponents\u2019 attacks brilliantly!",
+    "training": {
+        "base_exp": 126,
+        "capture_rate": 255,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

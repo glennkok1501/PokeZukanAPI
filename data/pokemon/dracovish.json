@@ -1,0 +1,59 @@
+{
+    "name": "dracovish",
+    "id": 882,
+    "info": {
+        "species": "fossil pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "strong-jaw",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-rush",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "dragon"
+        ],
+        "height": 2.3,
+        "weight": 215.0
+    },
+    "sprites": {
+        "home": "images/pokemon/dracovish.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png"
+    },
+    "moves": "data/moves/dracovish.json",
+    "location": "data/location/dracovish.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "sp. atk": 70,
+        "sp. def": 80,
+        "speed": 75
+    },
+    "entry": "its mighty legs are capable of running at speeds exceeding 40 mph, but this pok\u00e9mon can\u2019t breathe unless it\u2019s underwater.",
+    "training": {
+        "base_exp": 177,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

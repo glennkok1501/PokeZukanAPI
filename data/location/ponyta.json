@@ -1,0 +1,81 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-206-area",
+                "sinnoh-route-210-south-towards-solaceon-town"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-207-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-211-west-towards-eterna-city",
+                "sinnoh-route-211-east-towards-celestic-town",
+                "sinnoh-route-214-area",
+                "sinnoh-route-215-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-outside",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-28-area",
+                "kanto-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-17-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "pokemon-mansion-1f",
+                "pokemon-mansion-2f",
+                "pokemon-mansion-3f",
+                "pokemon-mansion-b1f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "mt-ember-area",
+                "kindle-road-area"
+            ]
+        }
+    ]
+}

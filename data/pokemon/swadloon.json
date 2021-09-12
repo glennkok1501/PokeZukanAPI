@@ -1,0 +1,61 @@
+{
+    "name": "swadloon",
+    "id": 541,
+    "info": {
+        "species": "leaf-wrapped pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "overcoat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "height": 0.5,
+        "weight": 7.3
+    },
+    "sprites": {
+        "home": "images/pokemon/swadloon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
+    },
+    "moves": "data/moves/swadloon.json",
+    "location": "data/location/swadloon.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 63,
+        "defense": 90,
+        "sp. atk": 50,
+        "sp. def": 80,
+        "speed": 42
+    },
+    "entry": "it protects itself from the cold by wrapping up in leaves. it stays on the move, eating leaves in forests.",
+    "training": {
+        "base_exp": 133,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

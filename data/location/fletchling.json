@@ -1,0 +1,15 @@
+{
+    "location": [
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-2-area",
+                "kalos-route-3-area",
+                "santalune-forest-area"
+            ]
+        }
+    ]
+}

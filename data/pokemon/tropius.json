@@ -1,0 +1,62 @@
+{
+    "name": "tropius",
+    "id": 357,
+    "info": {
+        "species": "fruit pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "solar-power",
+                "is_hidden": false
+            },
+            {
+                "name": "harvest",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "height": 2.0,
+        "weight": 100.0
+    },
+    "sprites": {
+        "home": "images/pokemon/tropius.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png"
+    },
+    "moves": "data/moves/tropius.json",
+    "location": "data/location/tropius.json",
+    "base_stats": {
+        "hp": 99,
+        "attack": 68,
+        "defense": 83,
+        "sp. atk": 72,
+        "sp. def": 87,
+        "speed": 51
+    },
+    "entry": "bunches of delicious fruit grow around its neck. in warm areas, many ranches raise tropius.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 200,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

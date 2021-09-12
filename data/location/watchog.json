@@ -1,0 +1,48 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dreamyard-area",
+                "p2-laboratory-area",
+                "unova-route-1-area",
+                "unova-route-7-area",
+                "unova-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dreamyard-b1f",
+                "unova-route-2-area",
+                "unova-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-15-area"
+            ]
+        }
+    ]
+}

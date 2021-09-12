@@ -1,0 +1,62 @@
+{
+    "name": "lotad",
+    "id": 270,
+    "info": {
+        "species": "water weed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "grass"
+        ],
+        "height": 0.5,
+        "weight": 2.6
+    },
+    "sprites": {
+        "home": "images/pokemon/lotad.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png"
+    },
+    "moves": "data/moves/lotad.json",
+    "location": "data/location/lotad.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "sp. atk": 40,
+        "sp. def": 50,
+        "speed": 30
+    },
+    "entry": "its leaf grew too large for it to live on land. that is how it began to live floating in the water.",
+    "training": {
+        "base_exp": 44,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

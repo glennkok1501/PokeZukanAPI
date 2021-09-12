@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-110-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-5-area"
+            ]
+        }
+    ]
+}

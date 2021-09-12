@@ -1,0 +1,56 @@
+{
+    "name": "florges",
+    "id": 671,
+    "info": {
+        "species": "garden pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flower-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "symbiosis",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 1.1,
+        "weight": 10.0
+    },
+    "sprites": {
+        "home": "images/pokemon/florges.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+    },
+    "moves": "data/moves/florges.json",
+    "location": "data/location/florges.json",
+    "base_stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "sp. atk": 112,
+        "sp. def": 154,
+        "speed": 75
+    },
+    "entry": "its life can span several hundred years. it\u2019s said to devote its entire life to protecting gardens.",
+    "training": {
+        "base_exp": 248,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "tentacruel",
+    "id": 73,
+    "info": {
+        "species": "jellyfish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "clear-body",
+                "is_hidden": false
+            },
+            {
+                "name": "liquid-ooze",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "poison"
+        ],
+        "height": 1.6,
+        "weight": 55.0
+    },
+    "sprites": {
+        "home": "images/pokemon/tentacruel.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+    },
+    "moves": "data/moves/tentacruel.json",
+    "location": "data/location/tentacruel.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 65,
+        "sp. atk": 80,
+        "sp. def": 120,
+        "speed": 100
+    },
+    "entry": "its 80 tentacles can stretch and shrink freely. tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
+    "training": {
+        "base_exp": 180,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

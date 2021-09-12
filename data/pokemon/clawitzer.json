@@ -1,0 +1,53 @@
+{
+    "name": "clawitzer",
+    "id": 693,
+    "info": {
+        "species": "howitzer pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "mega-launcher",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.3,
+        "weight": 35.3
+    },
+    "sprites": {
+        "home": "images/pokemon/clawitzer.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png"
+    },
+    "moves": "data/moves/clawitzer.json",
+    "location": "data/location/clawitzer.json",
+    "base_stats": {
+        "hp": 71,
+        "attack": 73,
+        "defense": 88,
+        "sp. atk": 120,
+        "sp. def": 89,
+        "speed": 59
+    },
+    "entry": "clawitzer\u2019s right arm is a cannon that launches projectiles made of seawater. shots from a clawitzer\u2019s cannon arm can sink a tanker.",
+    "training": {
+        "base_exp": 100,
+        "capture_rate": 55,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water3"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "raticate alolan",
+    "id": 20,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "hustle",
+                "is_hidden": false
+            },
+            {
+                "name": "thick-fat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "normal"
+        ],
+        "height": 0.7,
+        "weight": 25.5
+    },
+    "sprites": {
+        "home": "images/pokemon/raticate-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10092.png"
+    },
+    "moves": "data/moves/raticate-alolan.json",
+    "location": "data/location/raticate-alolan.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 71,
+        "defense": 70,
+        "sp. atk": 40,
+        "sp. def": 80,
+        "speed": 77
+    },
+    "entry": "its hind feet are webbed. they act as flippers, so it can swim in rivers and hunt for prey.",
+    "training": {
+        "base_exp": 145,
+        "capture_rate": 127,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "kyurem black",
+    "id": 646,
+    "info": {
+        "species": "boundary pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "teravolt",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dragon",
+            "ice"
+        ],
+        "height": 3.3,
+        "weight": 325.0
+    },
+    "sprites": {
+        "home": "images/pokemon/kyurem-black.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10022.png"
+    },
+    "moves": "data/moves/kyurem-black.json",
+    "location": "data/location/kyurem-black.json",
+    "base_stats": {
+        "hp": 125,
+        "attack": 170,
+        "defense": 100,
+        "sp. atk": 120,
+        "sp. def": 90,
+        "speed": 95
+    },
+    "entry": "the sameness of zekrom\u2019s and kyurem\u2019s genes allowed kyurem to absorb zekrom. kyurem can now use the power of both electricity and ice.",
+    "training": {
+        "base_exp": 315,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

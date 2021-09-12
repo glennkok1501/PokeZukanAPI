@@ -1,0 +1,34 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "lake-acuity-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "acuity-lakefront-area",
+                "sinnoh-route-216-area",
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "shoal-cave-b1f"
+            ]
+        }
+    ]
+}

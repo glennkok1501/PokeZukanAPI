@@ -1,0 +1,61 @@
+{
+    "name": "bronzong",
+    "id": 437,
+    "info": {
+        "species": "bronze bell pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            },
+            {
+                "name": "heatproof",
+                "is_hidden": false
+            },
+            {
+                "name": "heavy-metal",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "height": 1.3,
+        "weight": 187.0
+    },
+    "sprites": {
+        "home": "images/pokemon/bronzong.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png"
+    },
+    "moves": "data/moves/bronzong.json",
+    "location": "data/location/bronzong.json",
+    "base_stats": {
+        "hp": 67,
+        "attack": 89,
+        "defense": 116,
+        "sp. atk": 79,
+        "sp. def": 116,
+        "speed": 33
+    },
+    "entry": "many scientists suspect that this pok\u00e9mon originated outside the galar region, based on the patterns on its body.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

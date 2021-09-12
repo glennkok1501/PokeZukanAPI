@@ -1,0 +1,61 @@
+{
+    "name": "pawniard",
+    "id": 624,
+    "info": {
+        "species": "sharp blade pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "defiant",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "pressure",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "steel"
+        ],
+        "height": 0.5,
+        "weight": 10.2
+    },
+    "sprites": {
+        "home": "images/pokemon/pawniard.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+    },
+    "moves": "data/moves/pawniard.json",
+    "location": "data/location/pawniard.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 85,
+        "defense": 70,
+        "sp. atk": 40,
+        "sp. def": 40,
+        "speed": 60
+    },
+    "entry": "a pack of these pok\u00e9mon forms to serve a bisharp boss. each pawniard trains diligently, dreaming of one day taking the lead.",
+    "training": {
+        "base_exp": 68,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

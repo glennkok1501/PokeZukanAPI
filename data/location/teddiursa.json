@@ -1,0 +1,79 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "lake-acuity-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "acuity-lakefront-area",
+                "sinnoh-route-211-east-towards-celestic-town"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-211-west-towards-eterna-city"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-45-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "dark-cave-violet-city-entrance",
+                "dark-cave-blackthorn-city-entrance"
+            ]
+        },
+        {
+            "game": [
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-1f",
+                "mt-silver-mountainside",
+                "mt-silver-3f"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-north",
+                "hoenn-altering-cave-e"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-altering-cave-e"
+            ]
+        }
+    ]
+}

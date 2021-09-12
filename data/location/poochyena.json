@@ -1,0 +1,48 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-214-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-1-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "petalburg-woods-area",
+                "hoenn-route-104-area",
+                "hoenn-route-110-area",
+                "hoenn-route-116-area",
+                "hoenn-route-117-area",
+                "hoenn-route-120-area",
+                "hoenn-route-121-area",
+                "hoenn-route-123-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-101-area",
+                "hoenn-route-102-area",
+                "hoenn-route-103-area"
+            ]
+        }
+    ]
+}

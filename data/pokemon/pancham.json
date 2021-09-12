@@ -1,0 +1,61 @@
+{
+    "name": "pancham",
+    "id": 674,
+    "info": {
+        "species": "playful pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "iron-fist",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": false
+            },
+            {
+                "name": "scrappy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 0.6,
+        "weight": 8.0
+    },
+    "sprites": {
+        "home": "images/pokemon/pancham.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+    },
+    "moves": "data/moves/pancham.json",
+    "location": "data/location/pancham.json",
+    "base_stats": {
+        "hp": 67,
+        "attack": 82,
+        "defense": 62,
+        "sp. atk": 46,
+        "sp. def": 48,
+        "speed": 43
+    },
+    "entry": "wanting to make sure it\u2019s taken seriously, pancham\u2019s always giving others a glare. but if it\u2019s not focusing, it ends up smiling.",
+    "training": {
+        "base_exp": 70,
+        "capture_rate": 220,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

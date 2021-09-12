@@ -1,0 +1,45 @@
+{
+    "location": [
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-3f"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "mt-silver-top"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "y"
+            ],
+            "area": [
+                "kalos-route-18-area",
+                "terminus-cave-unknown-area-343",
+                "terminus-cave-unknown-area-344",
+                "terminus-cave-unknown-area-345",
+                "terminus-cave-unknown-area-347",
+                "terminus-cave-unknown-area-348"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "treecko",
+    "id": 252,
+    "info": {
+        "species": "wood gecko pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.5,
+        "weight": 5.0
+    },
+    "sprites": {
+        "home": "images/pokemon/treecko.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png"
+    },
+    "moves": "data/moves/treecko.json",
+    "location": "data/location/treecko.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "sp. atk": 65,
+        "sp. def": 55,
+        "speed": 70
+    },
+    "entry": "treecko is cool, calm, and collected\u2014it never panics under any situation. if a bigger foe were to glare at this pok\u00e9mon, it would glare right back without conceding an inch of ground.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

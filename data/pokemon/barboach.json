@@ -1,0 +1,61 @@
+{
+    "name": "barboach",
+    "id": 339,
+    "info": {
+        "species": "whiskers pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ground"
+        ],
+        "height": 0.4,
+        "weight": 1.9
+    },
+    "sprites": {
+        "home": "images/pokemon/barboach.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png"
+    },
+    "moves": "data/moves/barboach.json",
+    "location": "data/location/barboach.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 48,
+        "defense": 43,
+        "sp. atk": 46,
+        "sp. def": 41,
+        "speed": 60
+    },
+    "entry": "it probes muddy riverbeds with its two long whiskers. a slimy film protects its body.",
+    "training": {
+        "base_exp": 58,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

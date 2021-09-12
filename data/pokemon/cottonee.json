@@ -1,0 +1,62 @@
+{
+    "name": "cottonee",
+    "id": 546,
+    "info": {
+        "species": "cotton puff pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prankster",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": false
+            },
+            {
+                "name": "chlorophyll",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "height": 0.3,
+        "weight": 0.6
+    },
+    "sprites": {
+        "home": "images/pokemon/cottonee.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+    },
+    "moves": "data/moves/cottonee.json",
+    "location": "data/location/cottonee.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 27,
+        "defense": 60,
+        "sp. atk": 37,
+        "sp. def": 50,
+        "speed": 66
+    },
+    "entry": "weaving together the cotton of both cottonee and eldegoss produces exquisite cloth that\u2019s highly prized by many luxury brands.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

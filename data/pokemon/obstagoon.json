@@ -1,0 +1,59 @@
+{
+    "name": "obstagoon",
+    "id": 862,
+    "info": {
+        "species": "blocking pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "reckless",
+                "is_hidden": false
+            },
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "defiant",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "normal"
+        ],
+        "height": 1.6,
+        "weight": 46.0
+    },
+    "sprites": {
+        "home": "images/pokemon/obstagoon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png"
+    },
+    "moves": "data/moves/obstagoon.json",
+    "location": "data/location/obstagoon.json",
+    "base_stats": {
+        "hp": 93,
+        "attack": 90,
+        "defense": 101,
+        "sp. atk": 60,
+        "sp. def": 81,
+        "speed": 95
+    },
+    "entry": "it evolved after experiencing numerous fights. while crossing its arms, it lets out a shout that would make any opponent flinch.",
+    "training": {
+        "base_exp": 260,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

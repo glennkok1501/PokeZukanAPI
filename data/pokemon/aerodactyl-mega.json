@@ -1,0 +1,53 @@
+{
+    "name": "aerodactyl mega",
+    "id": 142,
+    "info": {
+        "species": "fossil pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "tough-claws",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "height": 2.1,
+        "weight": 79.0
+    },
+    "sprites": {
+        "home": "images/pokemon/aerodactyl-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png"
+    },
+    "moves": "data/moves/aerodactyl-mega.json",
+    "location": "data/location/aerodactyl-mega.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 135,
+        "defense": 85,
+        "sp. atk": 70,
+        "sp. def": 95,
+        "speed": 150
+    },
+    "entry": "the power of mega evolution has completely restored its genes. the rocks on its body are harder than diamond.",
+    "training": {
+        "base_exp": 215,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

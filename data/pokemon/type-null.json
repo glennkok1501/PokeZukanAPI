@@ -1,0 +1,52 @@
+{
+    "name": "type null",
+    "id": 772,
+    "info": {
+        "species": "synthetic pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "battle-armor",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.9,
+        "weight": 120.5
+    },
+    "sprites": {
+        "home": "images/pokemon/type-null.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png"
+    },
+    "moves": "data/moves/type-null.json",
+    "location": "data/location/type-null.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "sp. atk": 95,
+        "sp. def": 95,
+        "speed": 59
+    },
+    "entry": "it was modeled after a mighty pok\u00e9mon of myth. the mask placed upon it limits its power in order to keep it under control.",
+    "training": {
+        "base_exp": 107,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

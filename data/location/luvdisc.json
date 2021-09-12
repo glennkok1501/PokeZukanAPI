@@ -1,0 +1,83 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-pokemon-league-area",
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-27-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "ever-grande-city-area",
+                "hoenn-route-128-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "driftveil-city-area",
+                "undella-bay-area",
+                "unova-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-13-area",
+                "undella-town-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "humilau-city-area",
+                "seaside-cave-1f",
+                "unova-route-21-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "ambrette-town-area",
+                "cyllage-city-area",
+                "shalour-city-area",
+                "kalos-route-8-area",
+                "kalos-route-12-area",
+                "azure-bay-area"
+            ]
+        }
+    ]
+}

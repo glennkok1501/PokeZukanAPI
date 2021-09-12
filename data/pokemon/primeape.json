@@ -1,0 +1,60 @@
+{
+    "name": "primeape",
+    "id": 57,
+    "info": {
+        "species": "pig monkey pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "vital-spirit",
+                "is_hidden": false
+            },
+            {
+                "name": "anger-point",
+                "is_hidden": false
+            },
+            {
+                "name": "defiant",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.0,
+        "weight": 32.0
+    },
+    "sprites": {
+        "home": "images/pokemon/primeape.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+    },
+    "moves": "data/moves/primeape.json",
+    "location": "data/location/primeape.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 105,
+        "defense": 60,
+        "sp. atk": 60,
+        "sp. def": 70,
+        "speed": 95
+    },
+    "entry": "it stops being angry only when nobody else is around. to view this moment is very difficult.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

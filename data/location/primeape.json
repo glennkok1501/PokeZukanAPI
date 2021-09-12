@@ -1,0 +1,53 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-225-area",
+                "sinnoh-sea-route-226-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-9-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen",
+                "heartgold"
+            ],
+            "area": [
+                "cerulean-cave-1f"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-2f"
+            ]
+        }
+    ]
+}

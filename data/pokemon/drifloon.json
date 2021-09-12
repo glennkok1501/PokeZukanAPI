@@ -1,0 +1,61 @@
+{
+    "name": "drifloon",
+    "id": 425,
+    "info": {
+        "species": "balloon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "aftermath",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": false
+            },
+            {
+                "name": "flare-boost",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost",
+            "flying"
+        ],
+        "height": 0.4,
+        "weight": 1.2
+    },
+    "sprites": {
+        "home": "images/pokemon/drifloon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    },
+    "moves": "data/moves/drifloon.json",
+    "location": "data/location/drifloon.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 50,
+        "defense": 34,
+        "sp. atk": 60,
+        "sp. def": 44,
+        "speed": 70
+    },
+    "entry": "the gathering of many souls gave rise to this pok\u00e9mon. during humid seasons, they seem to appear in abundance.",
+    "training": {
+        "base_exp": 70,
+        "capture_rate": 125,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

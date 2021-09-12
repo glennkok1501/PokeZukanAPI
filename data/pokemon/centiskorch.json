@@ -1,0 +1,59 @@
+{
+    "name": "centiskorch",
+    "id": 851,
+    "info": {
+        "species": "radiator pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "white-smoke",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "bug"
+        ],
+        "height": 3.0,
+        "weight": 120.0
+    },
+    "sprites": {
+        "home": "images/pokemon/centiskorch.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png"
+    },
+    "moves": "data/moves/centiskorch.json",
+    "location": "data/location/centiskorch.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 115,
+        "defense": 65,
+        "sp. atk": 90,
+        "sp. def": 90,
+        "speed": 65
+    },
+    "entry": "while its burning body is already dangerous on its own, this excessively hostile pok\u00e9mon also has large and very sharp fangs.",
+    "training": {
+        "base_exp": 184,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

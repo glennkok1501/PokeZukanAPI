@@ -1,0 +1,14 @@
+{
+    "moves": [
+        {
+            "name": "teleport",
+            "method": "level-up",
+            "level": 23
+        },
+        {
+            "name": "splash",
+            "method": "level-up",
+            "level": 1
+        }
+    ]
+}

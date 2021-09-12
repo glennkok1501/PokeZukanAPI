@@ -1,0 +1,58 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-210-south-towards-solaceon-town",
+                "sinnoh-route-210-west-towards-celestic-town",
+                "sinnoh-route-215-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered"
+            ],
+            "area": [
+                "kanto-safari-zone-middle"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "firered"
+            ],
+            "area": [
+                "kanto-safari-zone-area-1-east"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-safari-zone-area-2-north"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-21-area"
+            ]
+        }
+    ]
+}

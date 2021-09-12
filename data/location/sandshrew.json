@@ -1,0 +1,122 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "wayward-cave-1f",
+                "wayward-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "union-cave-1f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "heartgold"
+            ],
+            "area": [
+                "union-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "mt-moon-1f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "mt-moon-2f"
+            ]
+        },
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "kanto-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "yellow",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-8-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area",
+                "kanto-route-11-area",
+                "kanto-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-111-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire"
+            ],
+            "area": [
+                "hoenn-route-113-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "mirage-tower-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "desert-resort-entrance",
+                "desert-resort-area",
+                "relic-castle-a"
+            ]
+        }
+    ]
+}

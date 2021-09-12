@@ -1,0 +1,60 @@
+{
+    "name": "vanillish",
+    "id": 583,
+    "info": {
+        "species": "icy snow pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "ice-body",
+                "is_hidden": false
+            },
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "weak-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 1.1,
+        "weight": 41.0
+    },
+    "sprites": {
+        "home": "images/pokemon/vanillish.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png"
+    },
+    "moves": "data/moves/vanillish.json",
+    "location": "data/location/vanillish.json",
+    "base_stats": {
+        "hp": 51,
+        "attack": 65,
+        "defense": 65,
+        "sp. atk": 80,
+        "sp. def": 75,
+        "speed": 59
+    },
+    "entry": "it blasts enemies with cold air reaching \u2212148 degrees fahrenheit, freezing them solid. but it spares their lives afterward\u2014it\u2019s a kind pok\u00e9mon.",
+    "training": {
+        "base_exp": 138,
+        "capture_rate": 120,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

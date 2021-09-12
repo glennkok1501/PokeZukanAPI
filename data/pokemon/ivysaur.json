@@ -1,0 +1,58 @@
+{
+    "name": "ivysaur",
+    "id": 2,
+    "info": {
+        "species": "seed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "chlorophyll",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 1.0,
+        "weight": 13.0
+    },
+    "sprites": {
+        "home": "images/pokemon/ivysaur.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+    },
+    "moves": "data/moves/ivysaur.json",
+    "location": "data/location/ivysaur.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "sp. atk": 80,
+        "sp. def": 80,
+        "speed": 60
+    },
+    "entry": "exposure to sunlight adds to its strength. sunlight also makes the bud on its back grow larger.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "name": "bastiodon",
+    "id": 411,
+    "info": {
+        "species": "shield pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "soundproof",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "steel"
+        ],
+        "height": 1.3,
+        "weight": 149.5
+    },
+    "sprites": {
+        "home": "images/pokemon/bastiodon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png"
+    },
+    "moves": "data/moves/bastiodon.json",
+    "location": "data/location/bastiodon.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 52,
+        "defense": 168,
+        "sp. atk": 47,
+        "sp. def": 138,
+        "speed": 30
+    },
+    "entry": "this pok\u00e9mon is from roughly 100 million years ago. its terrifyingly tough face is harder than steel.",
+    "training": {
+        "base_exp": 173,
+        "capture_rate": 45,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

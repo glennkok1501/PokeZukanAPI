@@ -1,0 +1,16 @@
+{
+    "location": [
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "reflection-cave-unknown-area-305",
+                "reflection-cave-unknown-area-306",
+                "reflection-cave-unknown-area-307",
+                "reflection-cave-unknown-area-308"
+            ]
+        }
+    ]
+}

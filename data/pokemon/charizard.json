@@ -1,0 +1,58 @@
+{
+    "name": "charizard",
+    "id": 6,
+    "info": {
+        "species": "flame pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "solar-power",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "height": 1.7,
+        "weight": 90.5
+    },
+    "sprites": {
+        "home": "images/pokemon/charizard.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+    },
+    "moves": "data/moves/charizard.json",
+    "location": "data/location/charizard.json",
+    "base_stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp. atk": 109,
+        "sp. def": 85,
+        "speed": 100
+    },
+    "entry": "the flame inside its body burns hotter than 3,600 degrees fahrenheit. when charizard roars, that temperature climbs even higher.",
+    "training": {
+        "base_exp": 240,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

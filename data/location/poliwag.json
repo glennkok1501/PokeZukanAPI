@@ -1,0 +1,227 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-225-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-227-area",
+                "sinnoh-route-228-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "violet-city-area",
+                "ruins-of-alph-outside",
+                "ilex-forest-area",
+                "johto-route-35-area",
+                "ecruteak-city-area",
+                "johto-route-43-area",
+                "johto-route-44-area",
+                "blackthorn-city-area",
+                "mt-silver-outside",
+                "kanto-route-28-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-45-area",
+                "mt-moon-mt-moon-square",
+                "unknown-all-poliwag-area",
+                "johto-route-47-cave-gate",
+                "cerulean-cave-2f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "area": [
+                "seafoam-islands-b3f",
+                "seafoam-islands-b4f",
+                "kanto-route-12-area",
+                "kanto-sea-route-19-area",
+                "kanto-sea-route-20-area",
+                "cinnabar-island-area",
+                "cerulean-city-area",
+                "vermilion-city-area",
+                "celadon-city-area",
+                "pallet-town-area",
+                "kanto-route-10-area",
+                "kanto-route-11-area",
+                "kanto-route-13-area",
+                "kanto-route-17-area",
+                "kanto-route-18-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-24-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "viridian-city-area",
+                "kanto-route-6-area",
+                "kanto-route-22-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "fuchsia-city-area",
+                "kanto-route-25-area",
+                "kanto-route-23-area",
+                "kanto-safari-zone-middle",
+                "kanto-safari-zone-area-1-east",
+                "kanto-safari-zone-area-2-north",
+                "kanto-safari-zone-area-3-west"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "vermilion-city-ss-anne-dock"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "berry-forest-area",
+                "icefall-cave-entrance",
+                "cape-brink-area",
+                "ruin-valley-area",
+                "four-island-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-victory-road-unknown-area-53",
+                "unova-victory-road-unknown-area-58",
+                "giant-chasm-forest-cave",
+                "challengers-cave-b2f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "giant-chasm-area",
+                "wellspring-cave-area",
+                "unova-route-6-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "lostlorn-forest-area",
+                "unova-victory-road-2-unknown-area-71",
+                "unova-victory-road-2-unknown-area-73",
+                "unova-victory-road-2-unknown-area-75",
+                "unova-victory-road-2-unknown-area-78",
+                "unova-victory-road-2-unknown-area-79",
+                "floccesy-ranch-outer",
+                "floccesy-ranch-inner",
+                "relic-passage-relic-castle-entrance",
+                "clay-tunnel-area",
+                "unova-route-19-area",
+                "unova-route-20-area",
+                "unova-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "couriway-town-area",
+                "laverre-city-area",
+                "kalos-route-14-area",
+                "kalos-route-15-area",
+                "kalos-route-16-area",
+                "kalos-route-19-area",
+                "kalos-route-21-area",
+                "frost-cavern-unknown-area-313",
+                "frost-cavern-unknown-area-315",
+                "pokemon-village-area",
+                "kalos-victory-road-unknown-area-322",
+                "kalos-victory-road-unknown-area-327",
+                "kalos-victory-road-unknown-area-328"
+            ]
+        }
+    ]
+}

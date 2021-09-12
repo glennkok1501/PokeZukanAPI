@@ -1,0 +1,57 @@
+{
+    "name": "crobat",
+    "id": 169,
+    "info": {
+        "species": "bat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "height": 1.8,
+        "weight": 75.0
+    },
+    "sprites": {
+        "home": "images/pokemon/crobat.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png"
+    },
+    "moves": "data/moves/crobat.json",
+    "location": "data/location/crobat.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 90,
+        "defense": 80,
+        "sp. atk": 70,
+        "sp. def": 80,
+        "speed": 130
+    },
+    "entry": "it feeds on the blood of living people and pok\u00e9mon. if it can\u2019t drink any blood for even a short while, it becomes weak and unable to fly.",
+    "training": {
+        "base_exp": 241,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

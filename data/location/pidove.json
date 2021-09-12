@@ -1,0 +1,27 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "pinwheel-forest-outside",
+                "pinwheel-forest-inside",
+                "unova-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "castelia-city-area",
+                "floccesy-ranch-inner",
+                "virbank-complex-outer",
+                "unova-route-20-area"
+            ]
+        }
+    ]
+}

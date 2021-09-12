@@ -1,0 +1,53 @@
+{
+    "name": "meloetta pirouette",
+    "id": 648,
+    "info": {
+        "species": "melody pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "serene-grace",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "height": 0.6,
+        "weight": 6.5
+    },
+    "sprites": {
+        "home": "images/pokemon/meloetta-pirouette.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10018.png"
+    },
+    "moves": "data/moves/meloetta-pirouette.json",
+    "location": "data/location/meloetta-pirouette.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 128,
+        "defense": 90,
+        "sp. atk": 77,
+        "sp. def": 77,
+        "speed": 128
+    },
+    "entry": "its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

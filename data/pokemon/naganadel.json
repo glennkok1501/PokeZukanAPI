@@ -1,0 +1,53 @@
+{
+    "name": "naganadel",
+    "id": 804,
+    "info": {
+        "species": "poison pin pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "beast-boost",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "poison",
+            "dragon"
+        ],
+        "height": 3.6,
+        "weight": 150.0
+    },
+    "sprites": {
+        "home": "images/pokemon/naganadel.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
+    },
+    "moves": "data/moves/naganadel.json",
+    "location": "data/location/naganadel.json",
+    "base_stats": {
+        "hp": 73,
+        "attack": 73,
+        "defense": 73,
+        "sp. atk": 127,
+        "sp. def": 73,
+        "speed": 121
+    },
+    "entry": "one kind of ultra beast, it fires a glowing, venomous liquid from its needles. this liquid is also immensely adhesive.",
+    "training": {
+        "base_exp": 243,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "shuckle",
+    "id": 213,
+    "info": {
+        "species": "mold pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "rock"
+        ],
+        "height": 0.6,
+        "weight": 20.5
+    },
+    "sprites": {
+        "home": "images/pokemon/shuckle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png"
+    },
+    "moves": "data/moves/shuckle.json",
+    "location": "data/location/shuckle.json",
+    "base_stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 230,
+        "sp. atk": 10,
+        "sp. def": 230,
+        "speed": 5
+    },
+    "entry": "the berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+    "training": {
+        "base_exp": 177,
+        "capture_rate": 190,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

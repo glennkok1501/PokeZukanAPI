@@ -1,0 +1,57 @@
+{
+    "name": "exeggutor alolan",
+    "id": 103,
+    "info": {
+        "species": "coconut pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "harvest",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "height": 10.9,
+        "weight": 415.6
+    },
+    "sprites": {
+        "home": "images/pokemon/exeggutor-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10114.png"
+    },
+    "moves": "data/moves/exeggutor-alolan.json",
+    "location": "data/location/exeggutor-alolan.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 105,
+        "defense": 85,
+        "sp. atk": 125,
+        "sp. def": 75,
+        "speed": 45
+    },
+    "entry": "when they work together, exeggutor\u2019s three heads can put out powerful psychic energy. cloudy days make this pok\u00e9mon sluggish.",
+    "training": {
+        "base_exp": 186,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

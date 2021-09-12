@@ -1,0 +1,65 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "eterna-forest-area",
+                "lost-tower-1f",
+                "lost-tower-2f",
+                "lost-tower-3f",
+                "lost-tower-4f",
+                "lost-tower-5f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-7-area",
+                "kanto-route-16-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver"
+            ],
+            "area": [
+                "kanto-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "lost-cave-room-1",
+                "lost-cave-room-2",
+                "lost-cave-room-3",
+                "lost-cave-room-4",
+                "lost-cave-room-5",
+                "lost-cave-room-6",
+                "lost-cave-room-7",
+                "lost-cave-room-8",
+                "lost-cave-room-9",
+                "lost-cave-room-10",
+                "lost-cave-item-rooms"
+            ]
+        },
+        {
+            "game": [
+                "black"
+            ],
+            "area": [
+                "abundant-shrine-area"
+            ]
+        }
+    ]
+}

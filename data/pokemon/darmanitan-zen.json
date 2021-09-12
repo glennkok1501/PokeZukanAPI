@@ -1,0 +1,57 @@
+{
+    "name": "darmanitan zen",
+    "id": 555,
+    "info": {
+        "species": "blazing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "zen-mode",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "psychic"
+        ],
+        "height": 1.3,
+        "weight": 92.9
+    },
+    "sprites": {
+        "home": "images/pokemon/darmanitan-zen.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10017.png"
+    },
+    "moves": "data/moves/darmanitan-zen.json",
+    "location": "data/location/darmanitan-zen.json",
+    "base_stats": {
+        "hp": 105,
+        "attack": 30,
+        "defense": 105,
+        "sp. atk": 140,
+        "sp. def": 105,
+        "speed": 55
+    },
+    "entry": "when wounded, it stops moving. it goes as still as stone to meditate, sharpening its mind and spirit.",
+    "training": {
+        "base_exp": 189,
+        "capture_rate": 60,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "ferrothorn",
+    "id": 598,
+    "info": {
+        "species": "thorn pod pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "iron-barbs",
+                "is_hidden": false
+            },
+            {
+                "name": "anticipation",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "steel"
+        ],
+        "height": 1.0,
+        "weight": 110.0
+    },
+    "sprites": {
+        "home": "images/pokemon/ferrothorn.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png"
+    },
+    "moves": "data/moves/ferrothorn.json",
+    "location": "data/location/ferrothorn.json",
+    "base_stats": {
+        "hp": 74,
+        "attack": 94,
+        "defense": 131,
+        "sp. atk": 54,
+        "sp. def": 116,
+        "speed": 20
+    },
+    "entry": "its spikes are harder than steel. this pok\u00e9mon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
+    "training": {
+        "base_exp": 171,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant",
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-victory-road-1f",
+                "sinnoh-victory-road-2f",
+                "sinnoh-victory-road-b1f",
+                "sinnoh-victory-road-inside",
+                "sinnoh-victory-road-inside-exit",
+                "iron-island-b2f-left",
+                "iron-island-b3f"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-victory-road-inside-b1f",
+                "snowpoint-temple-1f",
+                "snowpoint-temple-b1f",
+                "snowpoint-temple-b2f",
+                "snowpoint-temple-b3f",
+                "snowpoint-temple-b4f",
+                "snowpoint-temple-b5f"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "iron-island-b2f-right"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-2f",
+                "johto-route-47-inside-cave"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "twist-mountain-area",
+                "clay-tunnel-area",
+                "underground-ruins-area",
+                "rocky-mountain-room-area",
+                "glacier-room-area",
+                "iron-room-area"
+            ]
+        }
+    ]
+}

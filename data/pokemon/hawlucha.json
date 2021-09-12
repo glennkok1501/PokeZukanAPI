@@ -1,0 +1,61 @@
+{
+    "name": "hawlucha",
+    "id": 701,
+    "info": {
+        "species": "wrestling pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting",
+            "flying"
+        ],
+        "height": 0.8,
+        "weight": 21.5
+    },
+    "sprites": {
+        "home": "images/pokemon/hawlucha.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
+    },
+    "moves": "data/moves/hawlucha.json",
+    "location": "data/location/hawlucha.json",
+    "base_stats": {
+        "hp": 78,
+        "attack": 92,
+        "defense": 75,
+        "sp. atk": 74,
+        "sp. def": 63,
+        "speed": 118
+    },
+    "entry": "it always strikes a pose before going for its finishing move. sometimes opponents take advantage of that time to counterattack.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 100,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "accelgor",
+    "id": 617,
+    "info": {
+        "species": "shell out pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "sticky-hold",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.8,
+        "weight": 25.3
+    },
+    "sprites": {
+        "home": "images/pokemon/accelgor.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png"
+    },
+    "moves": "data/moves/accelgor.json",
+    "location": "data/location/accelgor.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 40,
+        "sp. atk": 100,
+        "sp. def": 60,
+        "speed": 145
+    },
+    "entry": "discarding its shell made it nimble. to keep itself from dehydrating, it wraps its body in bands of membrane.",
+    "training": {
+        "base_exp": 173,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

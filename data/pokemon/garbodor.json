@@ -1,0 +1,60 @@
+{
+    "name": "garbodor",
+    "id": 569,
+    "info": {
+        "species": "trash heap pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "stench",
+                "is_hidden": false
+            },
+            {
+                "name": "weak-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "aftermath",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison"
+        ],
+        "height": 1.9,
+        "weight": 107.3
+    },
+    "sprites": {
+        "home": "images/pokemon/garbodor.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
+    },
+    "moves": "data/moves/garbodor.json",
+    "location": "data/location/garbodor.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 95,
+        "defense": 82,
+        "sp. atk": 60,
+        "sp. def": 82,
+        "speed": 75
+    },
+    "entry": "the toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

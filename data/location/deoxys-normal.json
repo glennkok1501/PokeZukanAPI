@@ -1,0 +1,14 @@
+{
+    "location": [
+        {
+            "game": [
+                "emerald",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "birth-island-area"
+            ]
+        }
+    ]
+}

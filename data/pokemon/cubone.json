@@ -1,0 +1,60 @@
+{
+    "name": "cubone",
+    "id": 104,
+    "info": {
+        "species": "lonely pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "lightning-rod",
+                "is_hidden": false
+            },
+            {
+                "name": "battle-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 0.4,
+        "weight": 6.5
+    },
+    "sprites": {
+        "home": "images/pokemon/cubone.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+    },
+    "moves": "data/moves/cubone.json",
+    "location": "data/location/cubone.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 95,
+        "sp. atk": 40,
+        "sp. def": 50,
+        "speed": 35
+    },
+    "entry": "this pok\u00e9mon wears the skull of its deceased mother. sometimes cubone\u2019s dreams make it cry, but each tear cubone sheds makes it stronger.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

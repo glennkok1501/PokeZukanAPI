@@ -1,0 +1,58 @@
+{
+    "name": "tyrunt",
+    "id": 696,
+    "info": {
+        "species": "royal heir pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "strong-jaw",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "dragon"
+        ],
+        "height": 0.8,
+        "weight": 26.0
+    },
+    "sprites": {
+        "home": "images/pokemon/tyrunt.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png"
+    },
+    "moves": "data/moves/tyrunt.json",
+    "location": "data/location/tyrunt.json",
+    "base_stats": {
+        "hp": 58,
+        "attack": 89,
+        "defense": 77,
+        "sp. atk": 45,
+        "sp. def": 45,
+        "speed": 48
+    },
+    "entry": "tyrunt is spoiled and selfish. it may just be trying to frolic, but sometimes the ones it\u2019s trying to frolic with are gravely injured.",
+    "training": {
+        "base_exp": 72,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

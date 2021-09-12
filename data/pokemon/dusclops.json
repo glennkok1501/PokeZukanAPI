@@ -1,0 +1,56 @@
+{
+    "name": "dusclops",
+    "id": 356,
+    "info": {
+        "species": "beckon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 1.6,
+        "weight": 30.6
+    },
+    "sprites": {
+        "home": "images/pokemon/dusclops.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png"
+    },
+    "moves": "data/moves/dusclops.json",
+    "location": "data/location/dusclops.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 70,
+        "defense": 130,
+        "sp. atk": 60,
+        "sp. def": 130,
+        "speed": 25
+    },
+    "entry": "it seeks drifting will-o\u2019-the-wisps and sucks them into its empty body. what happens inside is a mystery.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 90,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "mt-coronet-snowfall",
+                "mt-coronet-blizzard"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-17-area"
+            ]
+        }
+    ]
+}

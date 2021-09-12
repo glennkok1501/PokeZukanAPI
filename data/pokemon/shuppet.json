@@ -1,0 +1,60 @@
+{
+    "name": "shuppet",
+    "id": 353,
+    "info": {
+        "species": "puppet pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "insomnia",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 0.6,
+        "weight": 2.3
+    },
+    "sprites": {
+        "home": "images/pokemon/shuppet.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+    },
+    "moves": "data/moves/shuppet.json",
+    "location": "data/location/shuppet.json",
+    "base_stats": {
+        "hp": 44,
+        "attack": 75,
+        "defense": 35,
+        "sp. atk": 63,
+        "sp. def": 33,
+        "speed": 45
+    },
+    "entry": "there\u2019s a proverb that says, \u201cshun the house where shuppet gather in the growing dusk.\u201d",
+    "training": {
+        "base_exp": 59,
+        "capture_rate": 225,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

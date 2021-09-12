@@ -1,0 +1,56 @@
+{
+    "name": "darumaka galarian",
+    "id": 554,
+    "info": {
+        "species": "zen charm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hustle",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 0.7,
+        "weight": 40.0
+    },
+    "sprites": {
+        "home": "images/pokemon/darumaka-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10173.png"
+    },
+    "moves": "data/moves/darumaka-galarian.json",
+    "location": "data/location/darumaka-galarian.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 45,
+        "sp. atk": 15,
+        "sp. def": 45,
+        "speed": 50
+    },
+    "entry": "this popular symbol of good fortune will never fall over in its sleep, no matter how it\u2019s pushed or pulled.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

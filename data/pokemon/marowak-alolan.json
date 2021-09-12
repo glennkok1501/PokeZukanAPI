@@ -1,0 +1,61 @@
+{
+    "name": "marowak alolan",
+    "id": 105,
+    "info": {
+        "species": "bone keeper pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cursed-body",
+                "is_hidden": false
+            },
+            {
+                "name": "lightning-rod",
+                "is_hidden": false
+            },
+            {
+                "name": "rock-head",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "ghost"
+        ],
+        "height": 1.0,
+        "weight": 34.0
+    },
+    "sprites": {
+        "home": "images/pokemon/marowak-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10115.png"
+    },
+    "moves": "data/moves/marowak-alolan.json",
+    "location": "data/location/marowak-alolan.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "sp. atk": 50,
+        "sp. def": 80,
+        "speed": 45
+    },
+    "entry": "when this pok\u00e9mon evolved, the skull of its mother fused to it. marowak\u2019s temperament also turned vicious at the same time.",
+    "training": {
+        "base_exp": 149,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

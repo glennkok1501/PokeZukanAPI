@@ -1,0 +1,61 @@
+{
+    "name": "doduo",
+    "id": 84,
+    "info": {
+        "species": "twin bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "early-bird",
+                "is_hidden": false
+            },
+            {
+                "name": "tangled-feet",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.4,
+        "weight": 39.2
+    },
+    "sprites": {
+        "home": "images/pokemon/doduo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
+    },
+    "moves": "data/moves/doduo.json",
+    "location": "data/location/doduo.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 85,
+        "defense": 45,
+        "sp. atk": 35,
+        "sp. def": 35,
+        "speed": 75
+    },
+    "entry": "its short wings make flying difficult. instead, this pok\u00e9mon runs at high speed on developed legs.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

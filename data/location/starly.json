@@ -1,0 +1,36 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6",
+                "sinnoh-route-209-area",
+                "sinnoh-route-212-north-towards-hearthome-city"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention",
+                "sinnoh-route-201-area",
+                "sinnoh-route-202-area",
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town"
+            ]
+        }
+    ]
+}

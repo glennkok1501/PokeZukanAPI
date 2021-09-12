@@ -1,0 +1,61 @@
+{
+    "name": "lampent",
+    "id": 608,
+    "info": {
+        "species": "lamp pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "height": 0.6,
+        "weight": 13.0
+    },
+    "sprites": {
+        "home": "images/pokemon/lampent.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png"
+    },
+    "moves": "data/moves/lampent.json",
+    "location": "data/location/lampent.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 60,
+        "sp. atk": 95,
+        "sp. def": 60,
+        "speed": 55
+    },
+    "entry": "it lurks in cities, pretending to be a lamp. once it finds someone whose death is near, it will trail quietly after them.",
+    "training": {
+        "base_exp": 130,
+        "capture_rate": 90,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

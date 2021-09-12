@@ -1,0 +1,57 @@
+{
+    "name": "metang",
+    "id": 375,
+    "info": {
+        "species": "iron claw pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "clear-body",
+                "is_hidden": false
+            },
+            {
+                "name": "light-metal",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "height": 1.2,
+        "weight": 202.5
+    },
+    "sprites": {
+        "home": "images/pokemon/metang.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png"
+    },
+    "moves": "data/moves/metang.json",
+    "location": "data/location/metang.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 100,
+        "sp. atk": 55,
+        "sp. def": 80,
+        "speed": 50
+    },
+    "entry": "it flies at high speeds around the skies. when it finds its prey, metang takes a firm grip with its sharp claws and never lets go.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

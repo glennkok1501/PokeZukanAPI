@@ -1,0 +1,60 @@
+{
+    "name": "espurr",
+    "id": 677,
+    "info": {
+        "species": "restraint pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.3,
+        "weight": 3.5
+    },
+    "sprites": {
+        "home": "images/pokemon/espurr.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png"
+    },
+    "moves": "data/moves/espurr.json",
+    "location": "data/location/espurr.json",
+    "base_stats": {
+        "hp": 62,
+        "attack": 48,
+        "defense": 54,
+        "sp. atk": 63,
+        "sp. def": 60,
+        "speed": 68
+    },
+    "entry": "there\u2019s enough psychic power in espurr to send a wrestler flying, but because this power can\u2019t be controlled, espurr finds it troublesome.",
+    "training": {
+        "base_exp": 71,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

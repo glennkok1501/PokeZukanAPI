@@ -1,0 +1,61 @@
+{
+    "name": "stunky",
+    "id": 434,
+    "info": {
+        "species": "skunk pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "stench",
+                "is_hidden": false
+            },
+            {
+                "name": "aftermath",
+                "is_hidden": false
+            },
+            {
+                "name": "keen-eye",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "dark"
+        ],
+        "height": 0.4,
+        "weight": 19.2
+    },
+    "sprites": {
+        "home": "images/pokemon/stunky.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png"
+    },
+    "moves": "data/moves/stunky.json",
+    "location": "data/location/stunky.json",
+    "base_stats": {
+        "hp": 63,
+        "attack": 63,
+        "defense": 47,
+        "sp. atk": 41,
+        "sp. def": 41,
+        "speed": 74
+    },
+    "entry": "if it lifts its tail and points its rear at you, beware. it\u2019s about to spray you with a fluid stinky enough to make you faint.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 225,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

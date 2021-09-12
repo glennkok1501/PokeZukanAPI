@@ -1,0 +1,57 @@
+{
+    "name": "popplio",
+    "id": 728,
+    "info": {
+        "species": "sea lion pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "liquid-voice",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.4,
+        "weight": 7.5
+    },
+    "sprites": {
+        "home": "images/pokemon/popplio.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png"
+    },
+    "moves": "data/moves/popplio.json",
+    "location": "data/location/popplio.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 54,
+        "defense": 54,
+        "sp. atk": 66,
+        "sp. def": 56,
+        "speed": 40
+    },
+    "entry": "if popplio want to create big, powerful balloons, they must be persistent. it takes daily practice for these pok\u00e9mon to develop their skills.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

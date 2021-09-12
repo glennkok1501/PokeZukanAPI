@@ -1,0 +1,53 @@
+{
+    "name": "hoopa confined",
+    "id": 720,
+    "info": {
+        "species": "mischief pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "magician",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "ghost"
+        ],
+        "height": 0.5,
+        "weight": 9.0
+    },
+    "sprites": {
+        "home": "images/pokemon/hoopa-confined.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
+    },
+    "moves": "data/moves/hoopa-confined.json",
+    "location": "data/location/hoopa-confined.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 60,
+        "sp. atk": 150,
+        "sp. def": 130,
+        "speed": 70
+    },
+    "entry": "it is said to be able to seize anything it desires with its six rings and six huge arms. with its power sealed, it is transformed into a much smaller form.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

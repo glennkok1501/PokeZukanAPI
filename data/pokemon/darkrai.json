@@ -1,0 +1,52 @@
+{
+    "name": "darkrai",
+    "id": 491,
+    "info": {
+        "species": "pitch-black pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "bad-dreams",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dark"
+        ],
+        "height": 1.5,
+        "weight": 50.5
+    },
+    "sprites": {
+        "home": "images/pokemon/darkrai.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+    },
+    "moves": "data/moves/darkrai.json",
+    "location": "data/location/darkrai.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 90,
+        "sp. atk": 135,
+        "sp. def": 90,
+        "speed": 125
+    },
+    "entry": "it can lull people to sleep and make them dream. it is active during nights of the new moon.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

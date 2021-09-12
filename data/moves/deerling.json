@@ -1,0 +1,284 @@
+{
+    "moves": [
+        {
+            "name": "double-kick",
+            "method": "level-up",
+            "level": 10
+        },
+        {
+            "name": "jump-kick",
+            "method": "level-up",
+            "level": 24
+        },
+        {
+            "name": "sand-attack",
+            "method": "level-up",
+            "level": 7
+        },
+        {
+            "name": "headbutt",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "tackle",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "take-down",
+            "method": "level-up",
+            "level": 20
+        },
+        {
+            "name": "double-edge",
+            "method": "level-up",
+            "level": 46
+        },
+        {
+            "name": "growl",
+            "method": "level-up",
+            "level": 4
+        },
+        {
+            "name": "leech-seed",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "solar-beam",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "thunder-wave",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "agility",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "light-screen",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "flash",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "feint-attack",
+            "method": "level-up",
+            "level": 16
+        },
+        {
+            "name": "giga-drain",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "charm",
+            "method": "level-up",
+            "level": 36
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "baton-pass",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "synthesis",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rain-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "shadow-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "nature-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "camouflage",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "aromatherapy",
+            "method": "level-up",
+            "level": 28
+        },
+        {
+            "name": "fake-tears",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "odor-sleuth",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "grass-whistle",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "bounce",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "last-resort",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "worry-seed",
+            "method": "egg",
+            "level": 0
+        },
+        {
+            "name": "seed-bomb",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "energy-ball",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "grass-knot",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "echoed-voice",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "retaliate",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "work-up",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "wild-charge",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

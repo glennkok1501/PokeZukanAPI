@@ -1,0 +1,59 @@
+{
+    "name": "grimmsnarl",
+    "id": 861,
+    "info": {
+        "species": "bulk up pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prankster",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "pickpocket",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "fairy"
+        ],
+        "height": 1.5,
+        "weight": 61.0
+    },
+    "sprites": {
+        "home": "images/pokemon/grimmsnarl.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
+    },
+    "moves": "data/moves/grimmsnarl.json",
+    "location": "data/location/grimmsnarl.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 120,
+        "defense": 65,
+        "sp. atk": 95,
+        "sp. def": 75,
+        "speed": 60
+    },
+    "entry": "its hairs work like muscle fibers. when its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
+    "training": {
+        "base_exp": 255,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

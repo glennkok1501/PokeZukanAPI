@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "mt-pyre-1f",
+                "mt-pyre-2f",
+                "mt-pyre-3f",
+                "mt-pyre-outside",
+                "hoenn-route-121-area",
+                "hoenn-route-123-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "mt-pyre-4f",
+                "mt-pyre-5f",
+                "mt-pyre-6f",
+                "mt-pyre-summit"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "swalot",
+    "id": 317,
+    "info": {
+        "species": "poison bag pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "liquid-ooze",
+                "is_hidden": false
+            },
+            {
+                "name": "sticky-hold",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison"
+        ],
+        "height": 1.7,
+        "weight": 80.0
+    },
+    "sprites": {
+        "home": "images/pokemon/swalot.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png"
+    },
+    "moves": "data/moves/swalot.json",
+    "location": "data/location/swalot.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 73,
+        "defense": 83,
+        "sp. atk": 73,
+        "sp. def": 83,
+        "speed": 55
+    },
+    "entry": "swalot has no teeth, so what it eats, it swallows whole, no matter what. its cavernous mouth yawns widely. an automobile tire could easily fit inside this pok\u00e9mon\u2019s mouth.",
+    "training": {
+        "base_exp": 163,
+        "capture_rate": 75,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

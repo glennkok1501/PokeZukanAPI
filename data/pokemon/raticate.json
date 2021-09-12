@@ -1,0 +1,60 @@
+{
+    "name": "raticate",
+    "id": 20,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "hustle",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.7,
+        "weight": 18.5
+    },
+    "sprites": {
+        "home": "images/pokemon/raticate.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+    },
+    "moves": "data/moves/raticate.json",
+    "location": "data/location/raticate.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 81,
+        "defense": 60,
+        "sp. atk": 50,
+        "sp. def": 70,
+        "speed": 97
+    },
+    "entry": "its hind feet are webbed. they act as flippers, so it can swim in rivers and hunt for prey.",
+    "training": {
+        "base_exp": 145,
+        "capture_rate": 127,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "drilbur",
+    "id": 529,
+    "info": {
+        "species": "mole pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-rush",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 0.3,
+        "weight": 8.5
+    },
+    "sprites": {
+        "home": "images/pokemon/drilbur.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
+    },
+    "moves": "data/moves/drilbur.json",
+    "location": "data/location/drilbur.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 40,
+        "sp. atk": 30,
+        "sp. def": 45,
+        "speed": 68
+    },
+    "entry": "it\u2019s a digger, using its claws to burrow through the ground. it causes damage to vegetable crops, so many farmers have little love for it.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

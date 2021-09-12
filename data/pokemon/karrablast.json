@@ -1,0 +1,60 @@
+{
+    "name": "karrablast",
+    "id": 588,
+    "info": {
+        "species": "clamping pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "no-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.5,
+        "weight": 5.9
+    },
+    "sprites": {
+        "home": "images/pokemon/karrablast.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
+    },
+    "moves": "data/moves/karrablast.json",
+    "location": "data/location/karrablast.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 45,
+        "sp. atk": 40,
+        "sp. def": 45,
+        "speed": 60
+    },
+    "entry": "it spits a liquid from its mouth to melt through shelmet\u2019s shell. karrablast doesn\u2019t eat the shell\u2014 it eats only the contents.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

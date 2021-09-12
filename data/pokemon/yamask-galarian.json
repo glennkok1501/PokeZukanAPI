@@ -1,0 +1,54 @@
+{
+    "name": "yamask galarian",
+    "id": 562,
+    "info": {
+        "species": "spirit pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "wandering-spirit",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ground",
+            "ghost"
+        ],
+        "height": 0.5,
+        "weight": 1.5
+    },
+    "sprites": {
+        "home": "images/pokemon/yamask-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png"
+    },
+    "moves": "data/moves/yamask-galarian.json",
+    "location": "data/location/yamask-galarian.json",
+    "base_stats": {
+        "hp": 38,
+        "attack": 55,
+        "defense": 85,
+        "sp. atk": 30,
+        "sp. def": 65,
+        "speed": 30
+    },
+    "entry": "the spirit of a person from a bygone age became this pok\u00e9mon. it rambles through ruins, searching for someone who knows its face.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

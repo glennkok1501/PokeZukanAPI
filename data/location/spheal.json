@@ -1,0 +1,35 @@
+{
+    "location": [
+        {
+            "game": [
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-sea-route-226-area",
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "shoal-cave-area",
+                "shoal-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "undella-bay-area"
+            ]
+        }
+    ]
+}

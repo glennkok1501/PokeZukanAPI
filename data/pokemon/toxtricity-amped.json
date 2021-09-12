@@ -1,0 +1,59 @@
+{
+    "name": "toxtricity amped",
+    "id": 849,
+    "info": {
+        "species": "punk pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "punk-rock",
+                "is_hidden": false
+            },
+            {
+                "name": "plus",
+                "is_hidden": false
+            },
+            {
+                "name": "technician",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric",
+            "poison"
+        ],
+        "height": 1.6,
+        "weight": 40.0
+    },
+    "sprites": {
+        "home": "images/pokemon/toxtricity-amped.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png"
+    },
+    "moves": "data/moves/toxtricity-amped.json",
+    "location": "data/location/toxtricity-amped.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 70,
+        "sp. atk": 114,
+        "sp. def": 70,
+        "speed": 75
+    },
+    "entry": "this short-tempered and aggressive pok\u00e9mon chugs stagnant water to absorb any toxins it might contain.",
+    "training": {
+        "base_exp": 176,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

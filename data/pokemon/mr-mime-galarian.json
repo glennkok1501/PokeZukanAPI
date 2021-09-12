@@ -1,0 +1,61 @@
+{
+    "name": "mr mime galarian",
+    "id": 122,
+    "info": {
+        "species": "dancing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "vital-spirit",
+                "is_hidden": false
+            },
+            {
+                "name": "screen-cleaner",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice",
+            "psychic"
+        ],
+        "height": 1.4,
+        "weight": 56.8
+    },
+    "sprites": {
+        "home": "images/pokemon/mr-mime-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10165.png"
+    },
+    "moves": "data/moves/mr-mime-galarian.json",
+    "location": "data/location/mr-mime-galarian.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 65,
+        "sp. atk": 90,
+        "sp. def": 90,
+        "speed": 100
+    },
+    "entry": "it\u2019s known for its top-notch pantomime skills. it protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

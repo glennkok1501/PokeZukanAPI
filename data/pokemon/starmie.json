@@ -1,0 +1,61 @@
+{
+    "name": "starmie",
+    "id": 121,
+    "info": {
+        "species": "mysterious pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "illuminate",
+                "is_hidden": false
+            },
+            {
+                "name": "natural-cure",
+                "is_hidden": false
+            },
+            {
+                "name": "analytic",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "height": 1.1,
+        "weight": 80.0
+    },
+    "sprites": {
+        "home": "images/pokemon/starmie.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+    },
+    "moves": "data/moves/starmie.json",
+    "location": "data/location/starmie.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 85,
+        "sp. atk": 100,
+        "sp. def": 85,
+        "speed": 115
+    },
+    "entry": "starmie swims by spinning its body at high speed. as this pok\u00e9mon cruises through the ocean, it absorbs tiny plankton.",
+    "training": {
+        "base_exp": 182,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water3"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

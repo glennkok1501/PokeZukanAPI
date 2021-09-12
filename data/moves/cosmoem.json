@@ -1,0 +1,14 @@
+{
+    "moves": [
+        {
+            "name": "teleport",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "cosmic-power",
+            "method": "level-up",
+            "level": 1
+        }
+    ]
+}

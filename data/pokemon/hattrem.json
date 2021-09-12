@@ -1,0 +1,58 @@
+{
+    "name": "hattrem",
+    "id": 857,
+    "info": {
+        "species": "serene pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "healer",
+                "is_hidden": false
+            },
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-bounce",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.6,
+        "weight": 4.8
+    },
+    "sprites": {
+        "home": "images/pokemon/hattrem.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+    },
+    "moves": "data/moves/hattrem.json",
+    "location": "data/location/hattrem.json",
+    "base_stats": {
+        "hp": 57,
+        "attack": 40,
+        "defense": 65,
+        "sp. atk": 86,
+        "sp. def": 73,
+        "speed": 49
+    },
+    "entry": "using the braids on its head, it pummels foes to get them to quiet down. one blow from those braids would knock out a professional boxer.",
+    "training": {
+        "base_exp": 130,
+        "capture_rate": 120,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

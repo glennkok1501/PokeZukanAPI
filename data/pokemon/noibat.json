@@ -1,0 +1,61 @@
+{
+    "name": "noibat",
+    "id": 714,
+    "info": {
+        "species": "sound wave pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "flying",
+            "dragon"
+        ],
+        "height": 0.5,
+        "weight": 8.0
+    },
+    "sprites": {
+        "home": "images/pokemon/noibat.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
+    },
+    "moves": "data/moves/noibat.json",
+    "location": "data/location/noibat.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 35,
+        "sp. atk": 45,
+        "sp. def": 40,
+        "speed": 55
+    },
+    "entry": "no wavelength of sound is beyond noibat\u2019s ability to produce. the ultrasonic waves it generates can overcome much larger pok\u00e9mon.",
+    "training": {
+        "base_exp": 49,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

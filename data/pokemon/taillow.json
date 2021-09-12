@@ -1,0 +1,57 @@
+{
+    "name": "taillow",
+    "id": 276,
+    "info": {
+        "species": "tinyswallow pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "scrappy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.3,
+        "weight": 2.3
+    },
+    "sprites": {
+        "home": "images/pokemon/taillow.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
+    },
+    "moves": "data/moves/taillow.json",
+    "location": "data/location/taillow.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 55,
+        "defense": 30,
+        "sp. atk": 30,
+        "sp. def": 30,
+        "speed": 85
+    },
+    "entry": "taillow is young\u2014it has only just left its nest. as a result, it sometimes becomes lonesome and cries at night. this pok\u00e9mon feeds on wurmple that live in forests.",
+    "training": {
+        "base_exp": 54,
+        "capture_rate": 200,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

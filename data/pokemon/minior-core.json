@@ -1,0 +1,53 @@
+{
+    "name": "minior core",
+    "id": 774,
+    "info": {
+        "species": "meteor pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shields-down",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "height": 0.3,
+        "weight": 0.3
+    },
+    "sprites": {
+        "home": "images/pokemon/minior-core.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10136.png"
+    },
+    "moves": "data/moves/minior-core.json",
+    "location": "data/location/minior-core.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 60,
+        "sp. atk": 100,
+        "sp. def": 60,
+        "speed": 120
+    },
+    "entry": "although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 30,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

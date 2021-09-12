@@ -1,0 +1,62 @@
+{
+    "name": "slowking galarian",
+    "id": 199,
+    "info": {
+        "species": "hexpert pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "curious-medicine",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "psychic"
+        ],
+        "height": 1.8,
+        "weight": 79.5
+    },
+    "sprites": {
+        "home": "images/pokemon/slowking-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10169.png"
+    },
+    "moves": "data/moves/slowking-galarian.json",
+    "location": "data/location/slowking-galarian.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 80,
+        "sp. atk": 110,
+        "sp. def": 110,
+        "speed": 30
+    },
+    "entry": "slowking can solve any problem presented to it, but no one can understand a thing slowking says.",
+    "training": {
+        "base_exp": 172,
+        "capture_rate": 70,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

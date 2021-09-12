@@ -1,0 +1,23 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "black-2"
+            ],
+            "area": [
+                "unova-route-5-area",
+                "unova-route-16-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2"
+            ],
+            "area": [
+                "strange-house-1f",
+                "strange-house-b1f"
+            ]
+        }
+    ]
+}

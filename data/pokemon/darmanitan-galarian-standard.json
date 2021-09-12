@@ -1,0 +1,56 @@
+{
+    "name": "darmanitan galarian standard",
+    "id": 555,
+    "info": {
+        "species": "zen charm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gorilla-tactics",
+                "is_hidden": false
+            },
+            {
+                "name": "zen-mode",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 1.7,
+        "weight": 120.0
+    },
+    "sprites": {
+        "home": "images/pokemon/darmanitan-galarian-standard.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10174.png"
+    },
+    "moves": "data/moves/darmanitan-galarian-standard.json",
+    "location": "data/location/darmanitan-galarian-standard.json",
+    "base_stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 55,
+        "sp. atk": 30,
+        "sp. def": 55,
+        "speed": 95
+    },
+    "entry": "when wounded, it stops moving. it goes as still as stone to meditate, sharpening its mind and spirit.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 60,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

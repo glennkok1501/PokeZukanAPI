@@ -1,0 +1,121 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area",
+                "turnback-cave-pillar-1",
+                "turnback-cave-before-pillar-1"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "old-chateau-entrance",
+                "old-chateau-dining-room",
+                "old-chateau-2f-private-room",
+                "old-chateau-2f",
+                "old-chateau-2f-leftmost-room",
+                "old-chateau-2f-left-room",
+                "old-chateau-2f-middle-room",
+                "old-chateau-2f-right-room",
+                "old-chateau-2f-rightmost-room",
+                "lost-tower-1f",
+                "lost-tower-2f",
+                "lost-tower-3f",
+                "lost-tower-4f",
+                "lost-tower-5f"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-209-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-31-area",
+                "johto-route-32-area",
+                "johto-route-36-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "sprout-tower-2f",
+                "sprout-tower-3f",
+                "bell-tower-2f",
+                "bell-tower-3f",
+                "bell-tower-4f",
+                "bell-tower-5f",
+                "bell-tower-6f",
+                "bell-tower-7f",
+                "bell-tower-8f",
+                "bell-tower-9f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "bell-tower-10f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "pokemon-tower-3f",
+                "pokemon-tower-4f",
+                "pokemon-tower-5f",
+                "pokemon-tower-6f",
+                "pokemon-tower-7f"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "lost-cave-room-1",
+                "lost-cave-room-2",
+                "lost-cave-room-3",
+                "lost-cave-room-4",
+                "lost-cave-room-5",
+                "lost-cave-room-6",
+                "lost-cave-room-7",
+                "lost-cave-room-8",
+                "lost-cave-room-9",
+                "lost-cave-room-10",
+                "lost-cave-item-rooms"
+            ]
+        }
+    ]
+}

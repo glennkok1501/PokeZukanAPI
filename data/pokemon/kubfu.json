@@ -1,0 +1,50 @@
+{
+    "name": "kubfu",
+    "id": 891,
+    "info": {
+        "species": "wushu pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 0.6,
+        "weight": 12.0
+    },
+    "sprites": {
+        "home": "images/pokemon/kubfu.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png"
+    },
+    "moves": "data/moves/kubfu.json",
+    "location": "data/location/kubfu.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 60,
+        "sp. atk": 53,
+        "sp. def": 50,
+        "speed": 72
+    },
+    "entry": "if kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
+    "training": {
+        "base_exp": 77,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

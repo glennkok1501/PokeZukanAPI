@@ -1,0 +1,79 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "iron-island-b1f-left",
+                "iron-island-b1f-right",
+                "iron-island-b2f-right",
+                "iron-island-b2f-left",
+                "iron-island-b3f"
+            ]
+        },
+        {
+            "game": [
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-9-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby"
+            ],
+            "area": [
+                "granite-cave-b1f",
+                "granite-cave-b2f",
+                "cave-of-origin-1f",
+                "cave-of-origin-b1f",
+                "cave-of-origin-b2f",
+                "cave-of-origin-b3f",
+                "sky-pillar-1f",
+                "sky-pillar-3f",
+                "sky-pillar-5f"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-victory-road-b1f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-victory-road-b2f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "challengers-cave-1f",
+                "challengers-cave-b1f",
+                "challengers-cave-b2f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "glittering-cave-unknown-area-303"
+            ]
+        }
+    ]
+}

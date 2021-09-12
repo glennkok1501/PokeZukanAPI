@@ -1,0 +1,34 @@
+{
+    "location": [
+        {
+            "game": [
+                "yellow"
+            ],
+            "area": [
+                "vermilion-city-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "pallet-town-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "lumiose-city-area"
+            ]
+        }
+    ]
+}

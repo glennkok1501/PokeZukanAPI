@@ -1,0 +1,60 @@
+{
+    "name": "ambipom",
+    "id": 424,
+    "info": {
+        "species": "long tail pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "technician",
+                "is_hidden": false
+            },
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "skill-link",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.2,
+        "weight": 20.3
+    },
+    "sprites": {
+        "home": "images/pokemon/ambipom.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png"
+    },
+    "moves": "data/moves/ambipom.json",
+    "location": "data/location/ambipom.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 66,
+        "sp. atk": 60,
+        "sp. def": 66,
+        "speed": 115
+    },
+    "entry": "it uses its tails for everything. if it wraps both of its tails around you and gives you a squeeze, that\u2019s proof it really likes you.",
+    "training": {
+        "base_exp": 169,
+        "capture_rate": 45,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

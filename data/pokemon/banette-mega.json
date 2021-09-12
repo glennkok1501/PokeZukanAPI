@@ -1,0 +1,52 @@
+{
+    "name": "banette mega",
+    "id": 354,
+    "info": {
+        "species": "marionette pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prankster",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ghost"
+        ],
+        "height": 1.2,
+        "weight": 13.0
+    },
+    "sprites": {
+        "home": "images/pokemon/banette-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png"
+    },
+    "moves": "data/moves/banette-mega.json",
+    "location": "data/location/banette-mega.json",
+    "base_stats": {
+        "hp": 64,
+        "attack": 165,
+        "defense": 75,
+        "sp. atk": 93,
+        "sp. def": 83,
+        "speed": 75
+    },
+    "entry": "resentment at being cast off made it spring into being. some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
+    "training": {
+        "base_exp": 194,
+        "capture_rate": 45,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

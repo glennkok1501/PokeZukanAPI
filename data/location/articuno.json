@@ -1,0 +1,18 @@
+{
+    "location": [
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b4f"
+            ]
+        }
+    ]
+}

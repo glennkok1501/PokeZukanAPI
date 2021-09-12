@@ -1,0 +1,40 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "chargestone-cave-1f",
+                "chargestone-cave-b1f",
+                "chargestone-cave-b2f",
+                "mistralton-cave-area",
+                "guidance-chamber-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "twist-mountain-area",
+                "wellspring-cave-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "relic-passage-castelia-sewers-entrance",
+                "relic-passage-relic-castle-entrance",
+                "relic-passage-pwt-entrance"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "vaporeon",
+    "id": 134,
+    "info": {
+        "species": "bubble jet pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.0,
+        "weight": 29.0
+    },
+    "sprites": {
+        "home": "images/pokemon/vaporeon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+    },
+    "moves": "data/moves/vaporeon.json",
+    "location": "data/location/vaporeon.json",
+    "base_stats": {
+        "hp": 130,
+        "attack": 65,
+        "defense": 60,
+        "sp. atk": 110,
+        "sp. def": 95,
+        "speed": 65
+    },
+    "entry": "its body\u2019s cellular structure is similar to the molecular composition of water. it can melt invisibly in water.",
+    "training": {
+        "base_exp": 184,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

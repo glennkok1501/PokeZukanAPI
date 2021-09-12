@@ -1,0 +1,40 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-sea-route-230-area"
+            ]
+        }
+    ]
+}

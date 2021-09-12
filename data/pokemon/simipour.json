@@ -1,0 +1,56 @@
+{
+    "name": "simipour",
+    "id": 516,
+    "info": {
+        "species": "geyser pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "torrent",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.0,
+        "weight": 29.0
+    },
+    "sprites": {
+        "home": "images/pokemon/simipour.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png"
+    },
+    "moves": "data/moves/simipour.json",
+    "location": "data/location/simipour.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "sp. atk": 98,
+        "sp. def": 63,
+        "speed": 101
+    },
+    "entry": "it prefers places with clean water. when its tuft runs low, it replenishes it by siphoning up water with its tail.",
+    "training": {
+        "base_exp": 174,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "tyranitar mega",
+    "id": 248,
+    "info": {
+        "species": "armor pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-stream",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "rock",
+            "dark"
+        ],
+        "height": 2.5,
+        "weight": 255.0
+    },
+    "sprites": {
+        "home": "images/pokemon/tyranitar-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10049.png"
+    },
+    "moves": "data/moves/tyranitar-mega.json",
+    "location": "data/location/tyranitar-mega.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 164,
+        "defense": 150,
+        "sp. atk": 95,
+        "sp. def": 120,
+        "speed": 71
+    },
+    "entry": "the quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+    "training": {
+        "base_exp": 315,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

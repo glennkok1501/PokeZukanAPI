@@ -1,0 +1,56 @@
+{
+    "name": "aromatisse",
+    "id": 683,
+    "info": {
+        "species": "fragrance pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "healer",
+                "is_hidden": false
+            },
+            {
+                "name": "aroma-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.8,
+        "weight": 15.5
+    },
+    "sprites": {
+        "home": "images/pokemon/aromatisse.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png"
+    },
+    "moves": "data/moves/aromatisse.json",
+    "location": "data/location/aromatisse.json",
+    "base_stats": {
+        "hp": 101,
+        "attack": 72,
+        "defense": 72,
+        "sp. atk": 99,
+        "sp. def": 89,
+        "speed": 29
+    },
+    "entry": "the scents aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent\u2019s will to fight.",
+    "training": {
+        "base_exp": 162,
+        "capture_rate": 140,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

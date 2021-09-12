@@ -1,0 +1,61 @@
+{
+    "name": "granbull",
+    "id": 210,
+    "info": {
+        "species": "fairy pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "quick-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "rattled",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 1.4,
+        "weight": 48.7
+    },
+    "sprites": {
+        "home": "images/pokemon/granbull.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
+    },
+    "moves": "data/moves/granbull.json",
+    "location": "data/location/granbull.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 75,
+        "sp. atk": 60,
+        "sp. def": 60,
+        "speed": 45
+    },
+    "entry": "although it\u2019s popular with young people, granbull is timid and sensitive, so it\u2019s totally incompetent as a watchdog.",
+    "training": {
+        "base_exp": 158,
+        "capture_rate": 75,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

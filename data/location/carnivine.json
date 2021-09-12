@@ -1,0 +1,33 @@
+{
+    "location": [
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ilex-forest-area",
+                "viridian-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-18-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-14-area",
+                "kalos-route-19-area"
+            ]
+        }
+    ]
+}

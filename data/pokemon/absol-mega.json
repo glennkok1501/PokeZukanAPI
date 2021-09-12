@@ -1,0 +1,52 @@
+{
+    "name": "absol mega",
+    "id": 359,
+    "info": {
+        "species": "disaster pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "magic-bounce",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dark"
+        ],
+        "height": 1.2,
+        "weight": 49.0
+    },
+    "sprites": {
+        "home": "images/pokemon/absol-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png"
+    },
+    "moves": "data/moves/absol-mega.json",
+    "location": "data/location/absol-mega.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 150,
+        "defense": 60,
+        "sp. atk": 115,
+        "sp. def": 60,
+        "speed": 115
+    },
+    "entry": "the elderly call it the disaster pok\u00e9mon and detest it, but interest in its power to predict disasters is on the rise.",
+    "training": {
+        "base_exp": 198,
+        "capture_rate": 30,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

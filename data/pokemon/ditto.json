@@ -1,0 +1,56 @@
+{
+    "name": "ditto",
+    "id": 132,
+    "info": {
+        "species": "transform pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "imposter",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.3,
+        "weight": 4.0
+    },
+    "sprites": {
+        "home": "images/pokemon/ditto.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+    },
+    "moves": "data/moves/ditto.json",
+    "location": "data/location/ditto.json",
+    "base_stats": {
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "sp. atk": 48,
+        "sp. def": 48,
+        "speed": 48
+    },
+    "entry": "when it encounters another ditto, it will move faster than normal to duplicate that opponent exactly.",
+    "training": {
+        "base_exp": 101,
+        "capture_rate": 35,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ditto"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "sentret",
+    "id": 161,
+    "info": {
+        "species": "scout pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.8,
+        "weight": 6.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sentret.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png"
+    },
+    "moves": "data/moves/sentret.json",
+    "location": "data/location/sentret.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 46,
+        "defense": 34,
+        "sp. atk": 35,
+        "sp. def": 45,
+        "speed": 20
+    },
+    "entry": "when sentret sleeps, it does so while another stands guard. the sentry wakes the others at the first sign of danger. when this pok\u00e9mon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+    "training": {
+        "base_exp": 43,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

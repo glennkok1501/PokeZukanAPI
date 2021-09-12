@@ -1,0 +1,39 @@
+{
+    "location": [
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-45-area"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "heartgold"
+            ],
+            "area": [
+                "mt-silver-2f",
+                "mt-silver-outside",
+                "mt-silver-1f",
+                "mt-silver-top",
+                "kanto-route-28-area",
+                "kanto-victory-road-1-1f",
+                "kanto-victory-road-1-2f",
+                "kanto-victory-road-1-3f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-4f",
+                "mt-silver-mountainside",
+                "mt-silver-3f"
+            ]
+        }
+    ]
+}

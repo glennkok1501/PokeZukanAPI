@@ -1,0 +1,35 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "mt-coronet-snowfall",
+                "mt-coronet-blizzard",
+                "acuity-lakefront-area",
+                "sinnoh-route-216-area",
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "lake-acuity-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-17-area"
+            ]
+        }
+    ]
+}

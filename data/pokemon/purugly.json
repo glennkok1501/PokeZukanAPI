@@ -1,0 +1,60 @@
+{
+    "name": "purugly",
+    "id": 432,
+    "info": {
+        "species": "tiger cat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "thick-fat",
+                "is_hidden": false
+            },
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "defiant",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.0,
+        "weight": 43.8
+    },
+    "sprites": {
+        "home": "images/pokemon/purugly.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
+    },
+    "moves": "data/moves/purugly.json",
+    "location": "data/location/purugly.json",
+    "base_stats": {
+        "hp": 71,
+        "attack": 82,
+        "defense": 64,
+        "sp. atk": 64,
+        "sp. def": 59,
+        "speed": 112
+    },
+    "entry": "to make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
+    "training": {
+        "base_exp": 158,
+        "capture_rate": 75,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

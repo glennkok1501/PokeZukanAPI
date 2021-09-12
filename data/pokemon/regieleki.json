@@ -1,0 +1,50 @@
+{
+    "name": "regieleki",
+    "id": 894,
+    "info": {
+        "species": "electron pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "transistor",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 1.2,
+        "weight": 145.0
+    },
+    "sprites": {
+        "home": "images/pokemon/regieleki.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png"
+    },
+    "moves": "data/moves/regieleki.json",
+    "location": "data/location/regieleki.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 50,
+        "sp. atk": 100,
+        "sp. def": 50,
+        "speed": 200
+    },
+    "entry": "its entire body is made up of a single organ that generates electrical energy. regieleki is capable of creating all galar's electricity.",
+    "training": {
+        "base_exp": 290,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

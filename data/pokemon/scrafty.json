@@ -1,0 +1,62 @@
+{
+    "name": "scrafty",
+    "id": 560,
+    "info": {
+        "species": "hoodlum pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "moxie",
+                "is_hidden": false
+            },
+            {
+                "name": "intimidate",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "fighting"
+        ],
+        "height": 1.1,
+        "weight": 30.0
+    },
+    "sprites": {
+        "home": "images/pokemon/scrafty.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
+    },
+    "moves": "data/moves/scrafty.json",
+    "location": "data/location/scrafty.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 115,
+        "sp. atk": 45,
+        "sp. def": 115,
+        "speed": 58
+    },
+    "entry": "while mostly known for having the temperament of an aggressive ruffian, this pok\u00e9mon takes very good care of its family, friends, and territory.",
+    "training": {
+        "base_exp": 171,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

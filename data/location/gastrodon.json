@@ -1,0 +1,40 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "canalave-city-area",
+                "pastoria-city-area",
+                "valley-windworks-area",
+                "sinnoh-route-205-south-towards-floaroma-town",
+                "sinnoh-route-212-east-towards-pastoria-city",
+                "sinnoh-route-213-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "fuego-ironworks-area",
+                "sinnoh-route-218-area",
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-221-area",
+                "sinnoh-route-222-area",
+                "sinnoh-sea-route-230-area"
+            ]
+        }
+    ]
+}

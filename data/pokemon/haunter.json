@@ -1,0 +1,53 @@
+{
+    "name": "haunter",
+    "id": 93,
+    "info": {
+        "species": "gas pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "height": 1.6,
+        "weight": 0.1
+    },
+    "sprites": {
+        "home": "images/pokemon/haunter.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+    },
+    "moves": "data/moves/haunter.json",
+    "location": "data/location/haunter.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 45,
+        "sp. atk": 115,
+        "sp. def": 55,
+        "speed": 95
+    },
+    "entry": "if you get the feeling of being watched in darkness when nobody is around, haunter is there.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 90,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

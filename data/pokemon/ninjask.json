@@ -1,0 +1,57 @@
+{
+    "name": "ninjask",
+    "id": 291,
+    "info": {
+        "species": "ninja pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "speed-boost",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 0.8,
+        "weight": 12.0
+    },
+    "sprites": {
+        "home": "images/pokemon/ninjask.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png"
+    },
+    "moves": "data/moves/ninjask.json",
+    "location": "data/location/ninjask.json",
+    "base_stats": {
+        "hp": 61,
+        "attack": 90,
+        "defense": 45,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 160
+    },
+    "entry": "this pok\u00e9mon is so quick, it is said to be able to avoid any attack. it loves to feed on tree sap.",
+    "training": {
+        "base_exp": 160,
+        "capture_rate": 120,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

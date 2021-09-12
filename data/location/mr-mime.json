@@ -1,0 +1,45 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-218-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-222-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-sea-route-21-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "reflection-cave-unknown-area-305",
+                "reflection-cave-unknown-area-306",
+                "reflection-cave-unknown-area-307",
+                "reflection-cave-unknown-area-308"
+            ]
+        }
+    ]
+}

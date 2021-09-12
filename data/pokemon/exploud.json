@@ -1,0 +1,57 @@
+{
+    "name": "exploud",
+    "id": 295,
+    "info": {
+        "species": "loud noise pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "soundproof",
+                "is_hidden": false
+            },
+            {
+                "name": "scrappy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.5,
+        "weight": 84.0
+    },
+    "sprites": {
+        "home": "images/pokemon/exploud.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png"
+    },
+    "moves": "data/moves/exploud.json",
+    "location": "data/location/exploud.json",
+    "base_stats": {
+        "hp": 104,
+        "attack": 91,
+        "defense": 63,
+        "sp. atk": 91,
+        "sp. def": 73,
+        "speed": 68
+    },
+    "entry": "this pok\u00e9mon can do more than just shout. to communicate with others of its kind, it\u2019ll emit all sorts of sounds from the holes in its body.",
+    "training": {
+        "base_exp": 221,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

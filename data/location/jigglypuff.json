@@ -1,0 +1,101 @@
+{
+    "location": [
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-34-area",
+                "johto-route-35-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver"
+            ],
+            "area": [
+                "johto-route-46-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "gold",
+                "silver",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "crystal"
+            ],
+            "area": [
+                "kanto-route-5-area",
+                "kanto-route-6-area",
+                "kanto-route-7-area",
+                "kanto-route-8-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-115-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dreamyard-area",
+                "dreamyard-b1f",
+                "unova-route-1-area",
+                "unova-route-2-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-14-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-20-area",
+                "pokemon-village-area"
+            ]
+        }
+    ]
+}

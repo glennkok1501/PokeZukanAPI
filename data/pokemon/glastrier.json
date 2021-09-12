@@ -1,0 +1,50 @@
+{
+    "name": "glastrier",
+    "id": 896,
+    "info": {
+        "species": "wild horse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chilling-neigh",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 2.2,
+        "weight": 800.0
+    },
+    "sprites": {
+        "home": "images/pokemon/glastrier.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png"
+    },
+    "moves": "data/moves/glastrier.json",
+    "location": "data/location/glastrier.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 145,
+        "defense": 130,
+        "sp. atk": 65,
+        "sp. def": 110,
+        "speed": 30
+    },
+    "entry": "glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.",
+    "training": {
+        "base_exp": 290,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "kadabra",
+    "id": 64,
+    "info": {
+        "species": "psi pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "synchronize",
+                "is_hidden": false
+            },
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 1.3,
+        "weight": 56.5
+    },
+    "sprites": {
+        "home": "images/pokemon/kadabra.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+    },
+    "moves": "data/moves/kadabra.json",
+    "location": "data/location/kadabra.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "sp. atk": 120,
+        "sp. def": 70,
+        "speed": 105
+    },
+    "entry": "this pok\u00e9mon\u2019s telekinesis is immensely powerful. to prepare for evolution, kadabra stores up psychic energy in the star on its forehead.",
+    "training": {
+        "base_exp": 140,
+        "capture_rate": 100,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

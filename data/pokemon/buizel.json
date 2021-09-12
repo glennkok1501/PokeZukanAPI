@@ -1,0 +1,57 @@
+{
+    "name": "buizel",
+    "id": 418,
+    "info": {
+        "species": "sea weasel pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.7,
+        "weight": 29.5
+    },
+    "sprites": {
+        "home": "images/pokemon/buizel.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
+    },
+    "moves": "data/moves/buizel.json",
+    "location": "data/location/buizel.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 65,
+        "defense": 35,
+        "sp. atk": 60,
+        "sp. def": 30,
+        "speed": 85
+    },
+    "entry": "it inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+    "training": {
+        "base_exp": 66,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

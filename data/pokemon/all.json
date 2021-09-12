@@ -1,0 +1,6257 @@
+{
+    "count": 1042,
+    "pokemon": [
+        {
+            "id": 1,
+            "name": "bulbasaur",
+            "sprite": "images/pokemon/bulbasaur.png",
+            "link": "data/pokemon/bulbasaur.json"
+        },
+        {
+            "id": 2,
+            "name": "ivysaur",
+            "sprite": "images/pokemon/ivysaur.png",
+            "link": "data/pokemon/ivysaur.json"
+        },
+        {
+            "id": 3,
+            "name": "venusaur",
+            "sprite": "images/pokemon/venusaur.png",
+            "link": "data/pokemon/venusaur.json"
+        },
+        {
+            "id": 3,
+            "name": "venusaur mega",
+            "sprite": "images/pokemon/venusaur-mega.png",
+            "link": "data/pokemon/venusaur-mega.json"
+        },
+        {
+            "id": 4,
+            "name": "charmander",
+            "sprite": "images/pokemon/charmander.png",
+            "link": "data/pokemon/charmander.json"
+        },
+        {
+            "id": 5,
+            "name": "charmeleon",
+            "sprite": "images/pokemon/charmeleon.png",
+            "link": "data/pokemon/charmeleon.json"
+        },
+        {
+            "id": 6,
+            "name": "charizard",
+            "sprite": "images/pokemon/charizard.png",
+            "link": "data/pokemon/charizard.json"
+        },
+        {
+            "id": 6,
+            "name": "charizard mega x",
+            "sprite": "images/pokemon/charizard-mega-x.png",
+            "link": "data/pokemon/charizard-mega-x.json"
+        },
+        {
+            "id": 6,
+            "name": "charizard mega y",
+            "sprite": "images/pokemon/charizard-mega-y.png",
+            "link": "data/pokemon/charizard-mega-y.json"
+        },
+        {
+            "id": 7,
+            "name": "squirtle",
+            "sprite": "images/pokemon/squirtle.png",
+            "link": "data/pokemon/squirtle.json"
+        },
+        {
+            "id": 8,
+            "name": "wartortle",
+            "sprite": "images/pokemon/wartortle.png",
+            "link": "data/pokemon/wartortle.json"
+        },
+        {
+            "id": 9,
+            "name": "blastoise",
+            "sprite": "images/pokemon/blastoise.png",
+            "link": "data/pokemon/blastoise.json"
+        },
+        {
+            "id": 9,
+            "name": "blastoise mega",
+            "sprite": "images/pokemon/blastoise-mega.png",
+            "link": "data/pokemon/blastoise-mega.json"
+        },
+        {
+            "id": 10,
+            "name": "caterpie",
+            "sprite": "images/pokemon/caterpie.png",
+            "link": "data/pokemon/caterpie.json"
+        },
+        {
+            "id": 11,
+            "name": "metapod",
+            "sprite": "images/pokemon/metapod.png",
+            "link": "data/pokemon/metapod.json"
+        },
+        {
+            "id": 12,
+            "name": "butterfree",
+            "sprite": "images/pokemon/butterfree.png",
+            "link": "data/pokemon/butterfree.json"
+        },
+        {
+            "id": 13,
+            "name": "weedle",
+            "sprite": "images/pokemon/weedle.png",
+            "link": "data/pokemon/weedle.json"
+        },
+        {
+            "id": 14,
+            "name": "kakuna",
+            "sprite": "images/pokemon/kakuna.png",
+            "link": "data/pokemon/kakuna.json"
+        },
+        {
+            "id": 15,
+            "name": "beedrill",
+            "sprite": "images/pokemon/beedrill.png",
+            "link": "data/pokemon/beedrill.json"
+        },
+        {
+            "id": 15,
+            "name": "beedrill mega",
+            "sprite": "images/pokemon/beedrill-mega.png",
+            "link": "data/pokemon/beedrill-mega.json"
+        },
+        {
+            "id": 16,
+            "name": "pidgey",
+            "sprite": "images/pokemon/pidgey.png",
+            "link": "data/pokemon/pidgey.json"
+        },
+        {
+            "id": 17,
+            "name": "pidgeotto",
+            "sprite": "images/pokemon/pidgeotto.png",
+            "link": "data/pokemon/pidgeotto.json"
+        },
+        {
+            "id": 18,
+            "name": "pidgeot",
+            "sprite": "images/pokemon/pidgeot.png",
+            "link": "data/pokemon/pidgeot.json"
+        },
+        {
+            "id": 18,
+            "name": "pidgeot mega",
+            "sprite": "images/pokemon/pidgeot-mega.png",
+            "link": "data/pokemon/pidgeot-mega.json"
+        },
+        {
+            "id": 19,
+            "name": "rattata",
+            "sprite": "images/pokemon/rattata.png",
+            "link": "data/pokemon/rattata.json"
+        },
+        {
+            "id": 19,
+            "name": "rattata alolan",
+            "sprite": "images/pokemon/rattata-alolan.png",
+            "link": "data/pokemon/rattata-alolan.json"
+        },
+        {
+            "id": 20,
+            "name": "raticate",
+            "sprite": "images/pokemon/raticate.png",
+            "link": "data/pokemon/raticate.json"
+        },
+        {
+            "id": 20,
+            "name": "raticate alolan",
+            "sprite": "images/pokemon/raticate-alolan.png",
+            "link": "data/pokemon/raticate-alolan.json"
+        },
+        {
+            "id": 21,
+            "name": "spearow",
+            "sprite": "images/pokemon/spearow.png",
+            "link": "data/pokemon/spearow.json"
+        },
+        {
+            "id": 22,
+            "name": "fearow",
+            "sprite": "images/pokemon/fearow.png",
+            "link": "data/pokemon/fearow.json"
+        },
+        {
+            "id": 23,
+            "name": "ekans",
+            "sprite": "images/pokemon/ekans.png",
+            "link": "data/pokemon/ekans.json"
+        },
+        {
+            "id": 24,
+            "name": "arbok",
+            "sprite": "images/pokemon/arbok.png",
+            "link": "data/pokemon/arbok.json"
+        },
+        {
+            "id": 25,
+            "name": "pikachu",
+            "sprite": "images/pokemon/pikachu.png",
+            "link": "data/pokemon/pikachu.json"
+        },
+        {
+            "id": 26,
+            "name": "raichu",
+            "sprite": "images/pokemon/raichu.png",
+            "link": "data/pokemon/raichu.json"
+        },
+        {
+            "id": 26,
+            "name": "raichu alolan",
+            "sprite": "images/pokemon/raichu-alolan.png",
+            "link": "data/pokemon/raichu-alolan.json"
+        },
+        {
+            "id": 27,
+            "name": "sandshrew",
+            "sprite": "images/pokemon/sandshrew.png",
+            "link": "data/pokemon/sandshrew.json"
+        },
+        {
+            "id": 27,
+            "name": "sandshrew alolan",
+            "sprite": "images/pokemon/sandshrew-alolan.png",
+            "link": "data/pokemon/sandshrew-alolan.json"
+        },
+        {
+            "id": 28,
+            "name": "sandslash",
+            "sprite": "images/pokemon/sandslash.png",
+            "link": "data/pokemon/sandslash.json"
+        },
+        {
+            "id": 28,
+            "name": "sandslash alolan",
+            "sprite": "images/pokemon/sandslash-alolan.png",
+            "link": "data/pokemon/sandslash-alolan.json"
+        },
+        {
+            "id": 29,
+            "name": "nidoran f",
+            "sprite": "images/pokemon/nidoran-f.png",
+            "link": "data/pokemon/nidoran-f.json"
+        },
+        {
+            "id": 30,
+            "name": "nidorina",
+            "sprite": "images/pokemon/nidorina.png",
+            "link": "data/pokemon/nidorina.json"
+        },
+        {
+            "id": 31,
+            "name": "nidoqueen",
+            "sprite": "images/pokemon/nidoqueen.png",
+            "link": "data/pokemon/nidoqueen.json"
+        },
+        {
+            "id": 32,
+            "name": "nidoran m",
+            "sprite": "images/pokemon/nidoran-m.png",
+            "link": "data/pokemon/nidoran-m.json"
+        },
+        {
+            "id": 33,
+            "name": "nidorino",
+            "sprite": "images/pokemon/nidorino.png",
+            "link": "data/pokemon/nidorino.json"
+        },
+        {
+            "id": 34,
+            "name": "nidoking",
+            "sprite": "images/pokemon/nidoking.png",
+            "link": "data/pokemon/nidoking.json"
+        },
+        {
+            "id": 35,
+            "name": "clefairy",
+            "sprite": "images/pokemon/clefairy.png",
+            "link": "data/pokemon/clefairy.json"
+        },
+        {
+            "id": 36,
+            "name": "clefable",
+            "sprite": "images/pokemon/clefable.png",
+            "link": "data/pokemon/clefable.json"
+        },
+        {
+            "id": 37,
+            "name": "vulpix",
+            "sprite": "images/pokemon/vulpix.png",
+            "link": "data/pokemon/vulpix.json"
+        },
+        {
+            "id": 37,
+            "name": "vulpix alolan",
+            "sprite": "images/pokemon/vulpix-alolan.png",
+            "link": "data/pokemon/vulpix-alolan.json"
+        },
+        {
+            "id": 38,
+            "name": "ninetales",
+            "sprite": "images/pokemon/ninetales.png",
+            "link": "data/pokemon/ninetales.json"
+        },
+        {
+            "id": 38,
+            "name": "ninetales alolan",
+            "sprite": "images/pokemon/ninetales-alolan.png",
+            "link": "data/pokemon/ninetales-alolan.json"
+        },
+        {
+            "id": 39,
+            "name": "jigglypuff",
+            "sprite": "images/pokemon/jigglypuff.png",
+            "link": "data/pokemon/jigglypuff.json"
+        },
+        {
+            "id": 40,
+            "name": "wigglytuff",
+            "sprite": "images/pokemon/wigglytuff.png",
+            "link": "data/pokemon/wigglytuff.json"
+        },
+        {
+            "id": 41,
+            "name": "zubat",
+            "sprite": "images/pokemon/zubat.png",
+            "link": "data/pokemon/zubat.json"
+        },
+        {
+            "id": 42,
+            "name": "golbat",
+            "sprite": "images/pokemon/golbat.png",
+            "link": "data/pokemon/golbat.json"
+        },
+        {
+            "id": 43,
+            "name": "oddish",
+            "sprite": "images/pokemon/oddish.png",
+            "link": "data/pokemon/oddish.json"
+        },
+        {
+            "id": 44,
+            "name": "gloom",
+            "sprite": "images/pokemon/gloom.png",
+            "link": "data/pokemon/gloom.json"
+        },
+        {
+            "id": 45,
+            "name": "vileplume",
+            "sprite": "images/pokemon/vileplume.png",
+            "link": "data/pokemon/vileplume.json"
+        },
+        {
+            "id": 46,
+            "name": "paras",
+            "sprite": "images/pokemon/paras.png",
+            "link": "data/pokemon/paras.json"
+        },
+        {
+            "id": 47,
+            "name": "parasect",
+            "sprite": "images/pokemon/parasect.png",
+            "link": "data/pokemon/parasect.json"
+        },
+        {
+            "id": 48,
+            "name": "venonat",
+            "sprite": "images/pokemon/venonat.png",
+            "link": "data/pokemon/venonat.json"
+        },
+        {
+            "id": 49,
+            "name": "venomoth",
+            "sprite": "images/pokemon/venomoth.png",
+            "link": "data/pokemon/venomoth.json"
+        },
+        {
+            "id": 50,
+            "name": "diglett",
+            "sprite": "images/pokemon/diglett.png",
+            "link": "data/pokemon/diglett.json"
+        },
+        {
+            "id": 50,
+            "name": "diglett alolan",
+            "sprite": "images/pokemon/diglett-alolan.png",
+            "link": "data/pokemon/diglett-alolan.json"
+        },
+        {
+            "id": 51,
+            "name": "dugtrio",
+            "sprite": "images/pokemon/dugtrio.png",
+            "link": "data/pokemon/dugtrio.json"
+        },
+        {
+            "id": 51,
+            "name": "dugtrio alolan",
+            "sprite": "images/pokemon/dugtrio-alolan.png",
+            "link": "data/pokemon/dugtrio-alolan.json"
+        },
+        {
+            "id": 52,
+            "name": "meowth",
+            "sprite": "images/pokemon/meowth.png",
+            "link": "data/pokemon/meowth.json"
+        },
+        {
+            "id": 52,
+            "name": "meowth alolan",
+            "sprite": "images/pokemon/meowth-alolan.png",
+            "link": "data/pokemon/meowth-alolan.json"
+        },
+        {
+            "id": 52,
+            "name": "meowth galarian",
+            "sprite": "images/pokemon/meowth-galarian.png",
+            "link": "data/pokemon/meowth-galarian.json"
+        },
+        {
+            "id": 53,
+            "name": "persian",
+            "sprite": "images/pokemon/persian.png",
+            "link": "data/pokemon/persian.json"
+        },
+        {
+            "id": 53,
+            "name": "persian alolan",
+            "sprite": "images/pokemon/persian-alolan.png",
+            "link": "data/pokemon/persian-alolan.json"
+        },
+        {
+            "id": 54,
+            "name": "psyduck",
+            "sprite": "images/pokemon/psyduck.png",
+            "link": "data/pokemon/psyduck.json"
+        },
+        {
+            "id": 55,
+            "name": "golduck",
+            "sprite": "images/pokemon/golduck.png",
+            "link": "data/pokemon/golduck.json"
+        },
+        {
+            "id": 56,
+            "name": "mankey",
+            "sprite": "images/pokemon/mankey.png",
+            "link": "data/pokemon/mankey.json"
+        },
+        {
+            "id": 57,
+            "name": "primeape",
+            "sprite": "images/pokemon/primeape.png",
+            "link": "data/pokemon/primeape.json"
+        },
+        {
+            "id": 58,
+            "name": "growlithe",
+            "sprite": "images/pokemon/growlithe.png",
+            "link": "data/pokemon/growlithe.json"
+        },
+        {
+            "id": 59,
+            "name": "arcanine",
+            "sprite": "images/pokemon/arcanine.png",
+            "link": "data/pokemon/arcanine.json"
+        },
+        {
+            "id": 60,
+            "name": "poliwag",
+            "sprite": "images/pokemon/poliwag.png",
+            "link": "data/pokemon/poliwag.json"
+        },
+        {
+            "id": 61,
+            "name": "poliwhirl",
+            "sprite": "images/pokemon/poliwhirl.png",
+            "link": "data/pokemon/poliwhirl.json"
+        },
+        {
+            "id": 62,
+            "name": "poliwrath",
+            "sprite": "images/pokemon/poliwrath.png",
+            "link": "data/pokemon/poliwrath.json"
+        },
+        {
+            "id": 63,
+            "name": "abra",
+            "sprite": "images/pokemon/abra.png",
+            "link": "data/pokemon/abra.json"
+        },
+        {
+            "id": 64,
+            "name": "kadabra",
+            "sprite": "images/pokemon/kadabra.png",
+            "link": "data/pokemon/kadabra.json"
+        },
+        {
+            "id": 65,
+            "name": "alakazam",
+            "sprite": "images/pokemon/alakazam.png",
+            "link": "data/pokemon/alakazam.json"
+        },
+        {
+            "id": 65,
+            "name": "alakazam mega",
+            "sprite": "images/pokemon/alakazam-mega.png",
+            "link": "data/pokemon/alakazam-mega.json"
+        },
+        {
+            "id": 66,
+            "name": "machop",
+            "sprite": "images/pokemon/machop.png",
+            "link": "data/pokemon/machop.json"
+        },
+        {
+            "id": 67,
+            "name": "machoke",
+            "sprite": "images/pokemon/machoke.png",
+            "link": "data/pokemon/machoke.json"
+        },
+        {
+            "id": 68,
+            "name": "machamp",
+            "sprite": "images/pokemon/machamp.png",
+            "link": "data/pokemon/machamp.json"
+        },
+        {
+            "id": 69,
+            "name": "bellsprout",
+            "sprite": "images/pokemon/bellsprout.png",
+            "link": "data/pokemon/bellsprout.json"
+        },
+        {
+            "id": 70,
+            "name": "weepinbell",
+            "sprite": "images/pokemon/weepinbell.png",
+            "link": "data/pokemon/weepinbell.json"
+        },
+        {
+            "id": 71,
+            "name": "victreebel",
+            "sprite": "images/pokemon/victreebel.png",
+            "link": "data/pokemon/victreebel.json"
+        },
+        {
+            "id": 72,
+            "name": "tentacool",
+            "sprite": "images/pokemon/tentacool.png",
+            "link": "data/pokemon/tentacool.json"
+        },
+        {
+            "id": 73,
+            "name": "tentacruel",
+            "sprite": "images/pokemon/tentacruel.png",
+            "link": "data/pokemon/tentacruel.json"
+        },
+        {
+            "id": 74,
+            "name": "geodude",
+            "sprite": "images/pokemon/geodude.png",
+            "link": "data/pokemon/geodude.json"
+        },
+        {
+            "id": 74,
+            "name": "geodude alolan",
+            "sprite": "images/pokemon/geodude-alolan.png",
+            "link": "data/pokemon/geodude-alolan.json"
+        },
+        {
+            "id": 75,
+            "name": "graveler",
+            "sprite": "images/pokemon/graveler.png",
+            "link": "data/pokemon/graveler.json"
+        },
+        {
+            "id": 75,
+            "name": "graveler alolan",
+            "sprite": "images/pokemon/graveler-alolan.png",
+            "link": "data/pokemon/graveler-alolan.json"
+        },
+        {
+            "id": 76,
+            "name": "golem",
+            "sprite": "images/pokemon/golem.png",
+            "link": "data/pokemon/golem.json"
+        },
+        {
+            "id": 76,
+            "name": "golem alolan",
+            "sprite": "images/pokemon/golem-alolan.png",
+            "link": "data/pokemon/golem-alolan.json"
+        },
+        {
+            "id": 77,
+            "name": "ponyta",
+            "sprite": "images/pokemon/ponyta.png",
+            "link": "data/pokemon/ponyta.json"
+        },
+        {
+            "id": 77,
+            "name": "ponyta galarian",
+            "sprite": "images/pokemon/ponyta-galarian.png",
+            "link": "data/pokemon/ponyta-galarian.json"
+        },
+        {
+            "id": 78,
+            "name": "rapidash",
+            "sprite": "images/pokemon/rapidash.png",
+            "link": "data/pokemon/rapidash.json"
+        },
+        {
+            "id": 78,
+            "name": "rapidash galarian",
+            "sprite": "images/pokemon/rapidash-galarian.png",
+            "link": "data/pokemon/rapidash-galarian.json"
+        },
+        {
+            "id": 79,
+            "name": "slowpoke",
+            "sprite": "images/pokemon/slowpoke.png",
+            "link": "data/pokemon/slowpoke.json"
+        },
+        {
+            "id": 79,
+            "name": "slowpoke galarian",
+            "sprite": "images/pokemon/slowpoke-galarian.png",
+            "link": "data/pokemon/slowpoke-galarian.json"
+        },
+        {
+            "id": 80,
+            "name": "slowbro",
+            "sprite": "images/pokemon/slowbro.png",
+            "link": "data/pokemon/slowbro.json"
+        },
+        {
+            "id": 80,
+            "name": "slowbro mega",
+            "sprite": "images/pokemon/slowbro-mega.png",
+            "link": "data/pokemon/slowbro-mega.json"
+        },
+        {
+            "id": 80,
+            "name": "slowbro galarian",
+            "sprite": "images/pokemon/slowbro-galarian.png",
+            "link": "data/pokemon/slowbro-galarian.json"
+        },
+        {
+            "id": 81,
+            "name": "magnemite",
+            "sprite": "images/pokemon/magnemite.png",
+            "link": "data/pokemon/magnemite.json"
+        },
+        {
+            "id": 82,
+            "name": "magneton",
+            "sprite": "images/pokemon/magneton.png",
+            "link": "data/pokemon/magneton.json"
+        },
+        {
+            "id": 83,
+            "name": "farfetchd",
+            "sprite": "images/pokemon/farfetchd.png",
+            "link": "data/pokemon/farfetchd.json"
+        },
+        {
+            "id": 83,
+            "name": "farfetchd galarian",
+            "sprite": "images/pokemon/farfetchd-galarian.png",
+            "link": "data/pokemon/farfetchd-galarian.json"
+        },
+        {
+            "id": 84,
+            "name": "doduo",
+            "sprite": "images/pokemon/doduo.png",
+            "link": "data/pokemon/doduo.json"
+        },
+        {
+            "id": 85,
+            "name": "dodrio",
+            "sprite": "images/pokemon/dodrio.png",
+            "link": "data/pokemon/dodrio.json"
+        },
+        {
+            "id": 86,
+            "name": "seel",
+            "sprite": "images/pokemon/seel.png",
+            "link": "data/pokemon/seel.json"
+        },
+        {
+            "id": 87,
+            "name": "dewgong",
+            "sprite": "images/pokemon/dewgong.png",
+            "link": "data/pokemon/dewgong.json"
+        },
+        {
+            "id": 88,
+            "name": "grimer",
+            "sprite": "images/pokemon/grimer.png",
+            "link": "data/pokemon/grimer.json"
+        },
+        {
+            "id": 88,
+            "name": "grimer alolan",
+            "sprite": "images/pokemon/grimer-alolan.png",
+            "link": "data/pokemon/grimer-alolan.json"
+        },
+        {
+            "id": 89,
+            "name": "muk",
+            "sprite": "images/pokemon/muk.png",
+            "link": "data/pokemon/muk.json"
+        },
+        {
+            "id": 89,
+            "name": "muk alolan",
+            "sprite": "images/pokemon/muk-alolan.png",
+            "link": "data/pokemon/muk-alolan.json"
+        },
+        {
+            "id": 90,
+            "name": "shellder",
+            "sprite": "images/pokemon/shellder.png",
+            "link": "data/pokemon/shellder.json"
+        },
+        {
+            "id": 91,
+            "name": "cloyster",
+            "sprite": "images/pokemon/cloyster.png",
+            "link": "data/pokemon/cloyster.json"
+        },
+        {
+            "id": 92,
+            "name": "gastly",
+            "sprite": "images/pokemon/gastly.png",
+            "link": "data/pokemon/gastly.json"
+        },
+        {
+            "id": 93,
+            "name": "haunter",
+            "sprite": "images/pokemon/haunter.png",
+            "link": "data/pokemon/haunter.json"
+        },
+        {
+            "id": 94,
+            "name": "gengar",
+            "sprite": "images/pokemon/gengar.png",
+            "link": "data/pokemon/gengar.json"
+        },
+        {
+            "id": 94,
+            "name": "gengar mega",
+            "sprite": "images/pokemon/gengar-mega.png",
+            "link": "data/pokemon/gengar-mega.json"
+        },
+        {
+            "id": 95,
+            "name": "onix",
+            "sprite": "images/pokemon/onix.png",
+            "link": "data/pokemon/onix.json"
+        },
+        {
+            "id": 96,
+            "name": "drowzee",
+            "sprite": "images/pokemon/drowzee.png",
+            "link": "data/pokemon/drowzee.json"
+        },
+        {
+            "id": 97,
+            "name": "hypno",
+            "sprite": "images/pokemon/hypno.png",
+            "link": "data/pokemon/hypno.json"
+        },
+        {
+            "id": 98,
+            "name": "krabby",
+            "sprite": "images/pokemon/krabby.png",
+            "link": "data/pokemon/krabby.json"
+        },
+        {
+            "id": 99,
+            "name": "kingler",
+            "sprite": "images/pokemon/kingler.png",
+            "link": "data/pokemon/kingler.json"
+        },
+        {
+            "id": 100,
+            "name": "voltorb",
+            "sprite": "images/pokemon/voltorb.png",
+            "link": "data/pokemon/voltorb.json"
+        },
+        {
+            "id": 101,
+            "name": "electrode",
+            "sprite": "images/pokemon/electrode.png",
+            "link": "data/pokemon/electrode.json"
+        },
+        {
+            "id": 102,
+            "name": "exeggcute",
+            "sprite": "images/pokemon/exeggcute.png",
+            "link": "data/pokemon/exeggcute.json"
+        },
+        {
+            "id": 103,
+            "name": "exeggutor",
+            "sprite": "images/pokemon/exeggutor.png",
+            "link": "data/pokemon/exeggutor.json"
+        },
+        {
+            "id": 103,
+            "name": "exeggutor alolan",
+            "sprite": "images/pokemon/exeggutor-alolan.png",
+            "link": "data/pokemon/exeggutor-alolan.json"
+        },
+        {
+            "id": 104,
+            "name": "cubone",
+            "sprite": "images/pokemon/cubone.png",
+            "link": "data/pokemon/cubone.json"
+        },
+        {
+            "id": 105,
+            "name": "marowak",
+            "sprite": "images/pokemon/marowak.png",
+            "link": "data/pokemon/marowak.json"
+        },
+        {
+            "id": 105,
+            "name": "marowak alolan",
+            "sprite": "images/pokemon/marowak-alolan.png",
+            "link": "data/pokemon/marowak-alolan.json"
+        },
+        {
+            "id": 106,
+            "name": "hitmonlee",
+            "sprite": "images/pokemon/hitmonlee.png",
+            "link": "data/pokemon/hitmonlee.json"
+        },
+        {
+            "id": 107,
+            "name": "hitmonchan",
+            "sprite": "images/pokemon/hitmonchan.png",
+            "link": "data/pokemon/hitmonchan.json"
+        },
+        {
+            "id": 108,
+            "name": "lickitung",
+            "sprite": "images/pokemon/lickitung.png",
+            "link": "data/pokemon/lickitung.json"
+        },
+        {
+            "id": 109,
+            "name": "koffing",
+            "sprite": "images/pokemon/koffing.png",
+            "link": "data/pokemon/koffing.json"
+        },
+        {
+            "id": 110,
+            "name": "weezing",
+            "sprite": "images/pokemon/weezing.png",
+            "link": "data/pokemon/weezing.json"
+        },
+        {
+            "id": 110,
+            "name": "weezing galarian",
+            "sprite": "images/pokemon/weezing-galarian.png",
+            "link": "data/pokemon/weezing-galarian.json"
+        },
+        {
+            "id": 111,
+            "name": "rhyhorn",
+            "sprite": "images/pokemon/rhyhorn.png",
+            "link": "data/pokemon/rhyhorn.json"
+        },
+        {
+            "id": 112,
+            "name": "rhydon",
+            "sprite": "images/pokemon/rhydon.png",
+            "link": "data/pokemon/rhydon.json"
+        },
+        {
+            "id": 113,
+            "name": "chansey",
+            "sprite": "images/pokemon/chansey.png",
+            "link": "data/pokemon/chansey.json"
+        },
+        {
+            "id": 114,
+            "name": "tangela",
+            "sprite": "images/pokemon/tangela.png",
+            "link": "data/pokemon/tangela.json"
+        },
+        {
+            "id": 115,
+            "name": "kangaskhan",
+            "sprite": "images/pokemon/kangaskhan.png",
+            "link": "data/pokemon/kangaskhan.json"
+        },
+        {
+            "id": 115,
+            "name": "kangaskhan mega",
+            "sprite": "images/pokemon/kangaskhan-mega.png",
+            "link": "data/pokemon/kangaskhan-mega.json"
+        },
+        {
+            "id": 116,
+            "name": "horsea",
+            "sprite": "images/pokemon/horsea.png",
+            "link": "data/pokemon/horsea.json"
+        },
+        {
+            "id": 117,
+            "name": "seadra",
+            "sprite": "images/pokemon/seadra.png",
+            "link": "data/pokemon/seadra.json"
+        },
+        {
+            "id": 118,
+            "name": "goldeen",
+            "sprite": "images/pokemon/goldeen.png",
+            "link": "data/pokemon/goldeen.json"
+        },
+        {
+            "id": 119,
+            "name": "seaking",
+            "sprite": "images/pokemon/seaking.png",
+            "link": "data/pokemon/seaking.json"
+        },
+        {
+            "id": 120,
+            "name": "staryu",
+            "sprite": "images/pokemon/staryu.png",
+            "link": "data/pokemon/staryu.json"
+        },
+        {
+            "id": 121,
+            "name": "starmie",
+            "sprite": "images/pokemon/starmie.png",
+            "link": "data/pokemon/starmie.json"
+        },
+        {
+            "id": 122,
+            "name": "mr mime",
+            "sprite": "images/pokemon/mr-mime.png",
+            "link": "data/pokemon/mr-mime.json"
+        },
+        {
+            "id": 122,
+            "name": "mr mime galarian",
+            "sprite": "images/pokemon/mr-mime-galarian.png",
+            "link": "data/pokemon/mr-mime-galarian.json"
+        },
+        {
+            "id": 123,
+            "name": "scyther",
+            "sprite": "images/pokemon/scyther.png",
+            "link": "data/pokemon/scyther.json"
+        },
+        {
+            "id": 124,
+            "name": "jynx",
+            "sprite": "images/pokemon/jynx.png",
+            "link": "data/pokemon/jynx.json"
+        },
+        {
+            "id": 125,
+            "name": "electabuzz",
+            "sprite": "images/pokemon/electabuzz.png",
+            "link": "data/pokemon/electabuzz.json"
+        },
+        {
+            "id": 126,
+            "name": "magmar",
+            "sprite": "images/pokemon/magmar.png",
+            "link": "data/pokemon/magmar.json"
+        },
+        {
+            "id": 127,
+            "name": "pinsir",
+            "sprite": "images/pokemon/pinsir.png",
+            "link": "data/pokemon/pinsir.json"
+        },
+        {
+            "id": 127,
+            "name": "pinsir mega",
+            "sprite": "images/pokemon/pinsir-mega.png",
+            "link": "data/pokemon/pinsir-mega.json"
+        },
+        {
+            "id": 128,
+            "name": "tauros",
+            "sprite": "images/pokemon/tauros.png",
+            "link": "data/pokemon/tauros.json"
+        },
+        {
+            "id": 129,
+            "name": "magikarp",
+            "sprite": "images/pokemon/magikarp.png",
+            "link": "data/pokemon/magikarp.json"
+        },
+        {
+            "id": 130,
+            "name": "gyarados",
+            "sprite": "images/pokemon/gyarados.png",
+            "link": "data/pokemon/gyarados.json"
+        },
+        {
+            "id": 130,
+            "name": "gyarados mega",
+            "sprite": "images/pokemon/gyarados-mega.png",
+            "link": "data/pokemon/gyarados-mega.json"
+        },
+        {
+            "id": 131,
+            "name": "lapras",
+            "sprite": "images/pokemon/lapras.png",
+            "link": "data/pokemon/lapras.json"
+        },
+        {
+            "id": 132,
+            "name": "ditto",
+            "sprite": "images/pokemon/ditto.png",
+            "link": "data/pokemon/ditto.json"
+        },
+        {
+            "id": 133,
+            "name": "eevee",
+            "sprite": "images/pokemon/eevee.png",
+            "link": "data/pokemon/eevee.json"
+        },
+        {
+            "id": 134,
+            "name": "vaporeon",
+            "sprite": "images/pokemon/vaporeon.png",
+            "link": "data/pokemon/vaporeon.json"
+        },
+        {
+            "id": 135,
+            "name": "jolteon",
+            "sprite": "images/pokemon/jolteon.png",
+            "link": "data/pokemon/jolteon.json"
+        },
+        {
+            "id": 136,
+            "name": "flareon",
+            "sprite": "images/pokemon/flareon.png",
+            "link": "data/pokemon/flareon.json"
+        },
+        {
+            "id": 137,
+            "name": "porygon",
+            "sprite": "images/pokemon/porygon.png",
+            "link": "data/pokemon/porygon.json"
+        },
+        {
+            "id": 138,
+            "name": "omanyte",
+            "sprite": "images/pokemon/omanyte.png",
+            "link": "data/pokemon/omanyte.json"
+        },
+        {
+            "id": 139,
+            "name": "omastar",
+            "sprite": "images/pokemon/omastar.png",
+            "link": "data/pokemon/omastar.json"
+        },
+        {
+            "id": 140,
+            "name": "kabuto",
+            "sprite": "images/pokemon/kabuto.png",
+            "link": "data/pokemon/kabuto.json"
+        },
+        {
+            "id": 141,
+            "name": "kabutops",
+            "sprite": "images/pokemon/kabutops.png",
+            "link": "data/pokemon/kabutops.json"
+        },
+        {
+            "id": 142,
+            "name": "aerodactyl",
+            "sprite": "images/pokemon/aerodactyl.png",
+            "link": "data/pokemon/aerodactyl.json"
+        },
+        {
+            "id": 142,
+            "name": "aerodactyl mega",
+            "sprite": "images/pokemon/aerodactyl-mega.png",
+            "link": "data/pokemon/aerodactyl-mega.json"
+        },
+        {
+            "id": 143,
+            "name": "snorlax",
+            "sprite": "images/pokemon/snorlax.png",
+            "link": "data/pokemon/snorlax.json"
+        },
+        {
+            "id": 144,
+            "name": "articuno",
+            "sprite": "images/pokemon/articuno.png",
+            "link": "data/pokemon/articuno.json"
+        },
+        {
+            "id": 144,
+            "name": "articuno galarian",
+            "sprite": "images/pokemon/articuno-galarian.png",
+            "link": "data/pokemon/articuno-galarian.json"
+        },
+        {
+            "id": 145,
+            "name": "zapdos",
+            "sprite": "images/pokemon/zapdos.png",
+            "link": "data/pokemon/zapdos.json"
+        },
+        {
+            "id": 145,
+            "name": "zapdos galarian",
+            "sprite": "images/pokemon/zapdos-galarian.png",
+            "link": "data/pokemon/zapdos-galarian.json"
+        },
+        {
+            "id": 146,
+            "name": "moltres",
+            "sprite": "images/pokemon/moltres.png",
+            "link": "data/pokemon/moltres.json"
+        },
+        {
+            "id": 146,
+            "name": "moltres galarian",
+            "sprite": "images/pokemon/moltres-galarian.png",
+            "link": "data/pokemon/moltres-galarian.json"
+        },
+        {
+            "id": 147,
+            "name": "dratini",
+            "sprite": "images/pokemon/dratini.png",
+            "link": "data/pokemon/dratini.json"
+        },
+        {
+            "id": 148,
+            "name": "dragonair",
+            "sprite": "images/pokemon/dragonair.png",
+            "link": "data/pokemon/dragonair.json"
+        },
+        {
+            "id": 149,
+            "name": "dragonite",
+            "sprite": "images/pokemon/dragonite.png",
+            "link": "data/pokemon/dragonite.json"
+        },
+        {
+            "id": 150,
+            "name": "mewtwo",
+            "sprite": "images/pokemon/mewtwo.png",
+            "link": "data/pokemon/mewtwo.json"
+        },
+        {
+            "id": 150,
+            "name": "mewtwo mega x",
+            "sprite": "images/pokemon/mewtwo-mega-x.png",
+            "link": "data/pokemon/mewtwo-mega-x.json"
+        },
+        {
+            "id": 150,
+            "name": "mewtwo mega y",
+            "sprite": "images/pokemon/mewtwo-mega-y.png",
+            "link": "data/pokemon/mewtwo-mega-y.json"
+        },
+        {
+            "id": 151,
+            "name": "mew",
+            "sprite": "images/pokemon/mew.png",
+            "link": "data/pokemon/mew.json"
+        },
+        {
+            "id": 152,
+            "name": "chikorita",
+            "sprite": "images/pokemon/chikorita.png",
+            "link": "data/pokemon/chikorita.json"
+        },
+        {
+            "id": 153,
+            "name": "bayleef",
+            "sprite": "images/pokemon/bayleef.png",
+            "link": "data/pokemon/bayleef.json"
+        },
+        {
+            "id": 154,
+            "name": "meganium",
+            "sprite": "images/pokemon/meganium.png",
+            "link": "data/pokemon/meganium.json"
+        },
+        {
+            "id": 155,
+            "name": "cyndaquil",
+            "sprite": "images/pokemon/cyndaquil.png",
+            "link": "data/pokemon/cyndaquil.json"
+        },
+        {
+            "id": 156,
+            "name": "quilava",
+            "sprite": "images/pokemon/quilava.png",
+            "link": "data/pokemon/quilava.json"
+        },
+        {
+            "id": 157,
+            "name": "typhlosion",
+            "sprite": "images/pokemon/typhlosion.png",
+            "link": "data/pokemon/typhlosion.json"
+        },
+        {
+            "id": 158,
+            "name": "totodile",
+            "sprite": "images/pokemon/totodile.png",
+            "link": "data/pokemon/totodile.json"
+        },
+        {
+            "id": 159,
+            "name": "croconaw",
+            "sprite": "images/pokemon/croconaw.png",
+            "link": "data/pokemon/croconaw.json"
+        },
+        {
+            "id": 160,
+            "name": "feraligatr",
+            "sprite": "images/pokemon/feraligatr.png",
+            "link": "data/pokemon/feraligatr.json"
+        },
+        {
+            "id": 161,
+            "name": "sentret",
+            "sprite": "images/pokemon/sentret.png",
+            "link": "data/pokemon/sentret.json"
+        },
+        {
+            "id": 162,
+            "name": "furret",
+            "sprite": "images/pokemon/furret.png",
+            "link": "data/pokemon/furret.json"
+        },
+        {
+            "id": 163,
+            "name": "hoothoot",
+            "sprite": "images/pokemon/hoothoot.png",
+            "link": "data/pokemon/hoothoot.json"
+        },
+        {
+            "id": 164,
+            "name": "noctowl",
+            "sprite": "images/pokemon/noctowl.png",
+            "link": "data/pokemon/noctowl.json"
+        },
+        {
+            "id": 165,
+            "name": "ledyba",
+            "sprite": "images/pokemon/ledyba.png",
+            "link": "data/pokemon/ledyba.json"
+        },
+        {
+            "id": 166,
+            "name": "ledian",
+            "sprite": "images/pokemon/ledian.png",
+            "link": "data/pokemon/ledian.json"
+        },
+        {
+            "id": 167,
+            "name": "spinarak",
+            "sprite": "images/pokemon/spinarak.png",
+            "link": "data/pokemon/spinarak.json"
+        },
+        {
+            "id": 168,
+            "name": "ariados",
+            "sprite": "images/pokemon/ariados.png",
+            "link": "data/pokemon/ariados.json"
+        },
+        {
+            "id": 169,
+            "name": "crobat",
+            "sprite": "images/pokemon/crobat.png",
+            "link": "data/pokemon/crobat.json"
+        },
+        {
+            "id": 170,
+            "name": "chinchou",
+            "sprite": "images/pokemon/chinchou.png",
+            "link": "data/pokemon/chinchou.json"
+        },
+        {
+            "id": 171,
+            "name": "lanturn",
+            "sprite": "images/pokemon/lanturn.png",
+            "link": "data/pokemon/lanturn.json"
+        },
+        {
+            "id": 172,
+            "name": "pichu",
+            "sprite": "images/pokemon/pichu.png",
+            "link": "data/pokemon/pichu.json"
+        },
+        {
+            "id": 173,
+            "name": "cleffa",
+            "sprite": "images/pokemon/cleffa.png",
+            "link": "data/pokemon/cleffa.json"
+        },
+        {
+            "id": 174,
+            "name": "igglybuff",
+            "sprite": "images/pokemon/igglybuff.png",
+            "link": "data/pokemon/igglybuff.json"
+        },
+        {
+            "id": 175,
+            "name": "togepi",
+            "sprite": "images/pokemon/togepi.png",
+            "link": "data/pokemon/togepi.json"
+        },
+        {
+            "id": 176,
+            "name": "togetic",
+            "sprite": "images/pokemon/togetic.png",
+            "link": "data/pokemon/togetic.json"
+        },
+        {
+            "id": 177,
+            "name": "natu",
+            "sprite": "images/pokemon/natu.png",
+            "link": "data/pokemon/natu.json"
+        },
+        {
+            "id": 178,
+            "name": "xatu",
+            "sprite": "images/pokemon/xatu.png",
+            "link": "data/pokemon/xatu.json"
+        },
+        {
+            "id": 179,
+            "name": "mareep",
+            "sprite": "images/pokemon/mareep.png",
+            "link": "data/pokemon/mareep.json"
+        },
+        {
+            "id": 180,
+            "name": "flaaffy",
+            "sprite": "images/pokemon/flaaffy.png",
+            "link": "data/pokemon/flaaffy.json"
+        },
+        {
+            "id": 181,
+            "name": "ampharos",
+            "sprite": "images/pokemon/ampharos.png",
+            "link": "data/pokemon/ampharos.json"
+        },
+        {
+            "id": 181,
+            "name": "ampharos mega",
+            "sprite": "images/pokemon/ampharos-mega.png",
+            "link": "data/pokemon/ampharos-mega.json"
+        },
+        {
+            "id": 182,
+            "name": "bellossom",
+            "sprite": "images/pokemon/bellossom.png",
+            "link": "data/pokemon/bellossom.json"
+        },
+        {
+            "id": 183,
+            "name": "marill",
+            "sprite": "images/pokemon/marill.png",
+            "link": "data/pokemon/marill.json"
+        },
+        {
+            "id": 184,
+            "name": "azumarill",
+            "sprite": "images/pokemon/azumarill.png",
+            "link": "data/pokemon/azumarill.json"
+        },
+        {
+            "id": 185,
+            "name": "sudowoodo",
+            "sprite": "images/pokemon/sudowoodo.png",
+            "link": "data/pokemon/sudowoodo.json"
+        },
+        {
+            "id": 186,
+            "name": "politoed",
+            "sprite": "images/pokemon/politoed.png",
+            "link": "data/pokemon/politoed.json"
+        },
+        {
+            "id": 187,
+            "name": "hoppip",
+            "sprite": "images/pokemon/hoppip.png",
+            "link": "data/pokemon/hoppip.json"
+        },
+        {
+            "id": 188,
+            "name": "skiploom",
+            "sprite": "images/pokemon/skiploom.png",
+            "link": "data/pokemon/skiploom.json"
+        },
+        {
+            "id": 189,
+            "name": "jumpluff",
+            "sprite": "images/pokemon/jumpluff.png",
+            "link": "data/pokemon/jumpluff.json"
+        },
+        {
+            "id": 190,
+            "name": "aipom",
+            "sprite": "images/pokemon/aipom.png",
+            "link": "data/pokemon/aipom.json"
+        },
+        {
+            "id": 191,
+            "name": "sunkern",
+            "sprite": "images/pokemon/sunkern.png",
+            "link": "data/pokemon/sunkern.json"
+        },
+        {
+            "id": 192,
+            "name": "sunflora",
+            "sprite": "images/pokemon/sunflora.png",
+            "link": "data/pokemon/sunflora.json"
+        },
+        {
+            "id": 193,
+            "name": "yanma",
+            "sprite": "images/pokemon/yanma.png",
+            "link": "data/pokemon/yanma.json"
+        },
+        {
+            "id": 194,
+            "name": "wooper",
+            "sprite": "images/pokemon/wooper.png",
+            "link": "data/pokemon/wooper.json"
+        },
+        {
+            "id": 195,
+            "name": "quagsire",
+            "sprite": "images/pokemon/quagsire.png",
+            "link": "data/pokemon/quagsire.json"
+        },
+        {
+            "id": 196,
+            "name": "espeon",
+            "sprite": "images/pokemon/espeon.png",
+            "link": "data/pokemon/espeon.json"
+        },
+        {
+            "id": 197,
+            "name": "umbreon",
+            "sprite": "images/pokemon/umbreon.png",
+            "link": "data/pokemon/umbreon.json"
+        },
+        {
+            "id": 198,
+            "name": "murkrow",
+            "sprite": "images/pokemon/murkrow.png",
+            "link": "data/pokemon/murkrow.json"
+        },
+        {
+            "id": 199,
+            "name": "slowking",
+            "sprite": "images/pokemon/slowking.png",
+            "link": "data/pokemon/slowking.json"
+        },
+        {
+            "id": 199,
+            "name": "slowking galarian",
+            "sprite": "images/pokemon/slowking-galarian.png",
+            "link": "data/pokemon/slowking-galarian.json"
+        },
+        {
+            "id": 200,
+            "name": "misdreavus",
+            "sprite": "images/pokemon/misdreavus.png",
+            "link": "data/pokemon/misdreavus.json"
+        },
+        {
+            "id": 201,
+            "name": "unown",
+            "sprite": "images/pokemon/unown.png",
+            "link": "data/pokemon/unown.json"
+        },
+        {
+            "id": 202,
+            "name": "wobbuffet",
+            "sprite": "images/pokemon/wobbuffet.png",
+            "link": "data/pokemon/wobbuffet.json"
+        },
+        {
+            "id": 203,
+            "name": "girafarig",
+            "sprite": "images/pokemon/girafarig.png",
+            "link": "data/pokemon/girafarig.json"
+        },
+        {
+            "id": 204,
+            "name": "pineco",
+            "sprite": "images/pokemon/pineco.png",
+            "link": "data/pokemon/pineco.json"
+        },
+        {
+            "id": 205,
+            "name": "forretress",
+            "sprite": "images/pokemon/forretress.png",
+            "link": "data/pokemon/forretress.json"
+        },
+        {
+            "id": 206,
+            "name": "dunsparce",
+            "sprite": "images/pokemon/dunsparce.png",
+            "link": "data/pokemon/dunsparce.json"
+        },
+        {
+            "id": 207,
+            "name": "gligar",
+            "sprite": "images/pokemon/gligar.png",
+            "link": "data/pokemon/gligar.json"
+        },
+        {
+            "id": 208,
+            "name": "steelix",
+            "sprite": "images/pokemon/steelix.png",
+            "link": "data/pokemon/steelix.json"
+        },
+        {
+            "id": 208,
+            "name": "steelix mega",
+            "sprite": "images/pokemon/steelix-mega.png",
+            "link": "data/pokemon/steelix-mega.json"
+        },
+        {
+            "id": 209,
+            "name": "snubbull",
+            "sprite": "images/pokemon/snubbull.png",
+            "link": "data/pokemon/snubbull.json"
+        },
+        {
+            "id": 210,
+            "name": "granbull",
+            "sprite": "images/pokemon/granbull.png",
+            "link": "data/pokemon/granbull.json"
+        },
+        {
+            "id": 211,
+            "name": "qwilfish",
+            "sprite": "images/pokemon/qwilfish.png",
+            "link": "data/pokemon/qwilfish.json"
+        },
+        {
+            "id": 212,
+            "name": "scizor",
+            "sprite": "images/pokemon/scizor.png",
+            "link": "data/pokemon/scizor.json"
+        },
+        {
+            "id": 212,
+            "name": "scizor mega",
+            "sprite": "images/pokemon/scizor-mega.png",
+            "link": "data/pokemon/scizor-mega.json"
+        },
+        {
+            "id": 213,
+            "name": "shuckle",
+            "sprite": "images/pokemon/shuckle.png",
+            "link": "data/pokemon/shuckle.json"
+        },
+        {
+            "id": 214,
+            "name": "heracross",
+            "sprite": "images/pokemon/heracross.png",
+            "link": "data/pokemon/heracross.json"
+        },
+        {
+            "id": 214,
+            "name": "heracross mega",
+            "sprite": "images/pokemon/heracross-mega.png",
+            "link": "data/pokemon/heracross-mega.json"
+        },
+        {
+            "id": 215,
+            "name": "sneasel",
+            "sprite": "images/pokemon/sneasel.png",
+            "link": "data/pokemon/sneasel.json"
+        },
+        {
+            "id": 216,
+            "name": "teddiursa",
+            "sprite": "images/pokemon/teddiursa.png",
+            "link": "data/pokemon/teddiursa.json"
+        },
+        {
+            "id": 217,
+            "name": "ursaring",
+            "sprite": "images/pokemon/ursaring.png",
+            "link": "data/pokemon/ursaring.json"
+        },
+        {
+            "id": 218,
+            "name": "slugma",
+            "sprite": "images/pokemon/slugma.png",
+            "link": "data/pokemon/slugma.json"
+        },
+        {
+            "id": 219,
+            "name": "magcargo",
+            "sprite": "images/pokemon/magcargo.png",
+            "link": "data/pokemon/magcargo.json"
+        },
+        {
+            "id": 220,
+            "name": "swinub",
+            "sprite": "images/pokemon/swinub.png",
+            "link": "data/pokemon/swinub.json"
+        },
+        {
+            "id": 221,
+            "name": "piloswine",
+            "sprite": "images/pokemon/piloswine.png",
+            "link": "data/pokemon/piloswine.json"
+        },
+        {
+            "id": 222,
+            "name": "corsola",
+            "sprite": "images/pokemon/corsola.png",
+            "link": "data/pokemon/corsola.json"
+        },
+        {
+            "id": 222,
+            "name": "corsola galarian",
+            "sprite": "images/pokemon/corsola-galarian.png",
+            "link": "data/pokemon/corsola-galarian.json"
+        },
+        {
+            "id": 223,
+            "name": "remoraid",
+            "sprite": "images/pokemon/remoraid.png",
+            "link": "data/pokemon/remoraid.json"
+        },
+        {
+            "id": 224,
+            "name": "octillery",
+            "sprite": "images/pokemon/octillery.png",
+            "link": "data/pokemon/octillery.json"
+        },
+        {
+            "id": 225,
+            "name": "delibird",
+            "sprite": "images/pokemon/delibird.png",
+            "link": "data/pokemon/delibird.json"
+        },
+        {
+            "id": 226,
+            "name": "mantine",
+            "sprite": "images/pokemon/mantine.png",
+            "link": "data/pokemon/mantine.json"
+        },
+        {
+            "id": 227,
+            "name": "skarmory",
+            "sprite": "images/pokemon/skarmory.png",
+            "link": "data/pokemon/skarmory.json"
+        },
+        {
+            "id": 228,
+            "name": "houndour",
+            "sprite": "images/pokemon/houndour.png",
+            "link": "data/pokemon/houndour.json"
+        },
+        {
+            "id": 229,
+            "name": "houndoom",
+            "sprite": "images/pokemon/houndoom.png",
+            "link": "data/pokemon/houndoom.json"
+        },
+        {
+            "id": 229,
+            "name": "houndoom mega",
+            "sprite": "images/pokemon/houndoom-mega.png",
+            "link": "data/pokemon/houndoom-mega.json"
+        },
+        {
+            "id": 230,
+            "name": "kingdra",
+            "sprite": "images/pokemon/kingdra.png",
+            "link": "data/pokemon/kingdra.json"
+        },
+        {
+            "id": 231,
+            "name": "phanpy",
+            "sprite": "images/pokemon/phanpy.png",
+            "link": "data/pokemon/phanpy.json"
+        },
+        {
+            "id": 232,
+            "name": "donphan",
+            "sprite": "images/pokemon/donphan.png",
+            "link": "data/pokemon/donphan.json"
+        },
+        {
+            "id": 233,
+            "name": "porygon2",
+            "sprite": "images/pokemon/porygon2.png",
+            "link": "data/pokemon/porygon2.json"
+        },
+        {
+            "id": 234,
+            "name": "stantler",
+            "sprite": "images/pokemon/stantler.png",
+            "link": "data/pokemon/stantler.json"
+        },
+        {
+            "id": 235,
+            "name": "smeargle",
+            "sprite": "images/pokemon/smeargle.png",
+            "link": "data/pokemon/smeargle.json"
+        },
+        {
+            "id": 236,
+            "name": "tyrogue",
+            "sprite": "images/pokemon/tyrogue.png",
+            "link": "data/pokemon/tyrogue.json"
+        },
+        {
+            "id": 237,
+            "name": "hitmontop",
+            "sprite": "images/pokemon/hitmontop.png",
+            "link": "data/pokemon/hitmontop.json"
+        },
+        {
+            "id": 238,
+            "name": "smoochum",
+            "sprite": "images/pokemon/smoochum.png",
+            "link": "data/pokemon/smoochum.json"
+        },
+        {
+            "id": 239,
+            "name": "elekid",
+            "sprite": "images/pokemon/elekid.png",
+            "link": "data/pokemon/elekid.json"
+        },
+        {
+            "id": 240,
+            "name": "magby",
+            "sprite": "images/pokemon/magby.png",
+            "link": "data/pokemon/magby.json"
+        },
+        {
+            "id": 241,
+            "name": "miltank",
+            "sprite": "images/pokemon/miltank.png",
+            "link": "data/pokemon/miltank.json"
+        },
+        {
+            "id": 242,
+            "name": "blissey",
+            "sprite": "images/pokemon/blissey.png",
+            "link": "data/pokemon/blissey.json"
+        },
+        {
+            "id": 243,
+            "name": "raikou",
+            "sprite": "images/pokemon/raikou.png",
+            "link": "data/pokemon/raikou.json"
+        },
+        {
+            "id": 244,
+            "name": "entei",
+            "sprite": "images/pokemon/entei.png",
+            "link": "data/pokemon/entei.json"
+        },
+        {
+            "id": 245,
+            "name": "suicune",
+            "sprite": "images/pokemon/suicune.png",
+            "link": "data/pokemon/suicune.json"
+        },
+        {
+            "id": 246,
+            "name": "larvitar",
+            "sprite": "images/pokemon/larvitar.png",
+            "link": "data/pokemon/larvitar.json"
+        },
+        {
+            "id": 247,
+            "name": "pupitar",
+            "sprite": "images/pokemon/pupitar.png",
+            "link": "data/pokemon/pupitar.json"
+        },
+        {
+            "id": 248,
+            "name": "tyranitar",
+            "sprite": "images/pokemon/tyranitar.png",
+            "link": "data/pokemon/tyranitar.json"
+        },
+        {
+            "id": 248,
+            "name": "tyranitar mega",
+            "sprite": "images/pokemon/tyranitar-mega.png",
+            "link": "data/pokemon/tyranitar-mega.json"
+        },
+        {
+            "id": 249,
+            "name": "lugia",
+            "sprite": "images/pokemon/lugia.png",
+            "link": "data/pokemon/lugia.json"
+        },
+        {
+            "id": 250,
+            "name": "ho oh",
+            "sprite": "images/pokemon/ho-oh.png",
+            "link": "data/pokemon/ho-oh.json"
+        },
+        {
+            "id": 251,
+            "name": "celebi",
+            "sprite": "images/pokemon/celebi.png",
+            "link": "data/pokemon/celebi.json"
+        },
+        {
+            "id": 252,
+            "name": "treecko",
+            "sprite": "images/pokemon/treecko.png",
+            "link": "data/pokemon/treecko.json"
+        },
+        {
+            "id": 253,
+            "name": "grovyle",
+            "sprite": "images/pokemon/grovyle.png",
+            "link": "data/pokemon/grovyle.json"
+        },
+        {
+            "id": 254,
+            "name": "sceptile",
+            "sprite": "images/pokemon/sceptile.png",
+            "link": "data/pokemon/sceptile.json"
+        },
+        {
+            "id": 254,
+            "name": "sceptile mega",
+            "sprite": "images/pokemon/sceptile-mega.png",
+            "link": "data/pokemon/sceptile-mega.json"
+        },
+        {
+            "id": 255,
+            "name": "torchic",
+            "sprite": "images/pokemon/torchic.png",
+            "link": "data/pokemon/torchic.json"
+        },
+        {
+            "id": 256,
+            "name": "combusken",
+            "sprite": "images/pokemon/combusken.png",
+            "link": "data/pokemon/combusken.json"
+        },
+        {
+            "id": 257,
+            "name": "blaziken",
+            "sprite": "images/pokemon/blaziken.png",
+            "link": "data/pokemon/blaziken.json"
+        },
+        {
+            "id": 257,
+            "name": "blaziken mega",
+            "sprite": "images/pokemon/blaziken-mega.png",
+            "link": "data/pokemon/blaziken-mega.json"
+        },
+        {
+            "id": 258,
+            "name": "mudkip",
+            "sprite": "images/pokemon/mudkip.png",
+            "link": "data/pokemon/mudkip.json"
+        },
+        {
+            "id": 259,
+            "name": "marshtomp",
+            "sprite": "images/pokemon/marshtomp.png",
+            "link": "data/pokemon/marshtomp.json"
+        },
+        {
+            "id": 260,
+            "name": "swampert",
+            "sprite": "images/pokemon/swampert.png",
+            "link": "data/pokemon/swampert.json"
+        },
+        {
+            "id": 260,
+            "name": "swampert mega",
+            "sprite": "images/pokemon/swampert-mega.png",
+            "link": "data/pokemon/swampert-mega.json"
+        },
+        {
+            "id": 261,
+            "name": "poochyena",
+            "sprite": "images/pokemon/poochyena.png",
+            "link": "data/pokemon/poochyena.json"
+        },
+        {
+            "id": 262,
+            "name": "mightyena",
+            "sprite": "images/pokemon/mightyena.png",
+            "link": "data/pokemon/mightyena.json"
+        },
+        {
+            "id": 263,
+            "name": "zigzagoon",
+            "sprite": "images/pokemon/zigzagoon.png",
+            "link": "data/pokemon/zigzagoon.json"
+        },
+        {
+            "id": 263,
+            "name": "zigzagoon galarian",
+            "sprite": "images/pokemon/zigzagoon-galarian.png",
+            "link": "data/pokemon/zigzagoon-galarian.json"
+        },
+        {
+            "id": 264,
+            "name": "linoone",
+            "sprite": "images/pokemon/linoone.png",
+            "link": "data/pokemon/linoone.json"
+        },
+        {
+            "id": 264,
+            "name": "linoone galarian",
+            "sprite": "images/pokemon/linoone-galarian.png",
+            "link": "data/pokemon/linoone-galarian.json"
+        },
+        {
+            "id": 265,
+            "name": "wurmple",
+            "sprite": "images/pokemon/wurmple.png",
+            "link": "data/pokemon/wurmple.json"
+        },
+        {
+            "id": 266,
+            "name": "silcoon",
+            "sprite": "images/pokemon/silcoon.png",
+            "link": "data/pokemon/silcoon.json"
+        },
+        {
+            "id": 267,
+            "name": "beautifly",
+            "sprite": "images/pokemon/beautifly.png",
+            "link": "data/pokemon/beautifly.json"
+        },
+        {
+            "id": 268,
+            "name": "cascoon",
+            "sprite": "images/pokemon/cascoon.png",
+            "link": "data/pokemon/cascoon.json"
+        },
+        {
+            "id": 269,
+            "name": "dustox",
+            "sprite": "images/pokemon/dustox.png",
+            "link": "data/pokemon/dustox.json"
+        },
+        {
+            "id": 270,
+            "name": "lotad",
+            "sprite": "images/pokemon/lotad.png",
+            "link": "data/pokemon/lotad.json"
+        },
+        {
+            "id": 271,
+            "name": "lombre",
+            "sprite": "images/pokemon/lombre.png",
+            "link": "data/pokemon/lombre.json"
+        },
+        {
+            "id": 272,
+            "name": "ludicolo",
+            "sprite": "images/pokemon/ludicolo.png",
+            "link": "data/pokemon/ludicolo.json"
+        },
+        {
+            "id": 273,
+            "name": "seedot",
+            "sprite": "images/pokemon/seedot.png",
+            "link": "data/pokemon/seedot.json"
+        },
+        {
+            "id": 274,
+            "name": "nuzleaf",
+            "sprite": "images/pokemon/nuzleaf.png",
+            "link": "data/pokemon/nuzleaf.json"
+        },
+        {
+            "id": 275,
+            "name": "shiftry",
+            "sprite": "images/pokemon/shiftry.png",
+            "link": "data/pokemon/shiftry.json"
+        },
+        {
+            "id": 276,
+            "name": "taillow",
+            "sprite": "images/pokemon/taillow.png",
+            "link": "data/pokemon/taillow.json"
+        },
+        {
+            "id": 277,
+            "name": "swellow",
+            "sprite": "images/pokemon/swellow.png",
+            "link": "data/pokemon/swellow.json"
+        },
+        {
+            "id": 278,
+            "name": "wingull",
+            "sprite": "images/pokemon/wingull.png",
+            "link": "data/pokemon/wingull.json"
+        },
+        {
+            "id": 279,
+            "name": "pelipper",
+            "sprite": "images/pokemon/pelipper.png",
+            "link": "data/pokemon/pelipper.json"
+        },
+        {
+            "id": 280,
+            "name": "ralts",
+            "sprite": "images/pokemon/ralts.png",
+            "link": "data/pokemon/ralts.json"
+        },
+        {
+            "id": 281,
+            "name": "kirlia",
+            "sprite": "images/pokemon/kirlia.png",
+            "link": "data/pokemon/kirlia.json"
+        },
+        {
+            "id": 282,
+            "name": "gardevoir",
+            "sprite": "images/pokemon/gardevoir.png",
+            "link": "data/pokemon/gardevoir.json"
+        },
+        {
+            "id": 282,
+            "name": "gardevoir mega",
+            "sprite": "images/pokemon/gardevoir-mega.png",
+            "link": "data/pokemon/gardevoir-mega.json"
+        },
+        {
+            "id": 283,
+            "name": "surskit",
+            "sprite": "images/pokemon/surskit.png",
+            "link": "data/pokemon/surskit.json"
+        },
+        {
+            "id": 284,
+            "name": "masquerain",
+            "sprite": "images/pokemon/masquerain.png",
+            "link": "data/pokemon/masquerain.json"
+        },
+        {
+            "id": 285,
+            "name": "shroomish",
+            "sprite": "images/pokemon/shroomish.png",
+            "link": "data/pokemon/shroomish.json"
+        },
+        {
+            "id": 286,
+            "name": "breloom",
+            "sprite": "images/pokemon/breloom.png",
+            "link": "data/pokemon/breloom.json"
+        },
+        {
+            "id": 287,
+            "name": "slakoth",
+            "sprite": "images/pokemon/slakoth.png",
+            "link": "data/pokemon/slakoth.json"
+        },
+        {
+            "id": 288,
+            "name": "vigoroth",
+            "sprite": "images/pokemon/vigoroth.png",
+            "link": "data/pokemon/vigoroth.json"
+        },
+        {
+            "id": 289,
+            "name": "slaking",
+            "sprite": "images/pokemon/slaking.png",
+            "link": "data/pokemon/slaking.json"
+        },
+        {
+            "id": 290,
+            "name": "nincada",
+            "sprite": "images/pokemon/nincada.png",
+            "link": "data/pokemon/nincada.json"
+        },
+        {
+            "id": 291,
+            "name": "ninjask",
+            "sprite": "images/pokemon/ninjask.png",
+            "link": "data/pokemon/ninjask.json"
+        },
+        {
+            "id": 292,
+            "name": "shedinja",
+            "sprite": "images/pokemon/shedinja.png",
+            "link": "data/pokemon/shedinja.json"
+        },
+        {
+            "id": 293,
+            "name": "whismur",
+            "sprite": "images/pokemon/whismur.png",
+            "link": "data/pokemon/whismur.json"
+        },
+        {
+            "id": 294,
+            "name": "loudred",
+            "sprite": "images/pokemon/loudred.png",
+            "link": "data/pokemon/loudred.json"
+        },
+        {
+            "id": 295,
+            "name": "exploud",
+            "sprite": "images/pokemon/exploud.png",
+            "link": "data/pokemon/exploud.json"
+        },
+        {
+            "id": 296,
+            "name": "makuhita",
+            "sprite": "images/pokemon/makuhita.png",
+            "link": "data/pokemon/makuhita.json"
+        },
+        {
+            "id": 297,
+            "name": "hariyama",
+            "sprite": "images/pokemon/hariyama.png",
+            "link": "data/pokemon/hariyama.json"
+        },
+        {
+            "id": 298,
+            "name": "azurill",
+            "sprite": "images/pokemon/azurill.png",
+            "link": "data/pokemon/azurill.json"
+        },
+        {
+            "id": 299,
+            "name": "nosepass",
+            "sprite": "images/pokemon/nosepass.png",
+            "link": "data/pokemon/nosepass.json"
+        },
+        {
+            "id": 300,
+            "name": "skitty",
+            "sprite": "images/pokemon/skitty.png",
+            "link": "data/pokemon/skitty.json"
+        },
+        {
+            "id": 301,
+            "name": "delcatty",
+            "sprite": "images/pokemon/delcatty.png",
+            "link": "data/pokemon/delcatty.json"
+        },
+        {
+            "id": 302,
+            "name": "sableye",
+            "sprite": "images/pokemon/sableye.png",
+            "link": "data/pokemon/sableye.json"
+        },
+        {
+            "id": 302,
+            "name": "sableye mega",
+            "sprite": "images/pokemon/sableye-mega.png",
+            "link": "data/pokemon/sableye-mega.json"
+        },
+        {
+            "id": 303,
+            "name": "mawile",
+            "sprite": "images/pokemon/mawile.png",
+            "link": "data/pokemon/mawile.json"
+        },
+        {
+            "id": 303,
+            "name": "mawile mega",
+            "sprite": "images/pokemon/mawile-mega.png",
+            "link": "data/pokemon/mawile-mega.json"
+        },
+        {
+            "id": 304,
+            "name": "aron",
+            "sprite": "images/pokemon/aron.png",
+            "link": "data/pokemon/aron.json"
+        },
+        {
+            "id": 305,
+            "name": "lairon",
+            "sprite": "images/pokemon/lairon.png",
+            "link": "data/pokemon/lairon.json"
+        },
+        {
+            "id": 306,
+            "name": "aggron",
+            "sprite": "images/pokemon/aggron.png",
+            "link": "data/pokemon/aggron.json"
+        },
+        {
+            "id": 306,
+            "name": "aggron mega",
+            "sprite": "images/pokemon/aggron-mega.png",
+            "link": "data/pokemon/aggron-mega.json"
+        },
+        {
+            "id": 307,
+            "name": "meditite",
+            "sprite": "images/pokemon/meditite.png",
+            "link": "data/pokemon/meditite.json"
+        },
+        {
+            "id": 308,
+            "name": "medicham",
+            "sprite": "images/pokemon/medicham.png",
+            "link": "data/pokemon/medicham.json"
+        },
+        {
+            "id": 308,
+            "name": "medicham mega",
+            "sprite": "images/pokemon/medicham-mega.png",
+            "link": "data/pokemon/medicham-mega.json"
+        },
+        {
+            "id": 309,
+            "name": "electrike",
+            "sprite": "images/pokemon/electrike.png",
+            "link": "data/pokemon/electrike.json"
+        },
+        {
+            "id": 310,
+            "name": "manectric",
+            "sprite": "images/pokemon/manectric.png",
+            "link": "data/pokemon/manectric.json"
+        },
+        {
+            "id": 310,
+            "name": "manectric mega",
+            "sprite": "images/pokemon/manectric-mega.png",
+            "link": "data/pokemon/manectric-mega.json"
+        },
+        {
+            "id": 311,
+            "name": "plusle",
+            "sprite": "images/pokemon/plusle.png",
+            "link": "data/pokemon/plusle.json"
+        },
+        {
+            "id": 312,
+            "name": "minun",
+            "sprite": "images/pokemon/minun.png",
+            "link": "data/pokemon/minun.json"
+        },
+        {
+            "id": 313,
+            "name": "volbeat",
+            "sprite": "images/pokemon/volbeat.png",
+            "link": "data/pokemon/volbeat.json"
+        },
+        {
+            "id": 314,
+            "name": "illumise",
+            "sprite": "images/pokemon/illumise.png",
+            "link": "data/pokemon/illumise.json"
+        },
+        {
+            "id": 315,
+            "name": "roselia",
+            "sprite": "images/pokemon/roselia.png",
+            "link": "data/pokemon/roselia.json"
+        },
+        {
+            "id": 316,
+            "name": "gulpin",
+            "sprite": "images/pokemon/gulpin.png",
+            "link": "data/pokemon/gulpin.json"
+        },
+        {
+            "id": 317,
+            "name": "swalot",
+            "sprite": "images/pokemon/swalot.png",
+            "link": "data/pokemon/swalot.json"
+        },
+        {
+            "id": 318,
+            "name": "carvanha",
+            "sprite": "images/pokemon/carvanha.png",
+            "link": "data/pokemon/carvanha.json"
+        },
+        {
+            "id": 319,
+            "name": "sharpedo",
+            "sprite": "images/pokemon/sharpedo.png",
+            "link": "data/pokemon/sharpedo.json"
+        },
+        {
+            "id": 319,
+            "name": "sharpedo mega",
+            "sprite": "images/pokemon/sharpedo-mega.png",
+            "link": "data/pokemon/sharpedo-mega.json"
+        },
+        {
+            "id": 320,
+            "name": "wailmer",
+            "sprite": "images/pokemon/wailmer.png",
+            "link": "data/pokemon/wailmer.json"
+        },
+        {
+            "id": 321,
+            "name": "wailord",
+            "sprite": "images/pokemon/wailord.png",
+            "link": "data/pokemon/wailord.json"
+        },
+        {
+            "id": 322,
+            "name": "numel",
+            "sprite": "images/pokemon/numel.png",
+            "link": "data/pokemon/numel.json"
+        },
+        {
+            "id": 323,
+            "name": "camerupt",
+            "sprite": "images/pokemon/camerupt.png",
+            "link": "data/pokemon/camerupt.json"
+        },
+        {
+            "id": 323,
+            "name": "camerupt mega",
+            "sprite": "images/pokemon/camerupt-mega.png",
+            "link": "data/pokemon/camerupt-mega.json"
+        },
+        {
+            "id": 324,
+            "name": "torkoal",
+            "sprite": "images/pokemon/torkoal.png",
+            "link": "data/pokemon/torkoal.json"
+        },
+        {
+            "id": 325,
+            "name": "spoink",
+            "sprite": "images/pokemon/spoink.png",
+            "link": "data/pokemon/spoink.json"
+        },
+        {
+            "id": 326,
+            "name": "grumpig",
+            "sprite": "images/pokemon/grumpig.png",
+            "link": "data/pokemon/grumpig.json"
+        },
+        {
+            "id": 327,
+            "name": "spinda",
+            "sprite": "images/pokemon/spinda.png",
+            "link": "data/pokemon/spinda.json"
+        },
+        {
+            "id": 328,
+            "name": "trapinch",
+            "sprite": "images/pokemon/trapinch.png",
+            "link": "data/pokemon/trapinch.json"
+        },
+        {
+            "id": 329,
+            "name": "vibrava",
+            "sprite": "images/pokemon/vibrava.png",
+            "link": "data/pokemon/vibrava.json"
+        },
+        {
+            "id": 330,
+            "name": "flygon",
+            "sprite": "images/pokemon/flygon.png",
+            "link": "data/pokemon/flygon.json"
+        },
+        {
+            "id": 331,
+            "name": "cacnea",
+            "sprite": "images/pokemon/cacnea.png",
+            "link": "data/pokemon/cacnea.json"
+        },
+        {
+            "id": 332,
+            "name": "cacturne",
+            "sprite": "images/pokemon/cacturne.png",
+            "link": "data/pokemon/cacturne.json"
+        },
+        {
+            "id": 333,
+            "name": "swablu",
+            "sprite": "images/pokemon/swablu.png",
+            "link": "data/pokemon/swablu.json"
+        },
+        {
+            "id": 334,
+            "name": "altaria",
+            "sprite": "images/pokemon/altaria.png",
+            "link": "data/pokemon/altaria.json"
+        },
+        {
+            "id": 334,
+            "name": "altaria mega",
+            "sprite": "images/pokemon/altaria-mega.png",
+            "link": "data/pokemon/altaria-mega.json"
+        },
+        {
+            "id": 335,
+            "name": "zangoose",
+            "sprite": "images/pokemon/zangoose.png",
+            "link": "data/pokemon/zangoose.json"
+        },
+        {
+            "id": 336,
+            "name": "seviper",
+            "sprite": "images/pokemon/seviper.png",
+            "link": "data/pokemon/seviper.json"
+        },
+        {
+            "id": 337,
+            "name": "lunatone",
+            "sprite": "images/pokemon/lunatone.png",
+            "link": "data/pokemon/lunatone.json"
+        },
+        {
+            "id": 338,
+            "name": "solrock",
+            "sprite": "images/pokemon/solrock.png",
+            "link": "data/pokemon/solrock.json"
+        },
+        {
+            "id": 339,
+            "name": "barboach",
+            "sprite": "images/pokemon/barboach.png",
+            "link": "data/pokemon/barboach.json"
+        },
+        {
+            "id": 340,
+            "name": "whiscash",
+            "sprite": "images/pokemon/whiscash.png",
+            "link": "data/pokemon/whiscash.json"
+        },
+        {
+            "id": 341,
+            "name": "corphish",
+            "sprite": "images/pokemon/corphish.png",
+            "link": "data/pokemon/corphish.json"
+        },
+        {
+            "id": 342,
+            "name": "crawdaunt",
+            "sprite": "images/pokemon/crawdaunt.png",
+            "link": "data/pokemon/crawdaunt.json"
+        },
+        {
+            "id": 343,
+            "name": "baltoy",
+            "sprite": "images/pokemon/baltoy.png",
+            "link": "data/pokemon/baltoy.json"
+        },
+        {
+            "id": 344,
+            "name": "claydol",
+            "sprite": "images/pokemon/claydol.png",
+            "link": "data/pokemon/claydol.json"
+        },
+        {
+            "id": 345,
+            "name": "lileep",
+            "sprite": "images/pokemon/lileep.png",
+            "link": "data/pokemon/lileep.json"
+        },
+        {
+            "id": 346,
+            "name": "cradily",
+            "sprite": "images/pokemon/cradily.png",
+            "link": "data/pokemon/cradily.json"
+        },
+        {
+            "id": 347,
+            "name": "anorith",
+            "sprite": "images/pokemon/anorith.png",
+            "link": "data/pokemon/anorith.json"
+        },
+        {
+            "id": 348,
+            "name": "armaldo",
+            "sprite": "images/pokemon/armaldo.png",
+            "link": "data/pokemon/armaldo.json"
+        },
+        {
+            "id": 349,
+            "name": "feebas",
+            "sprite": "images/pokemon/feebas.png",
+            "link": "data/pokemon/feebas.json"
+        },
+        {
+            "id": 350,
+            "name": "milotic",
+            "sprite": "images/pokemon/milotic.png",
+            "link": "data/pokemon/milotic.json"
+        },
+        {
+            "id": 351,
+            "name": "castform",
+            "sprite": "images/pokemon/castform.png",
+            "link": "data/pokemon/castform.json"
+        },
+        {
+            "id": 351,
+            "name": "castform sunny",
+            "sprite": "images/pokemon/castform-sunny.png",
+            "link": "data/pokemon/castform-sunny.json"
+        },
+        {
+            "id": 351,
+            "name": "castform rainy",
+            "sprite": "images/pokemon/castform-rainy.png",
+            "link": "data/pokemon/castform-rainy.json"
+        },
+        {
+            "id": 351,
+            "name": "castform snowy",
+            "sprite": "images/pokemon/castform-snowy.png",
+            "link": "data/pokemon/castform-snowy.json"
+        },
+        {
+            "id": 352,
+            "name": "kecleon",
+            "sprite": "images/pokemon/kecleon.png",
+            "link": "data/pokemon/kecleon.json"
+        },
+        {
+            "id": 353,
+            "name": "shuppet",
+            "sprite": "images/pokemon/shuppet.png",
+            "link": "data/pokemon/shuppet.json"
+        },
+        {
+            "id": 354,
+            "name": "banette",
+            "sprite": "images/pokemon/banette.png",
+            "link": "data/pokemon/banette.json"
+        },
+        {
+            "id": 354,
+            "name": "banette mega",
+            "sprite": "images/pokemon/banette-mega.png",
+            "link": "data/pokemon/banette-mega.json"
+        },
+        {
+            "id": 355,
+            "name": "duskull",
+            "sprite": "images/pokemon/duskull.png",
+            "link": "data/pokemon/duskull.json"
+        },
+        {
+            "id": 356,
+            "name": "dusclops",
+            "sprite": "images/pokemon/dusclops.png",
+            "link": "data/pokemon/dusclops.json"
+        },
+        {
+            "id": 357,
+            "name": "tropius",
+            "sprite": "images/pokemon/tropius.png",
+            "link": "data/pokemon/tropius.json"
+        },
+        {
+            "id": 358,
+            "name": "chimecho",
+            "sprite": "images/pokemon/chimecho.png",
+            "link": "data/pokemon/chimecho.json"
+        },
+        {
+            "id": 359,
+            "name": "absol",
+            "sprite": "images/pokemon/absol.png",
+            "link": "data/pokemon/absol.json"
+        },
+        {
+            "id": 359,
+            "name": "absol mega",
+            "sprite": "images/pokemon/absol-mega.png",
+            "link": "data/pokemon/absol-mega.json"
+        },
+        {
+            "id": 360,
+            "name": "wynaut",
+            "sprite": "images/pokemon/wynaut.png",
+            "link": "data/pokemon/wynaut.json"
+        },
+        {
+            "id": 361,
+            "name": "snorunt",
+            "sprite": "images/pokemon/snorunt.png",
+            "link": "data/pokemon/snorunt.json"
+        },
+        {
+            "id": 362,
+            "name": "glalie",
+            "sprite": "images/pokemon/glalie.png",
+            "link": "data/pokemon/glalie.json"
+        },
+        {
+            "id": 362,
+            "name": "glalie mega",
+            "sprite": "images/pokemon/glalie-mega.png",
+            "link": "data/pokemon/glalie-mega.json"
+        },
+        {
+            "id": 363,
+            "name": "spheal",
+            "sprite": "images/pokemon/spheal.png",
+            "link": "data/pokemon/spheal.json"
+        },
+        {
+            "id": 364,
+            "name": "sealeo",
+            "sprite": "images/pokemon/sealeo.png",
+            "link": "data/pokemon/sealeo.json"
+        },
+        {
+            "id": 365,
+            "name": "walrein",
+            "sprite": "images/pokemon/walrein.png",
+            "link": "data/pokemon/walrein.json"
+        },
+        {
+            "id": 366,
+            "name": "clamperl",
+            "sprite": "images/pokemon/clamperl.png",
+            "link": "data/pokemon/clamperl.json"
+        },
+        {
+            "id": 367,
+            "name": "huntail",
+            "sprite": "images/pokemon/huntail.png",
+            "link": "data/pokemon/huntail.json"
+        },
+        {
+            "id": 368,
+            "name": "gorebyss",
+            "sprite": "images/pokemon/gorebyss.png",
+            "link": "data/pokemon/gorebyss.json"
+        },
+        {
+            "id": 369,
+            "name": "relicanth",
+            "sprite": "images/pokemon/relicanth.png",
+            "link": "data/pokemon/relicanth.json"
+        },
+        {
+            "id": 370,
+            "name": "luvdisc",
+            "sprite": "images/pokemon/luvdisc.png",
+            "link": "data/pokemon/luvdisc.json"
+        },
+        {
+            "id": 371,
+            "name": "bagon",
+            "sprite": "images/pokemon/bagon.png",
+            "link": "data/pokemon/bagon.json"
+        },
+        {
+            "id": 372,
+            "name": "shelgon",
+            "sprite": "images/pokemon/shelgon.png",
+            "link": "data/pokemon/shelgon.json"
+        },
+        {
+            "id": 373,
+            "name": "salamence",
+            "sprite": "images/pokemon/salamence.png",
+            "link": "data/pokemon/salamence.json"
+        },
+        {
+            "id": 373,
+            "name": "salamence mega",
+            "sprite": "images/pokemon/salamence-mega.png",
+            "link": "data/pokemon/salamence-mega.json"
+        },
+        {
+            "id": 374,
+            "name": "beldum",
+            "sprite": "images/pokemon/beldum.png",
+            "link": "data/pokemon/beldum.json"
+        },
+        {
+            "id": 375,
+            "name": "metang",
+            "sprite": "images/pokemon/metang.png",
+            "link": "data/pokemon/metang.json"
+        },
+        {
+            "id": 376,
+            "name": "metagross",
+            "sprite": "images/pokemon/metagross.png",
+            "link": "data/pokemon/metagross.json"
+        },
+        {
+            "id": 376,
+            "name": "metagross mega",
+            "sprite": "images/pokemon/metagross-mega.png",
+            "link": "data/pokemon/metagross-mega.json"
+        },
+        {
+            "id": 377,
+            "name": "regirock",
+            "sprite": "images/pokemon/regirock.png",
+            "link": "data/pokemon/regirock.json"
+        },
+        {
+            "id": 378,
+            "name": "regice",
+            "sprite": "images/pokemon/regice.png",
+            "link": "data/pokemon/regice.json"
+        },
+        {
+            "id": 379,
+            "name": "registeel",
+            "sprite": "images/pokemon/registeel.png",
+            "link": "data/pokemon/registeel.json"
+        },
+        {
+            "id": 380,
+            "name": "latias",
+            "sprite": "images/pokemon/latias.png",
+            "link": "data/pokemon/latias.json"
+        },
+        {
+            "id": 380,
+            "name": "latias mega",
+            "sprite": "images/pokemon/latias-mega.png",
+            "link": "data/pokemon/latias-mega.json"
+        },
+        {
+            "id": 381,
+            "name": "latios",
+            "sprite": "images/pokemon/latios.png",
+            "link": "data/pokemon/latios.json"
+        },
+        {
+            "id": 381,
+            "name": "latios mega",
+            "sprite": "images/pokemon/latios-mega.png",
+            "link": "data/pokemon/latios-mega.json"
+        },
+        {
+            "id": 382,
+            "name": "kyogre",
+            "sprite": "images/pokemon/kyogre.png",
+            "link": "data/pokemon/kyogre.json"
+        },
+        {
+            "id": 382,
+            "name": "kyogre primal",
+            "sprite": "images/pokemon/kyogre-primal.png",
+            "link": "data/pokemon/kyogre-primal.json"
+        },
+        {
+            "id": 383,
+            "name": "groudon",
+            "sprite": "images/pokemon/groudon.png",
+            "link": "data/pokemon/groudon.json"
+        },
+        {
+            "id": 383,
+            "name": "groudon primal",
+            "sprite": "images/pokemon/groudon-primal.png",
+            "link": "data/pokemon/groudon-primal.json"
+        },
+        {
+            "id": 384,
+            "name": "rayquaza",
+            "sprite": "images/pokemon/rayquaza.png",
+            "link": "data/pokemon/rayquaza.json"
+        },
+        {
+            "id": 384,
+            "name": "rayquaza mega",
+            "sprite": "images/pokemon/rayquaza-mega.png",
+            "link": "data/pokemon/rayquaza-mega.json"
+        },
+        {
+            "id": 385,
+            "name": "jirachi",
+            "sprite": "images/pokemon/jirachi.png",
+            "link": "data/pokemon/jirachi.json"
+        },
+        {
+            "id": 386,
+            "name": "deoxys normal",
+            "sprite": "images/pokemon/deoxys-normal.png",
+            "link": "data/pokemon/deoxys-normal.json"
+        },
+        {
+            "id": 386,
+            "name": "deoxys attack",
+            "sprite": "images/pokemon/deoxys-attack.png",
+            "link": "data/pokemon/deoxys-attack.json"
+        },
+        {
+            "id": 386,
+            "name": "deoxys defense",
+            "sprite": "images/pokemon/deoxys-defense.png",
+            "link": "data/pokemon/deoxys-defense.json"
+        },
+        {
+            "id": 386,
+            "name": "deoxys speed",
+            "sprite": "images/pokemon/deoxys-speed.png",
+            "link": "data/pokemon/deoxys-speed.json"
+        },
+        {
+            "id": 387,
+            "name": "turtwig",
+            "sprite": "images/pokemon/turtwig.png",
+            "link": "data/pokemon/turtwig.json"
+        },
+        {
+            "id": 388,
+            "name": "grotle",
+            "sprite": "images/pokemon/grotle.png",
+            "link": "data/pokemon/grotle.json"
+        },
+        {
+            "id": 389,
+            "name": "torterra",
+            "sprite": "images/pokemon/torterra.png",
+            "link": "data/pokemon/torterra.json"
+        },
+        {
+            "id": 390,
+            "name": "chimchar",
+            "sprite": "images/pokemon/chimchar.png",
+            "link": "data/pokemon/chimchar.json"
+        },
+        {
+            "id": 391,
+            "name": "monferno",
+            "sprite": "images/pokemon/monferno.png",
+            "link": "data/pokemon/monferno.json"
+        },
+        {
+            "id": 392,
+            "name": "infernape",
+            "sprite": "images/pokemon/infernape.png",
+            "link": "data/pokemon/infernape.json"
+        },
+        {
+            "id": 393,
+            "name": "piplup",
+            "sprite": "images/pokemon/piplup.png",
+            "link": "data/pokemon/piplup.json"
+        },
+        {
+            "id": 394,
+            "name": "prinplup",
+            "sprite": "images/pokemon/prinplup.png",
+            "link": "data/pokemon/prinplup.json"
+        },
+        {
+            "id": 395,
+            "name": "empoleon",
+            "sprite": "images/pokemon/empoleon.png",
+            "link": "data/pokemon/empoleon.json"
+        },
+        {
+            "id": 396,
+            "name": "starly",
+            "sprite": "images/pokemon/starly.png",
+            "link": "data/pokemon/starly.json"
+        },
+        {
+            "id": 397,
+            "name": "staravia",
+            "sprite": "images/pokemon/staravia.png",
+            "link": "data/pokemon/staravia.json"
+        },
+        {
+            "id": 398,
+            "name": "staraptor",
+            "sprite": "images/pokemon/staraptor.png",
+            "link": "data/pokemon/staraptor.json"
+        },
+        {
+            "id": 399,
+            "name": "bidoof",
+            "sprite": "images/pokemon/bidoof.png",
+            "link": "data/pokemon/bidoof.json"
+        },
+        {
+            "id": 400,
+            "name": "bibarel",
+            "sprite": "images/pokemon/bibarel.png",
+            "link": "data/pokemon/bibarel.json"
+        },
+        {
+            "id": 401,
+            "name": "kricketot",
+            "sprite": "images/pokemon/kricketot.png",
+            "link": "data/pokemon/kricketot.json"
+        },
+        {
+            "id": 402,
+            "name": "kricketune",
+            "sprite": "images/pokemon/kricketune.png",
+            "link": "data/pokemon/kricketune.json"
+        },
+        {
+            "id": 403,
+            "name": "shinx",
+            "sprite": "images/pokemon/shinx.png",
+            "link": "data/pokemon/shinx.json"
+        },
+        {
+            "id": 404,
+            "name": "luxio",
+            "sprite": "images/pokemon/luxio.png",
+            "link": "data/pokemon/luxio.json"
+        },
+        {
+            "id": 405,
+            "name": "luxray",
+            "sprite": "images/pokemon/luxray.png",
+            "link": "data/pokemon/luxray.json"
+        },
+        {
+            "id": 406,
+            "name": "budew",
+            "sprite": "images/pokemon/budew.png",
+            "link": "data/pokemon/budew.json"
+        },
+        {
+            "id": 407,
+            "name": "roserade",
+            "sprite": "images/pokemon/roserade.png",
+            "link": "data/pokemon/roserade.json"
+        },
+        {
+            "id": 408,
+            "name": "cranidos",
+            "sprite": "images/pokemon/cranidos.png",
+            "link": "data/pokemon/cranidos.json"
+        },
+        {
+            "id": 409,
+            "name": "rampardos",
+            "sprite": "images/pokemon/rampardos.png",
+            "link": "data/pokemon/rampardos.json"
+        },
+        {
+            "id": 410,
+            "name": "shieldon",
+            "sprite": "images/pokemon/shieldon.png",
+            "link": "data/pokemon/shieldon.json"
+        },
+        {
+            "id": 411,
+            "name": "bastiodon",
+            "sprite": "images/pokemon/bastiodon.png",
+            "link": "data/pokemon/bastiodon.json"
+        },
+        {
+            "id": 412,
+            "name": "burmy",
+            "sprite": "images/pokemon/burmy.png",
+            "link": "data/pokemon/burmy.json"
+        },
+        {
+            "id": 413,
+            "name": "wormadam plant",
+            "sprite": "images/pokemon/wormadam-plant.png",
+            "link": "data/pokemon/wormadam-plant.json"
+        },
+        {
+            "id": 413,
+            "name": "wormadam sandy",
+            "sprite": "images/pokemon/wormadam-sandy.png",
+            "link": "data/pokemon/wormadam-sandy.json"
+        },
+        {
+            "id": 413,
+            "name": "wormadam trash",
+            "sprite": "images/pokemon/wormadam-trash.png",
+            "link": "data/pokemon/wormadam-trash.json"
+        },
+        {
+            "id": 414,
+            "name": "mothim",
+            "sprite": "images/pokemon/mothim.png",
+            "link": "data/pokemon/mothim.json"
+        },
+        {
+            "id": 415,
+            "name": "combee",
+            "sprite": "images/pokemon/combee.png",
+            "link": "data/pokemon/combee.json"
+        },
+        {
+            "id": 416,
+            "name": "vespiquen",
+            "sprite": "images/pokemon/vespiquen.png",
+            "link": "data/pokemon/vespiquen.json"
+        },
+        {
+            "id": 417,
+            "name": "pachirisu",
+            "sprite": "images/pokemon/pachirisu.png",
+            "link": "data/pokemon/pachirisu.json"
+        },
+        {
+            "id": 418,
+            "name": "buizel",
+            "sprite": "images/pokemon/buizel.png",
+            "link": "data/pokemon/buizel.json"
+        },
+        {
+            "id": 419,
+            "name": "floatzel",
+            "sprite": "images/pokemon/floatzel.png",
+            "link": "data/pokemon/floatzel.json"
+        },
+        {
+            "id": 420,
+            "name": "cherubi",
+            "sprite": "images/pokemon/cherubi.png",
+            "link": "data/pokemon/cherubi.json"
+        },
+        {
+            "id": 421,
+            "name": "cherrim",
+            "sprite": "images/pokemon/cherrim.png",
+            "link": "data/pokemon/cherrim.json"
+        },
+        {
+            "id": 422,
+            "name": "shellos",
+            "sprite": "images/pokemon/shellos.png",
+            "link": "data/pokemon/shellos.json"
+        },
+        {
+            "id": 423,
+            "name": "gastrodon",
+            "sprite": "images/pokemon/gastrodon.png",
+            "link": "data/pokemon/gastrodon.json"
+        },
+        {
+            "id": 424,
+            "name": "ambipom",
+            "sprite": "images/pokemon/ambipom.png",
+            "link": "data/pokemon/ambipom.json"
+        },
+        {
+            "id": 425,
+            "name": "drifloon",
+            "sprite": "images/pokemon/drifloon.png",
+            "link": "data/pokemon/drifloon.json"
+        },
+        {
+            "id": 426,
+            "name": "drifblim",
+            "sprite": "images/pokemon/drifblim.png",
+            "link": "data/pokemon/drifblim.json"
+        },
+        {
+            "id": 427,
+            "name": "buneary",
+            "sprite": "images/pokemon/buneary.png",
+            "link": "data/pokemon/buneary.json"
+        },
+        {
+            "id": 428,
+            "name": "lopunny",
+            "sprite": "images/pokemon/lopunny.png",
+            "link": "data/pokemon/lopunny.json"
+        },
+        {
+            "id": 428,
+            "name": "lopunny mega",
+            "sprite": "images/pokemon/lopunny-mega.png",
+            "link": "data/pokemon/lopunny-mega.json"
+        },
+        {
+            "id": 429,
+            "name": "mismagius",
+            "sprite": "images/pokemon/mismagius.png",
+            "link": "data/pokemon/mismagius.json"
+        },
+        {
+            "id": 430,
+            "name": "honchkrow",
+            "sprite": "images/pokemon/honchkrow.png",
+            "link": "data/pokemon/honchkrow.json"
+        },
+        {
+            "id": 431,
+            "name": "glameow",
+            "sprite": "images/pokemon/glameow.png",
+            "link": "data/pokemon/glameow.json"
+        },
+        {
+            "id": 432,
+            "name": "purugly",
+            "sprite": "images/pokemon/purugly.png",
+            "link": "data/pokemon/purugly.json"
+        },
+        {
+            "id": 433,
+            "name": "chingling",
+            "sprite": "images/pokemon/chingling.png",
+            "link": "data/pokemon/chingling.json"
+        },
+        {
+            "id": 434,
+            "name": "stunky",
+            "sprite": "images/pokemon/stunky.png",
+            "link": "data/pokemon/stunky.json"
+        },
+        {
+            "id": 435,
+            "name": "skuntank",
+            "sprite": "images/pokemon/skuntank.png",
+            "link": "data/pokemon/skuntank.json"
+        },
+        {
+            "id": 436,
+            "name": "bronzor",
+            "sprite": "images/pokemon/bronzor.png",
+            "link": "data/pokemon/bronzor.json"
+        },
+        {
+            "id": 437,
+            "name": "bronzong",
+            "sprite": "images/pokemon/bronzong.png",
+            "link": "data/pokemon/bronzong.json"
+        },
+        {
+            "id": 438,
+            "name": "bonsly",
+            "sprite": "images/pokemon/bonsly.png",
+            "link": "data/pokemon/bonsly.json"
+        },
+        {
+            "id": 439,
+            "name": "mime jr",
+            "sprite": "images/pokemon/mime-jr.png",
+            "link": "data/pokemon/mime-jr.json"
+        },
+        {
+            "id": 440,
+            "name": "happiny",
+            "sprite": "images/pokemon/happiny.png",
+            "link": "data/pokemon/happiny.json"
+        },
+        {
+            "id": 441,
+            "name": "chatot",
+            "sprite": "images/pokemon/chatot.png",
+            "link": "data/pokemon/chatot.json"
+        },
+        {
+            "id": 442,
+            "name": "spiritomb",
+            "sprite": "images/pokemon/spiritomb.png",
+            "link": "data/pokemon/spiritomb.json"
+        },
+        {
+            "id": 443,
+            "name": "gible",
+            "sprite": "images/pokemon/gible.png",
+            "link": "data/pokemon/gible.json"
+        },
+        {
+            "id": 444,
+            "name": "gabite",
+            "sprite": "images/pokemon/gabite.png",
+            "link": "data/pokemon/gabite.json"
+        },
+        {
+            "id": 445,
+            "name": "garchomp",
+            "sprite": "images/pokemon/garchomp.png",
+            "link": "data/pokemon/garchomp.json"
+        },
+        {
+            "id": 445,
+            "name": "garchomp mega",
+            "sprite": "images/pokemon/garchomp-mega.png",
+            "link": "data/pokemon/garchomp-mega.json"
+        },
+        {
+            "id": 446,
+            "name": "munchlax",
+            "sprite": "images/pokemon/munchlax.png",
+            "link": "data/pokemon/munchlax.json"
+        },
+        {
+            "id": 447,
+            "name": "riolu",
+            "sprite": "images/pokemon/riolu.png",
+            "link": "data/pokemon/riolu.json"
+        },
+        {
+            "id": 448,
+            "name": "lucario",
+            "sprite": "images/pokemon/lucario.png",
+            "link": "data/pokemon/lucario.json"
+        },
+        {
+            "id": 448,
+            "name": "lucario mega",
+            "sprite": "images/pokemon/lucario-mega.png",
+            "link": "data/pokemon/lucario-mega.json"
+        },
+        {
+            "id": 449,
+            "name": "hippopotas",
+            "sprite": "images/pokemon/hippopotas.png",
+            "link": "data/pokemon/hippopotas.json"
+        },
+        {
+            "id": 450,
+            "name": "hippowdon",
+            "sprite": "images/pokemon/hippowdon.png",
+            "link": "data/pokemon/hippowdon.json"
+        },
+        {
+            "id": 451,
+            "name": "skorupi",
+            "sprite": "images/pokemon/skorupi.png",
+            "link": "data/pokemon/skorupi.json"
+        },
+        {
+            "id": 452,
+            "name": "drapion",
+            "sprite": "images/pokemon/drapion.png",
+            "link": "data/pokemon/drapion.json"
+        },
+        {
+            "id": 453,
+            "name": "croagunk",
+            "sprite": "images/pokemon/croagunk.png",
+            "link": "data/pokemon/croagunk.json"
+        },
+        {
+            "id": 454,
+            "name": "toxicroak",
+            "sprite": "images/pokemon/toxicroak.png",
+            "link": "data/pokemon/toxicroak.json"
+        },
+        {
+            "id": 455,
+            "name": "carnivine",
+            "sprite": "images/pokemon/carnivine.png",
+            "link": "data/pokemon/carnivine.json"
+        },
+        {
+            "id": 456,
+            "name": "finneon",
+            "sprite": "images/pokemon/finneon.png",
+            "link": "data/pokemon/finneon.json"
+        },
+        {
+            "id": 457,
+            "name": "lumineon",
+            "sprite": "images/pokemon/lumineon.png",
+            "link": "data/pokemon/lumineon.json"
+        },
+        {
+            "id": 458,
+            "name": "mantyke",
+            "sprite": "images/pokemon/mantyke.png",
+            "link": "data/pokemon/mantyke.json"
+        },
+        {
+            "id": 459,
+            "name": "snover",
+            "sprite": "images/pokemon/snover.png",
+            "link": "data/pokemon/snover.json"
+        },
+        {
+            "id": 460,
+            "name": "abomasnow",
+            "sprite": "images/pokemon/abomasnow.png",
+            "link": "data/pokemon/abomasnow.json"
+        },
+        {
+            "id": 460,
+            "name": "abomasnow mega",
+            "sprite": "images/pokemon/abomasnow-mega.png",
+            "link": "data/pokemon/abomasnow-mega.json"
+        },
+        {
+            "id": 461,
+            "name": "weavile",
+            "sprite": "images/pokemon/weavile.png",
+            "link": "data/pokemon/weavile.json"
+        },
+        {
+            "id": 462,
+            "name": "magnezone",
+            "sprite": "images/pokemon/magnezone.png",
+            "link": "data/pokemon/magnezone.json"
+        },
+        {
+            "id": 463,
+            "name": "lickilicky",
+            "sprite": "images/pokemon/lickilicky.png",
+            "link": "data/pokemon/lickilicky.json"
+        },
+        {
+            "id": 464,
+            "name": "rhyperior",
+            "sprite": "images/pokemon/rhyperior.png",
+            "link": "data/pokemon/rhyperior.json"
+        },
+        {
+            "id": 465,
+            "name": "tangrowth",
+            "sprite": "images/pokemon/tangrowth.png",
+            "link": "data/pokemon/tangrowth.json"
+        },
+        {
+            "id": 466,
+            "name": "electivire",
+            "sprite": "images/pokemon/electivire.png",
+            "link": "data/pokemon/electivire.json"
+        },
+        {
+            "id": 467,
+            "name": "magmortar",
+            "sprite": "images/pokemon/magmortar.png",
+            "link": "data/pokemon/magmortar.json"
+        },
+        {
+            "id": 468,
+            "name": "togekiss",
+            "sprite": "images/pokemon/togekiss.png",
+            "link": "data/pokemon/togekiss.json"
+        },
+        {
+            "id": 469,
+            "name": "yanmega",
+            "sprite": "images/pokemon/yanmega.png",
+            "link": "data/pokemon/yanmega.json"
+        },
+        {
+            "id": 470,
+            "name": "leafeon",
+            "sprite": "images/pokemon/leafeon.png",
+            "link": "data/pokemon/leafeon.json"
+        },
+        {
+            "id": 471,
+            "name": "glaceon",
+            "sprite": "images/pokemon/glaceon.png",
+            "link": "data/pokemon/glaceon.json"
+        },
+        {
+            "id": 472,
+            "name": "gliscor",
+            "sprite": "images/pokemon/gliscor.png",
+            "link": "data/pokemon/gliscor.json"
+        },
+        {
+            "id": 473,
+            "name": "mamoswine",
+            "sprite": "images/pokemon/mamoswine.png",
+            "link": "data/pokemon/mamoswine.json"
+        },
+        {
+            "id": 474,
+            "name": "porygon z",
+            "sprite": "images/pokemon/porygon-z.png",
+            "link": "data/pokemon/porygon-z.json"
+        },
+        {
+            "id": 475,
+            "name": "gallade",
+            "sprite": "images/pokemon/gallade.png",
+            "link": "data/pokemon/gallade.json"
+        },
+        {
+            "id": 475,
+            "name": "gallade mega",
+            "sprite": "images/pokemon/gallade-mega.png",
+            "link": "data/pokemon/gallade-mega.json"
+        },
+        {
+            "id": 476,
+            "name": "probopass",
+            "sprite": "images/pokemon/probopass.png",
+            "link": "data/pokemon/probopass.json"
+        },
+        {
+            "id": 477,
+            "name": "dusknoir",
+            "sprite": "images/pokemon/dusknoir.png",
+            "link": "data/pokemon/dusknoir.json"
+        },
+        {
+            "id": 478,
+            "name": "froslass",
+            "sprite": "images/pokemon/froslass.png",
+            "link": "data/pokemon/froslass.json"
+        },
+        {
+            "id": 479,
+            "name": "rotom",
+            "sprite": "images/pokemon/rotom.png",
+            "link": "data/pokemon/rotom.json"
+        },
+        {
+            "id": 479,
+            "name": "rotom heat",
+            "sprite": "images/pokemon/rotom-heat.png",
+            "link": "data/pokemon/rotom-heat.json"
+        },
+        {
+            "id": 479,
+            "name": "rotom wash",
+            "sprite": "images/pokemon/rotom-wash.png",
+            "link": "data/pokemon/rotom-wash.json"
+        },
+        {
+            "id": 479,
+            "name": "rotom frost",
+            "sprite": "images/pokemon/rotom-frost.png",
+            "link": "data/pokemon/rotom-frost.json"
+        },
+        {
+            "id": 479,
+            "name": "rotom fan",
+            "sprite": "images/pokemon/rotom-fan.png",
+            "link": "data/pokemon/rotom-fan.json"
+        },
+        {
+            "id": 479,
+            "name": "rotom mow",
+            "sprite": "images/pokemon/rotom-mow.png",
+            "link": "data/pokemon/rotom-mow.json"
+        },
+        {
+            "id": 480,
+            "name": "uxie",
+            "sprite": "images/pokemon/uxie.png",
+            "link": "data/pokemon/uxie.json"
+        },
+        {
+            "id": 481,
+            "name": "mesprit",
+            "sprite": "images/pokemon/mesprit.png",
+            "link": "data/pokemon/mesprit.json"
+        },
+        {
+            "id": 482,
+            "name": "azelf",
+            "sprite": "images/pokemon/azelf.png",
+            "link": "data/pokemon/azelf.json"
+        },
+        {
+            "id": 483,
+            "name": "dialga",
+            "sprite": "images/pokemon/dialga.png",
+            "link": "data/pokemon/dialga.json"
+        },
+        {
+            "id": 484,
+            "name": "palkia",
+            "sprite": "images/pokemon/palkia.png",
+            "link": "data/pokemon/palkia.json"
+        },
+        {
+            "id": 485,
+            "name": "heatran",
+            "sprite": "images/pokemon/heatran.png",
+            "link": "data/pokemon/heatran.json"
+        },
+        {
+            "id": 486,
+            "name": "regigigas",
+            "sprite": "images/pokemon/regigigas.png",
+            "link": "data/pokemon/regigigas.json"
+        },
+        {
+            "id": 487,
+            "name": "giratina altered",
+            "sprite": "images/pokemon/giratina-altered.png",
+            "link": "data/pokemon/giratina-altered.json"
+        },
+        {
+            "id": 487,
+            "name": "giratina origin",
+            "sprite": "images/pokemon/giratina-origin.png",
+            "link": "data/pokemon/giratina-origin.json"
+        },
+        {
+            "id": 488,
+            "name": "cresselia",
+            "sprite": "images/pokemon/cresselia.png",
+            "link": "data/pokemon/cresselia.json"
+        },
+        {
+            "id": 489,
+            "name": "phione",
+            "sprite": "images/pokemon/phione.png",
+            "link": "data/pokemon/phione.json"
+        },
+        {
+            "id": 490,
+            "name": "manaphy",
+            "sprite": "images/pokemon/manaphy.png",
+            "link": "data/pokemon/manaphy.json"
+        },
+        {
+            "id": 491,
+            "name": "darkrai",
+            "sprite": "images/pokemon/darkrai.png",
+            "link": "data/pokemon/darkrai.json"
+        },
+        {
+            "id": 492,
+            "name": "shaymin land",
+            "sprite": "images/pokemon/shaymin-land.png",
+            "link": "data/pokemon/shaymin-land.json"
+        },
+        {
+            "id": 492,
+            "name": "shaymin sky",
+            "sprite": "images/pokemon/shaymin-sky.png",
+            "link": "data/pokemon/shaymin-sky.json"
+        },
+        {
+            "id": 493,
+            "name": "arceus",
+            "sprite": "images/pokemon/arceus.png",
+            "link": "data/pokemon/arceus.json"
+        },
+        {
+            "id": 494,
+            "name": "victini",
+            "sprite": "images/pokemon/victini.png",
+            "link": "data/pokemon/victini.json"
+        },
+        {
+            "id": 495,
+            "name": "snivy",
+            "sprite": "images/pokemon/snivy.png",
+            "link": "data/pokemon/snivy.json"
+        },
+        {
+            "id": 496,
+            "name": "servine",
+            "sprite": "images/pokemon/servine.png",
+            "link": "data/pokemon/servine.json"
+        },
+        {
+            "id": 497,
+            "name": "serperior",
+            "sprite": "images/pokemon/serperior.png",
+            "link": "data/pokemon/serperior.json"
+        },
+        {
+            "id": 498,
+            "name": "tepig",
+            "sprite": "images/pokemon/tepig.png",
+            "link": "data/pokemon/tepig.json"
+        },
+        {
+            "id": 499,
+            "name": "pignite",
+            "sprite": "images/pokemon/pignite.png",
+            "link": "data/pokemon/pignite.json"
+        },
+        {
+            "id": 500,
+            "name": "emboar",
+            "sprite": "images/pokemon/emboar.png",
+            "link": "data/pokemon/emboar.json"
+        },
+        {
+            "id": 501,
+            "name": "oshawott",
+            "sprite": "images/pokemon/oshawott.png",
+            "link": "data/pokemon/oshawott.json"
+        },
+        {
+            "id": 502,
+            "name": "dewott",
+            "sprite": "images/pokemon/dewott.png",
+            "link": "data/pokemon/dewott.json"
+        },
+        {
+            "id": 503,
+            "name": "samurott",
+            "sprite": "images/pokemon/samurott.png",
+            "link": "data/pokemon/samurott.json"
+        },
+        {
+            "id": 504,
+            "name": "patrat",
+            "sprite": "images/pokemon/patrat.png",
+            "link": "data/pokemon/patrat.json"
+        },
+        {
+            "id": 505,
+            "name": "watchog",
+            "sprite": "images/pokemon/watchog.png",
+            "link": "data/pokemon/watchog.json"
+        },
+        {
+            "id": 506,
+            "name": "lillipup",
+            "sprite": "images/pokemon/lillipup.png",
+            "link": "data/pokemon/lillipup.json"
+        },
+        {
+            "id": 507,
+            "name": "herdier",
+            "sprite": "images/pokemon/herdier.png",
+            "link": "data/pokemon/herdier.json"
+        },
+        {
+            "id": 508,
+            "name": "stoutland",
+            "sprite": "images/pokemon/stoutland.png",
+            "link": "data/pokemon/stoutland.json"
+        },
+        {
+            "id": 509,
+            "name": "purrloin",
+            "sprite": "images/pokemon/purrloin.png",
+            "link": "data/pokemon/purrloin.json"
+        },
+        {
+            "id": 510,
+            "name": "liepard",
+            "sprite": "images/pokemon/liepard.png",
+            "link": "data/pokemon/liepard.json"
+        },
+        {
+            "id": 511,
+            "name": "pansage",
+            "sprite": "images/pokemon/pansage.png",
+            "link": "data/pokemon/pansage.json"
+        },
+        {
+            "id": 512,
+            "name": "simisage",
+            "sprite": "images/pokemon/simisage.png",
+            "link": "data/pokemon/simisage.json"
+        },
+        {
+            "id": 513,
+            "name": "pansear",
+            "sprite": "images/pokemon/pansear.png",
+            "link": "data/pokemon/pansear.json"
+        },
+        {
+            "id": 514,
+            "name": "simisear",
+            "sprite": "images/pokemon/simisear.png",
+            "link": "data/pokemon/simisear.json"
+        },
+        {
+            "id": 515,
+            "name": "panpour",
+            "sprite": "images/pokemon/panpour.png",
+            "link": "data/pokemon/panpour.json"
+        },
+        {
+            "id": 516,
+            "name": "simipour",
+            "sprite": "images/pokemon/simipour.png",
+            "link": "data/pokemon/simipour.json"
+        },
+        {
+            "id": 517,
+            "name": "munna",
+            "sprite": "images/pokemon/munna.png",
+            "link": "data/pokemon/munna.json"
+        },
+        {
+            "id": 518,
+            "name": "musharna",
+            "sprite": "images/pokemon/musharna.png",
+            "link": "data/pokemon/musharna.json"
+        },
+        {
+            "id": 519,
+            "name": "pidove",
+            "sprite": "images/pokemon/pidove.png",
+            "link": "data/pokemon/pidove.json"
+        },
+        {
+            "id": 520,
+            "name": "tranquill",
+            "sprite": "images/pokemon/tranquill.png",
+            "link": "data/pokemon/tranquill.json"
+        },
+        {
+            "id": 521,
+            "name": "unfezant",
+            "sprite": "images/pokemon/unfezant.png",
+            "link": "data/pokemon/unfezant.json"
+        },
+        {
+            "id": 522,
+            "name": "blitzle",
+            "sprite": "images/pokemon/blitzle.png",
+            "link": "data/pokemon/blitzle.json"
+        },
+        {
+            "id": 523,
+            "name": "zebstrika",
+            "sprite": "images/pokemon/zebstrika.png",
+            "link": "data/pokemon/zebstrika.json"
+        },
+        {
+            "id": 524,
+            "name": "roggenrola",
+            "sprite": "images/pokemon/roggenrola.png",
+            "link": "data/pokemon/roggenrola.json"
+        },
+        {
+            "id": 525,
+            "name": "boldore",
+            "sprite": "images/pokemon/boldore.png",
+            "link": "data/pokemon/boldore.json"
+        },
+        {
+            "id": 526,
+            "name": "gigalith",
+            "sprite": "images/pokemon/gigalith.png",
+            "link": "data/pokemon/gigalith.json"
+        },
+        {
+            "id": 527,
+            "name": "woobat",
+            "sprite": "images/pokemon/woobat.png",
+            "link": "data/pokemon/woobat.json"
+        },
+        {
+            "id": 528,
+            "name": "swoobat",
+            "sprite": "images/pokemon/swoobat.png",
+            "link": "data/pokemon/swoobat.json"
+        },
+        {
+            "id": 529,
+            "name": "drilbur",
+            "sprite": "images/pokemon/drilbur.png",
+            "link": "data/pokemon/drilbur.json"
+        },
+        {
+            "id": 530,
+            "name": "excadrill",
+            "sprite": "images/pokemon/excadrill.png",
+            "link": "data/pokemon/excadrill.json"
+        },
+        {
+            "id": 531,
+            "name": "audino",
+            "sprite": "images/pokemon/audino.png",
+            "link": "data/pokemon/audino.json"
+        },
+        {
+            "id": 531,
+            "name": "audino mega",
+            "sprite": "images/pokemon/audino-mega.png",
+            "link": "data/pokemon/audino-mega.json"
+        },
+        {
+            "id": 532,
+            "name": "timburr",
+            "sprite": "images/pokemon/timburr.png",
+            "link": "data/pokemon/timburr.json"
+        },
+        {
+            "id": 533,
+            "name": "gurdurr",
+            "sprite": "images/pokemon/gurdurr.png",
+            "link": "data/pokemon/gurdurr.json"
+        },
+        {
+            "id": 534,
+            "name": "conkeldurr",
+            "sprite": "images/pokemon/conkeldurr.png",
+            "link": "data/pokemon/conkeldurr.json"
+        },
+        {
+            "id": 535,
+            "name": "tympole",
+            "sprite": "images/pokemon/tympole.png",
+            "link": "data/pokemon/tympole.json"
+        },
+        {
+            "id": 536,
+            "name": "palpitoad",
+            "sprite": "images/pokemon/palpitoad.png",
+            "link": "data/pokemon/palpitoad.json"
+        },
+        {
+            "id": 537,
+            "name": "seismitoad",
+            "sprite": "images/pokemon/seismitoad.png",
+            "link": "data/pokemon/seismitoad.json"
+        },
+        {
+            "id": 538,
+            "name": "throh",
+            "sprite": "images/pokemon/throh.png",
+            "link": "data/pokemon/throh.json"
+        },
+        {
+            "id": 539,
+            "name": "sawk",
+            "sprite": "images/pokemon/sawk.png",
+            "link": "data/pokemon/sawk.json"
+        },
+        {
+            "id": 540,
+            "name": "sewaddle",
+            "sprite": "images/pokemon/sewaddle.png",
+            "link": "data/pokemon/sewaddle.json"
+        },
+        {
+            "id": 541,
+            "name": "swadloon",
+            "sprite": "images/pokemon/swadloon.png",
+            "link": "data/pokemon/swadloon.json"
+        },
+        {
+            "id": 542,
+            "name": "leavanny",
+            "sprite": "images/pokemon/leavanny.png",
+            "link": "data/pokemon/leavanny.json"
+        },
+        {
+            "id": 543,
+            "name": "venipede",
+            "sprite": "images/pokemon/venipede.png",
+            "link": "data/pokemon/venipede.json"
+        },
+        {
+            "id": 544,
+            "name": "whirlipede",
+            "sprite": "images/pokemon/whirlipede.png",
+            "link": "data/pokemon/whirlipede.json"
+        },
+        {
+            "id": 545,
+            "name": "scolipede",
+            "sprite": "images/pokemon/scolipede.png",
+            "link": "data/pokemon/scolipede.json"
+        },
+        {
+            "id": 546,
+            "name": "cottonee",
+            "sprite": "images/pokemon/cottonee.png",
+            "link": "data/pokemon/cottonee.json"
+        },
+        {
+            "id": 547,
+            "name": "whimsicott",
+            "sprite": "images/pokemon/whimsicott.png",
+            "link": "data/pokemon/whimsicott.json"
+        },
+        {
+            "id": 548,
+            "name": "petilil",
+            "sprite": "images/pokemon/petilil.png",
+            "link": "data/pokemon/petilil.json"
+        },
+        {
+            "id": 549,
+            "name": "lilligant",
+            "sprite": "images/pokemon/lilligant.png",
+            "link": "data/pokemon/lilligant.json"
+        },
+        {
+            "id": 550,
+            "name": "basculin red striped",
+            "sprite": "images/pokemon/basculin-red-striped.png",
+            "link": "data/pokemon/basculin-red-striped.json"
+        },
+        {
+            "id": 550,
+            "name": "basculin blue striped",
+            "sprite": "images/pokemon/basculin-blue-striped.png",
+            "link": "data/pokemon/basculin-blue-striped.json"
+        },
+        {
+            "id": 551,
+            "name": "sandile",
+            "sprite": "images/pokemon/sandile.png",
+            "link": "data/pokemon/sandile.json"
+        },
+        {
+            "id": 552,
+            "name": "krokorok",
+            "sprite": "images/pokemon/krokorok.png",
+            "link": "data/pokemon/krokorok.json"
+        },
+        {
+            "id": 553,
+            "name": "krookodile",
+            "sprite": "images/pokemon/krookodile.png",
+            "link": "data/pokemon/krookodile.json"
+        },
+        {
+            "id": 554,
+            "name": "darumaka",
+            "sprite": "images/pokemon/darumaka.png",
+            "link": "data/pokemon/darumaka.json"
+        },
+        {
+            "id": 554,
+            "name": "darumaka galarian",
+            "sprite": "images/pokemon/darumaka-galarian.png",
+            "link": "data/pokemon/darumaka-galarian.json"
+        },
+        {
+            "id": 555,
+            "name": "darmanitan standard",
+            "sprite": "images/pokemon/darmanitan-standard.png",
+            "link": "data/pokemon/darmanitan-standard.json"
+        },
+        {
+            "id": 555,
+            "name": "darmanitan zen",
+            "sprite": "images/pokemon/darmanitan-zen.png",
+            "link": "data/pokemon/darmanitan-zen.json"
+        },
+        {
+            "id": 555,
+            "name": "darmanitan galarian standard",
+            "sprite": "images/pokemon/darmanitan-galarian-standard.png",
+            "link": "data/pokemon/darmanitan-galarian-standard.json"
+        },
+        {
+            "id": 555,
+            "name": "darmanitan galarian zen",
+            "sprite": "images/pokemon/darmanitan-galarian-zen.png",
+            "link": "data/pokemon/darmanitan-galarian-zen.json"
+        },
+        {
+            "id": 556,
+            "name": "maractus",
+            "sprite": "images/pokemon/maractus.png",
+            "link": "data/pokemon/maractus.json"
+        },
+        {
+            "id": 557,
+            "name": "dwebble",
+            "sprite": "images/pokemon/dwebble.png",
+            "link": "data/pokemon/dwebble.json"
+        },
+        {
+            "id": 558,
+            "name": "crustle",
+            "sprite": "images/pokemon/crustle.png",
+            "link": "data/pokemon/crustle.json"
+        },
+        {
+            "id": 559,
+            "name": "scraggy",
+            "sprite": "images/pokemon/scraggy.png",
+            "link": "data/pokemon/scraggy.json"
+        },
+        {
+            "id": 560,
+            "name": "scrafty",
+            "sprite": "images/pokemon/scrafty.png",
+            "link": "data/pokemon/scrafty.json"
+        },
+        {
+            "id": 561,
+            "name": "sigilyph",
+            "sprite": "images/pokemon/sigilyph.png",
+            "link": "data/pokemon/sigilyph.json"
+        },
+        {
+            "id": 562,
+            "name": "yamask",
+            "sprite": "images/pokemon/yamask.png",
+            "link": "data/pokemon/yamask.json"
+        },
+        {
+            "id": 562,
+            "name": "yamask galarian",
+            "sprite": "images/pokemon/yamask-galarian.png",
+            "link": "data/pokemon/yamask-galarian.json"
+        },
+        {
+            "id": 563,
+            "name": "cofagrigus",
+            "sprite": "images/pokemon/cofagrigus.png",
+            "link": "data/pokemon/cofagrigus.json"
+        },
+        {
+            "id": 564,
+            "name": "tirtouga",
+            "sprite": "images/pokemon/tirtouga.png",
+            "link": "data/pokemon/tirtouga.json"
+        },
+        {
+            "id": 565,
+            "name": "carracosta",
+            "sprite": "images/pokemon/carracosta.png",
+            "link": "data/pokemon/carracosta.json"
+        },
+        {
+            "id": 566,
+            "name": "archen",
+            "sprite": "images/pokemon/archen.png",
+            "link": "data/pokemon/archen.json"
+        },
+        {
+            "id": 567,
+            "name": "archeops",
+            "sprite": "images/pokemon/archeops.png",
+            "link": "data/pokemon/archeops.json"
+        },
+        {
+            "id": 568,
+            "name": "trubbish",
+            "sprite": "images/pokemon/trubbish.png",
+            "link": "data/pokemon/trubbish.json"
+        },
+        {
+            "id": 569,
+            "name": "garbodor",
+            "sprite": "images/pokemon/garbodor.png",
+            "link": "data/pokemon/garbodor.json"
+        },
+        {
+            "id": 570,
+            "name": "zorua",
+            "sprite": "images/pokemon/zorua.png",
+            "link": "data/pokemon/zorua.json"
+        },
+        {
+            "id": 571,
+            "name": "zoroark",
+            "sprite": "images/pokemon/zoroark.png",
+            "link": "data/pokemon/zoroark.json"
+        },
+        {
+            "id": 572,
+            "name": "minccino",
+            "sprite": "images/pokemon/minccino.png",
+            "link": "data/pokemon/minccino.json"
+        },
+        {
+            "id": 573,
+            "name": "cinccino",
+            "sprite": "images/pokemon/cinccino.png",
+            "link": "data/pokemon/cinccino.json"
+        },
+        {
+            "id": 574,
+            "name": "gothita",
+            "sprite": "images/pokemon/gothita.png",
+            "link": "data/pokemon/gothita.json"
+        },
+        {
+            "id": 575,
+            "name": "gothorita",
+            "sprite": "images/pokemon/gothorita.png",
+            "link": "data/pokemon/gothorita.json"
+        },
+        {
+            "id": 576,
+            "name": "gothitelle",
+            "sprite": "images/pokemon/gothitelle.png",
+            "link": "data/pokemon/gothitelle.json"
+        },
+        {
+            "id": 577,
+            "name": "solosis",
+            "sprite": "images/pokemon/solosis.png",
+            "link": "data/pokemon/solosis.json"
+        },
+        {
+            "id": 578,
+            "name": "duosion",
+            "sprite": "images/pokemon/duosion.png",
+            "link": "data/pokemon/duosion.json"
+        },
+        {
+            "id": 579,
+            "name": "reuniclus",
+            "sprite": "images/pokemon/reuniclus.png",
+            "link": "data/pokemon/reuniclus.json"
+        },
+        {
+            "id": 580,
+            "name": "ducklett",
+            "sprite": "images/pokemon/ducklett.png",
+            "link": "data/pokemon/ducklett.json"
+        },
+        {
+            "id": 581,
+            "name": "swanna",
+            "sprite": "images/pokemon/swanna.png",
+            "link": "data/pokemon/swanna.json"
+        },
+        {
+            "id": 582,
+            "name": "vanillite",
+            "sprite": "images/pokemon/vanillite.png",
+            "link": "data/pokemon/vanillite.json"
+        },
+        {
+            "id": 583,
+            "name": "vanillish",
+            "sprite": "images/pokemon/vanillish.png",
+            "link": "data/pokemon/vanillish.json"
+        },
+        {
+            "id": 584,
+            "name": "vanilluxe",
+            "sprite": "images/pokemon/vanilluxe.png",
+            "link": "data/pokemon/vanilluxe.json"
+        },
+        {
+            "id": 585,
+            "name": "deerling",
+            "sprite": "images/pokemon/deerling.png",
+            "link": "data/pokemon/deerling.json"
+        },
+        {
+            "id": 586,
+            "name": "sawsbuck",
+            "sprite": "images/pokemon/sawsbuck.png",
+            "link": "data/pokemon/sawsbuck.json"
+        },
+        {
+            "id": 587,
+            "name": "emolga",
+            "sprite": "images/pokemon/emolga.png",
+            "link": "data/pokemon/emolga.json"
+        },
+        {
+            "id": 588,
+            "name": "karrablast",
+            "sprite": "images/pokemon/karrablast.png",
+            "link": "data/pokemon/karrablast.json"
+        },
+        {
+            "id": 589,
+            "name": "escavalier",
+            "sprite": "images/pokemon/escavalier.png",
+            "link": "data/pokemon/escavalier.json"
+        },
+        {
+            "id": 590,
+            "name": "foongus",
+            "sprite": "images/pokemon/foongus.png",
+            "link": "data/pokemon/foongus.json"
+        },
+        {
+            "id": 591,
+            "name": "amoonguss",
+            "sprite": "images/pokemon/amoonguss.png",
+            "link": "data/pokemon/amoonguss.json"
+        },
+        {
+            "id": 592,
+            "name": "frillish",
+            "sprite": "images/pokemon/frillish.png",
+            "link": "data/pokemon/frillish.json"
+        },
+        {
+            "id": 593,
+            "name": "jellicent",
+            "sprite": "images/pokemon/jellicent.png",
+            "link": "data/pokemon/jellicent.json"
+        },
+        {
+            "id": 594,
+            "name": "alomomola",
+            "sprite": "images/pokemon/alomomola.png",
+            "link": "data/pokemon/alomomola.json"
+        },
+        {
+            "id": 595,
+            "name": "joltik",
+            "sprite": "images/pokemon/joltik.png",
+            "link": "data/pokemon/joltik.json"
+        },
+        {
+            "id": 596,
+            "name": "galvantula",
+            "sprite": "images/pokemon/galvantula.png",
+            "link": "data/pokemon/galvantula.json"
+        },
+        {
+            "id": 597,
+            "name": "ferroseed",
+            "sprite": "images/pokemon/ferroseed.png",
+            "link": "data/pokemon/ferroseed.json"
+        },
+        {
+            "id": 598,
+            "name": "ferrothorn",
+            "sprite": "images/pokemon/ferrothorn.png",
+            "link": "data/pokemon/ferrothorn.json"
+        },
+        {
+            "id": 599,
+            "name": "klink",
+            "sprite": "images/pokemon/klink.png",
+            "link": "data/pokemon/klink.json"
+        },
+        {
+            "id": 600,
+            "name": "klang",
+            "sprite": "images/pokemon/klang.png",
+            "link": "data/pokemon/klang.json"
+        },
+        {
+            "id": 601,
+            "name": "klinklang",
+            "sprite": "images/pokemon/klinklang.png",
+            "link": "data/pokemon/klinklang.json"
+        },
+        {
+            "id": 602,
+            "name": "tynamo",
+            "sprite": "images/pokemon/tynamo.png",
+            "link": "data/pokemon/tynamo.json"
+        },
+        {
+            "id": 603,
+            "name": "eelektrik",
+            "sprite": "images/pokemon/eelektrik.png",
+            "link": "data/pokemon/eelektrik.json"
+        },
+        {
+            "id": 604,
+            "name": "eelektross",
+            "sprite": "images/pokemon/eelektross.png",
+            "link": "data/pokemon/eelektross.json"
+        },
+        {
+            "id": 605,
+            "name": "elgyem",
+            "sprite": "images/pokemon/elgyem.png",
+            "link": "data/pokemon/elgyem.json"
+        },
+        {
+            "id": 606,
+            "name": "beheeyem",
+            "sprite": "images/pokemon/beheeyem.png",
+            "link": "data/pokemon/beheeyem.json"
+        },
+        {
+            "id": 607,
+            "name": "litwick",
+            "sprite": "images/pokemon/litwick.png",
+            "link": "data/pokemon/litwick.json"
+        },
+        {
+            "id": 608,
+            "name": "lampent",
+            "sprite": "images/pokemon/lampent.png",
+            "link": "data/pokemon/lampent.json"
+        },
+        {
+            "id": 609,
+            "name": "chandelure",
+            "sprite": "images/pokemon/chandelure.png",
+            "link": "data/pokemon/chandelure.json"
+        },
+        {
+            "id": 610,
+            "name": "axew",
+            "sprite": "images/pokemon/axew.png",
+            "link": "data/pokemon/axew.json"
+        },
+        {
+            "id": 611,
+            "name": "fraxure",
+            "sprite": "images/pokemon/fraxure.png",
+            "link": "data/pokemon/fraxure.json"
+        },
+        {
+            "id": 612,
+            "name": "haxorus",
+            "sprite": "images/pokemon/haxorus.png",
+            "link": "data/pokemon/haxorus.json"
+        },
+        {
+            "id": 613,
+            "name": "cubchoo",
+            "sprite": "images/pokemon/cubchoo.png",
+            "link": "data/pokemon/cubchoo.json"
+        },
+        {
+            "id": 614,
+            "name": "beartic",
+            "sprite": "images/pokemon/beartic.png",
+            "link": "data/pokemon/beartic.json"
+        },
+        {
+            "id": 615,
+            "name": "cryogonal",
+            "sprite": "images/pokemon/cryogonal.png",
+            "link": "data/pokemon/cryogonal.json"
+        },
+        {
+            "id": 616,
+            "name": "shelmet",
+            "sprite": "images/pokemon/shelmet.png",
+            "link": "data/pokemon/shelmet.json"
+        },
+        {
+            "id": 617,
+            "name": "accelgor",
+            "sprite": "images/pokemon/accelgor.png",
+            "link": "data/pokemon/accelgor.json"
+        },
+        {
+            "id": 618,
+            "name": "stunfisk",
+            "sprite": "images/pokemon/stunfisk.png",
+            "link": "data/pokemon/stunfisk.json"
+        },
+        {
+            "id": 618,
+            "name": "stunfisk galarian",
+            "sprite": "images/pokemon/stunfisk-galarian.png",
+            "link": "data/pokemon/stunfisk-galarian.json"
+        },
+        {
+            "id": 619,
+            "name": "mienfoo",
+            "sprite": "images/pokemon/mienfoo.png",
+            "link": "data/pokemon/mienfoo.json"
+        },
+        {
+            "id": 620,
+            "name": "mienshao",
+            "sprite": "images/pokemon/mienshao.png",
+            "link": "data/pokemon/mienshao.json"
+        },
+        {
+            "id": 621,
+            "name": "druddigon",
+            "sprite": "images/pokemon/druddigon.png",
+            "link": "data/pokemon/druddigon.json"
+        },
+        {
+            "id": 622,
+            "name": "golett",
+            "sprite": "images/pokemon/golett.png",
+            "link": "data/pokemon/golett.json"
+        },
+        {
+            "id": 623,
+            "name": "golurk",
+            "sprite": "images/pokemon/golurk.png",
+            "link": "data/pokemon/golurk.json"
+        },
+        {
+            "id": 624,
+            "name": "pawniard",
+            "sprite": "images/pokemon/pawniard.png",
+            "link": "data/pokemon/pawniard.json"
+        },
+        {
+            "id": 625,
+            "name": "bisharp",
+            "sprite": "images/pokemon/bisharp.png",
+            "link": "data/pokemon/bisharp.json"
+        },
+        {
+            "id": 626,
+            "name": "bouffalant",
+            "sprite": "images/pokemon/bouffalant.png",
+            "link": "data/pokemon/bouffalant.json"
+        },
+        {
+            "id": 627,
+            "name": "rufflet",
+            "sprite": "images/pokemon/rufflet.png",
+            "link": "data/pokemon/rufflet.json"
+        },
+        {
+            "id": 628,
+            "name": "braviary",
+            "sprite": "images/pokemon/braviary.png",
+            "link": "data/pokemon/braviary.json"
+        },
+        {
+            "id": 629,
+            "name": "vullaby",
+            "sprite": "images/pokemon/vullaby.png",
+            "link": "data/pokemon/vullaby.json"
+        },
+        {
+            "id": 630,
+            "name": "mandibuzz",
+            "sprite": "images/pokemon/mandibuzz.png",
+            "link": "data/pokemon/mandibuzz.json"
+        },
+        {
+            "id": 631,
+            "name": "heatmor",
+            "sprite": "images/pokemon/heatmor.png",
+            "link": "data/pokemon/heatmor.json"
+        },
+        {
+            "id": 632,
+            "name": "durant",
+            "sprite": "images/pokemon/durant.png",
+            "link": "data/pokemon/durant.json"
+        },
+        {
+            "id": 633,
+            "name": "deino",
+            "sprite": "images/pokemon/deino.png",
+            "link": "data/pokemon/deino.json"
+        },
+        {
+            "id": 634,
+            "name": "zweilous",
+            "sprite": "images/pokemon/zweilous.png",
+            "link": "data/pokemon/zweilous.json"
+        },
+        {
+            "id": 635,
+            "name": "hydreigon",
+            "sprite": "images/pokemon/hydreigon.png",
+            "link": "data/pokemon/hydreigon.json"
+        },
+        {
+            "id": 636,
+            "name": "larvesta",
+            "sprite": "images/pokemon/larvesta.png",
+            "link": "data/pokemon/larvesta.json"
+        },
+        {
+            "id": 637,
+            "name": "volcarona",
+            "sprite": "images/pokemon/volcarona.png",
+            "link": "data/pokemon/volcarona.json"
+        },
+        {
+            "id": 638,
+            "name": "cobalion",
+            "sprite": "images/pokemon/cobalion.png",
+            "link": "data/pokemon/cobalion.json"
+        },
+        {
+            "id": 639,
+            "name": "terrakion",
+            "sprite": "images/pokemon/terrakion.png",
+            "link": "data/pokemon/terrakion.json"
+        },
+        {
+            "id": 640,
+            "name": "virizion",
+            "sprite": "images/pokemon/virizion.png",
+            "link": "data/pokemon/virizion.json"
+        },
+        {
+            "id": 641,
+            "name": "tornadus incarnate",
+            "sprite": "images/pokemon/tornadus-incarnate.png",
+            "link": "data/pokemon/tornadus-incarnate.json"
+        },
+        {
+            "id": 641,
+            "name": "tornadus therian",
+            "sprite": "images/pokemon/tornadus-therian.png",
+            "link": "data/pokemon/tornadus-therian.json"
+        },
+        {
+            "id": 642,
+            "name": "thundurus incarnate",
+            "sprite": "images/pokemon/thundurus-incarnate.png",
+            "link": "data/pokemon/thundurus-incarnate.json"
+        },
+        {
+            "id": 642,
+            "name": "thundurus therian",
+            "sprite": "images/pokemon/thundurus-therian.png",
+            "link": "data/pokemon/thundurus-therian.json"
+        },
+        {
+            "id": 643,
+            "name": "reshiram",
+            "sprite": "images/pokemon/reshiram.png",
+            "link": "data/pokemon/reshiram.json"
+        },
+        {
+            "id": 644,
+            "name": "zekrom",
+            "sprite": "images/pokemon/zekrom.png",
+            "link": "data/pokemon/zekrom.json"
+        },
+        {
+            "id": 645,
+            "name": "landorus incarnate",
+            "sprite": "images/pokemon/landorus-incarnate.png",
+            "link": "data/pokemon/landorus-incarnate.json"
+        },
+        {
+            "id": 645,
+            "name": "landorus therian",
+            "sprite": "images/pokemon/landorus-therian.png",
+            "link": "data/pokemon/landorus-therian.json"
+        },
+        {
+            "id": 646,
+            "name": "kyurem",
+            "sprite": "images/pokemon/kyurem.png",
+            "link": "data/pokemon/kyurem.json"
+        },
+        {
+            "id": 646,
+            "name": "kyurem black",
+            "sprite": "images/pokemon/kyurem-black.png",
+            "link": "data/pokemon/kyurem-black.json"
+        },
+        {
+            "id": 646,
+            "name": "kyurem white",
+            "sprite": "images/pokemon/kyurem-white.png",
+            "link": "data/pokemon/kyurem-white.json"
+        },
+        {
+            "id": 647,
+            "name": "keldeo ordinary",
+            "sprite": "images/pokemon/keldeo-ordinary.png",
+            "link": "data/pokemon/keldeo-ordinary.json"
+        },
+        {
+            "id": 647,
+            "name": "keldeo resolute",
+            "sprite": "images/pokemon/keldeo-resolute.png",
+            "link": "data/pokemon/keldeo-resolute.json"
+        },
+        {
+            "id": 648,
+            "name": "meloetta aria",
+            "sprite": "images/pokemon/meloetta-aria.png",
+            "link": "data/pokemon/meloetta-aria.json"
+        },
+        {
+            "id": 648,
+            "name": "meloetta pirouette",
+            "sprite": "images/pokemon/meloetta-pirouette.png",
+            "link": "data/pokemon/meloetta-pirouette.json"
+        },
+        {
+            "id": 649,
+            "name": "genesect",
+            "sprite": "images/pokemon/genesect.png",
+            "link": "data/pokemon/genesect.json"
+        },
+        {
+            "id": 650,
+            "name": "chespin",
+            "sprite": "images/pokemon/chespin.png",
+            "link": "data/pokemon/chespin.json"
+        },
+        {
+            "id": 651,
+            "name": "quilladin",
+            "sprite": "images/pokemon/quilladin.png",
+            "link": "data/pokemon/quilladin.json"
+        },
+        {
+            "id": 652,
+            "name": "chesnaught",
+            "sprite": "images/pokemon/chesnaught.png",
+            "link": "data/pokemon/chesnaught.json"
+        },
+        {
+            "id": 653,
+            "name": "fennekin",
+            "sprite": "images/pokemon/fennekin.png",
+            "link": "data/pokemon/fennekin.json"
+        },
+        {
+            "id": 654,
+            "name": "braixen",
+            "sprite": "images/pokemon/braixen.png",
+            "link": "data/pokemon/braixen.json"
+        },
+        {
+            "id": 655,
+            "name": "delphox",
+            "sprite": "images/pokemon/delphox.png",
+            "link": "data/pokemon/delphox.json"
+        },
+        {
+            "id": 656,
+            "name": "froakie",
+            "sprite": "images/pokemon/froakie.png",
+            "link": "data/pokemon/froakie.json"
+        },
+        {
+            "id": 657,
+            "name": "frogadier",
+            "sprite": "images/pokemon/frogadier.png",
+            "link": "data/pokemon/frogadier.json"
+        },
+        {
+            "id": 658,
+            "name": "greninja",
+            "sprite": "images/pokemon/greninja.png",
+            "link": "data/pokemon/greninja.json"
+        },
+        {
+            "id": 658,
+            "name": "greninja ash",
+            "sprite": "images/pokemon/greninja-ash.png",
+            "link": "data/pokemon/greninja-ash.json"
+        },
+        {
+            "id": 659,
+            "name": "bunnelby",
+            "sprite": "images/pokemon/bunnelby.png",
+            "link": "data/pokemon/bunnelby.json"
+        },
+        {
+            "id": 660,
+            "name": "diggersby",
+            "sprite": "images/pokemon/diggersby.png",
+            "link": "data/pokemon/diggersby.json"
+        },
+        {
+            "id": 661,
+            "name": "fletchling",
+            "sprite": "images/pokemon/fletchling.png",
+            "link": "data/pokemon/fletchling.json"
+        },
+        {
+            "id": 662,
+            "name": "fletchinder",
+            "sprite": "images/pokemon/fletchinder.png",
+            "link": "data/pokemon/fletchinder.json"
+        },
+        {
+            "id": 663,
+            "name": "talonflame",
+            "sprite": "images/pokemon/talonflame.png",
+            "link": "data/pokemon/talonflame.json"
+        },
+        {
+            "id": 664,
+            "name": "scatterbug",
+            "sprite": "images/pokemon/scatterbug.png",
+            "link": "data/pokemon/scatterbug.json"
+        },
+        {
+            "id": 665,
+            "name": "spewpa",
+            "sprite": "images/pokemon/spewpa.png",
+            "link": "data/pokemon/spewpa.json"
+        },
+        {
+            "id": 666,
+            "name": "vivillon",
+            "sprite": "images/pokemon/vivillon.png",
+            "link": "data/pokemon/vivillon.json"
+        },
+        {
+            "id": 667,
+            "name": "litleo",
+            "sprite": "images/pokemon/litleo.png",
+            "link": "data/pokemon/litleo.json"
+        },
+        {
+            "id": 668,
+            "name": "pyroar",
+            "sprite": "images/pokemon/pyroar.png",
+            "link": "data/pokemon/pyroar.json"
+        },
+        {
+            "id": 669,
+            "name": "flabebe",
+            "sprite": "images/pokemon/flabebe.png",
+            "link": "data/pokemon/flabebe.json"
+        },
+        {
+            "id": 670,
+            "name": "floette",
+            "sprite": "images/pokemon/floette.png",
+            "link": "data/pokemon/floette.json"
+        },
+        {
+            "id": 671,
+            "name": "florges",
+            "sprite": "images/pokemon/florges.png",
+            "link": "data/pokemon/florges.json"
+        },
+        {
+            "id": 672,
+            "name": "skiddo",
+            "sprite": "images/pokemon/skiddo.png",
+            "link": "data/pokemon/skiddo.json"
+        },
+        {
+            "id": 673,
+            "name": "gogoat",
+            "sprite": "images/pokemon/gogoat.png",
+            "link": "data/pokemon/gogoat.json"
+        },
+        {
+            "id": 674,
+            "name": "pancham",
+            "sprite": "images/pokemon/pancham.png",
+            "link": "data/pokemon/pancham.json"
+        },
+        {
+            "id": 675,
+            "name": "pangoro",
+            "sprite": "images/pokemon/pangoro.png",
+            "link": "data/pokemon/pangoro.json"
+        },
+        {
+            "id": 676,
+            "name": "furfrou",
+            "sprite": "images/pokemon/furfrou.png",
+            "link": "data/pokemon/furfrou.json"
+        },
+        {
+            "id": 677,
+            "name": "espurr",
+            "sprite": "images/pokemon/espurr.png",
+            "link": "data/pokemon/espurr.json"
+        },
+        {
+            "id": 678,
+            "name": "meowstic male",
+            "sprite": "images/pokemon/meowstic-male.png",
+            "link": "data/pokemon/meowstic-male.json"
+        },
+        {
+            "id": 678,
+            "name": "meowstic female",
+            "sprite": "images/pokemon/meowstic-female.png",
+            "link": "data/pokemon/meowstic-female.json"
+        },
+        {
+            "id": 679,
+            "name": "honedge",
+            "sprite": "images/pokemon/honedge.png",
+            "link": "data/pokemon/honedge.json"
+        },
+        {
+            "id": 680,
+            "name": "doublade",
+            "sprite": "images/pokemon/doublade.png",
+            "link": "data/pokemon/doublade.json"
+        },
+        {
+            "id": 681,
+            "name": "aegislash shield",
+            "sprite": "images/pokemon/aegislash-shield.png",
+            "link": "data/pokemon/aegislash-shield.json"
+        },
+        {
+            "id": 681,
+            "name": "aegislash blade",
+            "sprite": "images/pokemon/aegislash-blade.png",
+            "link": "data/pokemon/aegislash-blade.json"
+        },
+        {
+            "id": 682,
+            "name": "spritzee",
+            "sprite": "images/pokemon/spritzee.png",
+            "link": "data/pokemon/spritzee.json"
+        },
+        {
+            "id": 683,
+            "name": "aromatisse",
+            "sprite": "images/pokemon/aromatisse.png",
+            "link": "data/pokemon/aromatisse.json"
+        },
+        {
+            "id": 684,
+            "name": "swirlix",
+            "sprite": "images/pokemon/swirlix.png",
+            "link": "data/pokemon/swirlix.json"
+        },
+        {
+            "id": 685,
+            "name": "slurpuff",
+            "sprite": "images/pokemon/slurpuff.png",
+            "link": "data/pokemon/slurpuff.json"
+        },
+        {
+            "id": 686,
+            "name": "inkay",
+            "sprite": "images/pokemon/inkay.png",
+            "link": "data/pokemon/inkay.json"
+        },
+        {
+            "id": 687,
+            "name": "malamar",
+            "sprite": "images/pokemon/malamar.png",
+            "link": "data/pokemon/malamar.json"
+        },
+        {
+            "id": 688,
+            "name": "binacle",
+            "sprite": "images/pokemon/binacle.png",
+            "link": "data/pokemon/binacle.json"
+        },
+        {
+            "id": 689,
+            "name": "barbaracle",
+            "sprite": "images/pokemon/barbaracle.png",
+            "link": "data/pokemon/barbaracle.json"
+        },
+        {
+            "id": 690,
+            "name": "skrelp",
+            "sprite": "images/pokemon/skrelp.png",
+            "link": "data/pokemon/skrelp.json"
+        },
+        {
+            "id": 691,
+            "name": "dragalge",
+            "sprite": "images/pokemon/dragalge.png",
+            "link": "data/pokemon/dragalge.json"
+        },
+        {
+            "id": 692,
+            "name": "clauncher",
+            "sprite": "images/pokemon/clauncher.png",
+            "link": "data/pokemon/clauncher.json"
+        },
+        {
+            "id": 693,
+            "name": "clawitzer",
+            "sprite": "images/pokemon/clawitzer.png",
+            "link": "data/pokemon/clawitzer.json"
+        },
+        {
+            "id": 694,
+            "name": "helioptile",
+            "sprite": "images/pokemon/helioptile.png",
+            "link": "data/pokemon/helioptile.json"
+        },
+        {
+            "id": 695,
+            "name": "heliolisk",
+            "sprite": "images/pokemon/heliolisk.png",
+            "link": "data/pokemon/heliolisk.json"
+        },
+        {
+            "id": 696,
+            "name": "tyrunt",
+            "sprite": "images/pokemon/tyrunt.png",
+            "link": "data/pokemon/tyrunt.json"
+        },
+        {
+            "id": 697,
+            "name": "tyrantrum",
+            "sprite": "images/pokemon/tyrantrum.png",
+            "link": "data/pokemon/tyrantrum.json"
+        },
+        {
+            "id": 698,
+            "name": "amaura",
+            "sprite": "images/pokemon/amaura.png",
+            "link": "data/pokemon/amaura.json"
+        },
+        {
+            "id": 699,
+            "name": "aurorus",
+            "sprite": "images/pokemon/aurorus.png",
+            "link": "data/pokemon/aurorus.json"
+        },
+        {
+            "id": 700,
+            "name": "sylveon",
+            "sprite": "images/pokemon/sylveon.png",
+            "link": "data/pokemon/sylveon.json"
+        },
+        {
+            "id": 701,
+            "name": "hawlucha",
+            "sprite": "images/pokemon/hawlucha.png",
+            "link": "data/pokemon/hawlucha.json"
+        },
+        {
+            "id": 702,
+            "name": "dedenne",
+            "sprite": "images/pokemon/dedenne.png",
+            "link": "data/pokemon/dedenne.json"
+        },
+        {
+            "id": 703,
+            "name": "carbink",
+            "sprite": "images/pokemon/carbink.png",
+            "link": "data/pokemon/carbink.json"
+        },
+        {
+            "id": 704,
+            "name": "goomy",
+            "sprite": "images/pokemon/goomy.png",
+            "link": "data/pokemon/goomy.json"
+        },
+        {
+            "id": 705,
+            "name": "sliggoo",
+            "sprite": "images/pokemon/sliggoo.png",
+            "link": "data/pokemon/sliggoo.json"
+        },
+        {
+            "id": 706,
+            "name": "goodra",
+            "sprite": "images/pokemon/goodra.png",
+            "link": "data/pokemon/goodra.json"
+        },
+        {
+            "id": 707,
+            "name": "klefki",
+            "sprite": "images/pokemon/klefki.png",
+            "link": "data/pokemon/klefki.json"
+        },
+        {
+            "id": 708,
+            "name": "phantump",
+            "sprite": "images/pokemon/phantump.png",
+            "link": "data/pokemon/phantump.json"
+        },
+        {
+            "id": 709,
+            "name": "trevenant",
+            "sprite": "images/pokemon/trevenant.png",
+            "link": "data/pokemon/trevenant.json"
+        },
+        {
+            "id": 710,
+            "name": "pumpkaboo",
+            "sprite": "images/pokemon/pumpkaboo.png",
+            "link": "data/pokemon/pumpkaboo.json"
+        },
+        {
+            "id": 710,
+            "name": "pumpkaboo",
+            "sprite": "images/pokemon/pumpkaboo.png",
+            "link": "data/pokemon/pumpkaboo.json"
+        },
+        {
+            "id": 710,
+            "name": "pumpkaboo",
+            "sprite": "images/pokemon/pumpkaboo.png",
+            "link": "data/pokemon/pumpkaboo.json"
+        },
+        {
+            "id": 710,
+            "name": "pumpkaboo",
+            "sprite": "images/pokemon/pumpkaboo.png",
+            "link": "data/pokemon/pumpkaboo.json"
+        },
+        {
+            "id": 711,
+            "name": "gourgeist",
+            "sprite": "images/pokemon/gourgeist.png",
+            "link": "data/pokemon/gourgeist.json"
+        },
+        {
+            "id": 711,
+            "name": "gourgeist",
+            "sprite": "images/pokemon/gourgeist.png",
+            "link": "data/pokemon/gourgeist.json"
+        },
+        {
+            "id": 711,
+            "name": "gourgeist",
+            "sprite": "images/pokemon/gourgeist.png",
+            "link": "data/pokemon/gourgeist.json"
+        },
+        {
+            "id": 711,
+            "name": "gourgeist",
+            "sprite": "images/pokemon/gourgeist.png",
+            "link": "data/pokemon/gourgeist.json"
+        },
+        {
+            "id": 712,
+            "name": "bergmite",
+            "sprite": "images/pokemon/bergmite.png",
+            "link": "data/pokemon/bergmite.json"
+        },
+        {
+            "id": 713,
+            "name": "avalugg",
+            "sprite": "images/pokemon/avalugg.png",
+            "link": "data/pokemon/avalugg.json"
+        },
+        {
+            "id": 714,
+            "name": "noibat",
+            "sprite": "images/pokemon/noibat.png",
+            "link": "data/pokemon/noibat.json"
+        },
+        {
+            "id": 715,
+            "name": "noivern",
+            "sprite": "images/pokemon/noivern.png",
+            "link": "data/pokemon/noivern.json"
+        },
+        {
+            "id": 716,
+            "name": "xerneas",
+            "sprite": "images/pokemon/xerneas.png",
+            "link": "data/pokemon/xerneas.json"
+        },
+        {
+            "id": 717,
+            "name": "yveltal",
+            "sprite": "images/pokemon/yveltal.png",
+            "link": "data/pokemon/yveltal.json"
+        },
+        {
+            "id": 718,
+            "name": "zygarde 50",
+            "sprite": "images/pokemon/zygarde-50.png",
+            "link": "data/pokemon/zygarde-50.json"
+        },
+        {
+            "id": 718,
+            "name": "zygarde 10",
+            "sprite": "images/pokemon/zygarde-10.png",
+            "link": "data/pokemon/zygarde-10.json"
+        },
+        {
+            "id": 718,
+            "name": "zygarde complete",
+            "sprite": "images/pokemon/zygarde-complete.png",
+            "link": "data/pokemon/zygarde-complete.json"
+        },
+        {
+            "id": 719,
+            "name": "diancie",
+            "sprite": "images/pokemon/diancie.png",
+            "link": "data/pokemon/diancie.json"
+        },
+        {
+            "id": 719,
+            "name": "diancie mega",
+            "sprite": "images/pokemon/diancie-mega.png",
+            "link": "data/pokemon/diancie-mega.json"
+        },
+        {
+            "id": 720,
+            "name": "hoopa confined",
+            "sprite": "images/pokemon/hoopa-confined.png",
+            "link": "data/pokemon/hoopa-confined.json"
+        },
+        {
+            "id": 720,
+            "name": "hoopa unbound",
+            "sprite": "images/pokemon/hoopa-unbound.png",
+            "link": "data/pokemon/hoopa-unbound.json"
+        },
+        {
+            "id": 721,
+            "name": "volcanion",
+            "sprite": "images/pokemon/volcanion.png",
+            "link": "data/pokemon/volcanion.json"
+        },
+        {
+            "id": 722,
+            "name": "rowlet",
+            "sprite": "images/pokemon/rowlet.png",
+            "link": "data/pokemon/rowlet.json"
+        },
+        {
+            "id": 723,
+            "name": "dartrix",
+            "sprite": "images/pokemon/dartrix.png",
+            "link": "data/pokemon/dartrix.json"
+        },
+        {
+            "id": 724,
+            "name": "decidueye",
+            "sprite": "images/pokemon/decidueye.png",
+            "link": "data/pokemon/decidueye.json"
+        },
+        {
+            "id": 725,
+            "name": "litten",
+            "sprite": "images/pokemon/litten.png",
+            "link": "data/pokemon/litten.json"
+        },
+        {
+            "id": 726,
+            "name": "torracat",
+            "sprite": "images/pokemon/torracat.png",
+            "link": "data/pokemon/torracat.json"
+        },
+        {
+            "id": 727,
+            "name": "incineroar",
+            "sprite": "images/pokemon/incineroar.png",
+            "link": "data/pokemon/incineroar.json"
+        },
+        {
+            "id": 728,
+            "name": "popplio",
+            "sprite": "images/pokemon/popplio.png",
+            "link": "data/pokemon/popplio.json"
+        },
+        {
+            "id": 729,
+            "name": "brionne",
+            "sprite": "images/pokemon/brionne.png",
+            "link": "data/pokemon/brionne.json"
+        },
+        {
+            "id": 730,
+            "name": "primarina",
+            "sprite": "images/pokemon/primarina.png",
+            "link": "data/pokemon/primarina.json"
+        },
+        {
+            "id": 731,
+            "name": "pikipek",
+            "sprite": "images/pokemon/pikipek.png",
+            "link": "data/pokemon/pikipek.json"
+        },
+        {
+            "id": 732,
+            "name": "trumbeak",
+            "sprite": "images/pokemon/trumbeak.png",
+            "link": "data/pokemon/trumbeak.json"
+        },
+        {
+            "id": 733,
+            "name": "toucannon",
+            "sprite": "images/pokemon/toucannon.png",
+            "link": "data/pokemon/toucannon.json"
+        },
+        {
+            "id": 734,
+            "name": "yungoos",
+            "sprite": "images/pokemon/yungoos.png",
+            "link": "data/pokemon/yungoos.json"
+        },
+        {
+            "id": 735,
+            "name": "gumshoos",
+            "sprite": "images/pokemon/gumshoos.png",
+            "link": "data/pokemon/gumshoos.json"
+        },
+        {
+            "id": 736,
+            "name": "grubbin",
+            "sprite": "images/pokemon/grubbin.png",
+            "link": "data/pokemon/grubbin.json"
+        },
+        {
+            "id": 737,
+            "name": "charjabug",
+            "sprite": "images/pokemon/charjabug.png",
+            "link": "data/pokemon/charjabug.json"
+        },
+        {
+            "id": 738,
+            "name": "vikavolt",
+            "sprite": "images/pokemon/vikavolt.png",
+            "link": "data/pokemon/vikavolt.json"
+        },
+        {
+            "id": 739,
+            "name": "crabrawler",
+            "sprite": "images/pokemon/crabrawler.png",
+            "link": "data/pokemon/crabrawler.json"
+        },
+        {
+            "id": 740,
+            "name": "crabominable",
+            "sprite": "images/pokemon/crabominable.png",
+            "link": "data/pokemon/crabominable.json"
+        },
+        {
+            "id": 741,
+            "name": "oricorio baile",
+            "sprite": "images/pokemon/oricorio-baile.png",
+            "link": "data/pokemon/oricorio-baile.json"
+        },
+        {
+            "id": 741,
+            "name": "oricorio pom pom",
+            "sprite": "images/pokemon/oricorio-pom-pom.png",
+            "link": "data/pokemon/oricorio-pom-pom.json"
+        },
+        {
+            "id": 741,
+            "name": "oricorio pau",
+            "sprite": "images/pokemon/oricorio-pau.png",
+            "link": "data/pokemon/oricorio-pau.json"
+        },
+        {
+            "id": 741,
+            "name": "oricorio sensu",
+            "sprite": "images/pokemon/oricorio-sensu.png",
+            "link": "data/pokemon/oricorio-sensu.json"
+        },
+        {
+            "id": 742,
+            "name": "cutiefly",
+            "sprite": "images/pokemon/cutiefly.png",
+            "link": "data/pokemon/cutiefly.json"
+        },
+        {
+            "id": 743,
+            "name": "ribombee",
+            "sprite": "images/pokemon/ribombee.png",
+            "link": "data/pokemon/ribombee.json"
+        },
+        {
+            "id": 744,
+            "name": "rockruff",
+            "sprite": "images/pokemon/rockruff.png",
+            "link": "data/pokemon/rockruff.json"
+        },
+        {
+            "id": 744,
+            "name": "rockruff",
+            "sprite": "images/pokemon/rockruff.png",
+            "link": "data/pokemon/rockruff.json"
+        },
+        {
+            "id": 745,
+            "name": "lycanroc midday",
+            "sprite": "images/pokemon/lycanroc-midday.png",
+            "link": "data/pokemon/lycanroc-midday.json"
+        },
+        {
+            "id": 745,
+            "name": "lycanroc midnight",
+            "sprite": "images/pokemon/lycanroc-midnight.png",
+            "link": "data/pokemon/lycanroc-midnight.json"
+        },
+        {
+            "id": 745,
+            "name": "lycanroc dusk",
+            "sprite": "images/pokemon/lycanroc-dusk.png",
+            "link": "data/pokemon/lycanroc-dusk.json"
+        },
+        {
+            "id": 746,
+            "name": "wishiwashi solo",
+            "sprite": "images/pokemon/wishiwashi-solo.png",
+            "link": "data/pokemon/wishiwashi-solo.json"
+        },
+        {
+            "id": 746,
+            "name": "wishiwashi school",
+            "sprite": "images/pokemon/wishiwashi-school.png",
+            "link": "data/pokemon/wishiwashi-school.json"
+        },
+        {
+            "id": 747,
+            "name": "mareanie",
+            "sprite": "images/pokemon/mareanie.png",
+            "link": "data/pokemon/mareanie.json"
+        },
+        {
+            "id": 748,
+            "name": "toxapex",
+            "sprite": "images/pokemon/toxapex.png",
+            "link": "data/pokemon/toxapex.json"
+        },
+        {
+            "id": 749,
+            "name": "mudbray",
+            "sprite": "images/pokemon/mudbray.png",
+            "link": "data/pokemon/mudbray.json"
+        },
+        {
+            "id": 750,
+            "name": "mudsdale",
+            "sprite": "images/pokemon/mudsdale.png",
+            "link": "data/pokemon/mudsdale.json"
+        },
+        {
+            "id": 751,
+            "name": "dewpider",
+            "sprite": "images/pokemon/dewpider.png",
+            "link": "data/pokemon/dewpider.json"
+        },
+        {
+            "id": 752,
+            "name": "araquanid",
+            "sprite": "images/pokemon/araquanid.png",
+            "link": "data/pokemon/araquanid.json"
+        },
+        {
+            "id": 753,
+            "name": "fomantis",
+            "sprite": "images/pokemon/fomantis.png",
+            "link": "data/pokemon/fomantis.json"
+        },
+        {
+            "id": 754,
+            "name": "lurantis",
+            "sprite": "images/pokemon/lurantis.png",
+            "link": "data/pokemon/lurantis.json"
+        },
+        {
+            "id": 755,
+            "name": "morelull",
+            "sprite": "images/pokemon/morelull.png",
+            "link": "data/pokemon/morelull.json"
+        },
+        {
+            "id": 756,
+            "name": "shiinotic",
+            "sprite": "images/pokemon/shiinotic.png",
+            "link": "data/pokemon/shiinotic.json"
+        },
+        {
+            "id": 757,
+            "name": "salandit",
+            "sprite": "images/pokemon/salandit.png",
+            "link": "data/pokemon/salandit.json"
+        },
+        {
+            "id": 758,
+            "name": "salazzle",
+            "sprite": "images/pokemon/salazzle.png",
+            "link": "data/pokemon/salazzle.json"
+        },
+        {
+            "id": 759,
+            "name": "stufful",
+            "sprite": "images/pokemon/stufful.png",
+            "link": "data/pokemon/stufful.json"
+        },
+        {
+            "id": 760,
+            "name": "bewear",
+            "sprite": "images/pokemon/bewear.png",
+            "link": "data/pokemon/bewear.json"
+        },
+        {
+            "id": 761,
+            "name": "bounsweet",
+            "sprite": "images/pokemon/bounsweet.png",
+            "link": "data/pokemon/bounsweet.json"
+        },
+        {
+            "id": 762,
+            "name": "steenee",
+            "sprite": "images/pokemon/steenee.png",
+            "link": "data/pokemon/steenee.json"
+        },
+        {
+            "id": 763,
+            "name": "tsareena",
+            "sprite": "images/pokemon/tsareena.png",
+            "link": "data/pokemon/tsareena.json"
+        },
+        {
+            "id": 764,
+            "name": "comfey",
+            "sprite": "images/pokemon/comfey.png",
+            "link": "data/pokemon/comfey.json"
+        },
+        {
+            "id": 765,
+            "name": "oranguru",
+            "sprite": "images/pokemon/oranguru.png",
+            "link": "data/pokemon/oranguru.json"
+        },
+        {
+            "id": 766,
+            "name": "passimian",
+            "sprite": "images/pokemon/passimian.png",
+            "link": "data/pokemon/passimian.json"
+        },
+        {
+            "id": 767,
+            "name": "wimpod",
+            "sprite": "images/pokemon/wimpod.png",
+            "link": "data/pokemon/wimpod.json"
+        },
+        {
+            "id": 768,
+            "name": "golisopod",
+            "sprite": "images/pokemon/golisopod.png",
+            "link": "data/pokemon/golisopod.json"
+        },
+        {
+            "id": 769,
+            "name": "sandygast",
+            "sprite": "images/pokemon/sandygast.png",
+            "link": "data/pokemon/sandygast.json"
+        },
+        {
+            "id": 770,
+            "name": "palossand",
+            "sprite": "images/pokemon/palossand.png",
+            "link": "data/pokemon/palossand.json"
+        },
+        {
+            "id": 771,
+            "name": "pyukumuku",
+            "sprite": "images/pokemon/pyukumuku.png",
+            "link": "data/pokemon/pyukumuku.json"
+        },
+        {
+            "id": 772,
+            "name": "type null",
+            "sprite": "images/pokemon/type-null.png",
+            "link": "data/pokemon/type-null.json"
+        },
+        {
+            "id": 773,
+            "name": "silvally",
+            "sprite": "images/pokemon/silvally.png",
+            "link": "data/pokemon/silvally.json"
+        },
+        {
+            "id": 774,
+            "name": "minior meteor",
+            "sprite": "images/pokemon/minior-meteor.png",
+            "link": "data/pokemon/minior-meteor.json"
+        },
+        {
+            "id": 774,
+            "name": "minior core",
+            "sprite": "images/pokemon/minior-core.png",
+            "link": "data/pokemon/minior-core.json"
+        },
+        {
+            "id": 775,
+            "name": "komala",
+            "sprite": "images/pokemon/komala.png",
+            "link": "data/pokemon/komala.json"
+        },
+        {
+            "id": 776,
+            "name": "turtonator",
+            "sprite": "images/pokemon/turtonator.png",
+            "link": "data/pokemon/turtonator.json"
+        },
+        {
+            "id": 777,
+            "name": "togedemaru",
+            "sprite": "images/pokemon/togedemaru.png",
+            "link": "data/pokemon/togedemaru.json"
+        },
+        {
+            "id": 778,
+            "name": "mimikyu",
+            "sprite": "images/pokemon/mimikyu.png",
+            "link": "data/pokemon/mimikyu.json"
+        },
+        {
+            "id": 779,
+            "name": "bruxish",
+            "sprite": "images/pokemon/bruxish.png",
+            "link": "data/pokemon/bruxish.json"
+        },
+        {
+            "id": 780,
+            "name": "drampa",
+            "sprite": "images/pokemon/drampa.png",
+            "link": "data/pokemon/drampa.json"
+        },
+        {
+            "id": 781,
+            "name": "dhelmise",
+            "sprite": "images/pokemon/dhelmise.png",
+            "link": "data/pokemon/dhelmise.json"
+        },
+        {
+            "id": 782,
+            "name": "jangmo o",
+            "sprite": "images/pokemon/jangmo-o.png",
+            "link": "data/pokemon/jangmo-o.json"
+        },
+        {
+            "id": 783,
+            "name": "hakamo o",
+            "sprite": "images/pokemon/hakamo-o.png",
+            "link": "data/pokemon/hakamo-o.json"
+        },
+        {
+            "id": 784,
+            "name": "kommo o",
+            "sprite": "images/pokemon/kommo-o.png",
+            "link": "data/pokemon/kommo-o.json"
+        },
+        {
+            "id": 785,
+            "name": "tapu koko",
+            "sprite": "images/pokemon/tapu-koko.png",
+            "link": "data/pokemon/tapu-koko.json"
+        },
+        {
+            "id": 786,
+            "name": "tapu lele",
+            "sprite": "images/pokemon/tapu-lele.png",
+            "link": "data/pokemon/tapu-lele.json"
+        },
+        {
+            "id": 787,
+            "name": "tapu bulu",
+            "sprite": "images/pokemon/tapu-bulu.png",
+            "link": "data/pokemon/tapu-bulu.json"
+        },
+        {
+            "id": 788,
+            "name": "tapu fini",
+            "sprite": "images/pokemon/tapu-fini.png",
+            "link": "data/pokemon/tapu-fini.json"
+        },
+        {
+            "id": 789,
+            "name": "cosmog",
+            "sprite": "images/pokemon/cosmog.png",
+            "link": "data/pokemon/cosmog.json"
+        },
+        {
+            "id": 790,
+            "name": "cosmoem",
+            "sprite": "images/pokemon/cosmoem.png",
+            "link": "data/pokemon/cosmoem.json"
+        },
+        {
+            "id": 791,
+            "name": "solgaleo",
+            "sprite": "images/pokemon/solgaleo.png",
+            "link": "data/pokemon/solgaleo.json"
+        },
+        {
+            "id": 792,
+            "name": "lunala",
+            "sprite": "images/pokemon/lunala.png",
+            "link": "data/pokemon/lunala.json"
+        },
+        {
+            "id": 793,
+            "name": "nihilego",
+            "sprite": "images/pokemon/nihilego.png",
+            "link": "data/pokemon/nihilego.json"
+        },
+        {
+            "id": 794,
+            "name": "buzzwole",
+            "sprite": "images/pokemon/buzzwole.png",
+            "link": "data/pokemon/buzzwole.json"
+        },
+        {
+            "id": 795,
+            "name": "pheromosa",
+            "sprite": "images/pokemon/pheromosa.png",
+            "link": "data/pokemon/pheromosa.json"
+        },
+        {
+            "id": 796,
+            "name": "xurkitree",
+            "sprite": "images/pokemon/xurkitree.png",
+            "link": "data/pokemon/xurkitree.json"
+        },
+        {
+            "id": 797,
+            "name": "celesteela",
+            "sprite": "images/pokemon/celesteela.png",
+            "link": "data/pokemon/celesteela.json"
+        },
+        {
+            "id": 798,
+            "name": "kartana",
+            "sprite": "images/pokemon/kartana.png",
+            "link": "data/pokemon/kartana.json"
+        },
+        {
+            "id": 799,
+            "name": "guzzlord",
+            "sprite": "images/pokemon/guzzlord.png",
+            "link": "data/pokemon/guzzlord.json"
+        },
+        {
+            "id": 800,
+            "name": "necrozma",
+            "sprite": "images/pokemon/necrozma.png",
+            "link": "data/pokemon/necrozma.json"
+        },
+        {
+            "id": 800,
+            "name": "necrozma dusk mane",
+            "sprite": "images/pokemon/necrozma-dusk-mane.png",
+            "link": "data/pokemon/necrozma-dusk-mane.json"
+        },
+        {
+            "id": 800,
+            "name": "necrozma dawn wings",
+            "sprite": "images/pokemon/necrozma-dawn-wings.png",
+            "link": "data/pokemon/necrozma-dawn-wings.json"
+        },
+        {
+            "id": 800,
+            "name": "necrozma ultra",
+            "sprite": "images/pokemon/necrozma-ultra.png",
+            "link": "data/pokemon/necrozma-ultra.json"
+        },
+        {
+            "id": 801,
+            "name": "magearna",
+            "sprite": "images/pokemon/magearna.png",
+            "link": "data/pokemon/magearna.json"
+        },
+        {
+            "id": 802,
+            "name": "marshadow",
+            "sprite": "images/pokemon/marshadow.png",
+            "link": "data/pokemon/marshadow.json"
+        },
+        {
+            "id": 803,
+            "name": "poipole",
+            "sprite": "images/pokemon/poipole.png",
+            "link": "data/pokemon/poipole.json"
+        },
+        {
+            "id": 804,
+            "name": "naganadel",
+            "sprite": "images/pokemon/naganadel.png",
+            "link": "data/pokemon/naganadel.json"
+        },
+        {
+            "id": 805,
+            "name": "stakataka",
+            "sprite": "images/pokemon/stakataka.png",
+            "link": "data/pokemon/stakataka.json"
+        },
+        {
+            "id": 806,
+            "name": "blacephalon",
+            "sprite": "images/pokemon/blacephalon.png",
+            "link": "data/pokemon/blacephalon.json"
+        },
+        {
+            "id": 807,
+            "name": "zeraora",
+            "sprite": "images/pokemon/zeraora.png",
+            "link": "data/pokemon/zeraora.json"
+        },
+        {
+            "id": 808,
+            "name": "meltan",
+            "sprite": "images/pokemon/meltan.png",
+            "link": "data/pokemon/meltan.json"
+        },
+        {
+            "id": 809,
+            "name": "melmetal",
+            "sprite": "images/pokemon/melmetal.png",
+            "link": "data/pokemon/melmetal.json"
+        },
+        {
+            "id": 810,
+            "name": "grookey",
+            "sprite": "images/pokemon/grookey.png",
+            "link": "data/pokemon/grookey.json"
+        },
+        {
+            "id": 811,
+            "name": "thwackey",
+            "sprite": "images/pokemon/thwackey.png",
+            "link": "data/pokemon/thwackey.json"
+        },
+        {
+            "id": 812,
+            "name": "rillaboom",
+            "sprite": "images/pokemon/rillaboom.png",
+            "link": "data/pokemon/rillaboom.json"
+        },
+        {
+            "id": 813,
+            "name": "scorbunny",
+            "sprite": "images/pokemon/scorbunny.png",
+            "link": "data/pokemon/scorbunny.json"
+        },
+        {
+            "id": 814,
+            "name": "raboot",
+            "sprite": "images/pokemon/raboot.png",
+            "link": "data/pokemon/raboot.json"
+        },
+        {
+            "id": 815,
+            "name": "cinderace",
+            "sprite": "images/pokemon/cinderace.png",
+            "link": "data/pokemon/cinderace.json"
+        },
+        {
+            "id": 816,
+            "name": "sobble",
+            "sprite": "images/pokemon/sobble.png",
+            "link": "data/pokemon/sobble.json"
+        },
+        {
+            "id": 817,
+            "name": "drizzile",
+            "sprite": "images/pokemon/drizzile.png",
+            "link": "data/pokemon/drizzile.json"
+        },
+        {
+            "id": 818,
+            "name": "inteleon",
+            "sprite": "images/pokemon/inteleon.png",
+            "link": "data/pokemon/inteleon.json"
+        },
+        {
+            "id": 819,
+            "name": "skwovet",
+            "sprite": "images/pokemon/skwovet.png",
+            "link": "data/pokemon/skwovet.json"
+        },
+        {
+            "id": 820,
+            "name": "greedent",
+            "sprite": "images/pokemon/greedent.png",
+            "link": "data/pokemon/greedent.json"
+        },
+        {
+            "id": 821,
+            "name": "rookidee",
+            "sprite": "images/pokemon/rookidee.png",
+            "link": "data/pokemon/rookidee.json"
+        },
+        {
+            "id": 822,
+            "name": "corvisquire",
+            "sprite": "images/pokemon/corvisquire.png",
+            "link": "data/pokemon/corvisquire.json"
+        },
+        {
+            "id": 823,
+            "name": "corviknight",
+            "sprite": "images/pokemon/corviknight.png",
+            "link": "data/pokemon/corviknight.json"
+        },
+        {
+            "id": 824,
+            "name": "blipbug",
+            "sprite": "images/pokemon/blipbug.png",
+            "link": "data/pokemon/blipbug.json"
+        },
+        {
+            "id": 825,
+            "name": "dottler",
+            "sprite": "images/pokemon/dottler.png",
+            "link": "data/pokemon/dottler.json"
+        },
+        {
+            "id": 826,
+            "name": "orbeetle",
+            "sprite": "images/pokemon/orbeetle.png",
+            "link": "data/pokemon/orbeetle.json"
+        },
+        {
+            "id": 827,
+            "name": "nickit",
+            "sprite": "images/pokemon/nickit.png",
+            "link": "data/pokemon/nickit.json"
+        },
+        {
+            "id": 828,
+            "name": "thievul",
+            "sprite": "images/pokemon/thievul.png",
+            "link": "data/pokemon/thievul.json"
+        },
+        {
+            "id": 829,
+            "name": "gossifleur",
+            "sprite": "images/pokemon/gossifleur.png",
+            "link": "data/pokemon/gossifleur.json"
+        },
+        {
+            "id": 830,
+            "name": "eldegoss",
+            "sprite": "images/pokemon/eldegoss.png",
+            "link": "data/pokemon/eldegoss.json"
+        },
+        {
+            "id": 831,
+            "name": "wooloo",
+            "sprite": "images/pokemon/wooloo.png",
+            "link": "data/pokemon/wooloo.json"
+        },
+        {
+            "id": 832,
+            "name": "dubwool",
+            "sprite": "images/pokemon/dubwool.png",
+            "link": "data/pokemon/dubwool.json"
+        },
+        {
+            "id": 833,
+            "name": "chewtle",
+            "sprite": "images/pokemon/chewtle.png",
+            "link": "data/pokemon/chewtle.json"
+        },
+        {
+            "id": 834,
+            "name": "drednaw",
+            "sprite": "images/pokemon/drednaw.png",
+            "link": "data/pokemon/drednaw.json"
+        },
+        {
+            "id": 835,
+            "name": "yamper",
+            "sprite": "images/pokemon/yamper.png",
+            "link": "data/pokemon/yamper.json"
+        },
+        {
+            "id": 836,
+            "name": "boltund",
+            "sprite": "images/pokemon/boltund.png",
+            "link": "data/pokemon/boltund.json"
+        },
+        {
+            "id": 837,
+            "name": "rolycoly",
+            "sprite": "images/pokemon/rolycoly.png",
+            "link": "data/pokemon/rolycoly.json"
+        },
+        {
+            "id": 838,
+            "name": "carkol",
+            "sprite": "images/pokemon/carkol.png",
+            "link": "data/pokemon/carkol.json"
+        },
+        {
+            "id": 839,
+            "name": "coalossal",
+            "sprite": "images/pokemon/coalossal.png",
+            "link": "data/pokemon/coalossal.json"
+        },
+        {
+            "id": 840,
+            "name": "applin",
+            "sprite": "images/pokemon/applin.png",
+            "link": "data/pokemon/applin.json"
+        },
+        {
+            "id": 841,
+            "name": "flapple",
+            "sprite": "images/pokemon/flapple.png",
+            "link": "data/pokemon/flapple.json"
+        },
+        {
+            "id": 842,
+            "name": "appletun",
+            "sprite": "images/pokemon/appletun.png",
+            "link": "data/pokemon/appletun.json"
+        },
+        {
+            "id": 843,
+            "name": "silicobra",
+            "sprite": "images/pokemon/silicobra.png",
+            "link": "data/pokemon/silicobra.json"
+        },
+        {
+            "id": 844,
+            "name": "sandaconda",
+            "sprite": "images/pokemon/sandaconda.png",
+            "link": "data/pokemon/sandaconda.json"
+        },
+        {
+            "id": 845,
+            "name": "cramorant",
+            "sprite": "images/pokemon/cramorant.png",
+            "link": "data/pokemon/cramorant.json"
+        },
+        {
+            "id": 846,
+            "name": "arrokuda",
+            "sprite": "images/pokemon/arrokuda.png",
+            "link": "data/pokemon/arrokuda.json"
+        },
+        {
+            "id": 847,
+            "name": "barraskewda",
+            "sprite": "images/pokemon/barraskewda.png",
+            "link": "data/pokemon/barraskewda.json"
+        },
+        {
+            "id": 848,
+            "name": "toxel",
+            "sprite": "images/pokemon/toxel.png",
+            "link": "data/pokemon/toxel.json"
+        },
+        {
+            "id": 849,
+            "name": "toxtricity low key",
+            "sprite": "images/pokemon/toxtricity-low-key.png",
+            "link": "data/pokemon/toxtricity-low-key.json"
+        },
+        {
+            "id": 849,
+            "name": "toxtricity amped",
+            "sprite": "images/pokemon/toxtricity-amped.png",
+            "link": "data/pokemon/toxtricity-amped.json"
+        },
+        {
+            "id": 850,
+            "name": "sizzlipede",
+            "sprite": "images/pokemon/sizzlipede.png",
+            "link": "data/pokemon/sizzlipede.json"
+        },
+        {
+            "id": 851,
+            "name": "centiskorch",
+            "sprite": "images/pokemon/centiskorch.png",
+            "link": "data/pokemon/centiskorch.json"
+        },
+        {
+            "id": 852,
+            "name": "clobbopus",
+            "sprite": "images/pokemon/clobbopus.png",
+            "link": "data/pokemon/clobbopus.json"
+        },
+        {
+            "id": 853,
+            "name": "grapploct",
+            "sprite": "images/pokemon/grapploct.png",
+            "link": "data/pokemon/grapploct.json"
+        },
+        {
+            "id": 854,
+            "name": "sinistea",
+            "sprite": "images/pokemon/sinistea.png",
+            "link": "data/pokemon/sinistea.json"
+        },
+        {
+            "id": 855,
+            "name": "polteageist",
+            "sprite": "images/pokemon/polteageist.png",
+            "link": "data/pokemon/polteageist.json"
+        },
+        {
+            "id": 856,
+            "name": "hatenna",
+            "sprite": "images/pokemon/hatenna.png",
+            "link": "data/pokemon/hatenna.json"
+        },
+        {
+            "id": 857,
+            "name": "hattrem",
+            "sprite": "images/pokemon/hattrem.png",
+            "link": "data/pokemon/hattrem.json"
+        },
+        {
+            "id": 858,
+            "name": "hatterene",
+            "sprite": "images/pokemon/hatterene.png",
+            "link": "data/pokemon/hatterene.json"
+        },
+        {
+            "id": 859,
+            "name": "impidimp",
+            "sprite": "images/pokemon/impidimp.png",
+            "link": "data/pokemon/impidimp.json"
+        },
+        {
+            "id": 860,
+            "name": "morgrem",
+            "sprite": "images/pokemon/morgrem.png",
+            "link": "data/pokemon/morgrem.json"
+        },
+        {
+            "id": 861,
+            "name": "grimmsnarl",
+            "sprite": "images/pokemon/grimmsnarl.png",
+            "link": "data/pokemon/grimmsnarl.json"
+        },
+        {
+            "id": 862,
+            "name": "obstagoon",
+            "sprite": "images/pokemon/obstagoon.png",
+            "link": "data/pokemon/obstagoon.json"
+        },
+        {
+            "id": 863,
+            "name": "perrserker",
+            "sprite": "images/pokemon/perrserker.png",
+            "link": "data/pokemon/perrserker.json"
+        },
+        {
+            "id": 864,
+            "name": "cursola",
+            "sprite": "images/pokemon/cursola.png",
+            "link": "data/pokemon/cursola.json"
+        },
+        {
+            "id": 865,
+            "name": "sirfetchd",
+            "sprite": "images/pokemon/sirfetchd.png",
+            "link": "data/pokemon/sirfetchd.json"
+        },
+        {
+            "id": 866,
+            "name": "mr rime",
+            "sprite": "images/pokemon/mr-rime.png",
+            "link": "data/pokemon/mr-rime.json"
+        },
+        {
+            "id": 867,
+            "name": "runerigus",
+            "sprite": "images/pokemon/runerigus.png",
+            "link": "data/pokemon/runerigus.json"
+        },
+        {
+            "id": 868,
+            "name": "milcery",
+            "sprite": "images/pokemon/milcery.png",
+            "link": "data/pokemon/milcery.json"
+        },
+        {
+            "id": 869,
+            "name": "alcremie",
+            "sprite": "images/pokemon/alcremie.png",
+            "link": "data/pokemon/alcremie.json"
+        },
+        {
+            "id": 870,
+            "name": "falinks",
+            "sprite": "images/pokemon/falinks.png",
+            "link": "data/pokemon/falinks.json"
+        },
+        {
+            "id": 871,
+            "name": "pincurchin",
+            "sprite": "images/pokemon/pincurchin.png",
+            "link": "data/pokemon/pincurchin.json"
+        },
+        {
+            "id": 872,
+            "name": "snom",
+            "sprite": "images/pokemon/snom.png",
+            "link": "data/pokemon/snom.json"
+        },
+        {
+            "id": 873,
+            "name": "frosmoth",
+            "sprite": "images/pokemon/frosmoth.png",
+            "link": "data/pokemon/frosmoth.json"
+        },
+        {
+            "id": 874,
+            "name": "stonjourner",
+            "sprite": "images/pokemon/stonjourner.png",
+            "link": "data/pokemon/stonjourner.json"
+        },
+        {
+            "id": 875,
+            "name": "eiscue ice",
+            "sprite": "images/pokemon/eiscue-ice.png",
+            "link": "data/pokemon/eiscue-ice.json"
+        },
+        {
+            "id": 875,
+            "name": "eiscue noice",
+            "sprite": "images/pokemon/eiscue-noice.png",
+            "link": "data/pokemon/eiscue-noice.json"
+        },
+        {
+            "id": 876,
+            "name": "indeedee male",
+            "sprite": "images/pokemon/indeedee-male.png",
+            "link": "data/pokemon/indeedee-male.json"
+        },
+        {
+            "id": 876,
+            "name": "indeedee female",
+            "sprite": "images/pokemon/indeedee-female.png",
+            "link": "data/pokemon/indeedee-female.json"
+        },
+        {
+            "id": 877,
+            "name": "morpeko full belly",
+            "sprite": "images/pokemon/morpeko-full-belly.png",
+            "link": "data/pokemon/morpeko-full-belly.json"
+        },
+        {
+            "id": 878,
+            "name": "cufant",
+            "sprite": "images/pokemon/cufant.png",
+            "link": "data/pokemon/cufant.json"
+        },
+        {
+            "id": 879,
+            "name": "copperajah",
+            "sprite": "images/pokemon/copperajah.png",
+            "link": "data/pokemon/copperajah.json"
+        },
+        {
+            "id": 880,
+            "name": "dracozolt",
+            "sprite": "images/pokemon/dracozolt.png",
+            "link": "data/pokemon/dracozolt.json"
+        },
+        {
+            "id": 881,
+            "name": "arctozolt",
+            "sprite": "images/pokemon/arctozolt.png",
+            "link": "data/pokemon/arctozolt.json"
+        },
+        {
+            "id": 882,
+            "name": "dracovish",
+            "sprite": "images/pokemon/dracovish.png",
+            "link": "data/pokemon/dracovish.json"
+        },
+        {
+            "id": 883,
+            "name": "arctovish",
+            "sprite": "images/pokemon/arctovish.png",
+            "link": "data/pokemon/arctovish.json"
+        },
+        {
+            "id": 884,
+            "name": "duraludon",
+            "sprite": "images/pokemon/duraludon.png",
+            "link": "data/pokemon/duraludon.json"
+        },
+        {
+            "id": 885,
+            "name": "dreepy",
+            "sprite": "images/pokemon/dreepy.png",
+            "link": "data/pokemon/dreepy.json"
+        },
+        {
+            "id": 886,
+            "name": "drakloak",
+            "sprite": "images/pokemon/drakloak.png",
+            "link": "data/pokemon/drakloak.json"
+        },
+        {
+            "id": 887,
+            "name": "dragapult",
+            "sprite": "images/pokemon/dragapult.png",
+            "link": "data/pokemon/dragapult.json"
+        },
+        {
+            "id": 888,
+            "name": "zacian crowned",
+            "sprite": "images/pokemon/zacian-crowned.png",
+            "link": "data/pokemon/zacian-crowned.json"
+        },
+        {
+            "id": 888,
+            "name": "zacian hero",
+            "sprite": "images/pokemon/zacian-hero.png",
+            "link": "data/pokemon/zacian-hero.json"
+        },
+        {
+            "id": 889,
+            "name": "zamazenta crowned",
+            "sprite": "images/pokemon/zamazenta-crowned.png",
+            "link": "data/pokemon/zamazenta-crowned.json"
+        },
+        {
+            "id": 889,
+            "name": "zamazenta hero",
+            "sprite": "images/pokemon/zamazenta-hero.png",
+            "link": "data/pokemon/zamazenta-hero.json"
+        },
+        {
+            "id": 890,
+            "name": "eternatus",
+            "sprite": "images/pokemon/eternatus.png",
+            "link": "data/pokemon/eternatus.json"
+        },
+        {
+            "id": 890,
+            "name": "eternatus eternamax",
+            "sprite": "images/pokemon/eternatus-eternamax.png",
+            "link": "data/pokemon/eternatus-eternamax.json"
+        },
+        {
+            "id": 891,
+            "name": "kubfu",
+            "sprite": "images/pokemon/kubfu.png",
+            "link": "data/pokemon/kubfu.json"
+        },
+        {
+            "id": 892,
+            "name": "urshifu single strike",
+            "sprite": "images/pokemon/urshifu-single-strike.png",
+            "link": "data/pokemon/urshifu-single-strike.json"
+        },
+        {
+            "id": 892,
+            "name": "urshifu rapid strike",
+            "sprite": "images/pokemon/urshifu-rapid-strike.png",
+            "link": "data/pokemon/urshifu-rapid-strike.json"
+        },
+        {
+            "id": 893,
+            "name": "zarude",
+            "sprite": "images/pokemon/zarude.png",
+            "link": "data/pokemon/zarude.json"
+        },
+        {
+            "id": 894,
+            "name": "regieleki",
+            "sprite": "images/pokemon/regieleki.png",
+            "link": "data/pokemon/regieleki.json"
+        },
+        {
+            "id": 895,
+            "name": "regidrago",
+            "sprite": "images/pokemon/regidrago.png",
+            "link": "data/pokemon/regidrago.json"
+        },
+        {
+            "id": 896,
+            "name": "glastrier",
+            "sprite": "images/pokemon/glastrier.png",
+            "link": "data/pokemon/glastrier.json"
+        },
+        {
+            "id": 897,
+            "name": "spectrier",
+            "sprite": "images/pokemon/spectrier.png",
+            "link": "data/pokemon/spectrier.json"
+        },
+        {
+            "id": 898,
+            "name": "calyrex",
+            "sprite": "images/pokemon/calyrex.png",
+            "link": "data/pokemon/calyrex.json"
+        },
+        {
+            "id": 898,
+            "name": "calyrex ice rider",
+            "sprite": "images/pokemon/calyrex-ice-rider.png",
+            "link": "data/pokemon/calyrex-ice-rider.json"
+        },
+        {
+            "id": 898,
+            "name": "calyrex shadow rider",
+            "sprite": "images/pokemon/calyrex-shadow-rider.png",
+            "link": "data/pokemon/calyrex-shadow-rider.json"
+        }
+    ]
+}

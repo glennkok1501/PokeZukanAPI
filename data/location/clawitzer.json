@@ -1,0 +1,14 @@
+{
+    "location": [
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "ambrette-town-area",
+                "cyllage-city-area",
+                "kalos-route-8-area"
+            ]
+        }
+    ]
+}

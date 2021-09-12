@@ -1,0 +1,53 @@
+{
+    "name": "zygarde 10",
+    "id": 718,
+    "info": {
+        "species": "order pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "power-construct",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "height": 1.2,
+        "weight": 33.5
+    },
+    "sprites": {
+        "home": "images/pokemon/zygarde-10.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10118.png"
+    },
+    "moves": "data/moves/zygarde-10.json",
+    "location": "data/location/zygarde-10.json",
+    "base_stats": {
+        "hp": 54,
+        "attack": 100,
+        "defense": 71,
+        "sp. atk": 61,
+        "sp. def": 85,
+        "speed": 115
+    },
+    "entry": "some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
+    "training": {
+        "base_exp": 219,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

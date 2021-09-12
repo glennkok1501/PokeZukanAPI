@@ -1,0 +1,23 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-206-area",
+                "sinnoh-route-214-area",
+                "sinnoh-route-221-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-11-area"
+            ]
+        }
+    ]
+}

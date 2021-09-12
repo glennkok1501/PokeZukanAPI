@@ -1,0 +1,60 @@
+{
+    "name": "persian",
+    "id": 53,
+    "info": {
+        "species": "classy cat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "technician",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.0,
+        "weight": 32.0
+    },
+    "sprites": {
+        "home": "images/pokemon/persian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+    },
+    "moves": "data/moves/persian.json",
+    "location": "data/location/persian.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 70,
+        "defense": 60,
+        "sp. atk": 65,
+        "sp. def": 65,
+        "speed": 115
+    },
+    "entry": "this pok\u00e9mon is one tough opponent. not only does it have formidable physical abilities, but it\u2019s also not above fighting dirty.",
+    "training": {
+        "base_exp": 154,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

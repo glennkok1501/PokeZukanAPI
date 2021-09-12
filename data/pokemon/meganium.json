@@ -1,0 +1,57 @@
+{
+    "name": "meganium",
+    "id": 154,
+    "info": {
+        "species": "herb pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "leaf-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 1.8,
+        "weight": 100.5
+    },
+    "sprites": {
+        "home": "images/pokemon/meganium.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png"
+    },
+    "moves": "data/moves/meganium.json",
+    "location": "data/location/meganium.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 100,
+        "sp. atk": 83,
+        "sp. def": 100,
+        "speed": 80
+    },
+    "entry": "the fragrance of meganium\u2019s flower soothes and calms emotions. in battle, this pok\u00e9mon gives off more of its becalming scent to blunt the foe\u2019s fighting spirit.",
+    "training": {
+        "base_exp": 236,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

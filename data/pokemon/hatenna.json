@@ -1,0 +1,58 @@
+{
+    "name": "hatenna",
+    "id": 856,
+    "info": {
+        "species": "calm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "healer",
+                "is_hidden": false
+            },
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-bounce",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.4,
+        "weight": 3.4
+    },
+    "sprites": {
+        "home": "images/pokemon/hatenna.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png"
+    },
+    "moves": "data/moves/hatenna.json",
+    "location": "data/location/hatenna.json",
+    "base_stats": {
+        "hp": 42,
+        "attack": 30,
+        "defense": 45,
+        "sp. atk": 56,
+        "sp. def": 53,
+        "speed": 39
+    },
+    "entry": "if this pok\u00e9mon senses a strong emotion, it will run away as fast as it can. it prefers areas without people.",
+    "training": {
+        "base_exp": 53,
+        "capture_rate": 235,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

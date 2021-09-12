@@ -1,0 +1,60 @@
+{
+    "name": "tsareena",
+    "id": 763,
+    "info": {
+        "species": "fruit pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "queenly-majesty",
+                "is_hidden": false
+            },
+            {
+                "name": "sweet-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 1.2,
+        "weight": 21.4
+    },
+    "sprites": {
+        "home": "images/pokemon/tsareena.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
+    },
+    "moves": "data/moves/tsareena.json",
+    "location": "data/location/tsareena.json",
+    "base_stats": {
+        "hp": 72,
+        "attack": 120,
+        "defense": 98,
+        "sp. atk": 50,
+        "sp. def": 98,
+        "speed": 72
+    },
+    "entry": "a kick from the hardened tips of this pok\u00e9mon\u2019s legs leaves a wound in the opponent\u2019s body and soul that will never heal.",
+    "training": {
+        "base_exp": 230,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

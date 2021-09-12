@@ -1,0 +1,50 @@
+{
+    "name": "eiscue noice",
+    "id": 875,
+    "info": {
+        "species": "penguin pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "ice-face",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 1.4,
+        "weight": 89.0
+    },
+    "sprites": {
+        "home": "images/pokemon/eiscue-noice.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10179.png"
+    },
+    "moves": "data/moves/eiscue-noice.json",
+    "location": "data/location/eiscue-noice.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 70,
+        "sp. atk": 65,
+        "sp. def": 50,
+        "speed": 130
+    },
+    "entry": "this pok\u00e9mon keeps its heat-sensitive head cool with ice. it fishes for its food, dangling its single hair into the sea to lure in prey.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "vikavolt",
+    "id": 738,
+    "info": {
+        "species": "stag beetle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "height": 1.5,
+        "weight": 45.0
+    },
+    "sprites": {
+        "home": "images/pokemon/vikavolt.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png"
+    },
+    "moves": "data/moves/vikavolt.json",
+    "location": "data/location/vikavolt.json",
+    "base_stats": {
+        "hp": 77,
+        "attack": 70,
+        "defense": 90,
+        "sp. atk": 145,
+        "sp. def": 75,
+        "speed": 43
+    },
+    "entry": "if it carries a charjabug to use as a spare battery, a flying vikavolt can rapidly fire high-powered beams of electricity.",
+    "training": {
+        "base_exp": 225,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

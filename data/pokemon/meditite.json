@@ -1,0 +1,57 @@
+{
+    "name": "meditite",
+    "id": 307,
+    "info": {
+        "species": "meditate pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pure-power",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting",
+            "psychic"
+        ],
+        "height": 0.6,
+        "weight": 11.2
+    },
+    "sprites": {
+        "home": "images/pokemon/meditite.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png"
+    },
+    "moves": "data/moves/meditite.json",
+    "location": "data/location/meditite.json",
+    "base_stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 55,
+        "sp. atk": 40,
+        "sp. def": 55,
+        "speed": 60
+    },
+    "entry": "meditite heightens its inner energy through meditation. it survives on just one berry a day. minimal eating is another aspect of this pok\u00e9mon\u2019s training.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 180,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

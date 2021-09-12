@@ -1,0 +1,56 @@
+{
+    "name": "wurmple",
+    "id": 265,
+    "info": {
+        "species": "worm pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shield-dust",
+                "is_hidden": false
+            },
+            {
+                "name": "run-away",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.3,
+        "weight": 3.6
+    },
+    "sprites": {
+        "home": "images/pokemon/wurmple.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png"
+    },
+    "moves": "data/moves/wurmple.json",
+    "location": "data/location/wurmple.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 45,
+        "defense": 35,
+        "sp. atk": 20,
+        "sp. def": 30,
+        "speed": 20
+    },
+    "entry": "wurmple is targeted by swellow as prey. this pok\u00e9mon will try to resist by pointing the spikes on its rear at the attacking predator. it will weaken the foe by leaking poison from the spikes.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

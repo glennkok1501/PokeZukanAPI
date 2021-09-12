@@ -1,0 +1,62 @@
+{
+    "name": "omastar",
+    "id": 139,
+    "info": {
+        "species": "spiral pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "weak-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "water"
+        ],
+        "height": 1.0,
+        "weight": 35.0
+    },
+    "sprites": {
+        "home": "images/pokemon/omastar.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+    },
+    "moves": "data/moves/omastar.json",
+    "location": "data/location/omastar.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 125,
+        "sp. atk": 115,
+        "sp. def": 70,
+        "speed": 55
+    },
+    "entry": "its sharp beak rings its mouth. its shell was too big for it to move freely, so it became extinct.",
+    "training": {
+        "base_exp": 173,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water3"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

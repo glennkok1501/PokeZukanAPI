@@ -1,0 +1,62 @@
+{
+    "name": "jumpluff",
+    "id": 189,
+    "info": {
+        "species": "cottonweed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "height": 0.8,
+        "weight": 3.0
+    },
+    "sprites": {
+        "home": "images/pokemon/jumpluff.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png"
+    },
+    "moves": "data/moves/jumpluff.json",
+    "location": "data/location/jumpluff.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 55,
+        "defense": 70,
+        "sp. atk": 55,
+        "sp. def": 95,
+        "speed": 110
+    },
+    "entry": "jumpluff rides warm southern winds to cross the sea and fly to foreign lands. the pok\u00e9mon descends to the ground when it encounters cold air while it is floating.",
+    "training": {
+        "base_exp": 207,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

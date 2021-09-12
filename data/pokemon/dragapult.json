@@ -1,0 +1,59 @@
+{
+    "name": "dragapult",
+    "id": 887,
+    "info": {
+        "species": "stealth pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "clear-body",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "height": 3.0,
+        "weight": 50.0
+    },
+    "sprites": {
+        "home": "images/pokemon/dragapult.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+    },
+    "moves": "data/moves/dragapult.json",
+    "location": "data/location/dragapult.json",
+    "base_stats": {
+        "hp": 88,
+        "attack": 120,
+        "defense": 75,
+        "sp. atk": 100,
+        "sp. def": 75,
+        "speed": 142
+    },
+    "entry": "apparently the dreepy inside dragapult\u2019s horns eagerly look forward to being launched out at mach speeds.",
+    "training": {
+        "base_exp": 300,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

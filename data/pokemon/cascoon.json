@@ -1,0 +1,52 @@
+{
+    "name": "cascoon",
+    "id": 268,
+    "info": {
+        "species": "cocoon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "bug"
+        ],
+        "height": 0.7,
+        "weight": 11.5
+    },
+    "sprites": {
+        "home": "images/pokemon/cascoon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png"
+    },
+    "moves": "data/moves/cascoon.json",
+    "location": "data/location/cascoon.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "sp. atk": 25,
+        "sp. def": 25,
+        "speed": 15
+    },
+    "entry": "if it is attacked, cascoon remains motionless however badly it may be hurt. it does so because if it were to move, its body would be weak upon evolution. this pok\u00e9mon will also not forget the pain it endured.",
+    "training": {
+        "base_exp": 72,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "steelix mega",
+    "id": 208,
+    "info": {
+        "species": "iron snake pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-force",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "steel",
+            "ground"
+        ],
+        "height": 10.5,
+        "weight": 740.0
+    },
+    "sprites": {
+        "home": "images/pokemon/steelix-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10072.png"
+    },
+    "moves": "data/moves/steelix-mega.json",
+    "location": "data/location/steelix-mega.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 230,
+        "sp. atk": 55,
+        "sp. def": 95,
+        "speed": 30
+    },
+    "entry": "it is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+    "training": {
+        "base_exp": 214,
+        "capture_rate": 25,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "location": [
+        {
+            "game": [
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-214-area"
+            ]
+        },
+        {
+            "game": [
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-221-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-36-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-battle-frontier-area"
+            ]
+        }
+    ]
+}

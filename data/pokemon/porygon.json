@@ -1,0 +1,60 @@
+{
+    "name": "porygon",
+    "id": 137,
+    "info": {
+        "species": "virtual pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "trace",
+                "is_hidden": false
+            },
+            {
+                "name": "download",
+                "is_hidden": false
+            },
+            {
+                "name": "analytic",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 0.8,
+        "weight": 36.5
+    },
+    "sprites": {
+        "home": "images/pokemon/porygon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
+    },
+    "moves": "data/moves/porygon.json",
+    "location": "data/location/porygon.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 70,
+        "sp. atk": 85,
+        "sp. def": 75,
+        "speed": 40
+    },
+    "entry": "in recent years, this species has been very helpful in cyberspace. these pok\u00e9mon will go around checking to make sure no suspicious data exists.",
+    "training": {
+        "base_exp": 79,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

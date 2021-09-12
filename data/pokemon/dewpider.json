@@ -1,0 +1,58 @@
+{
+    "name": "dewpider",
+    "id": 751,
+    "info": {
+        "species": "water bubble pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-bubble",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "bug"
+        ],
+        "height": 0.3,
+        "weight": 4.0
+    },
+    "sprites": {
+        "home": "images/pokemon/dewpider.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
+    },
+    "moves": "data/moves/dewpider.json",
+    "location": "data/location/dewpider.json",
+    "base_stats": {
+        "hp": 38,
+        "attack": 40,
+        "defense": 52,
+        "sp. atk": 40,
+        "sp. def": 72,
+        "speed": 27
+    },
+    "entry": "dewpider normally lives underwater. when it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
+    "training": {
+        "base_exp": 54,
+        "capture_rate": 200,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

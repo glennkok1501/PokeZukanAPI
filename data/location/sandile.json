@@ -1,0 +1,36 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "desert-resort-entrance",
+                "desert-resort-area",
+                "relic-castle-a",
+                "unova-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "relic-castle-c"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-9-area"
+            ]
+        }
+    ]
+}

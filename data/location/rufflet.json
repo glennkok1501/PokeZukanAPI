@@ -1,0 +1,24 @@
+{
+    "location": [
+        {
+            "game": [
+                "white"
+            ],
+            "area": [
+                "unova-victory-road-outside",
+                "village-bridge-area",
+                "unova-route-10-area",
+                "unova-route-10-victory-road-gate",
+                "unova-route-11-area"
+            ]
+        },
+        {
+            "game": [
+                "white-2"
+            ],
+            "area": [
+                "unova-route-23-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "stark-mountain-area",
+                "sinnoh-route-227-area"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-45-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-113-area"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "sevault-canyon-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "reversal-mountain-unknown-area-48"
+            ]
+        }
+    ]
+}

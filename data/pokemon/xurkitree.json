@@ -1,0 +1,52 @@
+{
+    "name": "xurkitree",
+    "id": 796,
+    "info": {
+        "species": "glowing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "beast-boost",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 3.8,
+        "weight": 100.0
+    },
+    "sprites": {
+        "home": "images/pokemon/xurkitree.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
+    },
+    "moves": "data/moves/xurkitree.json",
+    "location": "data/location/xurkitree.json",
+    "base_stats": {
+        "hp": 83,
+        "attack": 89,
+        "defense": 71,
+        "sp. atk": 173,
+        "sp. def": 71,
+        "speed": 83
+    },
+    "entry": "they\u2019ve been dubbed ultra beasts. some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
+    "training": {
+        "base_exp": 257,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

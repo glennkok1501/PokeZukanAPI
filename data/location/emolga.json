@@ -1,0 +1,59 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dragonspiral-tower-entrance",
+                "dragonspiral-tower-outside",
+                "village-bridge-area",
+                "unova-route-5-area",
+                "unova-route-6-area",
+                "unova-route-7-area",
+                "unova-route-9-area",
+                "unova-route-11-area",
+                "unova-route-12-area",
+                "unova-route-13-area",
+                "unova-route-14-area",
+                "abundant-shrine-area",
+                "unova-route-15-area",
+                "unova-route-16-area",
+                "lostlorn-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "giant-chasm-outside",
+                "unova-route-10-area",
+                "unova-route-10-victory-road-gate"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-22-area",
+                "unova-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-10-area"
+            ]
+        }
+    ]
+}

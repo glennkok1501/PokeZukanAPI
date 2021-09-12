@@ -1,0 +1,58 @@
+{
+    "name": "salandit",
+    "id": 757,
+    "info": {
+        "species": "toxic lizard pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "corrosion",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "fire"
+        ],
+        "height": 0.6,
+        "weight": 4.8
+    },
+    "sprites": {
+        "home": "images/pokemon/salandit.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png"
+    },
+    "moves": "data/moves/salandit.json",
+    "location": "data/location/salandit.json",
+    "base_stats": {
+        "hp": 48,
+        "attack": 44,
+        "defense": 40,
+        "sp. atk": 71,
+        "sp. def": 40,
+        "speed": 77
+    },
+    "entry": "this sneaky pok\u00e9mon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes salandit is there.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

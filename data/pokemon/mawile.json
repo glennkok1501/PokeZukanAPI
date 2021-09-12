@@ -1,0 +1,62 @@
+{
+    "name": "mawile",
+    "id": 303,
+    "info": {
+        "species": "deceiver pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "hyper-cutter",
+                "is_hidden": false
+            },
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "steel",
+            "fairy"
+        ],
+        "height": 0.6,
+        "weight": 11.5
+    },
+    "sprites": {
+        "home": "images/pokemon/mawile.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png"
+    },
+    "moves": "data/moves/mawile.json",
+    "location": "data/location/mawile.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 85,
+        "sp. atk": 55,
+        "sp. def": 55,
+        "speed": 50
+    },
+    "entry": "it chomps with its gaping mouth. its huge jaws are actually steel horns that have been transformed.",
+    "training": {
+        "base_exp": 133,
+        "capture_rate": 45,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

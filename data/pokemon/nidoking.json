@@ -1,0 +1,62 @@
+{
+    "name": "nidoking",
+    "id": 34,
+    "info": {
+        "species": "drill pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "poison-point",
+                "is_hidden": false
+            },
+            {
+                "name": "rivalry",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "height": 1.4,
+        "weight": 62.0
+    },
+    "sprites": {
+        "home": "images/pokemon/nidoking.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+    },
+    "moves": "data/moves/nidoking.json",
+    "location": "data/location/nidoking.json",
+    "base_stats": {
+        "hp": 81,
+        "attack": 102,
+        "defense": 77,
+        "sp. atk": 85,
+        "sp. def": 75,
+        "speed": 85
+    },
+    "entry": "its steel-like hide adds to its powerful tackle. its horns are so hard, they can pierce a diamond.",
+    "training": {
+        "base_exp": 227,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "ground"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

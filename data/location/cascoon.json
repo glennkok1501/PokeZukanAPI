@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-205-east-towards-eterna-city"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "petalburg-woods-area"
+            ]
+        }
+    ]
+}

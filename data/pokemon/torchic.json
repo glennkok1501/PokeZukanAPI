@@ -1,0 +1,56 @@
+{
+    "name": "torchic",
+    "id": 255,
+    "info": {
+        "species": "chick pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "speed-boost",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.4,
+        "weight": 2.5
+    },
+    "sprites": {
+        "home": "images/pokemon/torchic.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
+    },
+    "moves": "data/moves/torchic.json",
+    "location": "data/location/torchic.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 40,
+        "sp. atk": 70,
+        "sp. def": 50,
+        "speed": 45
+    },
+    "entry": "torchic has a place inside its body where it keeps its flame. give it a hug\u2014it will be glowing with warmth. this pok\u00e9mon is covered all over by a fluffy coat of down.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

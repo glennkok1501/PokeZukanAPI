@@ -1,0 +1,210 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "canalave-city-area",
+                "eterna-city-area",
+                "pastoria-city-area",
+                "sunyshore-city-area",
+                "sinnoh-pokemon-league-area",
+                "valley-windworks-area",
+                "fuego-ironworks-area",
+                "mt-coronet-route-207",
+                "mt-coronet-4f",
+                "mt-coronet-b1f",
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-6",
+                "sinnoh-victory-road-b1f",
+                "sinnoh-victory-road-inside-b1f",
+                "ravaged-path-area",
+                "oreburgh-gate-b1f",
+                "sendoff-spring-area",
+                "iron-island-area",
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention",
+                "lake-valor-area",
+                "lake-acuity-area",
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town",
+                "sinnoh-route-205-south-towards-floaroma-town",
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-208-area",
+                "sinnoh-route-209-area",
+                "sinnoh-route-210-west-towards-celestic-town",
+                "sinnoh-route-212-north-towards-hearthome-city",
+                "sinnoh-route-212-east-towards-pastoria-city",
+                "sinnoh-route-213-area",
+                "sinnoh-route-214-area",
+                "sinnoh-route-218-area",
+                "sinnoh-route-219-area",
+                "sinnoh-route-221-area",
+                "sinnoh-route-222-area",
+                "sinnoh-route-224-area",
+                "sinnoh-route-225-area",
+                "sinnoh-route-227-area",
+                "sinnoh-route-228-area",
+                "sinnoh-route-229-area",
+                "twinleaf-town-area",
+                "celestic-town-area",
+                "sinnoh-sea-route-220-area",
+                "sinnoh-sea-route-223-area",
+                "sinnoh-sea-route-226-area",
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "great-marsh-area-5"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "resort-area-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "lake-of-rage-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "seafoam-islands-b3f",
+                "kanto-route-12-area",
+                "kanto-sea-route-19-area",
+                "kanto-sea-route-20-area",
+                "cinnabar-island-area",
+                "viridian-city-area",
+                "cerulean-city-area",
+                "vermilion-city-area",
+                "pallet-town-area",
+                "kanto-route-4-area",
+                "kanto-route-6-area",
+                "kanto-route-10-area",
+                "kanto-route-11-area",
+                "kanto-route-13-area",
+                "kanto-sea-route-21-area",
+                "kanto-route-22-area",
+                "kanto-route-24-area",
+                "kanto-route-25-area",
+                "kanto-route-23-area",
+                "ss-anne-area",
+                "berry-forest-area",
+                "icefall-cave-entrance",
+                "icefall-cave-waterfall",
+                "kindle-road-area",
+                "treasure-beach-area",
+                "cape-brink-area",
+                "bond-bridge-area",
+                "resort-gorgeous-area",
+                "water-labyrinth-area",
+                "five-isle-meadow-area",
+                "memorial-pillar-area",
+                "outcast-island-area",
+                "green-path-area",
+                "water-path-area",
+                "ruin-valley-area",
+                "trainer-tower-area",
+                "tanoby-ruins-area",
+                "one-island-area",
+                "four-island-area",
+                "five-island-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "seafoam-islands-b4f",
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-1f",
+                "cerulean-cave-2f"
+            ]
+        },
+        {
+            "game": [
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "fuchsia-city-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "sootopolis-city-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "nature-sanctuary-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-3-area",
+                "kalos-route-22-area",
+                "parfum-palace-area"
+            ]
+        }
+    ]
+}

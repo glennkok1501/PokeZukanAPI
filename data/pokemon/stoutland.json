@@ -1,0 +1,60 @@
+{
+    "name": "stoutland",
+    "id": 508,
+    "info": {
+        "species": "big-hearted pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-rush",
+                "is_hidden": false
+            },
+            {
+                "name": "scrappy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.2,
+        "weight": 61.0
+    },
+    "sprites": {
+        "home": "images/pokemon/stoutland.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
+    },
+    "moves": "data/moves/stoutland.json",
+    "location": "data/location/stoutland.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 110,
+        "defense": 90,
+        "sp. atk": 45,
+        "sp. def": 90,
+        "speed": 80
+    },
+    "entry": "stoutland is immensely proud of its impressive moustache. it\u2019s said that moustache length is what determines social standing among this species.",
+    "training": {
+        "base_exp": 225,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

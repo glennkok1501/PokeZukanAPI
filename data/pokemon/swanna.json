@@ -1,0 +1,62 @@
+{
+    "name": "swanna",
+    "id": 581,
+    "info": {
+        "species": "white bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "big-pecks",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "flying"
+        ],
+        "height": 1.3,
+        "weight": 24.2
+    },
+    "sprites": {
+        "home": "images/pokemon/swanna.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
+    },
+    "moves": "data/moves/swanna.json",
+    "location": "data/location/swanna.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 87,
+        "defense": 63,
+        "sp. atk": 87,
+        "sp. def": 63,
+        "speed": 98
+    },
+    "entry": "swanna start to dance at dusk. the one dancing in the middle is the leader of the flock.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

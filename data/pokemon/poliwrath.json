@@ -1,0 +1,61 @@
+{
+    "name": "poliwrath",
+    "id": 62,
+    "info": {
+        "species": "tadpole pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "damp",
+                "is_hidden": false
+            },
+            {
+                "name": "swift-swim",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "height": 1.3,
+        "weight": 54.0
+    },
+    "sprites": {
+        "home": "images/pokemon/poliwrath.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
+    },
+    "moves": "data/moves/poliwrath.json",
+    "location": "data/location/poliwrath.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 95,
+        "sp. atk": 70,
+        "sp. def": 90,
+        "speed": 70
+    },
+    "entry": "poliwrath is skilled at both swimming and martial arts. it uses its well-trained arms to dish out powerful punches.",
+    "training": {
+        "base_exp": 230,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

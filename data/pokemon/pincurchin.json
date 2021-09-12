@@ -1,0 +1,54 @@
+{
+    "name": "pincurchin",
+    "id": 871,
+    "info": {
+        "species": "sea urchin pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "lightning-rod",
+                "is_hidden": false
+            },
+            {
+                "name": "electric-surge",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.3,
+        "weight": 1.0
+    },
+    "sprites": {
+        "home": "images/pokemon/pincurchin.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png"
+    },
+    "moves": "data/moves/pincurchin.json",
+    "location": "data/location/pincurchin.json",
+    "base_stats": {
+        "hp": 48,
+        "attack": 101,
+        "defense": 95,
+        "sp. atk": 91,
+        "sp. def": 85,
+        "speed": 15
+    },
+    "entry": "it stores electricity in each spine. even if one gets broken off, it still continues to emit electricity for at least three hours.",
+    "training": {
+        "base_exp": 152,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

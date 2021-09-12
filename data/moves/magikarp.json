@@ -1,0 +1,24 @@
+{
+    "moves": [
+        {
+            "name": "tackle",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "splash",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "flail",
+            "method": "level-up",
+            "level": 30
+        },
+        {
+            "name": "bounce",
+            "method": "tutor",
+            "level": 0
+        }
+    ]
+}

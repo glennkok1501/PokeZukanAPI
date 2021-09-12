@@ -1,0 +1,61 @@
+{
+    "name": "wailord",
+    "id": 321,
+    "info": {
+        "species": "float whale pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "water-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "pressure",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 14.5,
+        "weight": 398.0
+    },
+    "sprites": {
+        "home": "images/pokemon/wailord.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png"
+    },
+    "moves": "data/moves/wailord.json",
+    "location": "data/location/wailord.json",
+    "base_stats": {
+        "hp": 170,
+        "attack": 90,
+        "defense": 45,
+        "sp. atk": 90,
+        "sp. def": 45,
+        "speed": 60
+    },
+    "entry": "its immense size is the reason for its popularity. wailord watching is a favorite sightseeing activity in various parts of the world.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 60,
+        "growth_rate": "fast-then-very-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "samurott",
+    "id": 503,
+    "info": {
+        "species": "formidable pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.5,
+        "weight": 94.6
+    },
+    "sprites": {
+        "home": "images/pokemon/samurott.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+    },
+    "moves": "data/moves/samurott.json",
+    "location": "data/location/samurott.json",
+    "base_stats": {
+        "hp": 95,
+        "attack": 100,
+        "defense": 85,
+        "sp. atk": 108,
+        "sp. def": 70,
+        "speed": 70
+    },
+    "entry": "one swing of the sword incorporated in its armor can fell an opponent. a simple glare from one of them quiets everybody.",
+    "training": {
+        "base_exp": 238,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "rockruff",
+    "id": 744,
+    "info": {
+        "species": "puppy pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "vital-spirit",
+                "is_hidden": false
+            },
+            {
+                "name": "steadfast",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock"
+        ],
+        "height": 0.5,
+        "weight": 9.2
+    },
+    "sprites": {
+        "home": "images/pokemon/rockruff.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+    },
+    "moves": "data/moves/rockruff.json",
+    "location": "data/location/rockruff.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 65,
+        "defense": 40,
+        "sp. atk": 30,
+        "sp. def": 40,
+        "speed": 60
+    },
+    "entry": "this pok\u00e9mon intimidates opponents by striking the ground with the rocks on its neck. the moment an opponent flinches, rockruff attacks.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

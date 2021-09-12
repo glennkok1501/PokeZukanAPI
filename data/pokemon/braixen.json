@@ -1,0 +1,56 @@
+{
+    "name": "braixen",
+    "id": 654,
+    "info": {
+        "species": "fox pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "magician",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 1.0,
+        "weight": 14.5
+    },
+    "sprites": {
+        "home": "images/pokemon/braixen.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png"
+    },
+    "moves": "data/moves/braixen.json",
+    "location": "data/location/braixen.json",
+    "base_stats": {
+        "hp": 59,
+        "attack": 59,
+        "defense": 58,
+        "sp. atk": 90,
+        "sp. def": 70,
+        "speed": 73
+    },
+    "entry": "when the twig is plucked from its tail, friction sets the twig alight. the flame is used to send signals to its allies.",
+    "training": {
+        "base_exp": 143,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

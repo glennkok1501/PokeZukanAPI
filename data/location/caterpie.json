@@ -1,0 +1,137 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "eterna-forest-area",
+                "sinnoh-route-204-north-towards-floaroma-town"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-204-south-towards-jubilife-city"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "johto-route-30-area",
+                "johto-route-31-area",
+                "ilex-forest-area",
+                "national-park-area"
+            ]
+        },
+        {
+            "game": [
+                "gold"
+            ],
+            "area": [
+                "johto-route-34-area",
+                "johto-route-35-area",
+                "johto-route-36-area",
+                "johto-route-37-area",
+                "johto-route-38-area",
+                "johto-route-39-area",
+                "lake-of-rage-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "azalea-town-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "unknown-all-bugs-area",
+                "kanto-route-2-north-towards-pewter-city"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "gold",
+                "crystal",
+                "firered",
+                "leafgreen",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-2-south-towards-viridian-city"
+            ]
+        },
+        {
+            "game": [
+                "blue",
+                "crystal",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-24-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "crystal",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen",
+                "heartgold"
+            ],
+            "area": [
+                "viridian-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "pattern-bush-area"
+            ]
+        },
+        {
+            "game": [
+                "y"
+            ],
+            "area": [
+                "kalos-route-2-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "santalune-forest-area"
+            ]
+        }
+    ]
+}

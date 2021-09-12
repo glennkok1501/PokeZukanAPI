@@ -1,0 +1,53 @@
+{
+    "name": "pidgeot mega",
+    "id": 18,
+    "info": {
+        "species": "bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "no-guard",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 2.2,
+        "weight": 50.5
+    },
+    "sprites": {
+        "home": "images/pokemon/pidgeot-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png"
+    },
+    "moves": "data/moves/pidgeot-mega.json",
+    "location": "data/location/pidgeot-mega.json",
+    "base_stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 80,
+        "sp. atk": 135,
+        "sp. def": 80,
+        "speed": 121
+    },
+    "entry": "with its muscular strength now greatly increased, it can fly continuously for two weeks without resting.",
+    "training": {
+        "base_exp": 261,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

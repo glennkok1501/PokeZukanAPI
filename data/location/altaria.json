@@ -1,0 +1,46 @@
+{
+    "location": [
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "sky-pillar-5f"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-14-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "abundant-shrine-area",
+                "unova-victory-road-2-unknown-area-73",
+                "unova-victory-road-2-unknown-area-79",
+                "nature-sanctuary-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-21-area"
+            ]
+        }
+    ]
+}

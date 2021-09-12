@@ -1,0 +1,60 @@
+{
+    "name": "machamp",
+    "id": 68,
+    "info": {
+        "species": "superpower pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "guts",
+                "is_hidden": false
+            },
+            {
+                "name": "no-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "steadfast",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fighting"
+        ],
+        "height": 1.6,
+        "weight": 130.0
+    },
+    "sprites": {
+        "home": "images/pokemon/machamp.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+    },
+    "moves": "data/moves/machamp.json",
+    "location": "data/location/machamp.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 130,
+        "defense": 80,
+        "sp. atk": 65,
+        "sp. def": 85,
+        "speed": 55
+    },
+    "entry": "with four arms that react more quickly than it can think, it can execute many punches at once.",
+    "training": {
+        "base_exp": 227,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

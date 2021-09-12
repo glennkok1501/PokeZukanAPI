@@ -1,0 +1,62 @@
+{
+    "name": "kingdra",
+    "id": 230,
+    "info": {
+        "species": "dragon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": false
+            },
+            {
+                "name": "damp",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "dragon"
+        ],
+        "height": 1.8,
+        "weight": 152.0
+    },
+    "sprites": {
+        "home": "images/pokemon/kingdra.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png"
+    },
+    "moves": "data/moves/kingdra.json",
+    "location": "data/location/kingdra.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 95,
+        "sp. atk": 95,
+        "sp. def": 95,
+        "speed": 85
+    },
+    "entry": "scales shed by this pok\u00e9mon have such a splendorous gleam to them that they\u2019ve been given to royalty as gifts.",
+    "training": {
+        "base_exp": 243,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

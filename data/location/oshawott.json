@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "hoenn-route-101-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "aspertia-city-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "nuvema-town-area"
+            ]
+        }
+    ]
+}

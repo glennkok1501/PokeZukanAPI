@@ -1,0 +1,61 @@
+{
+    "name": "jynx",
+    "id": 124,
+    "info": {
+        "species": "human shape pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "forewarn",
+                "is_hidden": false
+            },
+            {
+                "name": "dry-skin",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice",
+            "psychic"
+        ],
+        "height": 1.4,
+        "weight": 40.6
+    },
+    "sprites": {
+        "home": "images/pokemon/jynx.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+    },
+    "moves": "data/moves/jynx.json",
+    "location": "data/location/jynx.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 50,
+        "defense": 35,
+        "sp. atk": 115,
+        "sp. def": 95,
+        "speed": 95
+    },
+    "entry": "appears to move to a rhythm of its own, as if it were dancing. it wiggles its hips as it walks.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "humanshape"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

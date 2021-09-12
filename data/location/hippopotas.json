@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "ruin-maniac-cave-0-9-different-unown-caught",
+                "ruin-maniac-cave-10-25-different-unown-caught",
+                "maniac-tunnel-26-plus-different-unown-caught"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-9-area"
+            ]
+        }
+    ]
+}

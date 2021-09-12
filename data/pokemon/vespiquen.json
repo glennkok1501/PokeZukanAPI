@@ -1,0 +1,57 @@
+{
+    "name": "vespiquen",
+    "id": 416,
+    "info": {
+        "species": "beehive pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 1.2,
+        "weight": 38.5
+    },
+    "sprites": {
+        "home": "images/pokemon/vespiquen.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png"
+    },
+    "moves": "data/moves/vespiquen.json",
+    "location": "data/location/vespiquen.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 102,
+        "sp. atk": 80,
+        "sp. def": 102,
+        "speed": 40
+    },
+    "entry": "vespiquen that give off more pheromones have larger swarms of combee attendants.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 0.0,
+            "female": 100.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

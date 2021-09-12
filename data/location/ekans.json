@@ -1,0 +1,62 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-212-east-towards-pastoria-city"
+            ]
+        },
+        {
+            "game": [
+                "silver",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-32-area",
+                "johto-route-33-area",
+                "kanto-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-42-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "azalea-town-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "silver",
+                "crystal",
+                "firered",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered"
+            ],
+            "area": [
+                "kanto-route-8-area",
+                "kanto-route-9-area",
+                "kanto-route-10-area",
+                "kanto-route-11-area",
+                "kanto-route-23-area"
+            ]
+        }
+    ]
+}

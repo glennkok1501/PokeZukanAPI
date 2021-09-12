@@ -1,0 +1,57 @@
+{
+    "name": "grotle",
+    "id": 388,
+    "info": {
+        "species": "grove pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 1.1,
+        "weight": 97.0
+    },
+    "sprites": {
+        "home": "images/pokemon/grotle.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png"
+    },
+    "moves": "data/moves/grotle.json",
+    "location": "data/location/grotle.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 89,
+        "defense": 85,
+        "sp. atk": 55,
+        "sp. def": 65,
+        "speed": 36
+    },
+    "entry": "it knows where pure water wells up. it carries fellow pok\u00e9mon there on its back.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

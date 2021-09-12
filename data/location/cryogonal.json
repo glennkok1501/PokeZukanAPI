@@ -1,0 +1,34 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "twist-mountain-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "frost-cavern-unknown-area-314",
+                "frost-cavern-unknown-area-316",
+                "frost-cavern-unknown-area-317"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "frost-cavern-unknown-area-315"
+            ]
+        }
+    ]
+}

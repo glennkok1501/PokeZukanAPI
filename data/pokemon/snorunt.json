@@ -1,0 +1,61 @@
+{
+    "name": "snorunt",
+    "id": 361,
+    "info": {
+        "species": "snow hat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "inner-focus",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": false
+            },
+            {
+                "name": "moody",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 0.7,
+        "weight": 16.8
+    },
+    "sprites": {
+        "home": "images/pokemon/snorunt.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png"
+    },
+    "moves": "data/moves/snorunt.json",
+    "location": "data/location/snorunt.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 50,
+        "sp. atk": 50,
+        "sp. def": 50,
+        "speed": 50
+    },
+    "entry": "it can only survive in cold areas. it bounces happily around, even in environments as cold as \u2212150 degrees fahrenheit.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

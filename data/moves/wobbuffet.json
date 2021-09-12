@@ -1,0 +1,24 @@
+{
+    "moves": [
+        {
+            "name": "counter",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "destiny-bond",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "mirror-coat",
+            "method": "level-up",
+            "level": 1
+        }
+    ]
+}

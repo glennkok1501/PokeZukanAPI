@@ -1,0 +1,61 @@
+{
+    "name": "shiinotic",
+    "id": 756,
+    "info": {
+        "species": "illuminating pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "illuminate",
+                "is_hidden": false
+            },
+            {
+                "name": "effect-spore",
+                "is_hidden": false
+            },
+            {
+                "name": "rain-dish",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "height": 1.0,
+        "weight": 11.5
+    },
+    "sprites": {
+        "home": "images/pokemon/shiinotic.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png"
+    },
+    "moves": "data/moves/shiinotic.json",
+    "location": "data/location/shiinotic.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 80,
+        "sp. atk": 90,
+        "sp. def": 100,
+        "speed": 30
+    },
+    "entry": "if you see a light deep in a forest at night, don\u2019t go near. shiinotic will make you fall fast asleep.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

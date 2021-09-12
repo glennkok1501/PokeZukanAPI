@@ -1,0 +1,134 @@
+{
+    "location": [
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-224-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "sinnoh-route-229-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-sea-route-230-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "ilex-forest-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "firered"
+            ],
+            "area": [
+                "kanto-route-12-area",
+                "kanto-route-13-area",
+                "kanto-route-14-area",
+                "kanto-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "gold",
+                "silver",
+                "firered",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-5-area",
+                "kanto-route-6-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered"
+            ],
+            "area": [
+                "kanto-route-7-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "gold",
+                "silver",
+                "crystal",
+                "firered",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-24-area",
+                "kanto-route-25-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-110-area",
+                "hoenn-route-117-area",
+                "hoenn-route-119-area",
+                "hoenn-route-120-area",
+                "hoenn-route-121-area",
+                "hoenn-route-123-area",
+                "hoenn-safari-zone-nwmach-bike-area",
+                "hoenn-safari-zone-neacro-bike-area",
+                "hoenn-safari-zone-sw",
+                "hoenn-safari-zone-se"
+            ]
+        },
+        {
+            "game": [
+                "firered"
+            ],
+            "area": [
+                "berry-forest-area",
+                "cape-brink-area",
+                "bond-bridge-area",
+                "water-path-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-6-area"
+            ]
+        }
+    ]
+}

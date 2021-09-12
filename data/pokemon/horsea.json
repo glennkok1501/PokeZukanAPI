@@ -1,0 +1,61 @@
+{
+    "name": "horsea",
+    "id": 116,
+    "info": {
+        "species": "dragon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": false
+            },
+            {
+                "name": "damp",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.4,
+        "weight": 8.0
+    },
+    "sprites": {
+        "home": "images/pokemon/horsea.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+    },
+    "moves": "data/moves/horsea.json",
+    "location": "data/location/horsea.json",
+    "base_stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 70,
+        "sp. atk": 70,
+        "sp. def": 25,
+        "speed": 60
+    },
+    "entry": "they swim with dance-like motions and cause whirlpools to form. horsea compete to see which of them can generate the biggest whirlpool.",
+    "training": {
+        "base_exp": 59,
+        "capture_rate": 225,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "jolteon",
+    "id": 135,
+    "info": {
+        "species": "lightning pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "volt-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "quick-feet",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.8,
+        "weight": 24.5
+    },
+    "sprites": {
+        "home": "images/pokemon/jolteon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    },
+    "moves": "data/moves/jolteon.json",
+    "location": "data/location/jolteon.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "sp. atk": 110,
+        "sp. def": 95,
+        "speed": 130
+    },
+    "entry": "it accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
+    "training": {
+        "base_exp": 184,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

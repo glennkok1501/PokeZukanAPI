@@ -1,0 +1,62 @@
+{
+    "name": "heliolisk",
+    "id": 695,
+    "info": {
+        "species": "generator pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "dry-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "solar-power",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric",
+            "normal"
+        ],
+        "height": 1.0,
+        "weight": 21.0
+    },
+    "sprites": {
+        "home": "images/pokemon/heliolisk.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png"
+    },
+    "moves": "data/moves/heliolisk.json",
+    "location": "data/location/heliolisk.json",
+    "base_stats": {
+        "hp": 62,
+        "attack": 55,
+        "defense": 52,
+        "sp. atk": 109,
+        "sp. def": 94,
+        "speed": 109
+    },
+    "entry": "one heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

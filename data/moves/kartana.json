@@ -1,0 +1,179 @@
+{
+    "moves": [
+        {
+            "name": "guillotine",
+            "method": "level-up",
+            "level": 73
+        },
+        {
+            "name": "swords-dance",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "cut",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "razor-leaf",
+            "method": "level-up",
+            "level": 13
+        },
+        {
+            "name": "toxic",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "substitute",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "detect",
+            "method": "level-up",
+            "level": 53
+        },
+        {
+            "name": "false-swipe",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "fury-cutter",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "sleep-talk",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "synthesis",
+            "method": "level-up",
+            "level": 19
+        },
+        {
+            "name": "hidden-power",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "brick-break",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "air-cutter",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "aerial-ace",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "calm-mind",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "leaf-blade",
+            "method": "level-up",
+            "level": 43
+        },
+        {
+            "name": "night-slash",
+            "method": "level-up",
+            "level": 31
+        },
+        {
+            "name": "air-slash",
+            "method": "level-up",
+            "level": 59
+        },
+        {
+            "name": "x-scissor",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "vacuum-wave",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "giga-impact",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "psycho-cut",
+            "method": "level-up",
+            "level": 67
+        },
+        {
+            "name": "defog",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "round",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "sacred-sword",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "confide",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "laser-focus",
+            "method": "level-up",
+            "level": 29
+        },
+        {
+            "name": "smart-strike",
+            "method": "machine",
+            "level": 0
+        }
+    ]
+}

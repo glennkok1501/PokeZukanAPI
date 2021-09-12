@@ -1,0 +1,52 @@
+{
+    "name": "arceus",
+    "id": 493,
+    "info": {
+        "species": "alpha pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "multitype",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 3.2,
+        "weight": 320.0
+    },
+    "sprites": {
+        "home": "images/pokemon/arceus.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+    },
+    "moves": "data/moves/arceus.json",
+    "location": "data/location/arceus.json",
+    "base_stats": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "sp. atk": 120,
+        "sp. def": 120,
+        "speed": 120
+    },
+    "entry": "it is told in mythology that this pok\u00e9mon was born before the universe even existed.",
+    "training": {
+        "base_exp": 324,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

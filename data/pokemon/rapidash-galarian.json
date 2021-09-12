@@ -1,0 +1,61 @@
+{
+    "name": "rapidash galarian",
+    "id": 78,
+    "info": {
+        "species": "unique horn pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "pastel-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "anticipation",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "height": 1.7,
+        "weight": 80.0
+    },
+    "sprites": {
+        "home": "images/pokemon/rapidash-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10160.png"
+    },
+    "moves": "data/moves/rapidash-galarian.json",
+    "location": "data/location/rapidash-galarian.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 70,
+        "sp. atk": 80,
+        "sp. def": 80,
+        "speed": 105
+    },
+    "entry": "the fastest runner becomes the leader, and it decides the herd\u2019s pace and direction of travel.",
+    "training": {
+        "base_exp": 175,
+        "capture_rate": 60,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

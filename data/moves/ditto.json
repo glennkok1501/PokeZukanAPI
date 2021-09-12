@@ -1,0 +1,9 @@
+{
+    "moves": [
+        {
+            "name": "transform",
+            "method": "level-up",
+            "level": 1
+        }
+    ]
+}

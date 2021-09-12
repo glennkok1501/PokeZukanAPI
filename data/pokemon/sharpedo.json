@@ -1,0 +1,57 @@
+{
+    "name": "sharpedo",
+    "id": 319,
+    "info": {
+        "species": "brutal pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rough-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "speed-boost",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "dark"
+        ],
+        "height": 1.8,
+        "weight": 88.8
+    },
+    "sprites": {
+        "home": "images/pokemon/sharpedo.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png"
+    },
+    "moves": "data/moves/sharpedo.json",
+    "location": "data/location/sharpedo.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 40,
+        "sp. atk": 95,
+        "sp. def": 40,
+        "speed": 95
+    },
+    "entry": "this pok\u00e9mon is known as the bully of the sea. any ship entering the waters sharpedo calls home will be attacked\u2014no exceptions.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "basculin blue striped",
+    "id": 550,
+    "info": {
+        "species": "hostile pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "adaptability",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 1.0,
+        "weight": 18.0
+    },
+    "sprites": {
+        "home": "images/pokemon/basculin-blue-striped.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10016.png"
+    },
+    "moves": "data/moves/basculin-blue-striped.json",
+    "location": "data/location/basculin-blue-striped.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 92,
+        "defense": 65,
+        "sp. atk": 80,
+        "sp. def": 55,
+        "speed": 98
+    },
+    "entry": "known for their violence, these pok\u00e9mon have the most fights with schools of red- striped basculin.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 25,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

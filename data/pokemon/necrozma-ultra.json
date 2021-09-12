@@ -1,0 +1,53 @@
+{
+    "name": "necrozma ultra",
+    "id": 800,
+    "info": {
+        "species": "prism pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "neuroforce",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic",
+            "dragon"
+        ],
+        "height": 7.5,
+        "weight": 230.0
+    },
+    "sprites": {
+        "home": "images/pokemon/necrozma-ultra.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10157.png"
+    },
+    "moves": "data/moves/necrozma-ultra.json",
+    "location": "data/location/necrozma-ultra.json",
+    "base_stats": {
+        "hp": 97,
+        "attack": 167,
+        "defense": 97,
+        "sp. atk": 167,
+        "sp. def": 97,
+        "speed": 129
+    },
+    "entry": "when necrozma latches on to lunala, it becomes vicious, seeing enemies everywhere it looks. it will burn the world with lasers.",
+    "training": {
+        "base_exp": 339,
+        "capture_rate": 255,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

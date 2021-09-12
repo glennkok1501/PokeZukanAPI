@@ -1,0 +1,33 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "stark-mountain-area",
+                "stark-mountain-entrance",
+                "stark-mountain-inside",
+                "sinnoh-route-227-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-34-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2"
+            ],
+            "area": [
+                "virbank-complex-outer",
+                "virbank-complex-inner"
+            ]
+        }
+    ]
+}

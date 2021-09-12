@@ -1,0 +1,53 @@
+{
+    "name": "cherrim",
+    "id": 421,
+    "info": {
+        "species": "blossom pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flower-gift",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.5,
+        "weight": 9.3
+    },
+    "sprites": {
+        "home": "images/pokemon/cherrim.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png"
+    },
+    "moves": "data/moves/cherrim.json",
+    "location": "data/location/cherrim.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 70,
+        "sp. atk": 87,
+        "sp. def": 78,
+        "speed": 85
+    },
+    "entry": "the faint scent that emanates from its full blossom entices bug pok\u00e9mon to it.",
+    "training": {
+        "base_exp": 158,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "pidgey",
+    "id": 16,
+    "info": {
+        "species": "tiny bird pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "tangled-feet",
+                "is_hidden": false
+            },
+            {
+                "name": "big-pecks",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 0.3,
+        "weight": 1.8
+    },
+    "sprites": {
+        "home": "images/pokemon/pidgey.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+    },
+    "moves": "data/moves/pidgey.json",
+    "location": "data/location/pidgey.json",
+    "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "sp. atk": 35,
+        "sp. def": 35,
+        "speed": 56
+    },
+    "entry": "very docile. if attacked, it will often kick up sand to protect itself rather than fight back.",
+    "training": {
+        "base_exp": 50,
+        "capture_rate": 255,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "monferno",
+    "id": 391,
+    "info": {
+        "species": "playful pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "iron-fist",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "height": 0.9,
+        "weight": 22.0
+    },
+    "sprites": {
+        "home": "images/pokemon/monferno.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png"
+    },
+    "moves": "data/moves/monferno.json",
+    "location": "data/location/monferno.json",
+    "base_stats": {
+        "hp": 64,
+        "attack": 78,
+        "defense": 52,
+        "sp. atk": 78,
+        "sp. def": 52,
+        "speed": 81
+    },
+    "entry": "it uses ceilings and walls to launch aerial attacks. its fiery tail is but one weapon.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "humanshape"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

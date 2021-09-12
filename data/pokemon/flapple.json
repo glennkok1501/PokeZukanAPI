@@ -1,0 +1,59 @@
+{
+    "name": "flapple",
+    "id": 841,
+    "info": {
+        "species": "apple wing pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "ripen",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "hustle",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "height": 0.3,
+        "weight": 1.0
+    },
+    "sprites": {
+        "home": "images/pokemon/flapple.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
+    },
+    "moves": "data/moves/flapple.json",
+    "location": "data/location/flapple.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "sp. atk": 95,
+        "sp. def": 60,
+        "speed": 70
+    },
+    "entry": "it flies on wings of apple skin and spits a powerful acid. it can also change its shape into that of an apple.",
+    "training": {
+        "base_exp": 170,
+        "capture_rate": 45,
+        "growth_rate": "slow-then-very-fast"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

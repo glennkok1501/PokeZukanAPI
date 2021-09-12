@@ -1,0 +1,52 @@
+{
+    "name": "uxie",
+    "id": 480,
+    "info": {
+        "species": "knowledge pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "psychic"
+        ],
+        "height": 0.3,
+        "weight": 0.3
+    },
+    "sprites": {
+        "home": "images/pokemon/uxie.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
+    },
+    "moves": "data/moves/uxie.json",
+    "location": "data/location/uxie.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 130,
+        "sp. atk": 75,
+        "sp. def": 130,
+        "speed": 95
+    },
+    "entry": "it is said that its emergence gave humans the intelligence to improve their quality of life.",
+    "training": {
+        "base_exp": 261,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 140,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 80,
+            "steps": 20655
+        }
+    }
+}

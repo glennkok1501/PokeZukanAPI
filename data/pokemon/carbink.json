@@ -1,0 +1,58 @@
+{
+    "name": "carbink",
+    "id": 703,
+    "info": {
+        "species": "jewel pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "clear-body",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "fairy"
+        ],
+        "height": 0.3,
+        "weight": 5.7
+    },
+    "sprites": {
+        "home": "images/pokemon/carbink.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+    },
+    "moves": "data/moves/carbink.json",
+    "location": "data/location/carbink.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 150,
+        "sp. atk": 50,
+        "sp. def": 150,
+        "speed": 50
+    },
+    "entry": "to keep the jewels on their bodies free of tarnish, packs of carbink use their soft manes to polish one another\u2019s jewels.",
+    "training": {
+        "base_exp": 100,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy",
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 25,
+            "steps": 6630
+        }
+    }
+}

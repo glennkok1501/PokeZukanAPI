@@ -1,0 +1,16 @@
+{
+    "location": [
+        {
+            "game": [
+                "red",
+                "blue",
+                "yellow",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "kanto-victory-road-2-2f"
+            ]
+        }
+    ]
+}

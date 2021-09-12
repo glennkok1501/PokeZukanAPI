@@ -1,0 +1,58 @@
+{
+    "name": "sandaconda",
+    "id": 844,
+    "info": {
+        "species": "sand snake pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-spit",
+                "is_hidden": false
+            },
+            {
+                "name": "shed-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground"
+        ],
+        "height": 3.8,
+        "weight": 65.5
+    },
+    "sprites": {
+        "home": "images/pokemon/sandaconda.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
+    },
+    "moves": "data/moves/sandaconda.json",
+    "location": "data/location/sandaconda.json",
+    "base_stats": {
+        "hp": 72,
+        "attack": 107,
+        "defense": 125,
+        "sp. atk": 65,
+        "sp. def": 70,
+        "speed": 71
+    },
+    "entry": "sand swirls around its body with such speed and power that it could pulverize a skyscraper.",
+    "training": {
+        "base_exp": 179,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

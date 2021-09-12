@@ -1,0 +1,61 @@
+{
+    "name": "rattata alolan",
+    "id": 19,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "hustle",
+                "is_hidden": false
+            },
+            {
+                "name": "thick-fat",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "normal"
+        ],
+        "height": 0.3,
+        "weight": 3.8
+    },
+    "sprites": {
+        "home": "images/pokemon/rattata-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10091.png"
+    },
+    "moves": "data/moves/rattata-alolan.json",
+    "location": "data/location/rattata-alolan.json",
+    "base_stats": {
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "sp. atk": 25,
+        "sp. def": 35,
+        "speed": 72
+    },
+    "entry": "will chew on anything with its fangs. if you see one, you can be certain that 40 more live in the area.",
+    "training": {
+        "base_exp": 51,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

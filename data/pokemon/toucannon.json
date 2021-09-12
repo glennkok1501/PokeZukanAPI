@@ -1,0 +1,61 @@
+{
+    "name": "toucannon",
+    "id": 733,
+    "info": {
+        "species": "cannon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "skill-link",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.1,
+        "weight": 26.0
+    },
+    "sprites": {
+        "home": "images/pokemon/toucannon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
+    },
+    "moves": "data/moves/toucannon.json",
+    "location": "data/location/toucannon.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 75,
+        "sp. atk": 75,
+        "sp. def": 75,
+        "speed": 60
+    },
+    "entry": "known for forming harmonious couples, this pok\u00e9mon is brought to wedding ceremonies as a good luck charm.",
+    "training": {
+        "base_exp": 218,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

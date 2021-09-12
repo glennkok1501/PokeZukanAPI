@@ -1,0 +1,57 @@
+{
+    "name": "raichu",
+    "id": 26,
+    "info": {
+        "species": "mouse pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "static",
+                "is_hidden": false
+            },
+            {
+                "name": "lightning-rod",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "electric"
+        ],
+        "height": 0.8,
+        "weight": 30.0
+    },
+    "sprites": {
+        "home": "images/pokemon/raichu.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+    },
+    "moves": "data/moves/raichu.json",
+    "location": "data/location/raichu.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 55,
+        "sp. atk": 90,
+        "sp. def": 80,
+        "speed": 110
+    },
+    "entry": "this pok\u00e9mon rides on its tail while it uses its psychic powers to levitate. it attacks with star-shaped thunderbolts.",
+    "training": {
+        "base_exp": 218,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

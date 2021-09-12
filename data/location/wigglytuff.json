@@ -1,0 +1,33 @@
+{
+    "location": [
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "cerulean-cave-2f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dreamyard-area",
+                "unova-route-1-area",
+                "unova-route-2-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-14-area"
+            ]
+        }
+    ]
+}

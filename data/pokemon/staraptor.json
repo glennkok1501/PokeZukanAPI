@@ -1,0 +1,57 @@
+{
+    "name": "staraptor",
+    "id": 398,
+    "info": {
+        "species": "predator pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "reckless",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.2,
+        "weight": 24.9
+    },
+    "sprites": {
+        "home": "images/pokemon/staraptor.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png"
+    },
+    "moves": "data/moves/staraptor.json",
+    "location": "data/location/staraptor.json",
+    "base_stats": {
+        "hp": 85,
+        "attack": 120,
+        "defense": 70,
+        "sp. atk": 50,
+        "sp. def": 60,
+        "speed": 100
+    },
+    "entry": "when staravia evolve into staraptor, they leave the flock to live alone. they have sturdy wings.",
+    "training": {
+        "base_exp": 218,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "thwackey",
+    "id": 811,
+    "info": {
+        "species": "beat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "grassy-surge",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.7,
+        "weight": 14.0
+    },
+    "sprites": {
+        "home": "images/pokemon/thwackey.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png"
+    },
+    "moves": "data/moves/thwackey.json",
+    "location": "data/location/thwackey.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 70,
+        "sp. atk": 55,
+        "sp. def": 60,
+        "speed": 80
+    },
+    "entry": "when it\u2019s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won\u2019t even notice that it\u2019s already knocked out its opponent.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

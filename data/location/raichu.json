@@ -1,0 +1,22 @@
+{
+    "location": [
+        {
+            "game": [
+                "red",
+                "blue"
+            ],
+            "area": [
+                "cerulean-cave-1f",
+                "cerulean-cave-b1f"
+            ]
+        },
+        {
+            "game": [
+                "blue"
+            ],
+            "area": [
+                "power-plant-area"
+            ]
+        }
+    ]
+}

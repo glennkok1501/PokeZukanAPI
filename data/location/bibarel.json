@@ -1,0 +1,55 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6",
+                "sendoff-spring-area",
+                "lake-valor-area",
+                "lake-acuity-area",
+                "valor-lakefront-area",
+                "sinnoh-route-208-area",
+                "sinnoh-route-209-area",
+                "sinnoh-route-210-west-towards-celestic-town"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "lake-verity-before-galactic-intervention",
+                "lake-verity-after-galactic-intervention",
+                "sinnoh-route-212-east-towards-pastoria-city"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "village-bridge-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-22-area"
+            ]
+        }
+    ]
+}

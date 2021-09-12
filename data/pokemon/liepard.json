@@ -1,0 +1,60 @@
+{
+    "name": "liepard",
+    "id": 510,
+    "info": {
+        "species": "cruel pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": false
+            },
+            {
+                "name": "prankster",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark"
+        ],
+        "height": 1.1,
+        "weight": 37.5
+    },
+    "sprites": {
+        "home": "images/pokemon/liepard.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png"
+    },
+    "moves": "data/moves/liepard.json",
+    "location": "data/location/liepard.json",
+    "base_stats": {
+        "hp": 64,
+        "attack": 88,
+        "defense": 50,
+        "sp. atk": 88,
+        "sp. def": 50,
+        "speed": 106
+    },
+    "entry": "don\u2019t be fooled by its gorgeous fur and elegant figure. this is a moody and vicious pok\u00e9mon.",
+    "training": {
+        "base_exp": 156,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

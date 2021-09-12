@@ -1,0 +1,56 @@
+{
+    "name": "slurpuff",
+    "id": 685,
+    "info": {
+        "species": "meringue pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sweet-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "unburden",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.8,
+        "weight": 5.0
+    },
+    "sprites": {
+        "home": "images/pokemon/slurpuff.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png"
+    },
+    "moves": "data/moves/slurpuff.json",
+    "location": "data/location/slurpuff.json",
+    "base_stats": {
+        "hp": 82,
+        "attack": 80,
+        "defense": 86,
+        "sp. atk": 85,
+        "sp. def": 75,
+        "speed": 72
+    },
+    "entry": "slurpuff\u2019s fur contains a lot of air, making it soft to the touch and lighter than it looks.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 140,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

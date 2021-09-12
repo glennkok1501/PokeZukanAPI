@@ -1,0 +1,61 @@
+{
+    "name": "druddigon",
+    "id": 621,
+    "info": {
+        "species": "cave pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rough-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "mold-breaker",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon"
+        ],
+        "height": 1.6,
+        "weight": 139.0
+    },
+    "sprites": {
+        "home": "images/pokemon/druddigon.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+    },
+    "moves": "data/moves/druddigon.json",
+    "location": "data/location/druddigon.json",
+    "base_stats": {
+        "hp": 77,
+        "attack": 120,
+        "defense": 90,
+        "sp. atk": 60,
+        "sp. def": 90,
+        "speed": 48
+    },
+    "entry": "druddigon are vicious and cunning. they take up residence in nests dug out by other pok\u00e9mon, treating the stolen nests as their own lairs.",
+    "training": {
+        "base_exp": 170,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 30,
+            "steps": 7905
+        }
+    }
+}

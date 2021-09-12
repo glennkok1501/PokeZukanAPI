@@ -1,0 +1,60 @@
+{
+    "name": "clefairy",
+    "id": 35,
+    "info": {
+        "species": "fairy pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cute-charm",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "friend-guard",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.6,
+        "weight": 7.5
+    },
+    "sprites": {
+        "home": "images/pokemon/clefairy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+    },
+    "moves": "data/moves/clefairy.json",
+    "location": "data/location/clefairy.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 45,
+        "defense": 48,
+        "sp. atk": 60,
+        "sp. def": 65,
+        "speed": 35
+    },
+    "entry": "its adorable behavior and cry make it highly popular. however, this cute pok\u00e9mon is rarely found.",
+    "training": {
+        "base_exp": 113,
+        "capture_rate": 150,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 140,
+        "egg_group": [
+            "fairy"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

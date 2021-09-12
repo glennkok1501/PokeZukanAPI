@@ -1,0 +1,26 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-victory-road-2-unknown-area-77",
+                "unova-victory-road-2-unknown-area-80"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-victory-road-unknown-area-322",
+                "kalos-victory-road-unknown-area-324",
+                "kalos-victory-road-unknown-area-326",
+                "kalos-victory-road-unknown-area-328"
+            ]
+        }
+    ]
+}

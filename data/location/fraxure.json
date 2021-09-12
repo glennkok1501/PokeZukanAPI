@@ -1,0 +1,22 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-victory-road-outside"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "nature-sanctuary-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "octillery",
+    "id": 224,
+    "info": {
+        "species": "jet pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "suction-cups",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": false
+            },
+            {
+                "name": "moody",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.9,
+        "weight": 28.5
+    },
+    "sprites": {
+        "home": "images/pokemon/octillery.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
+    },
+    "moves": "data/moves/octillery.json",
+    "location": "data/location/octillery.json",
+    "base_stats": {
+        "hp": 75,
+        "attack": 105,
+        "defense": 75,
+        "sp. atk": 105,
+        "sp. def": 75,
+        "speed": 45
+    },
+    "entry": "it traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+    "training": {
+        "base_exp": 168,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "location": [
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "frost-cavern-unknown-area-314",
+                "frost-cavern-unknown-area-315",
+                "frost-cavern-unknown-area-316",
+                "frost-cavern-unknown-area-317"
+            ]
+        }
+    ]
+}

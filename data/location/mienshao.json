@@ -1,0 +1,25 @@
+{
+    "location": [
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "dragonspiral-tower-entrance",
+                "dragonspiral-tower-outside",
+                "dragonspiral-tower-1f",
+                "unova-route-23-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "unova-route-14-area"
+            ]
+        }
+    ]
+}

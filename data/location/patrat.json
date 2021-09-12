@@ -1,0 +1,29 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "dreamyard-area",
+                "unova-route-1-area",
+                "unova-route-2-area",
+                "unova-route-3-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "floccesy-ranch-inner",
+                "virbank-complex-outer",
+                "virbank-complex-inner",
+                "unova-route-19-area",
+                "unova-route-20-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "morgrem",
+    "id": 860,
+    "info": {
+        "species": "devious pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "prankster",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": false
+            },
+            {
+                "name": "pickpocket",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "fairy"
+        ],
+        "height": 0.8,
+        "weight": 12.5
+    },
+    "sprites": {
+        "home": "images/pokemon/morgrem.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png"
+    },
+    "moves": "data/moves/morgrem.json",
+    "location": "data/location/morgrem.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 45,
+        "sp. atk": 75,
+        "sp. def": 55,
+        "speed": 70
+    },
+    "entry": "with sly cunning, it tries to lure people into the woods. some believe it to have the power to make crops grow.",
+    "training": {
+        "base_exp": 130,
+        "capture_rate": 120,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

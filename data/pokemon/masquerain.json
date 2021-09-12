@@ -1,0 +1,58 @@
+{
+    "name": "masquerain",
+    "id": 284,
+    "info": {
+        "species": "eyeball pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 0.8,
+        "weight": 3.6
+    },
+    "sprites": {
+        "home": "images/pokemon/masquerain.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png"
+    },
+    "moves": "data/moves/masquerain.json",
+    "location": "data/location/masquerain.json",
+    "base_stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 62,
+        "sp. atk": 100,
+        "sp. def": 82,
+        "speed": 80
+    },
+    "entry": "its thin, winglike antennae are highly absorbent. it waits out rainy days in tree hollows.",
+    "training": {
+        "base_exp": 159,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

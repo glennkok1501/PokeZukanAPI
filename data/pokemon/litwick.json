@@ -1,0 +1,61 @@
+{
+    "name": "litwick",
+    "id": 607,
+    "info": {
+        "species": "candle pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "infiltrator",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "height": 0.3,
+        "weight": 3.1
+    },
+    "sprites": {
+        "home": "images/pokemon/litwick.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
+    },
+    "moves": "data/moves/litwick.json",
+    "location": "data/location/litwick.json",
+    "base_stats": {
+        "hp": 50,
+        "attack": 30,
+        "defense": 55,
+        "sp. atk": 65,
+        "sp. def": 55,
+        "speed": 20
+    },
+    "entry": "the younger the life this pok\u00e9mon absorbs, the brighter and eerier the flame on its head burns.",
+    "training": {
+        "base_exp": 55,
+        "capture_rate": 190,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

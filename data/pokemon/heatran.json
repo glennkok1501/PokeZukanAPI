@@ -1,0 +1,57 @@
+{
+    "name": "heatran",
+    "id": 485,
+    "info": {
+        "species": "lava dome pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "steel"
+        ],
+        "height": 1.7,
+        "weight": 430.0
+    },
+    "sprites": {
+        "home": "images/pokemon/heatran.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png"
+    },
+    "moves": "data/moves/heatran.json",
+    "location": "data/location/heatran.json",
+    "base_stats": {
+        "hp": 91,
+        "attack": 90,
+        "defense": 106,
+        "sp. atk": 130,
+        "sp. def": 106,
+        "speed": 77
+    },
+    "entry": "boiling blood, like magma, circulates through its body. it makes its dwelling place in volcanic caves.",
+    "training": {
+        "base_exp": 270,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 100,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 10,
+            "steps": 2805
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "moves": [
+        {
+            "name": "harden",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "protect",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "iron-defense",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "bug-bite",
+            "method": "tutor",
+            "level": 0
+        },
+        {
+            "name": "electroweb",
+            "method": "tutor",
+            "level": 0
+        }
+    ]
+}

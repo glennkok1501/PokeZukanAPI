@@ -1,0 +1,60 @@
+{
+    "name": "goomy",
+    "id": 704,
+    "info": {
+        "species": "soft tissue pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sap-sipper",
+                "is_hidden": false
+            },
+            {
+                "name": "hydration",
+                "is_hidden": false
+            },
+            {
+                "name": "gooey",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dragon"
+        ],
+        "height": 0.3,
+        "weight": 2.8
+    },
+    "sprites": {
+        "home": "images/pokemon/goomy.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png"
+    },
+    "moves": "data/moves/goomy.json",
+    "location": "data/location/goomy.json",
+    "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 35,
+        "sp. atk": 55,
+        "sp. def": 75,
+        "speed": 40
+    },
+    "entry": "their horns are powerful sensors. as soon as goomy pick up any sign of enemies, they go into hiding. this is how they\u2019ve survived.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "dragon"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "arcanine",
+    "id": 59,
+    "info": {
+        "species": "legendary pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "justified",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 1.9,
+        "weight": 155.0
+    },
+    "sprites": {
+        "home": "images/pokemon/arcanine.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+    },
+    "moves": "data/moves/arcanine.json",
+    "location": "data/location/arcanine.json",
+    "base_stats": {
+        "hp": 90,
+        "attack": 110,
+        "defense": 80,
+        "sp. atk": 100,
+        "sp. def": 80,
+        "speed": 95
+    },
+    "entry": "a pok\u00e9mon that has long been admired for its beauty. it runs agilely as if on wings.",
+    "training": {
+        "base_exp": 194,
+        "capture_rate": 75,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 75.0,
+            "female": 25.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

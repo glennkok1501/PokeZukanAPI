@@ -1,0 +1,35 @@
+{
+    "location": [
+        {
+            "game": [
+                "white",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-5-area",
+                "unova-route-16-area"
+            ]
+        },
+        {
+            "game": [
+                "white-2"
+            ],
+            "area": [
+                "strange-house-1f",
+                "strange-house-b1f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "reflection-cave-unknown-area-305",
+                "reflection-cave-unknown-area-306",
+                "reflection-cave-unknown-area-307",
+                "reflection-cave-unknown-area-308"
+            ]
+        }
+    ]
+}

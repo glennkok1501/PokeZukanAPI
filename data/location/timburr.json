@@ -1,0 +1,23 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "pinwheel-forest-outside",
+                "cold-storage-area"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "relic-passage-castelia-sewers-entrance"
+            ]
+        }
+    ]
+}

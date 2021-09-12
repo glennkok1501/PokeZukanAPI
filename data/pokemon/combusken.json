@@ -1,0 +1,57 @@
+{
+    "name": "combusken",
+    "id": 256,
+    "info": {
+        "species": "young fowl pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "speed-boost",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "height": 0.9,
+        "weight": 19.5
+    },
+    "sprites": {
+        "home": "images/pokemon/combusken.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
+    },
+    "moves": "data/moves/combusken.json",
+    "location": "data/location/combusken.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 60,
+        "sp. atk": 85,
+        "sp. def": 60,
+        "speed": 55
+    },
+    "entry": "combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. this pok\u00e9mon\u2019s cry is very loud and distracting.",
+    "training": {
+        "base_exp": 142,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

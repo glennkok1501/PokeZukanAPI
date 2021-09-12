@@ -1,0 +1,61 @@
+{
+    "name": "nidorino",
+    "id": 33,
+    "info": {
+        "species": "poison pin pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "poison-point",
+                "is_hidden": false
+            },
+            {
+                "name": "rivalry",
+                "is_hidden": false
+            },
+            {
+                "name": "hustle",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "poison"
+        ],
+        "height": 0.9,
+        "weight": 19.5
+    },
+    "sprites": {
+        "home": "images/pokemon/nidorino.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png"
+    },
+    "moves": "data/moves/nidorino.json",
+    "location": "data/location/nidorino.json",
+    "base_stats": {
+        "hp": 61,
+        "attack": 72,
+        "defense": 57,
+        "sp. atk": 55,
+        "sp. def": 55,
+        "speed": 65
+    },
+    "entry": "its horn contains venom. if it stabs an enemy with the horn, the impact makes the poison leak out.",
+    "training": {
+        "base_exp": 128,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "ground"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

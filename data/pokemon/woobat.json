@@ -1,0 +1,62 @@
+{
+    "name": "woobat",
+    "id": 527,
+    "info": {
+        "species": "bat pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "unaware",
+                "is_hidden": false
+            },
+            {
+                "name": "klutz",
+                "is_hidden": false
+            },
+            {
+                "name": "simple",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic",
+            "flying"
+        ],
+        "height": 0.4,
+        "weight": 2.1
+    },
+    "sprites": {
+        "home": "images/pokemon/woobat.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png"
+    },
+    "moves": "data/moves/woobat.json",
+    "location": "data/location/woobat.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 45,
+        "defense": 43,
+        "sp. atk": 55,
+        "sp. def": 43,
+        "speed": 72
+    },
+    "entry": "it emits ultrasonic waves as it flutters about, searching for its prey\u2014bug pok\u00e9mon.",
+    "training": {
+        "base_exp": 65,
+        "capture_rate": 190,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying",
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

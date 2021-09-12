@@ -1,0 +1,61 @@
+{
+    "name": "bruxish",
+    "id": 779,
+    "info": {
+        "species": "gnash teeth pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "dazzling",
+                "is_hidden": false
+            },
+            {
+                "name": "strong-jaw",
+                "is_hidden": false
+            },
+            {
+                "name": "wonder-skin",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "height": 0.9,
+        "weight": 19.0
+    },
+    "sprites": {
+        "home": "images/pokemon/bruxish.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png"
+    },
+    "moves": "data/moves/bruxish.json",
+    "location": "data/location/bruxish.json",
+    "base_stats": {
+        "hp": 68,
+        "attack": 105,
+        "defense": 70,
+        "sp. atk": 70,
+        "sp. def": 70,
+        "speed": 92
+    },
+    "entry": "its skin is thick enough to fend off mareanie\u2019s spikes. with its robust teeth, bruxish crunches up the spikes and eats them.",
+    "training": {
+        "base_exp": 166,
+        "capture_rate": 80,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water2"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

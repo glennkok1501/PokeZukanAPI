@@ -1,0 +1,30 @@
+{
+    "location": [
+        {
+            "game": [
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "roaming-kanto-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver"
+            ],
+            "area": [
+                "roaming-johto-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "bell-tower-1f"
+            ]
+        }
+    ]
+}

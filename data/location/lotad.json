@@ -1,0 +1,28 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-203-area",
+                "sinnoh-route-204-south-towards-jubilife-city",
+                "sinnoh-route-204-north-towards-floaroma-town",
+                "sinnoh-route-205-east-towards-eterna-city",
+                "sinnoh-route-212-east-towards-pastoria-city"
+            ]
+        },
+        {
+            "game": [
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-102-area",
+                "hoenn-route-114-area"
+            ]
+        }
+    ]
+}

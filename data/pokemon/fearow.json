@@ -1,0 +1,57 @@
+{
+    "name": "fearow",
+    "id": 22,
+    "info": {
+        "species": "beak pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.2,
+        "weight": 38.0
+    },
+    "sprites": {
+        "home": "images/pokemon/fearow.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+    },
+    "moves": "data/moves/fearow.json",
+    "location": "data/location/fearow.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 65,
+        "sp. atk": 61,
+        "sp. def": 61,
+        "speed": 100
+    },
+    "entry": "a pok\u00e9mon that dates back many years. if it senses danger, it flies high and away, instantly.",
+    "training": {
+        "base_exp": 155,
+        "capture_rate": 90,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

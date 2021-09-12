@@ -1,0 +1,57 @@
+{
+    "name": "exeggcute",
+    "id": 102,
+    "info": {
+        "species": "egg pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "harvest",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "height": 0.4,
+        "weight": 2.5
+    },
+    "sprites": {
+        "home": "images/pokemon/exeggcute.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+    },
+    "moves": "data/moves/exeggcute.json",
+    "location": "data/location/exeggcute.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 80,
+        "sp. atk": 60,
+        "sp. def": 45,
+        "speed": 40
+    },
+    "entry": "these pok\u00e9mon get nervous when they\u2019re not in a group of six. the minute even one member of the group goes missing, exeggcute become cowardly.",
+    "training": {
+        "base_exp": 65,
+        "capture_rate": 90,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

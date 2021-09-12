@@ -1,0 +1,26 @@
+{
+    "location": [
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-130-area"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald",
+                "omega-ruby",
+                "alpha-sapphire"
+            ],
+            "area": [
+                "lavaridge-town-area"
+            ]
+        }
+    ]
+}

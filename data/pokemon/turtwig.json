@@ -1,0 +1,57 @@
+{
+    "name": "turtwig",
+    "id": 387,
+    "info": {
+        "species": "tiny leaf pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "shell-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.4,
+        "weight": 10.2
+    },
+    "sprites": {
+        "home": "images/pokemon/turtwig.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png"
+    },
+    "moves": "data/moves/turtwig.json",
+    "location": "data/location/turtwig.json",
+    "base_stats": {
+        "hp": 55,
+        "attack": 68,
+        "defense": 64,
+        "sp. atk": 45,
+        "sp. def": 55,
+        "speed": 31
+    },
+    "entry": "it undertakes photosynthesis with its body, making oxygen. the leaf on its head wilts if it is thirsty.",
+    "training": {
+        "base_exp": 64,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "plant"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

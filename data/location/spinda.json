@@ -1,0 +1,54 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-227-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "sprout-tower-2f",
+                "sprout-tower-3f",
+                "burned-tower-1f",
+                "burned-tower-b1f",
+                "bell-tower-2f",
+                "bell-tower-3f",
+                "bell-tower-4f",
+                "bell-tower-5f",
+                "bell-tower-6f",
+                "bell-tower-7f",
+                "bell-tower-8f",
+                "bell-tower-9f",
+                "bell-tower-10f"
+            ]
+        },
+        {
+            "game": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-113-area"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-21-area"
+            ]
+        }
+    ]
+}

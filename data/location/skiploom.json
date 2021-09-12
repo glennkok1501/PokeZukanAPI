@@ -1,0 +1,32 @@
+{
+    "location": [
+        {
+            "game": [
+                "pearl"
+            ],
+            "area": [
+                "fuego-ironworks-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-205-east-towards-eterna-city"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-14-area"
+            ]
+        }
+    ]
+}

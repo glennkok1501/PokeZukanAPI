@@ -1,0 +1,61 @@
+{
+    "name": "braviary",
+    "id": 628,
+    "info": {
+        "species": "valiant pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "keen-eye",
+                "is_hidden": false
+            },
+            {
+                "name": "sheer-force",
+                "is_hidden": false
+            },
+            {
+                "name": "defiant",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 1.5,
+        "weight": 41.0
+    },
+    "sprites": {
+        "home": "images/pokemon/braviary.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
+    },
+    "moves": "data/moves/braviary.json",
+    "location": "data/location/braviary.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 123,
+        "defense": 75,
+        "sp. atk": 57,
+        "sp. def": 75,
+        "speed": 80
+    },
+    "entry": "because this pok\u00e9mon is hotheaded and belligerent, it\u2019s corviknight that\u2019s taken the role of transportation in galar.",
+    "training": {
+        "base_exp": 179,
+        "capture_rate": 60,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 100.0,
+            "female": 0.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

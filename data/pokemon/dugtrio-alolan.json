@@ -1,0 +1,61 @@
+{
+    "name": "dugtrio alolan",
+    "id": 51,
+    "info": {
+        "species": "mole pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "sand-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "tangling-hair",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground",
+            "steel"
+        ],
+        "height": 0.7,
+        "weight": 66.6
+    },
+    "sprites": {
+        "home": "images/pokemon/dugtrio-alolan.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10106.png"
+    },
+    "moves": "data/moves/dugtrio-alolan.json",
+    "location": "data/location/dugtrio-alolan.json",
+    "base_stats": {
+        "hp": 35,
+        "attack": 100,
+        "defense": 60,
+        "sp. atk": 50,
+        "sp. def": 70,
+        "speed": 110
+    },
+    "entry": "these diglett triplets dig over 60 miles below sea level. no one knows what it\u2019s like underground.",
+    "training": {
+        "base_exp": 149,
+        "capture_rate": 50,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

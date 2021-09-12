@@ -1,0 +1,95 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-201-area",
+                "sinnoh-route-202-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-35-area"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "heartgold"
+            ],
+            "area": [
+                "johto-route-36-area",
+                "johto-route-37-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold"
+            ],
+            "area": [
+                "johto-route-48-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "gold",
+                "firered",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-7-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "gold",
+                "crystal",
+                "firered",
+                "heartgold"
+            ],
+            "area": [
+                "kanto-route-8-area"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "yellow",
+                "firered"
+            ],
+            "area": [
+                "pokemon-mansion-1f"
+            ]
+        },
+        {
+            "game": [
+                "red",
+                "firered"
+            ],
+            "area": [
+                "pokemon-mansion-2f",
+                "pokemon-mansion-3f",
+                "pokemon-mansion-b1f"
+            ]
+        },
+        {
+            "game": [
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "virbank-complex-inner"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "great-marsh-area-1",
+                "great-marsh-area-2",
+                "great-marsh-area-3",
+                "great-marsh-area-4",
+                "great-marsh-area-5",
+                "great-marsh-area-6",
+                "sinnoh-route-212-east-towards-pastoria-city"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "johto-route-32-area",
+                "ruins-of-alph-outside",
+                "union-cave-1f",
+                "union-cave-b1f",
+                "union-cave-b2f",
+                "mt-silver-2f",
+                "kanto-route-12-area",
+                "kanto-route-26-area",
+                "kanto-route-27-area",
+                "kanto-route-13-area",
+                "kanto-route-14-area",
+                "kanto-route-15-area"
+            ]
+        },
+        {
+            "game": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-4f",
+                "johto-route-47-cave-gate",
+                "johto-route-47-inside-cave",
+                "mt-silver-3f",
+                "mt-silver-top"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "silver",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "kanto-route-10-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-safari-zone-expansion-south"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-14-area",
+                "kalos-route-19-area"
+            ]
+        }
+    ]
+}

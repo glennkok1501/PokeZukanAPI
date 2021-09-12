@@ -1,0 +1,54 @@
+{
+    "name": "raboot",
+    "id": 814,
+    "info": {
+        "species": "rabbit pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "libero",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fire"
+        ],
+        "height": 0.6,
+        "weight": 9.0
+    },
+    "sprites": {
+        "home": "images/pokemon/raboot.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
+    },
+    "moves": "data/moves/raboot.json",
+    "location": "data/location/raboot.json",
+    "base_stats": {
+        "hp": 65,
+        "attack": 86,
+        "defense": 60,
+        "sp. atk": 55,
+        "sp. def": 60,
+        "speed": 94
+    },
+    "entry": "it kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
+    "training": {
+        "base_exp": 147,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

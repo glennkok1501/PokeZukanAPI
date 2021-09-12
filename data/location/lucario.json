@@ -1,0 +1,13 @@
+{
+    "location": [
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "tower-of-mastery-area"
+            ]
+        }
+    ]
+}

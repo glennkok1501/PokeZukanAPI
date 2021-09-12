@@ -1,0 +1,56 @@
+{
+    "name": "chespin",
+    "id": 650,
+    "info": {
+        "species": "spiny nut pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "bulletproof",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.4,
+        "weight": 9.0
+    },
+    "sprites": {
+        "home": "images/pokemon/chespin.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
+    },
+    "moves": "data/moves/chespin.json",
+    "location": "data/location/chespin.json",
+    "base_stats": {
+        "hp": 56,
+        "attack": 61,
+        "defense": 65,
+        "sp. atk": 48,
+        "sp. def": 45,
+        "speed": 38
+    },
+    "entry": "such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn\u2019t faze it.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

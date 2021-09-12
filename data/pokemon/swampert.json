@@ -1,0 +1,58 @@
+{
+    "name": "swampert",
+    "id": 260,
+    "info": {
+        "species": "mud fish pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "damp",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water",
+            "ground"
+        ],
+        "height": 1.5,
+        "weight": 81.9
+    },
+    "sprites": {
+        "home": "images/pokemon/swampert.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
+    },
+    "moves": "data/moves/swampert.json",
+    "location": "data/location/swampert.json",
+    "base_stats": {
+        "hp": 100,
+        "attack": 110,
+        "defense": 90,
+        "sp. atk": 85,
+        "sp. def": 90,
+        "speed": 60
+    },
+    "entry": "swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. if a storm is approaching, it piles up boulders to protect itself.",
+    "training": {
+        "base_exp": 241,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster",
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

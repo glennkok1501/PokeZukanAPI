@@ -1,0 +1,61 @@
+{
+    "name": "zigzagoon galarian",
+    "id": 263,
+    "info": {
+        "species": "tiny raccoon pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "pickup",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": false
+            },
+            {
+                "name": "quick-feet",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "dark",
+            "normal"
+        ],
+        "height": 0.4,
+        "weight": 17.5
+    },
+    "sprites": {
+        "home": "images/pokemon/zigzagoon-galarian.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10171.png"
+    },
+    "moves": "data/moves/zigzagoon-galarian.json",
+    "location": "data/location/zigzagoon-galarian.json",
+    "base_stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 41,
+        "sp. atk": 30,
+        "sp. def": 41,
+        "speed": 60
+    },
+    "entry": "zigzagoon that adapted to regions outside galar acquired this appearance. if you\u2019ve lost something, this pok\u00e9mon can likely find it.",
+    "training": {
+        "base_exp": 56,
+        "capture_rate": 255,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

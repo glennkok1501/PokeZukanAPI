@@ -1,0 +1,27 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "desert-resort-entrance",
+                "unova-route-4-area"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "p2-laboratory-area",
+                "unova-route-1-area",
+                "unova-route-18-area"
+            ]
+        }
+    ]
+}

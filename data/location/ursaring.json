@@ -1,0 +1,85 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "lake-acuity-area"
+            ]
+        },
+        {
+            "game": [
+                "platinum"
+            ],
+            "area": [
+                "acuity-lakefront-area"
+            ]
+        },
+        {
+            "game": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "area": [
+                "sinnoh-route-216-area",
+                "sinnoh-route-217-area"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "dark-cave-blackthorn-city-entrance"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "crystal",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-2f",
+                "mt-silver-1f",
+                "mt-silver-top"
+            ]
+        },
+        {
+            "game": [
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-1f-top",
+                "mt-silver-4f",
+                "mt-silver-mountainside",
+                "mt-silver-3f"
+            ]
+        },
+        {
+            "game": [
+                "gold",
+                "soulsilver"
+            ],
+            "area": [
+                "mt-silver-outside",
+                "kanto-route-28-area",
+                "kanto-victory-road-1-1f",
+                "kanto-victory-road-1-2f",
+                "kanto-victory-road-1-3f"
+            ]
+        },
+        {
+            "game": [
+                "x",
+                "y"
+            ],
+            "area": [
+                "kalos-route-21-area"
+            ]
+        }
+    ]
+}

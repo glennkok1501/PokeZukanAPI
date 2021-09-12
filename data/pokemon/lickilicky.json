@@ -1,0 +1,60 @@
+{
+    "name": "lickilicky",
+    "id": 463,
+    "info": {
+        "species": "licking pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "cloud-nine",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "normal"
+        ],
+        "height": 1.7,
+        "weight": 140.0
+    },
+    "sprites": {
+        "home": "images/pokemon/lickilicky.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png"
+    },
+    "moves": "data/moves/lickilicky.json",
+    "location": "data/location/lickilicky.json",
+    "base_stats": {
+        "hp": 110,
+        "attack": 85,
+        "defense": 95,
+        "sp. atk": 80,
+        "sp. def": 95,
+        "speed": 50
+    },
+    "entry": "lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. in contrast, lickilicky\u2019s use of its fingers is clumsy.",
+    "training": {
+        "base_exp": 180,
+        "capture_rate": 30,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "monster"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

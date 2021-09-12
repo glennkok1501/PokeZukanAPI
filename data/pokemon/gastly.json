@@ -1,0 +1,53 @@
+{
+    "name": "gastly",
+    "id": 92,
+    "info": {
+        "species": "gas pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "height": 1.3,
+        "weight": 0.1
+    },
+    "sprites": {
+        "home": "images/pokemon/gastly.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+    },
+    "moves": "data/moves/gastly.json",
+    "location": "data/location/gastly.json",
+    "base_stats": {
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "sp. atk": 100,
+        "sp. def": 35,
+        "speed": 80
+    },
+    "entry": "with its gas-like body, it can sneak into any place it desires. however, it can be blown away by wind.",
+    "training": {
+        "base_exp": 62,
+        "capture_rate": 190,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

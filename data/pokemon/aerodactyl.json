@@ -1,0 +1,61 @@
+{
+    "name": "aerodactyl",
+    "id": 142,
+    "info": {
+        "species": "fossil pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "rock-head",
+                "is_hidden": false
+            },
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "unnerve",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "height": 1.8,
+        "weight": 59.0
+    },
+    "sprites": {
+        "home": "images/pokemon/aerodactyl.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
+    },
+    "moves": "data/moves/aerodactyl.json",
+    "location": "data/location/aerodactyl.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "sp. atk": 60,
+        "sp. def": 75,
+        "speed": 130
+    },
+    "entry": "the power of mega evolution has completely restored its genes. the rocks on its body are harder than diamond.",
+    "training": {
+        "base_exp": 180,
+        "capture_rate": 45,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 35,
+            "steps": 9180
+        }
+    }
+}

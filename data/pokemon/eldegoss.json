@@ -1,0 +1,58 @@
+{
+    "name": "eldegoss",
+    "id": 830,
+    "info": {
+        "species": "cotton bloom pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "cotton-down",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": false
+            },
+            {
+                "name": "effect-spore",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass"
+        ],
+        "height": 0.5,
+        "weight": 2.5
+    },
+    "sprites": {
+        "home": "images/pokemon/eldegoss.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png"
+    },
+    "moves": "data/moves/eldegoss.json",
+    "location": "data/location/eldegoss.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 90,
+        "sp. atk": 80,
+        "sp. def": 120,
+        "speed": 60
+    },
+    "entry": "the cotton on the head of this pok\u00e9mon can be spun into a glossy, gorgeous yarn\u2014a galar regional specialty.",
+    "training": {
+        "base_exp": 161,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 50,
+        "egg_group": [],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

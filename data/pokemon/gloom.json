@@ -1,0 +1,57 @@
+{
+    "name": "gloom",
+    "id": 44,
+    "info": {
+        "species": "weed pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "stench",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 0.8,
+        "weight": 8.6
+    },
+    "sprites": {
+        "home": "images/pokemon/gloom.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+    },
+    "moves": "data/moves/gloom.json",
+    "location": "data/location/gloom.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 70,
+        "sp. atk": 85,
+        "sp. def": 75,
+        "speed": 40
+    },
+    "entry": "what appears to be drool is actually sweet honey. it is very sticky and clings stubbornly if touched.",
+    "training": {
+        "base_exp": 138,
+        "capture_rate": 120,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "location": [
+        {
+            "game": [
+                "gold",
+                "silver",
+                "crystal",
+                "heartgold",
+                "soulsilver"
+            ],
+            "area": [
+                "bell-tower-roof"
+            ]
+        },
+        {
+            "game": [
+                "emerald",
+                "firered",
+                "leafgreen"
+            ],
+            "area": [
+                "navel-rock-area"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond"
+            ],
+            "area": [
+                "sinnoh-route-214-area",
+                "sinnoh-route-215-area"
+            ]
+        },
+        {
+            "game": [
+                "emerald"
+            ],
+            "area": [
+                "hoenn-route-120-area",
+                "hoenn-route-121-area",
+                "hoenn-route-123-area"
+            ]
+        },
+        {
+            "game": [
+                "x"
+            ],
+            "area": [
+                "kalos-route-15-area"
+            ]
+        }
+    ]
+}

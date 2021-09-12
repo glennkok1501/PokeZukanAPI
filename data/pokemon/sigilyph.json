@@ -1,0 +1,61 @@
+{
+    "name": "sigilyph",
+    "id": 561,
+    "info": {
+        "species": "avianoid pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "wonder-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "magic-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "tinted-lens",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "psychic",
+            "flying"
+        ],
+        "height": 1.4,
+        "weight": 14.0
+    },
+    "sprites": {
+        "home": "images/pokemon/sigilyph.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png"
+    },
+    "moves": "data/moves/sigilyph.json",
+    "location": "data/location/sigilyph.json",
+    "base_stats": {
+        "hp": 72,
+        "attack": 58,
+        "defense": 80,
+        "sp. atk": 103,
+        "sp. def": 80,
+        "speed": 97
+    },
+    "entry": "a discovery was made in the desert where sigilyph fly. the ruins of what may have been an ancient city were found beneath the sands.",
+    "training": {
+        "base_exp": 172,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "flying"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

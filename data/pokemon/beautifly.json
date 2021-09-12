@@ -1,0 +1,57 @@
+{
+    "name": "beautifly",
+    "id": 267,
+    "info": {
+        "species": "butterfly pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "swarm",
+                "is_hidden": false
+            },
+            {
+                "name": "rivalry",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 1.0,
+        "weight": 28.4
+    },
+    "sprites": {
+        "home": "images/pokemon/beautifly.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png"
+    },
+    "moves": "data/moves/beautifly.json",
+    "location": "data/location/beautifly.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 50,
+        "sp. atk": 100,
+        "sp. def": 50,
+        "speed": 65
+    },
+    "entry": "beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. this pok\u00e9mon rides the spring winds as it flits around gathering pollen.",
+    "training": {
+        "base_exp": 178,
+        "capture_rate": 45,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "bug"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 15,
+            "steps": 4080
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "location": [
+        {
+            "game": [
+                "black",
+                "white"
+            ],
+            "area": [
+                "twist-mountain-area",
+                "dragonspiral-tower-entrance",
+                "dragonspiral-tower-outside"
+            ]
+        },
+        {
+            "game": [
+                "black",
+                "white",
+                "black-2",
+                "white-2"
+            ],
+            "area": [
+                "unova-route-7-area"
+            ]
+        }
+    ]
+}

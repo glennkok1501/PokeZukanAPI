@@ -1,0 +1,60 @@
+{
+    "name": "vanillite",
+    "id": 582,
+    "info": {
+        "species": "fresh snow pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "ice-body",
+                "is_hidden": false
+            },
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "weak-armor",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ice"
+        ],
+        "height": 0.4,
+        "weight": 5.7
+    },
+    "sprites": {
+        "home": "images/pokemon/vanillite.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png"
+    },
+    "moves": "data/moves/vanillite.json",
+    "location": "data/location/vanillite.json",
+    "base_stats": {
+        "hp": 36,
+        "attack": 50,
+        "defense": 50,
+        "sp. atk": 65,
+        "sp. def": 60,
+        "speed": 44
+    },
+    "entry": "supposedly, this pok\u00e9mon was born from an icicle. it spews out freezing air at \u221258 degrees fahrenheit to make itself more comfortable.",
+    "training": {
+        "base_exp": 61,
+        "capture_rate": 255,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

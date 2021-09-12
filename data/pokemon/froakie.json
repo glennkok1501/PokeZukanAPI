@@ -1,0 +1,56 @@
+{
+    "name": "froakie",
+    "id": 656,
+    "info": {
+        "species": "bubble frog pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "torrent",
+                "is_hidden": false
+            },
+            {
+                "name": "protean",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "water"
+        ],
+        "height": 0.3,
+        "weight": 7.0
+    },
+    "sprites": {
+        "home": "images/pokemon/froakie.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png"
+    },
+    "moves": "data/moves/froakie.json",
+    "location": "data/location/froakie.json",
+    "base_stats": {
+        "hp": 41,
+        "attack": 56,
+        "defense": 40,
+        "sp. atk": 62,
+        "sp. def": 44,
+        "speed": 71
+    },
+    "entry": "it protects its skin by covering its body in delicate bubbles. beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
+    "training": {
+        "base_exp": 63,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1"
+        ],
+        "gender": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

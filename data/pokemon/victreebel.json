@@ -1,0 +1,57 @@
+{
+    "name": "victreebel",
+    "id": 71,
+    "info": {
+        "species": "flycatcher pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "gluttony",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 1.7,
+        "weight": 15.5
+    },
+    "sprites": {
+        "home": "images/pokemon/victreebel.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+    },
+    "moves": "data/moves/victreebel.json",
+    "location": "data/location/victreebel.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "sp. atk": 100,
+        "sp. def": 70,
+        "speed": 70
+    },
+    "entry": "lures prey with the sweet aroma of honey. swallowed whole, the prey is dissolved in a day, bones and all.",
+    "training": {
+        "base_exp": 221,
+        "capture_rate": 45,
+        "growth_rate": "medium-slow"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "plant"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

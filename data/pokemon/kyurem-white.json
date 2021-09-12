@@ -1,0 +1,53 @@
+{
+    "name": "kyurem white",
+    "id": 646,
+    "info": {
+        "species": "boundary pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "turboblaze",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "dragon",
+            "ice"
+        ],
+        "height": 3.6,
+        "weight": 325.0
+    },
+    "sprites": {
+        "home": "images/pokemon/kyurem-white.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10023.png"
+    },
+    "moves": "data/moves/kyurem-white.json",
+    "location": "data/location/kyurem-white.json",
+    "base_stats": {
+        "hp": 125,
+        "attack": 120,
+        "defense": 90,
+        "sp. atk": 170,
+        "sp. def": 100,
+        "speed": 95
+    },
+    "entry": "the sameness of zekrom\u2019s and kyurem\u2019s genes allowed kyurem to absorb zekrom. kyurem can now use the power of both electricity and ice.",
+    "training": {
+        "base_exp": 315,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 0,
+        "egg_group": [
+            "no-eggs"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 120,
+            "steps": 30855
+        }
+    }
+}

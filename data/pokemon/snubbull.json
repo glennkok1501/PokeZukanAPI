@@ -1,0 +1,61 @@
+{
+    "name": "snubbull",
+    "id": 209,
+    "info": {
+        "species": "fairy pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "intimidate",
+                "is_hidden": false
+            },
+            {
+                "name": "run-away",
+                "is_hidden": false
+            },
+            {
+                "name": "rattled",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "fairy"
+        ],
+        "height": 0.6,
+        "weight": 7.8
+    },
+    "sprites": {
+        "home": "images/pokemon/snubbull.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png"
+    },
+    "moves": "data/moves/snubbull.json",
+    "location": "data/location/snubbull.json",
+    "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "sp. atk": 40,
+        "sp. def": 40,
+        "speed": 30
+    },
+    "entry": "in contrast to its appearance, it\u2019s quite timid. when playing with other puppy pok\u00e9mon, it sometimes gets bullied.",
+    "training": {
+        "base_exp": 60,
+        "capture_rate": 190,
+        "growth_rate": "fast"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "ground",
+            "fairy"
+        ],
+        "gender": {
+            "male": 25.0,
+            "female": 75.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

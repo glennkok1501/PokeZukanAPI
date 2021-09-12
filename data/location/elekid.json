@@ -1,0 +1,31 @@
+{
+    "location": [
+        {
+            "game": [
+                "diamond",
+                "pearl"
+            ],
+            "area": [
+                "valley-windworks-area",
+                "sinnoh-route-205-south-towards-floaroma-town"
+            ]
+        },
+        {
+            "game": [
+                "crystal"
+            ],
+            "area": [
+                "johto-route-34-area"
+            ]
+        },
+        {
+            "game": [
+                "white-2"
+            ],
+            "area": [
+                "virbank-complex-outer",
+                "virbank-complex-inner"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "metagross mega",
+    "id": 376,
+    "info": {
+        "species": "iron leg pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "tough-claws",
+                "is_hidden": false
+            }
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "height": 2.5,
+        "weight": 942.9
+    },
+    "sprites": {
+        "home": "images/pokemon/metagross-mega.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10076.png"
+    },
+    "moves": "data/moves/metagross-mega.json",
+    "location": "data/location/metagross-mega.json",
+    "base_stats": {
+        "hp": 80,
+        "attack": 145,
+        "defense": 150,
+        "sp. atk": 105,
+        "sp. def": 110,
+        "speed": 110
+    },
+    "entry": "it analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.",
+    "training": {
+        "base_exp": 315,
+        "capture_rate": 3,
+        "growth_rate": "slow"
+    },
+    "breeding": {
+        "base_happiness": 35,
+        "egg_group": [
+            "mineral"
+        ],
+        "gender": {
+            "male": 0,
+            "female": 0
+        },
+        "egg_cycle": {
+            "hatch_counter": 40,
+            "steps": 10455
+        }
+    }
+}

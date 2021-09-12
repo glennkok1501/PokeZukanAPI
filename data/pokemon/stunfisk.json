@@ -1,0 +1,62 @@
+{
+    "name": "stunfisk",
+    "id": 618,
+    "info": {
+        "species": "trap pok\u00e9mon",
+        "abilities": [
+            {
+                "name": "static",
+                "is_hidden": false
+            },
+            {
+                "name": "limber",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": true
+            }
+        ],
+        "types": [
+            "ground",
+            "electric"
+        ],
+        "height": 0.7,
+        "weight": 11.0
+    },
+    "sprites": {
+        "home": "images/pokemon/stunfisk.png",
+        "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
+    },
+    "moves": "data/moves/stunfisk.json",
+    "location": "data/location/stunfisk.json",
+    "base_stats": {
+        "hp": 109,
+        "attack": 66,
+        "defense": 84,
+        "sp. atk": 81,
+        "sp. def": 99,
+        "speed": 32
+    },
+    "entry": "its conspicuous lips lure prey in as it lies in wait in the mud. when prey gets close, stunfisk clamps its jagged steel fins down on them.",
+    "training": {
+        "base_exp": 165,
+        "capture_rate": 75,
+        "growth_rate": "medium"
+    },
+    "breeding": {
+        "base_happiness": 70,
+        "egg_group": [
+            "water1",
+            "indeterminate"
+        ],
+        "gender": {
+            "male": 50.0,
+            "female": 50.0
+        },
+        "egg_cycle": {
+            "hatch_counter": 20,
+            "steps": 5355
+        }
+    }
+}

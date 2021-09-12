@@ -1,0 +1,39 @@
+{
+    "moves": [
+        {
+            "name": "counter",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "splash",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "destiny-bond",
+            "method": "level-up",
+            "level": 15
+        },
+        {
+            "name": "charm",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "safeguard",
+            "method": "machine",
+            "level": 0
+        },
+        {
+            "name": "encore",
+            "method": "level-up",
+            "level": 1
+        },
+        {
+            "name": "mirror-coat",
+            "method": "level-up",
+            "level": 15
+        }
+    ]
+}
