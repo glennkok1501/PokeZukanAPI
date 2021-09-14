@@ -1,5 +1,5 @@
 {
-    "count": 1042,
+    "count": 1035,
     "pokemon": [
         {
             "id": 1,
@@ -4946,42 +4946,6 @@
             "link": "data/pokemon/pumpkaboo.json"
         },
         {
-            "id": 710,
-            "name": "pumpkaboo",
-            "sprite": "images/pokemon/pumpkaboo.png",
-            "link": "data/pokemon/pumpkaboo.json"
-        },
-        {
-            "id": 710,
-            "name": "pumpkaboo",
-            "sprite": "images/pokemon/pumpkaboo.png",
-            "link": "data/pokemon/pumpkaboo.json"
-        },
-        {
-            "id": 710,
-            "name": "pumpkaboo",
-            "sprite": "images/pokemon/pumpkaboo.png",
-            "link": "data/pokemon/pumpkaboo.json"
-        },
-        {
-            "id": 711,
-            "name": "gourgeist",
-            "sprite": "images/pokemon/gourgeist.png",
-            "link": "data/pokemon/gourgeist.json"
-        },
-        {
-            "id": 711,
-            "name": "gourgeist",
-            "sprite": "images/pokemon/gourgeist.png",
-            "link": "data/pokemon/gourgeist.json"
-        },
-        {
-            "id": 711,
-            "name": "gourgeist",
-            "sprite": "images/pokemon/gourgeist.png",
-            "link": "data/pokemon/gourgeist.json"
-        },
-        {
             "id": 711,
             "name": "gourgeist",
             "sprite": "images/pokemon/gourgeist.png",
@@ -5220,12 +5184,6 @@
             "name": "ribombee",
             "sprite": "images/pokemon/ribombee.png",
             "link": "data/pokemon/ribombee.json"
-        },
-        {
-            "id": 744,
-            "name": "rockruff",
-            "sprite": "images/pokemon/rockruff.png",
-            "link": "data/pokemon/rockruff.json"
         },
         {
             "id": 744,

@@ -157,7 +157,10 @@ def getEggGroup(obj):
 	ls = []
 	data = obj["egg_groups"]
 	for d in data:
-		ls.append(d["name"])
+		if d["name"] == "no-eggs":
+			ls.append("undiscovered")
+		else:
+			ls.append(d["name"])
 	return ls
 
 def getGender(obj):

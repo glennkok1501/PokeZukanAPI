@@ -42,7 +42,7 @@
     "breeding": {
         "base_happiness": 90,
         "egg_group": [
-            "no-eggs"
+            "undiscovered"
         ],
         "gender": {
             "male": 100.0,
