@@ -42,7 +42,13 @@
     "training": {
         "base_exp": 95,
         "capture_rate": 170,
-        "growth_rate": "fast"
+        "growth_rate": "fast",
+        "ev_yield": [
+            {
+                "stat": "hp",
+                "effort": 2
+            }
+        ]
     },
     "breeding": {
         "base_happiness": 70,

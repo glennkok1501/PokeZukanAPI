@@ -126,6 +126,29 @@ def getH_W(obj):
 	h = round(0.1 * obj["height"],2) #convert dm to m
 	w = round(obj["weight"] / 10,2) #convert hg to kg
 	return {"height":h, "weight":w}
+	
+def getEvYield(obj):
+	naming = {"hp":"hp",
+	"attack":"attack",
+	"defense":"defense",
+	"special-attack":"sp. atk", 
+	"special-defense":"sp. def", 
+	"speed":"speed"}
+	values = {
+		"ev_yield": []
+	}
+	stats = obj["stats"]
+	for s in stats:
+		name = naming[s["stat"]["name"]]
+		effort = s["effort"]
+		if effort > 0:
+			value = {
+			"stat":"",
+			"effort":0}
+			value["stat"] = name
+			value["effort"] = effort
+			values["ev_yield"].append(value)
+	return values
 
 def getStats(obj):
 	naming = {"hp":"hp",
@@ -184,6 +207,12 @@ def getEggCycle(obj):
 	values["steps"] = 255*(values["hatch_counter"]+1)
 	return values
 
+def getEvolvesFrom(obj):
+	try:
+		return obj["evolves_from_species"]["name"]
+	except:
+		return None;
+
 def getPokeSpecies(link):
 	values = {
 		"entry":"",
@@ -197,10 +226,8 @@ def getPokeSpecies(link):
 			"egg_group":[],
 			"gender":{},
 			"egg_cycle":{
-				
 			}
 		}
-		
 	}
 	res = requests.get(link)
 	obj = res.json()
@@ -211,6 +238,7 @@ def getPokeSpecies(link):
 	values["breeding"]["egg_group"] = getEggGroup(obj)
 	values["breeding"]["gender"].update(getGender(obj))
 	values["breeding"]["egg_cycle"].update(getEggCycle(obj))
+	# values["evolves_from"] = getEvolvesFrom(obj)
 	return values
 
 def getEntry(obj):
@@ -270,7 +298,7 @@ def getLocation(link):
 
 
 
-def getPokeApiInfo(basicInfo):
+def getPokeApiInfo(basicInfo, write):
 	values = {
 		"name":cleanName(basicInfo["name"]),
 		"id":basicInfo["id"],
@@ -301,23 +329,36 @@ def getPokeApiInfo(basicInfo):
 	values["sprites"]["artwork"] = getArtwork(obj)
 	values.update(getPokeSpecies(obj["species"]["url"]))
 	values["training"]["base_exp"] = obj["base_experience"]
+	values["training"].update(getEvYield(obj))
 
 	moves = getMoves(obj)
 	location = getLocation(obj["location_area_encounters"])
 
-	writeJSON(moves, f"../data/moves/{basicInfo['name']}.json")
-	writeJSON(location, f"../data/location/{basicInfo['name']}.json")
+	if write:
+		writeJSON(moves, f"../data/moves/{basicInfo['name']}.json")
+		writeJSON(location, f"../data/location/{basicInfo['name']}.json")
 
 	return values
 
+def checkExtract():
+	ls = getList()
+	os.chdir("../data/pokemon/")
+	dr = [i.replace('.json', '') for i in os.listdir()]
+	diff = list(set(ls)-set(dr))
+	if (len(diff) == 0):
+		print("All completed")
+	else:
+		print(f"{diff} - Missing")
 
-def getPokemon(name):
+def getPokemon(name, write):
 	ls = getList()
 	basicInfo = getBasicInfo(name, ls)
 	for i in range(len(basicInfo)):
-		data = getPokeApiInfo(basicInfo[i])
-		# showJson(data)
-		writeJSON(data, f"../data/pokemon/{basicInfo[i]['name']}.json")
+		data = getPokeApiInfo(basicInfo[i], write)
+		if write:
+			writeJSON(data, f"../data/pokemon/{basicInfo[i]['name']}.json")
+		else:
+			showJson(data)
 	return basicInfo
 
 def getAll():
@@ -341,7 +382,7 @@ def getAll():
 	checked = []
 	'''extraction'''
 	for i in names:
-		data = getPokemon(i)
+		data = getPokemon(i, True)
 
 		for j in data:
 			value = {
@@ -363,19 +404,10 @@ def getAll():
 				checked.append(j["name"])
 
 	writeJSON(values, "../data/pokemon/all.json")
+	checkExtract()
 	log("all.json", "Success")
 
 
 getAll()
-# getPokemon("abomasnow")
+# getPokemon("abomasnow", False)
 
-def checkExtract():
-	ls = getList()
-	os.chdir("../data/pokemon/")
-	dr = [i.replace('.json', '') for i in os.listdir()]
-	diff = list(set(ls)-set(dr))
-	if (len(diff) == 0):
-		print("All completed")
-	else:
-		print(f"{diff} - Missing")
-checkExtract()

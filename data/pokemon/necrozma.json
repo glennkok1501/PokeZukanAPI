@@ -33,7 +33,17 @@
     "training": {
         "base_exp": 270,
         "capture_rate": 255,
-        "growth_rate": "slow"
+        "growth_rate": "slow",
+        "ev_yield": [
+            {
+                "stat": "attack",
+                "effort": 1
+            },
+            {
+                "stat": "sp. atk",
+                "effort": 2
+            }
+        ]
     },
     "breeding": {
         "base_happiness": 0,
